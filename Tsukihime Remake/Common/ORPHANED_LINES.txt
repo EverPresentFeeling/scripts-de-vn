@@ -29,33 +29,33 @@ Y entonces, qué pasaría si... no hubieras despertado aquí.
 [sha:41f73b72d2b61b16564e5d39dc91c701fa41c633]{
 -- Page -1, Offset 59.
 -- ―――わからない。
--No entiendo.
+No entiendo.
 }
 [sha:8300c51663eaadb5aca8ce9e0d5f6620ee347fae]{
 -- Page -1, Offset 63.
 -- ―――よく　わからない。
--Realmente... no entiendo.
+Realmente... no entiendo.
 }
 [sha:d2238e268c89185cd0b6bacad997ad3ad9cb7886]{
 -- Page -1, Offset 68.
 -- ―――ボクは子供だから　よく　わからない。
-... Solo soy un niño, así que... realmente no lo entiendo.
+Solo soy un niño, así que... realmente no lo entiendo.
 }
 [sha:8ed6e9f0c815a2378368474ccbbb4fad56391cec]{
 -- Page -1, Offset 82.
 -- ―――<宙|ソラ>を<塞|ふさ>ぐ<天蓋|てんがい>
 // See also 13_00_ARC13_4 offset 32647.
-... El firmamento que sella el cosmos.
+El firmamento que sella el cosmos.
 }
 [sha:06120b440538ce306f75ae81db0b208c4770228a]{
 -- Page -1, Offset 87.
 -- ―――夜を開く<白貌|はくぼう>
-... La cara blanca que florece en la noche.
+La cara blanca que florece en la noche.
 }
 [sha:9195fcbdccb9e0448e48c9f138c245083f940192]{
 -- Page -1, Offset 93.
 -- ―――<幽玄|ゆうげん><麗|うら>らかに　落下する星
-... Una esfera celestial, que cae con profunda gracia.
+Una esfera celestial, que cae con profunda gracia.
 }
 [sha:296153b5ac049cb48510eacb5052856468765762]{
 -- Page -1, Offset 800.
