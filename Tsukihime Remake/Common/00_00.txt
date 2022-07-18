@@ -440,7 +440,7 @@ esta se hunde.
 [sha:be370f298b77d470942d9986d4445ba2231c6f94]{
 -- Page 31, Offset 191.
 -- 「―――あ」
-"... Ah."
+"Ah".
 }
 [sha:3f520afbacb6e0a1297a04fef139190124e05e02]{
 -- Page 31, Offset 192.
