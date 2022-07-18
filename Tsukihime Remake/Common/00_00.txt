@@ -1031,7 +1031,7 @@ y como no me desagrada el médico que finge mal su sonrisa.
 [sha:c313ce018d3f35b728afbfd7df7aae3862695579]{
 -- Page 71, Offset 303.
 -- ―――本当に。
-... Lo digo en serio.
+Lo digo en serio.
 }
 [sha:fee3b48095733c10e6341027488275cdbc0d93fb]{
 -- Page 71, Offset 304.
@@ -1246,7 +1246,7 @@ yo tampoco debería estar vivo.
 [sha:bbb50f016c0c15c70679126ec0066c8f03c9f7d4]{
 -- Page 91, Offset 344.
 -- 「――――――っ」
-"... Ah".
+"Ah".
 }
 [sha:8b51d5283f39a1da0cbc1690fea2562a8136134f]{
 -- Page 91, Offset 345.
@@ -1287,7 +1287,7 @@ no puedo contener el arrepentimiento que siento.
 [sha:8a4b9c56f7f4cdc6e4664fd05e44b10e7284fcdb]{
 -- Page 93, Offset 352.
 -- 「―――志貴」
-"... Shiki".
+"Shiki".
 }
 [sha:ff73a2ed6ce4884bbb3e237459737f6e86fa37e0]{
 -- Page 93, Offset 353.
@@ -1776,7 +1776,7 @@ Pero eso nunca fue un problema, todavía estás vivo. Así que, vete y retoma la
 [sha:d8942b8ec18ef3f1524746be154c40dd458340cb]{
 -- Page 133, Offset 444.
 -- ―――この時の胸の光を、目元までこみあげた喜びを、僕は生涯、言葉にする事はできない。
-... Nunca podré expresar con palabras la alegría y el calor que me llenaron el pecho en ese momento.
+Nunca podré expresar con palabras la alegría y el calor que me llenaron el pecho en ese momento.
 }
 [sha:6492dd29b76483a4ac8e4842332a008d5f317bbf]{
 -- Page 133, Offset 445.
@@ -1866,7 +1866,7 @@ Recoge su maleta.
 [sha:f6acda8a16a9acca77801bab11a096bbae9740db]{
 -- Page 140, Offset 461.
 -- ―――先生は何も言わないけれど。
-... Sensei no dice nada más.
+Sensei no dice nada más.
 }
 [sha:723c3d615a2fb56f46dd38574dca8ef40a358ea2]{
 -- Page 140, Offset 462.
