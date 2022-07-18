@@ -194,7 +194,7 @@ así que planteo otro tema.
 [sha:1748e24b16a5e79bdafda66974b2da9e9622b1c3]{
 -- Page 59, Offset 1303.
 -- ―――が。
-... Pero...
+Pero...
 }
 [sha:224a5fb5d4df689b3defc39e5bbad790f768eb8a]{
 -- Page 60, Offset 1304.
