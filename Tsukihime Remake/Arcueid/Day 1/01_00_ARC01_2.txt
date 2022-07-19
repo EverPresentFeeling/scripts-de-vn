@@ -415,7 +415,7 @@ Es un poco, no, %{i}demasiado%{/i} inusual."
 [sha:a62cfee0ebc4a0cac17f9c4c2604c8da50e730b4]{
 -- Page 98, Offset 1419.
 -- たまたま目が覚めたからって来るもんじゃねえよな、学校ってヤツは。ぶっちゃけもう帰りてぇ。んー、やっぱ学生には勉強する意思とか必要なんですかねぇ？」
-Despertarse no es razón suficiente por sí sola para venir a la escuela. Tío, quiero ir a casa. Estudiar es algo que realmente tienes que querer hacer, ¿no?".
+Despertarse no es razón suficiente por sí sola para venir a la escuela. Hombre, quiero ir a casa. Estudiar es algo que realmente tienes que querer hacer, ¿no?".
 }
 [sha:4f1ec9a07f4f53e8b8e5ca3d115ded9d3a80df92]{
 -- Page 99, Offset 1420.
