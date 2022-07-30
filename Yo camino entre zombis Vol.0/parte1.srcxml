@@ -1,0 +1,345 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xscript>
+  <debug editor="&quot;C:\Program Files (x86)\sakura\sakura.exe&quot; &quot;%src%&quot; -Y=%line%" src="D:\zombies\Series Build\開発データ\開発環境\vol別\vol0\script\text\通常シーン1（深月） 深月のノート.txt"/>
+  <code>
+    <description @l="1" text="深月のノート"/>
+    <page @l="5" fade="300"/>
+    <wait_chgmv/>
+    <bg @l="6" effect="cross_fade" src="bg88a" time="1000"/>
+    <bgm @l="7" src="bgm03" volume="1."/>
+    <msg @l="9" char_id="-1" frame_id="-1" name="" text="La humanidad estaba en ruinas." voices=""/>
+    <msg @l="10" add="true" char_id="-1" frame_id="-1" name="" text=" Las consecuencias de una&#xA;pandemia repentina con una tasa de mortalidad del 100%." voices=""/>
+    <msg @l="11" char_id="-1" frame_id="-1" name="" text="Cualquiera de los infectados murió en veinticuatro horas." voices=""/>
+    <msg @l="12" char_id="-1" frame_id="-1" name="" text="Solo eso lo convirtió en un desastre sin precedentes. Sin&#xA;embargo, si el horror hubiera terminado ahí, tal vez se&#xA;hubiera podido contener el virus." voices=""/>
+    <msg @l="13" char_id="-1" frame_id="-1" name="" page_feed="true" text="Si el huésped de un virus ordinario muere inmediatamente, se&#xA;dificulta su propagación." voices=""/>
+    <page @l="15" fade="300"/>
+    <msg @l="17" char_id="-1" frame_id="-1" name="" text="Pero lo que hacía a esta enfermedad tan diferente de&#xA;cualquier otra era que sus víctimas se reanimaban. Los&#xA;muertos caminaban por la tierra." voices=""/>
+    <msg @l="18" char_id="-1" frame_id="-1" name="" text="Nadie sabía la razón." voices=""/>
+    <msg @l="19" char_id="-1" frame_id="-1" name="" text="En el momento en que los cadáveres se reanimaron, comenzaron&#xA;a atacar indiscriminadamente a los humanos comunes." voices=""/>
+    <msg @l="20" char_id="-1" frame_id="-1" name="" page_feed="true" text="Si uno te mordía, te infectarías, sucumbirías a la enfermedad&#xA;y te unirías a sus filas." voices=""/>
+    <page @l="22" fade="300"/>
+    <msg @l="24" char_id="-1" frame_id="-1" name="" text="Los primeros informes se referían a la enfermedad como una&#xA;nueva cepa de rabia, pero pronto se utilizó una palabra&#xA;diferente. Eran zombis." voices=""/>
+    <msg @l="25" char_id="-1" frame_id="-1" name="" text="En una semana, la sociedad se desmoronó." voices=""/>
+    <msg @l="26" char_id="-1" frame_id="-1" name="" text="No hubo más noticias sobre posibles intentos de rescate." voices=""/>
+    <msg @l="27" char_id="-1" frame_id="-1" name="" page_feed="true" text="No estaba claro si había suficientes personas vivas, juntas,&#xA;para intentar algo así, y mucho menos algo tan grande como&#xA;un gobierno." voices=""/>
+    <page @l="29" fade="300"/>
+    <wait_chgmv/>
+    <bg @l="30" effect="cross_fade" src="black" time="1000"/>
+    <se @l="32" buf="1" src="se095" volume="1."/>
+    <wait_chgmv/>
+    <bg @l="33" effect="cross_fade" src="bg75a" time="500"/>
+    <msg @l="35" char_id="-1" frame_id="-1" name="" text="Yuusuke se quedó solo, a horcajadas sobre su motocicleta,&#xA;mientras contemplaba su ciudad sin vida." voices=""/>
+    <msg @l="37" char_id="-1" frame_id="-1" name="" text="“Seguro que es tranquilo”." voices=""/>
+    <msg @l="39" char_id="-1" frame_id="-1" name="" text="La manía provocada al principio de la pandemia había pasado,&#xA;dejando el silencio a su paso." voices=""/>
+    <msg @l="40" char_id="-1" frame_id="-1" name="" text="Los zombis habían llenado las calles al principio, pero ya&#xA;rara vez los veía." voices=""/>
+    <msg @l="41" char_id="-1" frame_id="-1" name="" page_feed="true" text="Yuusuke avanzó por la ciudad desierta." voices=""/>
+    <page @l="43" fade="300"/>
+    <msg @l="45" char_id="-1" frame_id="-1" name="" text="Sin embargo, su aparente ausencia no significaba que los&#xA;zombis hubieran desaparecido realmente." voices=""/>
+    <msg @l="46" char_id="-1" frame_id="-1" name="" text="Por razones que Yuusuke desconocía, los zombis se encerraban&#xA;en casa cuando se acercaba el invierno." voices=""/>
+    <msg @l="47" char_id="-1" frame_id="-1" name="" text="Yuusuke había visto una vez una horda de ellos, apiñados e&#xA;inmóviles, en una especie de nido de zombis." voices=""/>
+    <msg @l="48" char_id="-1" frame_id="-1" name="" text="Aunque no volvió a tropezar con esa extraña visión, imaginó&#xA;que el resto se comportaba de forma similar." voices=""/>
+    <msg @l="49" char_id="-1" frame_id="-1" name="" text="Todavía no sabía si estaba relacionado con el descenso de la&#xA;temperatura o con algo totalmente distinto." voices=""/>
+    <msg @l="50" char_id="-1" frame_id="-1" name="" page_feed="true" text="Lo que estaba claro, al menos, era que los caminos estaban&#xA;libres de la horda." voices=""/>
+    <page @l="51" fade="300"/>
+    <msg @l="53" char_id="-1" frame_id="-1" name="" text="Había dado vueltas en su moto, buscando provisiones, pero no&#xA;había visto ni rastro de otra persona." voices=""/>
+    <msg @l="54" char_id="-1" frame_id="-1" name="" text="La ciudad estaba quieta y en silencio." voices=""/>
+    <msg @l="55" char_id="-1" frame_id="-1" name="" text="Era invierno. No había pájaros cantando." voices=""/>
+    <msg @l="56" char_id="-1" frame_id="-1" name="" text="La falta de zombis en el camino hizo que la ciudad en ruinas&#xA;pareciera aún más desolada de lo que ya era." voices=""/>
+    <msg @l="57" char_id="-1" frame_id="-1" name="" text="Una tierra muerta." voices=""/>
+    <msg @l="58" char_id="-1" frame_id="-1" name="" text="Un mundo en el que los muertos regresaban para cazar a los&#xA;vivos." voices=""/>
+    <msg @l="59" char_id="-1" frame_id="-1" name="" text="Los números de la humanidad se habían reducido enormemente." voices=""/>
+    <msg @l="60" char_id="-1" frame_id="-1" name="" page_feed="true" text="Incluso era posible que estuvieran al borde de la extinción." voices=""/>
+    <page @l="62" fade="300"/>
+    <wait_chgmv/>
+    <bg @l="63" effect="cross_fade" src="bg76a" time="1000"/>
+    <msg @l="65" char_id="-1" frame_id="-1" name="" text="Sin embargo, en esa ciudad todavía había algunos&#xA;supervivientes." voices=""/>
+    <msg @l="66" char_id="-1" frame_id="-1" name="" page_feed="true" text="El supermercado que Yuusuke utilizaba como base de&#xA;operaciones era una rara zona de seguridad." voices=""/>
+    <stopbgm @l="68" fadeout="1000"/>
+    <wait @l="69" time="500"/>
+    <page @l="70" fade="300"/>
+    <wait_chgmv/>
+    <bg @l="71" effect="cross_fade" src="bg79a" time="1000"/>
+    <se @l="72" buf="1" src="se102" volume="1."/>
+    <msg @l="74" char_id="-1" frame_id="-1" name="" text="Al llegar a la tercera planta, sintió que el aire cálido y&#xA;climatizado le rozaba las mejillas." voices=""/>
+    <msg @l="76" char_id="-1" frame_id="-1" name="" text="“Uf”." voices=""/>
+    <msg @l="78" char_id="-1" frame_id="-1" name="" text="Se bajó la cremallera de la chaqueta y se quitó la bolsa del&#xA;hombro." voices=""/>
+    <msg @l="79" char_id="-1" frame_id="-1" name="" page_feed="true" text="Una figura salió de la oficina, presumiblemente habiendo&#xA;escuchado la llegada del ascensor." voices=""/>
+    <page @l="81" fade="300"/>
+    <bgm @l="82" src="bgm04" volume="1."/>
+    <char @l="83" id="mit_" pos="auto" src="mit_aabf"/>
+    <msg @l="85" char_id="-1" frame_id="-1" name="" text="“¡Bienvenido de nuevo!”." voices="mitu01000"/>
+    <msg @l="86" char_id="-1" frame_id="-1" name="" text="“Hola”." voices=""/>
+    <msg @l="88" char_id="-1" frame_id="-1" name="" text="Levantó una mano en respuesta." voices=""/>
+    <msg @l="92" char_id="-1" frame_id="-1" name="" text="“¿Cómo fue afuera?”." voices="mitu01001"/>
+    <msg @l="93" char_id="-1" frame_id="-1" name="" page_feed="true" text="“No es diferente. Todavía apenas hay zombis”." voices=""/>
+    <page @l="95" fade="300"/>
+    <char @l="96" id="mit_" pos="auto" src="mit_aabq"/>
+    <msg @l="98" char_id="-1" frame_id="-1" name="" text="La joven que había aparecido se llamaba Mitsuki." voices=""/>
+    <msg @l="99" char_id="-1" frame_id="-1" name="" text="Había estado encerrada en ese supermercado con sus dos&#xA;hermanos pequeños cuando Yuusuke había acudido a su rescate." voices=""/>
+    <msg @l="101" char_id="-1" frame_id="-1" name="" text="Mitsuki le sonrió." voices=""/>
+    <msg @l="102" char_id="-1" frame_id="-1" name="" page_feed="true" text="Normalmente, una sonrisa cálida de una chica como Mitsuki era&#xA;algo de lo que alegrarse, pero últimamente hacía que Yuusuke&#xA;se sintiera incómodo." voices=""/>
+    <page @l="104" fade="300"/>
+    <msg @l="107" char_id="-1" frame_id="-1" name="" text="La relación entre ambos siempre había sido desigual." voices=""/>
+    <msg @l="108" char_id="-1" frame_id="-1" name="" text="Era una relación transaccional. Él mantenía una firme ventaja&#xA;y a menudo la utilizaba como mano de obra. No eran en&#xA;absoluto iguales." voices=""/>
+    <msg @l="109" char_id="-1" frame_id="-1" name="" text="La sonrisa de Mitsuki se sentía inapropiada para la situación&#xA;en la que se encontraba." voices=""/>
+    <msg @l="111" char_id="-1" frame_id="-1" name="" text="“Ahora que sé cómo está la ciudad, solo tenemos que trabajar&#xA;para preparar el traslado a las montañas”." voices=""/>
+    <msg @l="115" char_id="-1" frame_id="-1" name="" text="“Entendido. Escribiré una lista de todo lo que&#xA;necesitaremos”." voices="mitu01002"/>
+    <msg @l="117" char_id="-1" frame_id="-1" name="" text="Mitsuki asintió." voices=""/>
+    <msg @l="118" char_id="-1" frame_id="-1" name="" text="En ese momento, Yuusuke notó un olor desconocido que recorría&#xA;el pasillo." voices=""/>
+    <char @l="120" id="mit_" pos="auto" src="mit_aabe"/>
+    <se @l="121" buf="1" loop="true" src="se035" volume="1."/>
+    <msg @l="123" char_id="-1" frame_id="-1" name="" page_feed="true" text="“Algo huele bien”." voices=""/>
+    <page @l="125" fade="300"/>
+    <char @l="126" id="mit_" pos="auto" src="mit_aabg"/>
+    <msg @l="128" char_id="-1" frame_id="-1" name="" text="“¡Oh, no!”." voices="mitu01003"/>
+    <msg @l="130" char_id="-1" frame_id="-1" name="" text="Mitsuki entró en pánico." voices=""/>
+    <msg @l="132" char_id="-1" frame_id="-1" name="" text="“¡No había terminado!”." voices="mitu01004"/>
+    <clear @l="134" class="char"/>
+    <msg @l="136" char_id="-1" frame_id="-1" name="" text="Con eso, se apresuró a entrar en la oficina." voices=""/>
+    <stopse @l="138" buf="1" fadeout="1000"/>
+    <msg @l="140" char_id="-1" frame_id="-1" name="" text="“Oh. Oye, no recibiste ninguna señal en la radio, ¿o sí?”." voices=""/>
+    <msg @l="141" char_id="-1" frame_id="-1" name="" text="“No, ninguna. No tardaré mucho en terminar con la cena”." voices="mitu01005"/>
+    <msg @l="143" char_id="-1" frame_id="-1" name="" text="Mitsuki gritó alegremente por el pasillo." voices=""/>
+    <msg @l="145" char_id="-1" frame_id="-1" name="" text="“Eso es bueno, entonces”." voices=""/>
+    <msg @l="147" char_id="-1" frame_id="-1" name="" page_feed="true" text="Permitiéndose relajar, Yuusuke la siguió." voices=""/>
+    <wait_chgmv/>
+    <bg @l="149" alpha="3" src="black" time="800"/>
+    <wait @l="150" time="1000"/>
+    <page @l="152" fade="300"/>
+    <se @l="153" buf="1" src="se004" volume="1."/>
+    <wait_chgmv/>
+    <bg @l="154" alpha="3" src="bg82a" time="800"/>
+    <msg @l="156" char_id="-1" frame_id="-1" name="" text="Tenía unos momentos antes de la cena." voices=""/>
+    <msg @l="157" char_id="-1" frame_id="-1" name="" text="Para matar el tiempo se puso a hojear los cuadernos apilados&#xA;en el escritorio." voices=""/>
+    <msg @l="158" char_id="-1" frame_id="-1" name="" text="Mitsuki se había encargado ella misma de ese trabajo,&#xA;llenando varios cuadernos cuidadosamente numerados." voices=""/>
+    <msg @l="159" char_id="-1" frame_id="-1" name="" text="Como parte de su plan para trasladarse a las montañas, habían&#xA;empezado a investigar sobre la agricultura." voices=""/>
+    <msg @l="160" char_id="-1" frame_id="-1" name="" text="Había revisado los recursos que Yuusuke había reunido y&#xA;recopilado sus notas." voices=""/>
+    <msg @l="161" char_id="-1" frame_id="-1" name="" text="Yuusuke quedó impresionado, y a partir de ese día decidió&#xA;dejarle a ella las cosas sesudas." voices=""/>
+    <msg @l="162" char_id="-1" frame_id="-1" name="" text="Lo que necesitaban era alguien que analizara los numerosos&#xA;materiales de referencia que había reunido y los condensara&#xA;en lo que necesitarían para sobrevivir." voices=""/>
+    <msg @l="163" char_id="-1" frame_id="-1" name="" page_feed="true" text="Ella era mucho más adecuada que él." voices=""/>
+    <page @l="165" fade="300"/>
+    <msg @l="167" char_id="-1" frame_id="-1" name="" text="Mitsuki ya había llenado varios cuadernos con el material." voices=""/>
+    <msg @l="168" char_id="-1" frame_id="-1" name="" text="Estaba sentado en una silla, hojeándolos para pasar el&#xA;tiempo, cuando..." voices=""/>
+    <msg @l="170" char_id="-1" frame_id="-1" name="" text="“¿Um?”." voices=""/>
+    <stopbgm @l="172" fadeout="1000"/>
+    <msg @l="174" char_id="-1" frame_id="-1" name="" text="Notó que uno de ellos era diferente." voices=""/>
+    <msg @l="175" char_id="-1" frame_id="-1" name="" text="Una agenda con un estampado floral azul, más moderna que el&#xA;resto. Probablemente adquirida en la sección de papelería&#xA;del segundo piso del supermercado." voices=""/>
+    <msg @l="176" char_id="-1" frame_id="-1" name="" text="Nunca la había visto, y no había ningún título en la portada." voices=""/>
+    <msg @l="177" char_id="-1" frame_id="-1" name="" text="Pensando que podría ser nueva, la abrió para ver la pulcra&#xA;letra de Mitsuki cubriendo las páginas." voices=""/>
+    <msg @l="179" char_id="-1" frame_id="-1" name="" text="“¿Qué tenemos aquí?”." voices=""/>
+    <msg @l="181" char_id="-1" frame_id="-1" name="" text="Empezó a hojear." voices=""/>
+    <msg @l="182" char_id="-1" frame_id="-1" name="" page_feed="true" text="Su contenido le llamó inmediatamente la atención." voices=""/>
+    <page @l="184" fade="300"/>
+    <msg @l="186" char_id="-1" frame_id="-1" name="" text="“¿Qué diablos es esto?”." voices=""/>
+    <bgm @l="188" src="bgm05" volume="1."/>
+    <msg @l="190" char_id="-1" frame_id="-1" name="" text="Había un título, escrito con rotulador mágico, en la primera&#xA;página." voices=""/>
+    <msg @l="192" char_id="-1" frame_id="-1" name="" text="Decía..." voices=""/>
+    <msg @l="194" char_id="-1" frame_id="-1" name="" text="“El Plan Takemura”." voices=""/>
+    <msg @l="196" char_id="-1" frame_id="-1" name="" text="“...”." voices=""/>
+    <msg @l="198" char_id="-1" frame_id="-1" name="" page_feed="true" text="Tras un momento de mirada perdida, Yuusuke siguió leyendo." voices=""/>
+    <page @l="200" fade="300"/>
+    <msg @l="202" char_id="-1" frame_id="-1" name="" text="“Creo que Takemura-san es demasiado malo conmigo”." voices="mitu01006"/>
+    <msg @l="203" char_id="-1" frame_id="-1" name="" text="“No hay que esperar, por lo que veo”." voices=""/>
+    <msg @l="205" char_id="-1" frame_id="-1" name="" text="El contenido le sorprendió." voices=""/>
+    <msg @l="206" add="true" char_id="-1" frame_id="-1" name="" text=" Era una especie de diario." voices=""/>
+    <msg @l="207" char_id="-1" frame_id="-1" name="" page_feed="true" text="Sus ojos siguieron bajando por la página." voices=""/>
+    <page @l="209" fade="300"/>
+    <msg @l="211" char_id="-1" frame_id="-1" name="" text="“Sé que tampoco he actuado siempre de forma justa con él. No&#xA;estuvo bien que me comportara como lo hice mientras nos&#xA;proporcionaba comida. Pero aun así, Takemura-san debería ser&#xA;más amable conmigo”." voices="mitu01007"/>
+    <msg @l="212" char_id="-1" frame_id="-1" name="" text="“¿De verdad? Si me preguntas, ya estoy siendo muy amable con&#xA;ella”." voices=""/>
+    <msg @l="213" add="true" char_id="-1" frame_id="-1" name="" text="“¿Qué demonios es este cuaderno?”." voices=""/>
+    <msg @l="215" char_id="-1" frame_id="-1" name="" text="Cuando mencionó su comportamiento, debió referirse al periodo&#xA;de tiempo en el que no intentó ocultar su odio hacia él." voices=""/>
+    <msg @l="216" char_id="-1" frame_id="-1" name="" text="Se había abierto mucho a él desde entonces, pero al principio&#xA;había sido duro. Aunque eso era probablemente un hecho,&#xA;teniendo en cuenta cómo la había tratado." voices=""/>
+    <msg @l="217" char_id="-1" frame_id="-1" name="" text="Sin embargo, su actitud actual era desconcertante." voices=""/>
+    <msg @l="218" char_id="-1" frame_id="-1" name="" text="A esas alturas, Yuusuke había descubierto que ese cuaderno&#xA;contenía los verdaderos sentimientos de Mitsuki." voices=""/>
+    <msg @l="219" char_id="-1" frame_id="-1" name="" page_feed="true" text="Era un lado secreto y privado de su vida..." voices=""/>
+    <page @l="221" fade="300"/>
+    <msg @l="223" char_id="-1" frame_id="-1" name="" text="(Pero no puede culparme por leer algo que dejó al&#xA;descubierto)." voices=""/>
+    <msg @l="225" char_id="-1" frame_id="-1" name="" page_feed="true" text="Sin dudarlo, Yuusuke pasó otra página." voices=""/>
+    <page @l="227" fade="300"/>
+    <msg @l="229" char_id="-1" frame_id="-1" name="" text="“No es que espere que se enamore de mí o algo así, pero le&#xA;estoy pagando por la comida que me consigue. Exactamente&#xA;como se lo prometí. Estoy cumpliendo mi parte del acuerdo,&#xA;así que no es justo que me trate como si fuera una niña&#xA;ignorante. Tiene que ser más consciente”." voices="mitu01008"/>
+    <msg @l="230" char_id="-1" frame_id="-1" name="" text="Concienzudo." voices=""/>
+    <msg @l="231" char_id="-1" frame_id="-1" name="" text="“¿Qué diablos significa eso?”." voices=""/>
+    <msg @l="233" char_id="-1" frame_id="-1" name="" text="“En pocas palabras, me gustaría que me tratara como a una&#xA;dama”." voices="mitu01009"/>
+    <msg @l="235" char_id="-1" frame_id="-1" name="" text="(¿Qué?)." voices=""/>
+    <msg @l="236" char_id="-1" frame_id="-1" name="" text="Yuusuke inclinó la cabeza." voices=""/>
+    <msg @l="237" add="true" char_id="-1" frame_id="-1" name="" text=" Estaba más confundido que nunca." voices=""/>
+    <msg @l="239" char_id="-1" frame_id="-1" name="" text="“No es necesario que sea tan dulce conmigo como si fuera su&#xA;novia, pero no le vendría mal ser un poco más considerado”." voices="mitu01010"/>
+    <msg @l="240" char_id="-1" frame_id="-1" name="" page_feed="true" text="“Eeh. Pero mantenerlo sin emociones hace las cosas más&#xA;fáciles para ambos, ¿no? Hay realmente algo raro en esta&#xA;chica”." voices=""/>
+    <page @l="242" fade="300"/>
+    <msg @l="244" char_id="-1" frame_id="-1" name="" text="“Sin embargo, dejando de lado todo eso, estoy realmente&#xA;agradecida de no tener que preocuparnos por la comida”." voices="mitu01011"/>
+    <msg @l="245" char_id="-1" frame_id="-1" name="" text="“Bien”." voices=""/>
+    <msg @l="246" char_id="-1" frame_id="-1" name="" text="“La única razón por la que puedo pensar en mejorar esta&#xA;faceta de mi vida es que no tengo que preocuparme por la&#xA;comida. De hecho, si lo piensas, no tener que preocuparse&#xA;por la comida es algo realmente especial. He oído que la&#xA;mayor diferencia entre los humanos y los animales es el&#xA;impacto de nuestro entorno. Los animales sobreviven viviendo&#xA;de la tierra, haciendo lo que esta les exige. Pero, los&#xA;humanos alteran el entorno para adaptarse a ellos”." voices="mitu01012"/>
+    <msg @l="247" char_id="-1" frame_id="-1" name="" text="“Genial, ahora se pone filosófica conmigo”." voices=""/>
+    <msg @l="248" char_id="-1" frame_id="-1" name="" text="“Si estás luchando constantemente para comer, no tienes&#xA;tiempo para pensar en tu entorno. Cada día se convierte en&#xA;una batalla para sobrevivir, y vuelves a ser solo un animal.&#xA;Para ser verdaderamente humano, hay que tener comida”." voices="mitu01013"/>
+    <msg @l="250" char_id="-1" frame_id="-1" name="" text="Su entrada en el diario terminó siendo bastante profunda." voices=""/>
+    <msg @l="251" char_id="-1" frame_id="-1" name="" page_feed="true" text="Yuusuke se masajeó la sien mientras seguía leyendo." voices=""/>
+    <page @l="253" fade="300"/>
+    <msg @l="255" char_id="-1" frame_id="-1" name="" text="“Por otra parte, me gustaría haber ayudado más en la casa.&#xA;Honestamente, no soy muy buena cocinando”." voices="mitu01014"/>
+    <msg @l="256" char_id="-1" frame_id="-1" name="" text="“¿Entonces por qué demonios me exigiste que te dejara&#xA;cocinar?”." voices=""/>
+    <msg @l="258" char_id="-1" frame_id="-1" name="" text="Ese diario estaba empezando a cansar a Yuusuke." voices=""/>
+    <msg @l="259" char_id="-1" frame_id="-1" name="" text="Mitsuki le había dicho que no la mirara mientras cocinaba,&#xA;había descubierto la razón." voices=""/>
+    <msg @l="260" char_id="-1" frame_id="-1" name="" page_feed="true" text="Dados los extremos a los que saltaba el tema, era evidente&#xA;que solo escribía lo que se le ocurría en ese cuaderno." voices=""/>
+    <page @l="262" fade="300"/>
+    <msg @l="263" char_id="-1" frame_id="-1" name="" text="“En cualquier caso, necesito cambiar mi relación con&#xA;Takemura-san. Pero, no creo que sea tan fácil. Para ser&#xA;honesta, ni siquiera sé cómo acercarme a otras personas”." voices="mitu01015"/>
+    <msg @l="264" char_id="-1" frame_id="-1" name="" text="“Sorprendente. Parece el tipo de chica que tiene facilidad&#xA;para hacer amigos." voices=""/>
+    <msg @l="265" char_id="-1" frame_id="-1" name="" text=" Espera, ¿tal vez sea por eso?”" voices="" add="true"/>
+    <msg @l="266" char_id="-1" frame_id="-1" name="" text="“Nunca he tenido problemas para hacer amigos, simplemente&#xA;sucede antes de que me dé cuenta. Pero sé que, con Takemura,&#xA;tengo que ser más proactiva. Personalmente, no creo que&#xA;Takemura sea muy proactivo”." voices="mitu01016"/>
+    <msg @l="267" char_id="-1" frame_id="-1" name="" text="“Dios... Esta chica realmente no se contiene cuando escribe." voices=""/>
+    <msg @l="268" add="true" char_id="-1" frame_id="-1" name="" text="&#xA;Y no me ha dicho nada de esta mierda a la cara. Es un&#xA;poco perra cuando piensa que nadie está escuchando”." voices=""/>
+    <msg @l="269" char_id="-1" frame_id="-1" name="" page_feed="true" text="La entrada del diario continuaba." voices=""/>
+    <page @l="271" fade="300"/>
+    <msg @l="272" char_id="-1" frame_id="-1" name="" text="“Así que se me ocurrió un plan; un plan para ganar a&#xA;Takemura-san. Lo he pensado mucho, y estoy segura de que&#xA;esta es la mejor opción”." voices="mitu01017"/>
+    <msg @l="273" char_id="-1" frame_id="-1" name="" text="“...”." voices=""/>
+    <wait_chgmv/>
+    <bg @l="275" effect="wave_circle" src="black" time="1000"/>
+    <msg @l="277" char_id="-1" frame_id="-1" name="" text="La idea de Mitsuki poniéndose ropa provocativa y viniendo a&#xA;seducirle pasó por la mente de Yuusuke." voices=""/>
+    <msg @l="279" char_id="-1" frame_id="-1" name="" text="(No se refiere a esa vestimenta de uniforme escolar...&#xA;¿verdad?)." voices=""/>
+    <msg @l="281" char_id="-1" frame_id="-1" name="" text="Recordó el día en que había tenido sexo con Mitsuki en un&#xA;vestuario del segundo piso mientras ella estaba vestida con&#xA;un falso uniforme escolar." voices=""/>
+    <msg @l="282" char_id="-1" frame_id="-1" name="" text="“...”." voices=""/>
+    <msg @l="284" char_id="-1" frame_id="-1" name="" text="(Umm... bueno... Genial, supongo)." voices=""/>
+    <msg @l="286" char_id="-1" frame_id="-1" name="" page_feed="true" text="Yuusuke cerró el cuaderno y miró tranquilamente al espacio." voices=""/>
+    <page @l="288" fade="300"/>
+    <stopbgm @l="289" fadeout="1000"/>
+    <wait_chgmv/>
+    <bg @l="290" alpha="12" src="black" time="800"/>
+    <wait @l="291" time="1000"/>
+    <bgm @l="292" src="bgm04" volume="1."/>
+    <wait_chgmv/>
+    <bg @l="293" alpha="12" src="bg86c" time="800"/>
+    <msg @l="296" char_id="-1" frame_id="-1" name="" text="Mitsuki había dicho que había algo de lo que tenía que hablar&#xA;después de la cena, así que Yuusuke estaba esperando en la&#xA;parte de atrás de la oficina." voices=""/>
+    <msg @l="297" char_id="-1" frame_id="-1" name="" text="¿Podría ser parte de su plan?" voices=""/>
+    <msg @l="299" char_id="-1" frame_id="-1" name="" text="(Un poco repentino. Pero, golpea mientras el hierro está&#xA;caliente y todo el rollo)." voices=""/>
+    <msg @l="301" char_id="-1" frame_id="-1" name="" page_feed="true" text="Asintió para sí mismo, y justo entonces entró Mitsuki." voices=""/>
+    <page @l="303" fade="300"/>
+    <char @l="304" id="mit_" pos="auto" src="mit_aabf"/>
+    <msg @l="306" char_id="-1" frame_id="-1" name="" text="“¡Lamento que haya tardado tanto!”." voices="mitu01018"/>
+    <msg @l="308" char_id="-1" frame_id="-1" name="" text="En sus manos había un plato lleno de galletas." voices=""/>
+    <msg @l="310" char_id="-1" frame_id="-1" name="" text="“...” ." voices=""/>
+    <msg @l="312" char_id="-1" frame_id="-1" name="" page_feed="true" text="No pudo evitar preguntar." voices=""/>
+    <page @l="314" fade="300"/>
+    <msg @l="316" char_id="-1" frame_id="-1" name="" text="“¿Qué es eso?”." voices=""/>
+    <msg @l="317" char_id="-1" frame_id="-1" name="" text="“Los huevos estaban a punto de alcanzar su fecha de consumo&#xA;preferente, así que pensé que debía hacer algo con ellos en&#xA;lugar de dejar que se desperdiciaran”." voices="mitu01019"/>
+    <msg @l="318" char_id="-1" frame_id="-1" name="" text="“Ya veo”." voices=""/>
+    <msg @l="319" char_id="-1" frame_id="-1" name="" text="“Y gracias a la mantequilla y a la levadura en polvo que me&#xA;trajiste, pude hacerlos exactamente según la receta”." voices="mitu01020"/>
+    <msg @l="321" char_id="-1" frame_id="-1" name="" text="Ya que lo mencionaba, sí que recordaba que le había pedido&#xA;que consiguiera esas cosas." voices=""/>
+    <msg @l="322" char_id="-1" frame_id="-1" name="" page_feed="true" text="Mitsuki le había pedido muchas cosas al azar desde que se&#xA;encargó de cocinar para él, y él siempre se limitaba a&#xA;seguir la lista que le daba sin pensarlo mucho." voices=""/>
+    <page @l="324" fade="300"/>
+    <msg @l="326" char_id="-1" frame_id="-1" name="" text="Solo cuando volvió a mirar las galletas, Yuusuke se dio&#xA;cuenta finalmente." voices=""/>
+    <msg @l="328" char_id="-1" frame_id="-1" name="" text="(Espera... Ese plan de su cuaderno, el de conquistarme...)" voices=""/>
+    <msg @l="330" char_id="-1" frame_id="-1" name="" text="“¡He hecho esto solo para ti, Takemura-san!”." voices="mitu01021"/>
+    <msg @l="332" char_id="-1" frame_id="-1" name="" page_feed="true" text="Mitsuki lo miró con una sonrisa deslumbrante." voices=""/>
+    <page @l="334" fade="300"/>
+    <msg @l="336" char_id="-1" frame_id="-1" name="" text="(¡Hace un segundo me estabas destrozando en tu maldito&#xA;cuaderno! Y lo que es peor, ¡¿intentas acercarte a un&#xA;tipo con galletas caseras?! ¡Estamos viviendo en un&#xA;apocalipsis zombi, chica!" voices=""/>
+    <msg @l="337" char_id="-1" frame_id="-1" name="" text=" ¿Cómo se llegó a esto? Mi vida se&#xA; ha vuelto una maldita comedia romántica)." voices="" add="true"/>
+    <msg @l="339" char_id="-1" frame_id="-1" name="" text="Qué increíblemente agotador." voices=""/>
+    <char @l="341" id="mit_" pos="auto" src="mit_abbj"/>
+    <msg @l="343" char_id="-1" frame_id="-1" name="" page_feed="true" text="Al no decir nada, Mitsuki se puso nerviosa." voices=""/>
+    <page @l="345" fade="300"/>
+    <msg @l="347" char_id="-1" frame_id="-1" name="" text="“¿No te gustan las galletas?”." voices="mitu01022"/>
+    <msg @l="348" char_id="-1" frame_id="-1" name="" text="“N-No, no seas tonta. Tráelas aquí”." voices=""/>
+    <msg @l="350" char_id="-1" frame_id="-1" name="" text="Tomó el plato y empezó a picar." voices=""/>
+    <msg @l="352" char_id="-1" frame_id="-1" name="" text="Tal vez eran algo simples, pero seguro que se veían bien." voices=""/>
+    <msg @l="353" char_id="-1" frame_id="-1" name="" text="Y sabían como cualquier otra galleta." voices=""/>
+    <msg @l="354" char_id="-1" frame_id="-1" name="" text="Bastante bien, en realidad." voices=""/>
+    <msg @l="355" char_id="-1" frame_id="-1" name="" page_feed="true" text="No sabía qué decir." voices=""/>
+    <page @l="357" fade="300"/>
+    <stopse @l="358" buf="1"/>
+    <msg @l="360" char_id="-1" frame_id="-1" name="" text="“Err... No está mal”." voices=""/>
+    <char @l="362" id="mit_" pos="auto" src="mit_aabf"/>
+    <msg @l="364" char_id="-1" frame_id="-1" name="" text="“¡Gracias!”." voices="mitu01023"/>
+    <msg @l="366" char_id="-1" frame_id="-1" name="" text="La alegría de Mitsuki hizo que la expresión de Yuusuke se&#xA;agriara." voices=""/>
+    <msg @l="368" char_id="-1" frame_id="-1" name="" page_feed="true" text="(Puedo tener comida chatarra por docenas en cualquier tienda&#xA;que pase; no es que se estropee. ¿Por qué molestarse en&#xA;hacer esto? ¿Por qué no una tortilla o unos huevos revueltos&#xA;o algo más sustancioso?)" voices=""/>
+    <page @l="370" fade="300"/>
+    <char @l="371" id="mit_" pos="auto" src="mit_aabq"/>
+    <msg @l="373" char_id="-1" frame_id="-1" name="" text="Siguió comiendo galletas bajo la cálida mirada de Mitsuki&#xA;hasta que se dio cuenta de que algunas de las galletas&#xA;tenían menos forma que el resto." voices=""/>
+    <msg @l="374" char_id="-1" frame_id="-1" name="" text="Más pequeñas, un poco quemadas y duras en los bordes." voices=""/>
+    <msg @l="375" char_id="-1" frame_id="-1" name="" text="Era fácil distinguir los fracasos de los éxitos." voices=""/>
+    <msg @l="376" char_id="-1" frame_id="-1" name="" text="Era como si hubiera dos lotes de galletas completamente&#xA;diferentes mezclados frente a él." voices=""/>
+    <msg @l="377" char_id="-1" frame_id="-1" name="" text="No le costó adivinar el motivo." voices=""/>
+    <msg @l="381" char_id="-1" frame_id="-1" name="" text="“¿Los niños te ayudaron a hacer esto?”." voices=""/>
+    <msg @l="383" char_id="-1" frame_id="-1" name="" text="Los niños en cuestión eran los dos hermanos pequeños de&#xA;Mitsuki; Takashi y Masaru." voices=""/>
+    <msg @l="384" char_id="-1" frame_id="-1" name="" page_feed="true" text="Las galletas eran un asunto lo suficientemente sencillo como&#xA;para que incluso un niño pequeño pudiera ayudar." voices=""/>
+    <page @l="386" fade="300"/>
+    <char @l="387" id="mit_" pos="auto" src="mit_aabf"/>
+    <msg @l="389" char_id="-1" frame_id="-1" name="" text="“¡Sí! Hicimos la masa juntos. Ambos se divirtieron mucho”." voices="mitu01024"/>
+    <msg @l="390" char_id="-1" frame_id="-1" name="" text="“Ya veo”." voices=""/>
+    <msg @l="392" char_id="-1" frame_id="-1" name="" text="(A los niños les encanta comer porquerías como esta, así que&#xA;probablemente también serían felices haciéndolas)." voices=""/>
+    <msg @l="393" char_id="-1" frame_id="-1" name="" text="Seguramente fue una buena manera de divertirse un poco." voices=""/>
+    <msg @l="394" char_id="-1" frame_id="-1" name="" text="Podía ver la escena hogareña de los tres hermanos jugando&#xA;juntos." voices=""/>
+    <msg @l="395" char_id="-1" frame_id="-1" name="" text="Las galletas que salieron peor debieron ser las que dejó&#xA;hacer a los niños." voices=""/>
+    <msg @l="396" char_id="-1" frame_id="-1" name="" page_feed="true" text="Eso, a su vez, hizo que el pensamiento fuera aún más&#xA;encantador." voices=""/>
+    <page @l="398" fade="300"/>
+    <msg @l="400" char_id="-1" frame_id="-1" name="" text="“Eeh. Realmente pensaste en esto”." voices=""/>
+    <msg @l="402" char_id="-1" frame_id="-1" name="" text="El diario la había hecho parecer un poco rara, tal vez&#xA;incluso un poco loca, pero eso no podía estar más lejos&#xA;de la verdad." voices=""/>
+    <char @l="404" id="mit_" pos="auto" src="mit_abbe"/>
+    <msg @l="406" char_id="-1" frame_id="-1" name="" text="“¿Umm?”." voices="mitu01025"/>
+    <msg @l="408" char_id="-1" frame_id="-1" name="" page_feed="true" text="Mitsuki inclinó la cabeza." voices=""/>
+    <page @l="410" fade="300"/>
+    <msg @l="412" char_id="-1" frame_id="-1" name="" text="Yuusuke tomó una de las galletas quemadas del plato y la&#xA;mordió." voices=""/>
+    <msg @l="413" char_id="-1" frame_id="-1" name="" text="Seguía siendo dulce, pero también tenía un toque amargo." voices=""/>
+    <msg @l="415" char_id="-1" frame_id="-1" name="" text="“Umm, estas tampoco están mal”." voices=""/>
+    <stopse @l="417" buf="1"/>
+    <char @l="418" id="mit_" pos="auto" src="mit_aabf"/>
+    <msg @l="420" char_id="-1" frame_id="-1" name="" text="“Sí, ¿verdad?”." voices="mitu01026"/>
+    <msg @l="422" char_id="-1" frame_id="-1" name="" text="Mitsuki sonrió de oreja a oreja." voices=""/>
+    <msg @l="423" char_id="-1" frame_id="-1" name="" text="Debía de estar contenta de que hubiera elogiado el trabajo de&#xA;sus hermanos." voices=""/>
+    <msg @l="425" char_id="-1" frame_id="-1" name="" page_feed="true" text="“Bastante impresionante para los niños de su edad, son&#xA;realmente comestibles”." voices=""/>
+    <stopbgm @l="427" fadeout="1000"/>
+    <page @l="428" fade="300"/>
+    <char @l="429" id="mit_" pos="auto" src="mit_aaba"/>
+    <msg @l="431" char_id="-1" frame_id="-1" name="" text="En el momento en que dijo eso..." voices=""/>
+    <msg @l="432" char_id="-1" frame_id="-1" name="" page_feed="true" text="Las venas parecían surgir a lo largo de la sien de Mitsuki." voices=""/>
+    <page @l="434" fade="300"/>
+    <bgm @l="435" src="bgm02" volume="1."/>
+    <msg @l="437" char_id="-1" frame_id="-1" name="" text="“Yo hice esas”." voices="mitu01027"/>
+    <msg @l="438" char_id="-1" frame_id="-1" name="" text="“¿Qué dices?”." voices=""/>
+    <msg @l="439" char_id="-1" frame_id="-1" name="" page_feed="true" text="“...”." voices="mitu01028"/>
+    <clear @l="441" class="char"/>
+    <page @l="442" fade="300"/>
+    <char @l="443" id="l_mi" pos="auto" src="l_mit_aaba"/>
+    <msg @l="445" char_id="-1" frame_id="-1" name="" text="Mitsuki guardó un silencio sepulcral, extendió la mano y&#xA;recogió todas las galletas quemadas." voices=""/>
+    <msg @l="446" add="true" char_id="-1" frame_id="-1" name="" text=" Luego se las metió una a&#xA;una en la boca." voices=""/>
+    <msg @l="447" char_id="-1" frame_id="-1" name="" text=" Masticar, masticar, tragar. Masticar,&#xA;masticar, tragar." voices="" add="true"/>
+    <msg @l="449" char_id="-1" frame_id="-1" name="" text="“No te obligues a comerlas por mí. No es que me importe”." voices="mitu01029"/>
+    <msg @l="450" char_id="-1" frame_id="-1" name="" text="“D-De acuerdo”." voices=""/>
+    <msg @l="451" char_id="-1" frame_id="-1" name="" text="“Dios, Takemura-san, cómo puedes ser tan... Err, no importa.”" voices="mitu01030"/>
+    <msg @l="453" char_id="-1" frame_id="-1" name="" text="Su cambio de actitud fue como una ventisca que atraviesa un&#xA;cálido día de primavera." voices=""/>
+    <msg @l="454" char_id="-1" frame_id="-1" name="" text="Internamente, gritó por lo irracional que estaba siendo." voices=""/>
+    <msg @l="455" char_id="-1" frame_id="-1" name="" text="(Si eres un desastre horneando galletas, ¿por qué hacer ese&#xA;plan? ¡Simplemente haz algo sexy! Me gusta lo sexy)." voices=""/>
+    <clear @l="457" class="char"/>
+    <char @l="458" id="mit_" pos="auto" src="mit_abbd"/>
+    <msg @l="460" char_id="-1" frame_id="-1" name="" page_feed="true" text="Pero ajena a los pensamientos de Yuusuke, Mitsuki siguió de&#xA;mal humor durante toda la velada." voices=""/>
+    <clear @l="462" class="char"/>
+    <stopbgm @l="463" fadeout="1000"/>
+    <wait_chgmv/>
+    <bg @l="464" src="white" time="1000"/>
+    <wait @l="465" time="1000"/>
+    <page @l="467" fade="300"/>
+    <bgm @l="468" src="bgm04" volume="1."/>
+    <wait_chgmv/>
+    <bg @l="469" effect="tiling" src="bg82a" time="1000"/>
+    <wait_chgmv/>
+    <ev @l="470" src="ev0t01ab"/>
+    <msg @l="474" char_id="-1" frame_id="-1" name="" text="Al día siguiente." voices=""/>
+    <msg @l="475" char_id="-1" frame_id="-1" name="" text="Yuusuke vio a Mitsuki, con un libro titulado “Postres para&#xA;novatos” en la mano, claramente tramando la segunda ronda de&#xA;las galletas." voices=""/>
+    <wait_chgmv/>
+    <ev @l="477" src="ev0t01aa"/>
+    <msg @l="479" char_id="-1" frame_id="-1" name="" text="Ella frunció el ceño mientras leía." voices=""/>
+    <msg @l="480" char_id="-1" frame_id="-1" name="" page_feed="true" text="Las cosas no parecían ir bien." voices=""/>
+    <page @l="482" fade="300"/>
+    <msg @l="483" char_id="-1" frame_id="-1" name="" text="(Debería dejarla en paz)." voices=""/>
+    <msg @l="485" char_id="-1" frame_id="-1" name="" text="Sin embargo, ella lo descubrió antes de que pudiera escapar." voices=""/>
+    <wait_chgmv/>
+    <ev @l="487" src="ev0t01bb"/>
+    <msg @l="489" char_id="-1" frame_id="-1" name="" text="Dejando el libro, Mitsuki lo miró fijamente." voices=""/>
+    <msg @l="490" char_id="-1" frame_id="-1" name="" text="Luego, torpemente, miró hacia otro lado." voices=""/>
+    <wait_chgmv/>
+    <ev @l="492" src="ev0t01ba"/>
+    <msg @l="494" char_id="-1" frame_id="-1" name="" text="“Es difícil utilizar un horno desconocido. No sabía cómo&#xA;manejar la temperatura. Y me distraje a mitad de camino”." voices="mitu01031"/>
+    <msg @l="496" char_id="-1" frame_id="-1" name="" text="Y se excusó." voices=""/>
+    <stopse @l="498" buf="1" fadeout="1000"/>
+    <stopbgm @l="499" fadeout="1000"/>
+    <wait_chgmv/>
+    <bg @l="500" src="black" time="2000"/>
+  </code>
+</xscript>

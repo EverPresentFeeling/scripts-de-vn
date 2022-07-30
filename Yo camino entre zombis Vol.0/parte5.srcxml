@@ -1,0 +1,375 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xscript>
+  <debug editor="&quot;C:\Program Files (x86)\sakura\sakura.exe&quot; &quot;%src%&quot; -Y=%line%" src="D:\zombies\Series Build\開発データ\開発環境\vol別\vol0\script\text\通常シーン5（深月） 女の子と鳥の巣.txt"/>
+  <code>
+    <description @l="1" text="女の子と鳥の巣"/>
+    <begin_trans @l="4" time="2500"/>
+    <wait_chgmv/>
+    <bg @l="5" src="bg03a"/>
+    <char @l="6" id="l_su" pos="auto" src="l_suj_bacb"/>
+    <end_trans @l="7"/>
+    <bgm @l="9" src="bgm03" volume="1."/>
+    <msg @l="11" char_id="-1" frame_id="-1" name="" text="La primera vez que Mitsuki se encontró con la chica, su&#xA;gélida mirada dejó una poderosa impresión." voices=""/>
+    <msg @l="13" char_id="-1" frame_id="-1" name="" text="“Es un placer conocerte”." voices="mitu01400"/>
+    <msg @l="15" char_id="-1" frame_id="-1" name="" page_feed="true" text="A pesar de todos los intentos de Mitsuki por hablar con ella,&#xA;apenas reaccionó." voices=""/>
+    <page @l="17" fade="300"/>
+    <clear @l="18" class="char"/>
+    <wait_chgmv/>
+    <bg @l="19" src="black" time="1000"/>
+    <begin_trans @l="20" effect="shading_off" time="800"/>
+    <wait_chgmv/>
+    <bg @l="21" src="bg03a"/>
+    <char @l="22" id="tmr_" pos="auto" src="tmr_aaba"/>
+    <char @l="23" id="suj_" pos="auto" src="suj_bacb"/>
+    <scrnfilter @l="24" src="gray"/>
+    <end_trans @l="25"/>
+    <msg @l="27" char_id="-1" frame_id="-1" name="" text="Esa era la niña que Yuusuke había traído con él desde la&#xA;guarnición." voices=""/>
+    <msg @l="28" char_id="-1" frame_id="-1" name="" page_feed="true" text="Mitsuki se había dado cuenta de que la niña odiaba a los&#xA;adultos casi inmediatamente después de empezar a cuidarla." voices=""/>
+    <wait_chgmv/>
+    <bg @l="30" src="black" time="1000"/>
+    <begin_trans @l="31" time="1000"/>
+    <wait_chgmv/>
+    <bg @l="32" src="bg12a"/>
+    <char @l="33" id="l_su" pos="auto" src="l_suj_aacb"/>
+    <end_trans @l="34"/>
+    <page @l="35" fade="300"/>
+    <msg @l="37" char_id="-1" frame_id="-1" name="" text="No había otras chicas de su edad en el ayuntamiento." voices=""/>
+    <msg @l="38" add="true" char_id="-1" frame_id="-1" name="" text=" Así que,&#xA;solían pasar por delante de gente que intentaba jugar con&#xA;ella o mostrarle afecto." voices=""/>
+    <msg @l="40" char_id="-1" frame_id="-1" name="" text="Sin embargo, lo único que hizo a cambio fue mirarlos&#xA;fijamente con su mirada helada." voices=""/>
+    <msg @l="41" char_id="-1" frame_id="-1" name="" text="Su actitud rozaba la apatía." voices=""/>
+    <msg @l="42" char_id="-1" frame_id="-1" name="" page_feed="true" text="Y dada su negativa a hablar siquiera, Mitsuki se preocupaba&#xA;por encontrar la mejor manera de hacer que la niña se&#xA;abriera a ella." voices=""/>
+    <wait_chgmv/>
+    <bg @l="44" src="black" time="1000"/>
+    <page @l="45" fade="300"/>
+    <begin_trans @l="46" alpha="9" time="800"/>
+    <wait_chgmv/>
+    <bg @l="47" src="bg07a"/>
+    <scrnfilter @l="48" src=""/>
+    <end_trans @l="49"/>
+    <msg @l="51" char_id="-1" frame_id="-1" name="" text="Sin embargo, con el paso del tiempo, la actitud de la niña&#xA;empezó a suavizarse." voices=""/>
+    <msg @l="52" char_id="-1" frame_id="-1" name="" text="Todavía se negaba obstinadamente a hablar, hasta el punto de&#xA;que Mitsuki ni siquiera había oído su voz, pero su exterior&#xA;helado se había descongelado un poco." voices=""/>
+    <msg @l="53" char_id="-1" frame_id="-1" name="" text="Probablemente se debía a que Mitsuki era la hermana mayor de&#xA;Takashi." voices=""/>
+    <msg @l="54" char_id="-1" frame_id="-1" name="" text="La niña prácticamente estaba pegada a Takashi. Quería estar&#xA;con él en todo momento." voices=""/>
+    <msg @l="55" char_id="-1" frame_id="-1" name="" text="Aparentemente se había solidarizado con él por el tiempo que&#xA;pasaron juntos abandonados en la guarnición." voices=""/>
+    <msg @l="56" char_id="-1" frame_id="-1" name="" text="Como Takashi confiaba implícitamente en su hermana, la niña&#xA;moderó su hostilidad hacia ella." voices=""/>
+    <msg @l="57" char_id="-1" frame_id="-1" name="" text="Mitsuki tenía sus sospechas de por qué la niña había acabado&#xA;odiando tanto a los adultos..." voices=""/>
+    <msg @l="58" char_id="-1" frame_id="-1" name="" page_feed="true" text=" pero decidió que por el&#xA;momento no era importante y que se centraría en intentar&#xA;hacerse amiga de ella primero." voices="" add="true"/>
+    <page @l="60" fade="300"/>
+    <msg @l="62" char_id="-1" frame_id="-1" name="" text="(Pero...)." voices="mitu01401"/>
+    <msg @l="64" char_id="-1" frame_id="-1" name="" text="Había un adulto con el que la niña no mostraba ninguna&#xA;hostilidad." voices=""/>
+    <msg @l="65" char_id="-1" frame_id="-1" name="" text="Yuusuke." voices=""/>
+    <begin_trans @l="67" alpha="3" time="800"/>
+    <wait_chgmv/>
+    <bg @l="68" src="bg05a"/>
+    <char @l="69" id="suj_" pos="auto" src="suj_aacb"/>
+    <end_trans @l="70"/>
+    <msg @l="72" char_id="-1" frame_id="-1" name="" text="Un día, cuando Mitsuki se dirigía a su habitación después del&#xA;trabajo, vio a la niña en un pasillo." voices=""/>
+    <msg @l="73" char_id="-1" frame_id="-1" name="" text="Estaba escondida en una esquina, mirando a su alrededor." voices=""/>
+    <msg @l="74" char_id="-1" frame_id="-1" name="" text="Muy sospechoso, sin duda." voices=""/>
+    <msg @l="75" char_id="-1" frame_id="-1" name="" page_feed="true" text="Mitsuki la llamó antes de que pudiera evitarlo." voices=""/>
+    <page @l="77" fade="300"/>
+    <char @l="78" id="mit_" pos="auto" src="mit_aabe"/>
+    <msg @l="80" char_id="-1" frame_id="-1" name="" text="“¿Qué estás haciendo?”." voices="mitu01402"/>
+    <msg @l="82" char_id="-1" frame_id="-1" name="" text="La niña la miró, se llevó un dedo a los labios para decirle a&#xA;Mitsuki que guardara silencio y luego volvió a mirar por la&#xA;esquina." voices=""/>
+    <clear @l="84" layer="suj_"/>
+    <msg @l="86" char_id="-1" frame_id="-1" name="" text="(¿Eh?)." voices="mitu01403"/>
+    <msg @l="88" char_id="-1" frame_id="-1" name="" page_feed="true" text="Confundida, Mitsuki también asomó la cabeza por la esquina." voices=""/>
+    <page @l="90" fade="300"/>
+    <wait_chgmv/>
+    <bg @l="91" alpha="3" src="black" time="800"/>
+    <wait_chgmv/>
+    <bg @l="92" alpha="3" src="bg05a" time="800"/>
+    <char @l="93" id="tmr_" pos="auto" src="tmr_aaba"/>
+    <msg @l="95" char_id="-1" frame_id="-1" name="" text="Allí vio a Yuusuke en el otro extremo del pasillo." voices=""/>
+    <msg @l="97" char_id="-1" frame_id="-1" name="" text="(¡Oh!)." voices="mitu01404"/>
+    <msg @l="99" char_id="-1" frame_id="-1" name="" text="Mitsuki se sobresaltó." voices=""/>
+    <msg @l="100" char_id="-1" frame_id="-1" name="" text="Hacía poco tiempo que se habían separado y no había podido&#xA;hablar mucho con él desde entonces." voices=""/>
+    <msg @l="101" char_id="-1" frame_id="-1" name="" page_feed="true" text="No se veían a menudo dentro del ayuntamiento, e incluso si&#xA;por casualidad se cruzaban, ella no tenía ningún motivo&#xA;concreto para hablar con él. Y por eso, siempre se retraía." voices=""/>
+    <page @l="103" fade="300"/>
+    <char @l="104" id="tks_" pos="auto" src="tks_aaag"/>
+    <msg @l="106" char_id="-1" frame_id="-1" name="" text="Takashi también estaba a su lado." voices=""/>
+    <msg @l="107" char_id="-1" frame_id="-1" name="" text="Sonreía y se aferraba a la pierna de Yuusuke, y el hombre no&#xA;parecía muy disgustado." voices=""/>
+    <msg @l="109" char_id="-1" frame_id="-1" name="" text="(¿De qué están hablando?)." voices="mitu01405"/>
+    <msg @l="111" char_id="-1" frame_id="-1" name="" text="Mitsuki se sentía un poco celosa." voices=""/>
+    <wait_chgmv/>
+    <bg @l="113" alpha="3" src="black" time="800"/>
+    <wait_chgmv/>
+    <bg @l="114" alpha="3" src="bg05a" time="1000"/>
+    <char @l="115" id="l_su" pos="auto" src="l_suj_aacc"/>
+    <msg @l="117" char_id="-1" frame_id="-1" name="" text="La niña se limitó a mirarlos con desprecio... o más&#xA;concretamente, a Yuusuke." voices=""/>
+    <msg @l="118" char_id="-1" frame_id="-1" name="" page_feed="true" text="Su mirada atenta desconcertó a Mitsuki." voices=""/>
+    <page @l="120" fade="300"/>
+    <begin_trans @l="122" time="1000"/>
+    <char @l="123" id="mit_" pos="auto" src="mit_aabe"/>
+    <char @l="124" id="suj_" pos="auto" src="suj_aacc"/>
+    <end_trans @l="125"/>
+    <msg @l="127" char_id="-1" frame_id="-1" name="" text="“Si quieres saber lo que pasa, ¿por qué no te diriges allí?”." voices="mitu01406"/>
+    <char @l="129" id="suj_" pos="auto" src="suj_aacd"/>
+    <msg @l="131" char_id="-1" frame_id="-1" name="" text="“...”." voices=""/>
+    <msg @l="133" char_id="-1" frame_id="-1" name="" text="La niña la miró como si hubiera pronunciado algo&#xA;completamente incomprensible." voices=""/>
+    <msg @l="134" char_id="-1" frame_id="-1" name="" text="Parecía que la sugerencia de Mitsuki le parecía ridícula." voices=""/>
+    <msg @l="136" char_id="-1" frame_id="-1" name="" text="(¿Quizá le resulta difícil tratar con Takemura?)." voices="mitu01407"/>
+    <msg @l="138" char_id="-1" frame_id="-1" name="" text="Esa niña era frígida por naturaleza." voices=""/>
+    <msg @l="139" char_id="-1" frame_id="-1" name="" page_feed="true" text="Era raro verla interesarse por alguien, incluso a distancia." voices=""/>
+    <page @l="141" fade="300"/>
+    <msg @l="143" char_id="-1" frame_id="-1" name="" text="“¿Quieres saber más sobre él? No es un mal tipo”." voices="mitu01408"/>
+    <char @l="145" id="suj_" pos="auto" src="suj_aacb"/>
+    <msg @l="147" char_id="-1" frame_id="-1" name="" text="“...”." voices=""/>
+    <msg @l="149" char_id="-1" frame_id="-1" name="" text="El silencio de la niña continuó." voices=""/>
+    <msg @l="150" char_id="-1" frame_id="-1" name="" text="Fue un rechazo tremendo." voices=""/>
+    <msg @l="151" char_id="-1" frame_id="-1" name="" text="Al menos pudo ver que la niña no tenía intención de acercarse&#xA;a ellos." voices=""/>
+    <msg @l="152" char_id="-1" frame_id="-1" name="" text="Sin embargo, también parecía que la niña no podía soportar&#xA;dejar a Takashi solo." voices=""/>
+    <msg @l="153" char_id="-1" frame_id="-1" name="" page_feed="true" text="Como si no pudiera soportar que alguien que le gustaba se&#xA;llevara bien con uno de esos adultos detestables." voices=""/>
+    <page @l="155" fade="300"/>
+    <msg @l="157" char_id="-1" frame_id="-1" name="" text="Mientras eso ocurría, los dos del otro extremo del pasillo&#xA;comenzaron a alejarse." voices=""/>
+    <clear @l="159" layer="suj_"/>
+    <msg @l="161" char_id="-1" frame_id="-1" name="" page_feed="true" text="Sin palabras, la niña comenzó a seguirlos." voices=""/>
+    <page @l="163" fade="300"/>
+    <char @l="164" id="mit_" pos="auto" src="mit_aabj"/>
+    <msg @l="166" char_id="-1" frame_id="-1" name="" text="(¿Qué debo hacer?)." voices="mitu01409"/>
+    <clear @l="168" class="char"/>
+    <msg @l="170" char_id="-1" frame_id="-1" name="" text="Mitsuki también tenía curiosidad por saber a dónde iban." voices=""/>
+    <msg @l="171" char_id="-1" frame_id="-1" name="" text="Lo que Yuusuke realmente hizo dentro del ayuntamiento era un&#xA;misterio para ella." voices=""/>
+    <msg @l="172" char_id="-1" frame_id="-1" name="" page_feed="true" text="Evidentemente, no pertenecía a ninguna de las divisiones de&#xA;trabajo, y parecía poder ir a donde quisiera." voices=""/>
+    <page @l="174" fade="300"/>
+    <msg @l="175" char_id="-1" frame_id="-1" name="" text="(Bueno, ella va a por ellos y no puedo dejarla sola)." voices="mitu01410"/>
+    <msg @l="177" char_id="-1" frame_id="-1" name="" page_feed="true" text="Mitsuki se excusó mientras seguía a la niña." voices=""/>
+    <page @l="179" fade="300"/>
+    <wait_chgmv/>
+    <bg @l="180" alpha="3" src="black" time="1000"/>
+    <stopbgm @l="181" fadeout="1000"/>
+    <wait @l="182" time="800"/>
+    <wait_chgmv/>
+    <bg @l="184" alpha="3" src="bg93a" time="1000"/>
+    <bgm @l="185" src="bgm01" volume="1."/>
+    <begin_trans @l="187"/>
+    <char @l="188" id="tmr_" pos="auto" src="tmr_aabb"/>
+    <char @l="189" id="tks_" pos="auto" src="tks_aaal"/>
+    <end_trans @l="190"/>
+    <msg @l="192" char_id="-1" frame_id="-1" name="" text="Finalmente, siguieron a los dos hasta un rincón del parque." voices=""/>
+    <msg @l="193" char_id="-1" frame_id="-1" name="" text="Yuusuke miró a un árbol que había sobre él y se cruzó de&#xA;brazos." voices=""/>
+    <msg @l="194" char_id="-1" frame_id="-1" name="" text="Takashi miró al mismo árbol." voices=""/>
+    <msg @l="195" char_id="-1" frame_id="-1" name="" page_feed="true" text="Parecían estar charlando alegremente." voices=""/>
+    <page @l="197" fade="300"/>
+    <clear @l="198" class="char"/>
+    <char @l="199" id="mit_" pos="auto" src="mit_aabe"/>
+    <msg @l="201" char_id="-1" frame_id="-1" name="" text="(¿Qué están mirando?)." voices="mitu01411"/>
+    <msg @l="203" char_id="-1" frame_id="-1" name="" page_feed="true" text="Sentía curiosidad, pero no se atrevía a acercarse más." voices=""/>
+    <page @l="205" fade="300"/>
+    <begin_trans @l="207"/>
+    <clear @l="208" layer="mit_"/>
+    <char @l="209" id="tmr_" pos="auto" src="tmr_aabg"/>
+    <char @l="210" id="tks_" pos="auto" src="tks_aaag"/>
+    <end_trans @l="211"/>
+    <msg @l="213" char_id="-1" frame_id="-1" name="" text="En cambio, observó cómo Yuusuke levantaba a Takashi sobre sus&#xA;hombros." voices=""/>
+    <msg @l="214" char_id="-1" frame_id="-1" name="" text="Presumiblemente para que Takashi pudiera ver algo en el&#xA;árbol." voices=""/>
+    <msg @l="215" char_id="-1" frame_id="-1" name="" text="Sea lo que sea, estaba claramente emocionado por ello." voices=""/>
+    <clear @l="217" class="char"/>
+    <char @l="218" id="l_su" pos="auto" src="l_suj_aacc"/>
+    <msg @l="220" char_id="-1" frame_id="-1" name="" text="A Mitsuki le pareció una escena conmovedora, pero por alguna&#xA;razón hizo que la joven se disgustara." voices=""/>
+    <se @l="222" buf="1" src="se023" volume="1."/>
+    <clear @l="223" class="char"/>
+    <msg @l="225" char_id="-1" frame_id="-1" name="" text="Se separó de Mitsuki y se dirigió hacia los dos, con los&#xA;hombros bien alineados." voices=""/>
+    <msg @l="226" add="true" char_id="-1" frame_id="-1" name="" page_feed="true" text=" Sorprendentemente rápido para una&#xA;cosa tan pequeña." voices=""/>
+    <page @l="228" fade="300"/>
+    <char @l="229" id="mit_" pos="auto" src="mit_aabi"/>
+    <msg @l="231" char_id="-1" frame_id="-1" name="" text="“¡Oh, espera!”." voices="mitu01412"/>
+    <msg @l="233" char_id="-1" frame_id="-1" name="" text="Llamar a la niña no sirvió para frenarla." voices=""/>
+    <msg @l="234" char_id="-1" frame_id="-1" name="" page_feed="true" text="Sin otra opción, Mitsuki la siguió." voices=""/>
+    <clear @l="236" class="char"/>
+    <page @l="237" fade="300"/>
+    <begin_trans @l="238"/>
+    <char @l="239" id="tmr_" pos="auto" src="tmr_aabb"/>
+    <char @l="240" id="suj_" pos="auto" src="suj_aacc"/>
+    <end_trans @l="241"/>
+    <msg @l="243" char_id="-1" frame_id="-1" name="" page_feed="true" text="Cuando Yuusuke giró la cabeza hacia los pasos que se&#xA;acercaban, recibió una poderosa patada en la espinilla." voices=""/>
+    <se @l="245" buf="1" src="se076" volume="1."/>
+    <shake @l="246" amp="10" cycle="1" duration="100" layer="tmr_" type="random"/>
+    <page @l="247" fade="300"/>
+    <char @l="248" id="tmr_" pos="auto" src="tmr_aabf"/>
+    <msg @l="250" char_id="-1" frame_id="-1" name="" text="“Ouch”." voices=""/>
+    <msg @l="252" char_id="-1" frame_id="-1" name="" text="Sus cejas se dispararon." voices=""/>
+    <msg @l="253" char_id="-1" frame_id="-1" name="" text="Takashi, todavía sobre los hombros de Yuusuke y sin estar del&#xA;todo seguro de lo que ocurría, bajó la mirada con&#xA;nerviosismo." voices=""/>
+    <se @l="255" buf="1" src="se123" volume="1."/>
+    <clear @l="256" layer="suj_"/>
+    <msg @l="258" char_id="-1" frame_id="-1" name="" page_feed="true" text="La niña volvió inmediatamente detrás de Mitsuki para&#xA;esconderse de Yuusuke." voices=""/>
+    <page @l="260" fade="300"/>
+    <clear @l="261" class="char"/>
+    <char @l="262" id="tmr_" pos="auto" src="tmr_aabd"/>
+    <msg @l="263" char_id="-1" frame_id="-1" name="" text="“¿Qué es lo que hace?”." voices=""/>
+    <msg @l="265" char_id="-1" frame_id="-1" name="" text="Yuusuke volvió a bajar a Takashi al suelo y lanzó una mirada&#xA;sospechosa a las dos chicas." voices=""/>
+    <msg @l="266" char_id="-1" frame_id="-1" name="" page_feed="true" text="Mitsuki se llevó todo el peso de su ira, ya que la niña se&#xA;escondía detrás de ella." voices=""/>
+    <page @l="268" fade="300"/>
+    <char @l="269" id="mit_" pos="auto" src="mit_aabg"/>
+    <char @l="270" id="tmr_" pos="auto" src="tmr_aabc"/>
+    <msg @l="271" char_id="-1" frame_id="-1" name="" text="Nerviosa, Mitsuki hizo un saludo incómodo." voices=""/>
+    <msg @l="273" char_id="-1" frame_id="-1" name="" text="“Hola”." voices="mitu01413"/>
+    <msg @l="275" char_id="-1" frame_id="-1" name="" text="Yuusuke dirigió su mirada hacia la niña que se escondía&#xA;detrás de ella." voices=""/>
+    <msg @l="276" char_id="-1" frame_id="-1" name="" text="Mitsuki no podía dejarlo así." voices=""/>
+    <msg @l="277" char_id="-1" frame_id="-1" name="" page_feed="true" text=" Así que, entró en pánico, y&#xA;dijo..." voices="" add="true"/>
+    <page @l="279" fade="300"/>
+    <char @l="280" id="mit_" pos="auto" src="mit_aabk"/>
+    <msg @l="282" char_id="-1" frame_id="-1" name="" text="“Solo es un poco tímida. Los nervios se apoderaron de ella, ¿sabes?”." voices="mitu01414"/>
+    <msg @l="283" char_id="-1" frame_id="-1" name="" text="“Ah, ¿sí?”." voices=""/>
+    <msg @l="285" char_id="-1" frame_id="-1" name="" text="La timidez no era realmente una buena excusa para patear a&#xA;alguien en la espinilla." voices=""/>
+    <msg @l="286" char_id="-1" frame_id="-1" name="" page_feed="true" text="Afortunadamente solo era una niña, así que no le había&#xA;dolido mucho." voices=""/>
+    <page @l="288" fade="300"/>
+    <char @l="289" id="mit_" pos="auto" src="mit_aabj"/>
+    <msg @l="291" char_id="-1" frame_id="-1" name="" text="“Así que, err, mucho tiempo sin vernos”." voices="mitu01415"/>
+    <char @l="293" id="tmr_" pos="auto" src="tmr_aabb"/>
+    <msg @l="295" char_id="-1" frame_id="-1" name="" text="“Sí, supongo que sí”." voices=""/>
+    <msg @l="297" char_id="-1" frame_id="-1" name="" page_feed="true" text="La respuesta de Yuusuke fue cortante, pero..." voices=""/>
+    <page @l="299" fade="300"/>
+    <char @l="300" id="mit_" pos="auto" src="mit_aabq"/>
+    <msg @l="302" char_id="-1" frame_id="-1" name="" text="(Aah... realmente hablé con él. ¿Cuánto tiempo ha pasado?)." voices="mitu01416"/>
+    <msg @l="304" char_id="-1" frame_id="-1" name="" text="Dentro, Mitsuki se regocijaba." voices=""/>
+    <msg @l="305" char_id="-1" frame_id="-1" name="" text="Todavía no sabía cómo habían salido las cosas de esa manera,&#xA;pero tenía ganas de agradecer a la niña por haberle dado&#xA;esa oportunidad." voices=""/>
+    <char @l="307" id="mit_" pos="auto" src="mit_aabj"/>
+    <msg @l="309" char_id="-1" frame_id="-1" name="" text="La chica asomó la cabeza por detrás de Mitsuki, mirando con&#xA;desagrado." voices=""/>
+    <msg @l="310" char_id="-1" frame_id="-1" name="" page_feed="true" text="Eso hizo que Mitsuki volviera a sus cabales." voices=""/>
+    <page @l="312" fade="300"/>
+    <msg @l="314" char_id="-1" frame_id="-1" name="" text="“Errm...”." voices="mitu01417"/>
+    <msg @l="316" char_id="-1" frame_id="-1" name="" text="Al esforzarse por continuar la conversación, decidió ir&#xA;directamente a lo que se había preguntado." voices=""/>
+    <char @l="318" id="mit_" pos="auto" src="mit_aabe"/>
+    <msg @l="320" char_id="-1" frame_id="-1" name="" text="“¿Hay algo en el árbol?”." voices="mitu01418"/>
+    <char @l="322" id="tmr_" pos="auto" src="tmr_aabj"/>
+    <msg @l="324" char_id="-1" frame_id="-1" name="" text="Yuusuke respondió secamente una vez más." voices=""/>
+    <msg @l="326" char_id="-1" frame_id="-1" name="" text="“Un nido de pájaros”." voices=""/>
+    <wait_chgmv/>
+    <bg @l="328" effect="cross_fade" src="bg69a" time="1000"/>
+    <se @l="329" buf="1" src="se059" volume="1."/>
+    <msg @l="331" char_id="-1" frame_id="-1" name="" text="Mirando hacia arriba donde él señalaba, vio un nido entre las&#xA;ramas." voices=""/>
+    <msg @l="332" char_id="-1" frame_id="-1" name="" text="Un pájaro solitario los miraba vigilante desde el interior.&#xA;No pudo saber si era macho o hembra." voices=""/>
+    <msg @l="333" char_id="-1" frame_id="-1" name="" page_feed="true" text="Yuusuke debía habérselo mostrado a Takashi." voices=""/>
+    <page @l="335" fade="300"/>
+    <msg @l="337" char_id="-1" frame_id="-1" name="" text="Mitsuki se encontró sonriendo." voices=""/>
+    <msg @l="339" char_id="-1" frame_id="-1" name="" text="“Es un espectáculo sorprendente en esta época del año”." voices="mitu01419"/>
+    <msg @l="341" char_id="-1" frame_id="-1" name="" text="Los ojos de Takashi brillaban mientras miraba el nido de&#xA;pájaros." voices=""/>
+    <msg @l="342" char_id="-1" frame_id="-1" name="" text="No era algo que se viera todos los días en la ciudad." voices=""/>
+    <msg @l="343" char_id="-1" frame_id="-1" name="" text="Aunque la humanidad estaba en tierra, los pájaros eran libres&#xA;de surcar el cielo." voices=""/>
+    <msg @l="344" add="true" char_id="-1" frame_id="-1" name="" page_feed="true" text=" La caída de la sociedad significaba poco&#xA;para ellos." voices=""/>
+    <page @l="346" fade="300"/>
+    <wait_chgmv/>
+    <bg @l="348" effect="cross_fade" src="bg93a" time="1000"/>
+    <char @l="349" id="l_su" pos="auto" src="l_suj_aach"/>
+    <msg @l="351" char_id="-1" frame_id="-1" name="" text="La niña también actuaba de forma diferente. Sus ojos se&#xA;abrieron de par en par mientras miraba al pájaro." voices=""/>
+    <msg @l="352" add="true" char_id="-1" frame_id="-1" name="" text=" Eso era&#xA;mucho más apropiado para su edad que su comportamiento&#xA;habitual." voices=""/>
+    <msg @l="353" char_id="-1" frame_id="-1" name="" text="Incluso se había relajado un poco de su habitual postura de&#xA;alerta." voices=""/>
+    <msg @l="354" char_id="-1" frame_id="-1" name="" page_feed="true" text="Por un breve momento, Mitsuki se unió a la niña para&#xA;olvidarse de todo y se limitó a observar al pájaro." voices=""/>
+    <page @l="356" fade="300"/>
+    <clear @l="357" layer="l_su"/>
+    <msg @l="359" char_id="-1" frame_id="-1" name="" text="Pero un rato después, se dio cuenta de que la niña robaba&#xA;miradas en dirección a Yuusuke." voices=""/>
+    <msg @l="360" char_id="-1" frame_id="-1" name="" text="Parecía que tenía algo que quería decir pero no se atrevía." voices=""/>
+    <msg @l="361" char_id="-1" frame_id="-1" name="" text="Estaba nerviosa de una manera que no se podía esperar de una&#xA;niña de su edad." voices=""/>
+    <msg @l="362" char_id="-1" frame_id="-1" name="" page_feed="true" text="Mitsuki, sin embargo, leyó sus pensamientos." voices=""/>
+    <page @l="364" fade="300"/>
+    <begin_trans @l="365"/>
+    <char @l="366" id="tmr_" pos="auto" src="tmr_aabc"/>
+    <char @l="367" id="mit_" pos="auto" src="mit_aabk"/>
+    <end_trans @l="368"/>
+    <msg @l="370" char_id="-1" frame_id="-1" name="" text="“¿Podrías levantarla sobre tus hombros también para que pueda&#xA;echar un vistazo?”." voices="mitu01420"/>
+    <msg @l="371" char_id="-1" frame_id="-1" name="" text="“¿A ella? Bueno, está bien...”." voices=""/>
+    <msg @l="373" char_id="-1" frame_id="-1" name="" text="La chica dio un paso atrás, vacilante al principio, pero la&#xA;tentación resultó ser demasiada." voices=""/>
+    <clear @l="375" layer="mit_"/>
+    <char @l="376" id="suj_" pos="auto" src="suj_aacb"/>
+    <msg @l="378" char_id="-1" frame_id="-1" name="" text="Se acercó a Yuusuke y lo miró." voices=""/>
+    <msg @l="379" char_id="-1" frame_id="-1" name="" page_feed="true" text="El ceño se volvió a fruncir." voices=""/>
+    <page @l="381" fade="300"/>
+    <char @l="382" id="tmr_" pos="auto" src="tmr_aabi"/>
+    <msg @l="384" char_id="-1" frame_id="-1" name="" text="Yuusuke se cruzó de brazos y volvió a mirarla." voices=""/>
+    <msg @l="386" char_id="-1" frame_id="-1" name="" text="“¿Así es cómo actúas cuando quieres algo?”." voices=""/>
+    <msg @l="388" char_id="-1" frame_id="-1" name="" text="Parecía que todavía guardaba rencor por haber sido pateado." voices=""/>
+    <msg @l="390" char_id="-1" frame_id="-1" name="" text="(Dios, es inmaduro)." voices="mitu01421"/>
+    <msg @l="392" char_id="-1" frame_id="-1" name="" page_feed="true" text="Mitsuki estaba confundida." voices=""/>
+    <page @l="394" fade="300"/>
+    <char @l="395" id="suj_" pos="auto" src="suj_aaca"/>
+    <msg @l="396" char_id="-1" frame_id="-1" name="" text="La chica siguió frunciendo el ceño durante un rato, antes de&#xA;sacar un pequeño paquete." voices=""/>
+    <msg @l="397" char_id="-1" frame_id="-1" name="" text="Era el pequeño paquete de raciones que se había repartido&#xA;hace unos días. Lo había guardado con ella." voices=""/>
+    <msg @l="398" char_id="-1" frame_id="-1" name="" page_feed="true" text="Parecía que quería hacer un intercambio." voices=""/>
+    <page @l="400" fade="300"/>
+    <char @l="401" id="tmr_" pos="auto" src="tmr_aabb"/>
+    <msg @l="403" char_id="-1" frame_id="-1" name="" text="“...”." voices=""/>
+    <msg @l="405" char_id="-1" frame_id="-1" name="" text="Yuusuke guardó silencio." voices=""/>
+    <msg @l="406" char_id="-1" frame_id="-1" name="" text="Ahora Mitsuki también lo estaba mirando." voices=""/>
+    <msg @l="407" char_id="-1" frame_id="-1" name="" text="Como si dijera: ”¿De verdad le vas a hacer esto a una niña?”." voices=""/>
+    <char @l="409" id="tmr_" pos="auto" src="tmr_aabg"/>
+    <msg @l="411" char_id="-1" frame_id="-1" name="" text="“Bien, bien, deja de mirarme así”." voices=""/>
+    <msg @l="413" char_id="-1" frame_id="-1" name="" page_feed="true" text="Yuusuke fue a intentar levantar a la niña, pero ella lo&#xA;esquivó y empezó a trepar por sus piernas." voices=""/>
+    <clear @l="415" class="char"/>
+    <se @l="417" buf="1" src="se049" volume="1."/>
+    <wait @l="418" time="1500"/>
+    <stopse @l="419" buf="1"/>
+    <page @l="421" fade="300"/>
+    <msg @l="423" char_id="-1" frame_id="-1" name="" text="“¡Deja que te levante de una vez!”." voices=""/>
+    <msg @l="425" char_id="-1" frame_id="-1" name="" text="Ella lo ignoró, subiéndose a sus hombros." voices=""/>
+    <msg @l="426" char_id="-1" frame_id="-1" name="" page_feed="true" text="Yuusuke puso los ojos en blanco y se desplazó hasta que ella&#xA;se acomodó sobre sus hombros." voices=""/>
+    <page @l="428" fade="300"/>
+    <msg @l="429" char_id="-1" frame_id="-1" name="" text="“Oye, niña, ¿estás seguro de que no estabas buscando una&#xA;excusa para patearme un poco más?”." voices=""/>
+    <msg @l="431" char_id="-1" frame_id="-1" name="" text="La niña no dijo nada." voices=""/>
+    <msg @l="432" char_id="-1" frame_id="-1" name="" page_feed="true" text="Fingiendo no oírle, miró hacia el árbol." voices=""/>
+    <page @l="434" fade="300"/>
+    <wait_chgmv/>
+    <bg @l="436" effect="cross_fade" src="bg69a" time="800"/>
+    <se @l="437" buf="1" src="se059" volume="1."/>
+    <msg @l="438" char_id="-1" frame_id="-1" name="" text="Mientras miraba, un segundo pájaro bajó volando al nido." voices=""/>
+    <msg @l="439" char_id="-1" frame_id="-1" name="" text="Los miró ansiosamente por un momento, antes de echar las&#xA;ramitas de su boca en su nido y ponerse a trabajar en su&#xA;construcción." voices=""/>
+    <msg @l="440" add="true" char_id="-1" frame_id="-1" name="" text=" Tal vez los dos pájaros eran una pareja." voices=""/>
+    <msg @l="441" char_id="-1" frame_id="-1" name="" text="El pequeño pájaro que había estado allí en un principio no&#xA;hizo caso a los humanos y empezó a ayudar a su compañera a&#xA;construir el nido." voices=""/>
+    <msg @l="442" char_id="-1" frame_id="-1" name="" page_feed="true" text="Mitsuki dejó escapar un pequeño suspiro." voices=""/>
+    <page @l="444" fade="300"/>
+    <msg @l="446" char_id="-1" frame_id="-1" name="" text="“Aww, eso es muy dulce”." voices="mitu01422"/>
+    <msg @l="450" char_id="-1" frame_id="-1" name="" text="“Sí. Cuando crezcan un poco más podremos comerlos”." voices=""/>
+    <msg @l="454" char_id="-1" frame_id="-1" name="" page_feed="true" text="Mitsuki se quedó boquiabierta." voices=""/>
+    <page @l="456" fade="300"/>
+    <begin_trans @l="458" time="1000"/>
+    <wait_chgmv/>
+    <bg @l="459" src="bg93a"/>
+    <char @l="460" id="tmr_" pos="auto" src="tmr_aabg"/>
+    <char @l="461" id="suj_" pos="auto" src="suj_aacb"/>
+    <end_trans @l="462"/>
+    <msg @l="464" char_id="-1" frame_id="-1" name="" text="La niña se bajó inmediatamente de los hombros de Yuusuke." voices=""/>
+    <msg @l="465" char_id="-1" frame_id="-1" name="" text="Sus ojos brillaban mientras miraba a los pájaros." voices=""/>
+    <clear @l="467" layer="suj_"/>
+    <msg @l="469" char_id="-1" frame_id="-1" name="" text="No hubo tiempo para detenerla, ya que se precipitó hacia el&#xA;árbol y comenzó a trepar por su tronco." voices=""/>
+    <msg @l="470" char_id="-1" frame_id="-1" name="" page_feed="true" text="¿De verdad había tomado las palabras de Yuusuke al pie de la&#xA;letra?" voices=""/>
+    <page @l="472" fade="300"/>
+    <char @l="473" id="tmr_" pos="auto" src="tmr_aabe"/>
+    <char @l="474" id="mit_" pos="auto" src="mit_aabb"/>
+    <msg @l="476" char_id="-1" frame_id="-1" name="" text="“¡Espera!”." voices="mitu01423"/>
+    <msg @l="477" char_id="-1" frame_id="-1" name="" text="“Oye, detente”." voices=""/>
+    <msg @l="479" char_id="-1" frame_id="-1" name="" text="Yuusuke estaba tan sorprendido como Mitsuki." voices=""/>
+    <wait_chgmv/>
+    <bg @l="481" src="bg69a" time="1000"/>
+    <msg @l="483" char_id="-1" frame_id="-1" name="" text="La chica no parecía contenta por haber sido detenida." voices=""/>
+    <msg @l="484" char_id="-1" frame_id="-1" name="" text="Afortunadamente, Yuusuke había estado bromeando." voices=""/>
+    <msg @l="485" char_id="-1" frame_id="-1" name="" page_feed="true" text=" Mientras&#xA;Mitsuki se calmaba, Yuusuke volvió a hablar." voices="" add="true"/>
+    <page @l="487" fade="300"/>
+    <msg @l="489" char_id="-1" frame_id="-1" name="" text="“Hay que esperar a que pongan huevos primero”." voices=""/>
+    <msg @l="491" char_id="-1" frame_id="-1" name="" text="Una mirada de comprensión apareció en el rostro de la chica." voices=""/>
+    <msg @l="492" char_id="-1" frame_id="-1" name="" page_feed="true" text="Después de un momento, miró a los dos pájaros con hambre." voices=""/>
+    <page @l="494" fade="300"/>
+    <clear @l="495" class="char"/>
+    <begin_trans @l="496" time="1000"/>
+    <wait_chgmv/>
+    <bg @l="497" src="bg93a"/>
+    <char @l="498" id="mit_" pos="auto" src="mit_abbt"/>
+    <char @l="499" id="tks_" pos="auto" src="tks_aaae"/>
+    <end_trans @l="500"/>
+    <msg @l="502" char_id="-1" frame_id="-1" name="" text="(Augh...)." voices="mitu01424"/>
+    <msg @l="504" char_id="-1" frame_id="-1" name="" text="Los hombros de Mitsuki se desplomaron con desesperación." voices=""/>
+    <msg @l="505" char_id="-1" frame_id="-1" name="" page_feed="true" text="Tuvo la sensación de que la chica no se había criado en el&#xA;mejor de los ambientes." voices=""/>
+    <page @l="507" fade="300"/>
+    <char @l="508" id="mit_" pos="auto" src="mit_abbi"/>
+    <msg @l="510" char_id="-1" frame_id="-1" name="" text="(Empiezo a pensar que tiene problemas para tratar con él&#xA;porque son muy parecidos)." voices="mitu01425"/>
+    <wait_chgmv/>
+    <bg @l="512" effect="cross_fade" src="bg69a" time="1000"/>
+    <msg @l="514" char_id="-1" frame_id="-1" name="" page_feed="true" text="Mitsuki y Takashi intercambiaron miradas, esperando que los&#xA;pájaros encontraran un nuevo lugar para construir su nido." voices=""/>
+    <page @l="516" fade="300"/>
+    <se @l="517" buf="1" src="se059" volume="1."/>
+    <wait_chgmv/>
+    <bg @l="518" effect="cross_fade" src="white" time="2000"/>
+    <stopbgm @l="519" fadeout="2000"/>
+    <stopse @l="520" buf="1" fadeout="2000"/>
+    <wait @l="521" time="2000"/>
+  </code>
+</xscript>

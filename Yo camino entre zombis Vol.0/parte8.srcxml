@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xscript>
+  <debug editor="&quot;C:\Program Files (x86)\sakura\sakura.exe&quot; &quot;%src%&quot; -Y=%line%" src="D:\zombies\Series Build\開発データ\開発環境\vol別\vol0\script\text\通常シーン8（牧浦） うたた寝.txt"/>
+  <code>
+    <description @l="1" text="うたた寝"/>
+    <msg @l="4" char_id="-1" frame_id="-1" name="" text="La historia comienza un poco antes de que la población del&#xA;ayuntamiento aumentara." voices=""/>
+    <msg @l="5" char_id="-1" frame_id="-1" name="" page_feed="true" text="En ese momento, Makiura ya actuaba como líder del&#xA;ayuntamiento. Sin embargo, Shiratani percibió que bajo su&#xA;dura apariencia se escondía un lado frágil." voices=""/>
+    <page @l="8" fade="300"/>
+    <wait_chgmv/>
+    <bg @l="9" alpha="1" src="bg06a" time="800"/>
+    <char @l="10" id="srt_" pos="auto" src="srt_aaab"/>
+    <bgm @l="11" src="bgm04" volume="1."/>
+    <msg @l="13" char_id="-1" frame_id="-1" name="" text="Shiratani había abandonado la reunión de la mañana cuando se&#xA;dio cuenta de que se había dejado su estuche de bolígrafos.&#xA;Se llevó la mano a la cara en señal de exasperación." voices=""/>
+    <msg @l="15" char_id="-1" frame_id="-1" name="" text="“Maldita sea...”." voices="shir00400"/>
+    <msg @l="17" char_id="-1" frame_id="-1" name="" text="Consideró la posibilidad de continuar con su trabajo en la&#xA;división de comunicaciones a pesar de todo, pero finalmente&#xA;decidió volver a buscarlo." voices=""/>
+    <msg @l="18" char_id="-1" frame_id="-1" name="" text="La reunión había terminado pronto, así que aún le quedaba&#xA;tiempo." voices=""/>
+    <msg @l="19" char_id="-1" frame_id="-1" name="" page_feed="true" text="Además, esa mañana no era su turno." voices=""/>
+    <page @l="21" fade="300"/>
+    <msg @l="23" char_id="-1" frame_id="-1" name="" text="La función principal de la división de comunicaciones era&#xA;estar a la espera de las transmisiones de radio entrantes,&#xA;lo que significaba que si no era tu turno no tenías mucho&#xA;que hacer." voices=""/>
+    <msg @l="24" char_id="-1" frame_id="-1" name="" text=" Había trabajos varios, como buscar lugares de&#xA;contacto y revisar y mantener la maquinaria. Pero, no eran&#xA;urgentes." voices="" add="true"/>
+    <msg @l="25" char_id="-1" frame_id="-1" name="" text="En cualquier caso, ese estuche de bolígrafos era su favorito,&#xA;y lo tenía desde hacía mucho tiempo." voices=""/>
+    <msg @l="26" char_id="-1" frame_id="-1" name="" page_feed="true" text="Shiratani se rio para sí misma." voices=""/>
+    <page @l="28" fade="300"/>
+    <char @l="29" id="srt_" pos="auto" src="srt_aaae"/>
+    <msg @l="32" char_id="-1" frame_id="-1" name="" text="“Je, je, je... Justo cuando yo también me convertiría en&#xA;funcionaria”." voices="shir00401"/>
+    <msg @l="34" char_id="-1" frame_id="-1" name="" text="Ese maletín era un aliado con el que había luchado en las&#xA;batallas de los exámenes." voices=""/>
+    <msg @l="35" char_id="-1" frame_id="-1" name="" text="Sin embargo, al final tuvo que atrincherarse en su nuevo&#xA;lugar de trabajo junto con el resto de los supervivientes." voices=""/>
+    <msg @l="38" char_id="-1" frame_id="-1" name="" text="“El karma es como un balancín, supongo. Aunque espero que hoy&#xA;pase algo bueno”." voices="shir00402"/>
+    <msg @l="40" char_id="-1" frame_id="-1" name="" text="Cuando la pandemia estalló por primera vez, cada día se había&#xA;sentido como un infierno en la tierra. Pero, las cosas se&#xA;habían vuelto mucho más tranquilas." voices=""/>
+    <msg @l="41" char_id="-1" frame_id="-1" name="" page_feed="true" text="Shiratani siempre había sido optimista, y vivía sus días&#xA;intentando preocuparse lo menos posible por el futuro." voices=""/>
+    <page @l="43" fade="300"/>
+    <clear @l="44" class="char"/>
+    <se @l="45" buf="1" src="se003" volume="1."/>
+    <wait_chgmv/>
+    <bg @l="46" alpha="03" src="bg11e" time="1000"/>
+    <msg @l="48" char_id="-1" frame_id="-1" name="" text="(¿Eh?)." voices="shir00403"/>
+    <msg @l="50" char_id="-1" frame_id="-1" name="" page_feed="true" text="Pensó que la habitación ya estaría vacía, así que entró sin&#xA;llamar." voices=""/>
+    <page @l="52" fade="300"/>
+    <char @l="54" id="l_mk" pos="auto" src="l_mku_abcra"/>
+    <msg @l="56" char_id="-1" frame_id="-1" name="" text="Pero allí se encontraba Makiura, sentada al fondo de la sala&#xA;con la cabeza caída." voices=""/>
+    <msg @l="57" add="true" char_id="-1" frame_id="-1" name="" text=" No había notado el sonido de la puerta&#xA;al abrirse." voices=""/>
+    <msg @l="58" char_id="-1" frame_id="-1" name="" text="Shiratani pensó que parecía bastante deprimida." voices=""/>
+    <msg @l="59" add="true" char_id="-1" frame_id="-1" name="" text=" Su habitual&#xA;actitud firme había desaparecido. Parecía tan frágil que&#xA;podría desvanecerse en cualquier momento." voices=""/>
+    <msg @l="60" char_id="-1" frame_id="-1" name="" page_feed="true" text="Shiratani se puso nerviosa." voices=""/>
+    <page @l="62" fade="300"/>
+    <clear @l="63" class="char"/>
+    <char @l="64" id="srt_" pos="auto" src="srt_aaab"/>
+    <msg @l="66" char_id="-1" frame_id="-1" name="" text="(¿Qué debo hacer?)." voices="shir00404"/>
+    <msg @l="68" char_id="-1" frame_id="-1" name="" text="En realidad no había hablado mucho con Makiura." voices=""/>
+    <msg @l="69" char_id="-1" frame_id="-1" name="" text="Como jefa de la división de comunicación, asistía a las&#xA;reuniones, por supuesto, pero tampoco tenía mucho que decir&#xA;allí." voices=""/>
+    <msg @l="70" char_id="-1" frame_id="-1" name="" text=" Aunque había trabajado en el ayuntamiento antes de la&#xA;pandemia, ese año había sido contratada por primera vez. Así&#xA;que, básicamente no sabía nada al respecto." voices="" add="true"/>
+    <msg @l="71" char_id="-1" frame_id="-1" name="" text="Aun así, era una funcionaria, y Makiura no tenía motivos para&#xA;rechazar el apoyo de otro líder. Sin embargo, eso por sí&#xA;solo no parecía una base lo suficientemente fuerte como para&#xA;actuar." voices=""/>
+    <msg @l="72" add="true" char_id="-1" frame_id="-1" name="" text=" Eso se agravó por el hecho de que Shiratani realmente&#xA;admiraba a Makiura." voices=""/>
+    <msg @l="73" char_id="-1" frame_id="-1" name="" text=" Tenían más o menos la misma edad, pero&#xA;Makiura era una médico capaz que también se encargaba de&#xA;dirigir el ayuntamiento." voices="" add="true"/>
+    <msg @l="74" add="true" char_id="-1" frame_id="-1" name="" page_feed="true" text=" Era tan increíble que Shiratani ni&#xA;siquiera podía aspirar a ser como ella." voices=""/>
+    <page @l="76" fade="300"/>
+    <clear @l="77" class="char"/>
+    <char @l="78" id="l_mk" pos="auto" src="l_mku_aacea"/>
+    <msg @l="80" char_id="-1" frame_id="-1" name="" text="Sin embargo, allí estaba sola con aspecto deprimido y mirando&#xA;a la mesa." voices=""/>
+    <msg @l="81" char_id="-1" frame_id="-1" name="" text="Si hubiera sido el presidente, Mizuhashi, el que hubiera&#xA;venido en lugar de Shiratani, tal vez su edad y sabiduría le&#xA;hubieran permitido hablar con Makiura y ayudarla." voices=""/>
+    <msg @l="82" add="true" char_id="-1" frame_id="-1" name="" text=" Pero, ¿qué&#xA;podía hacer una don nadie como Shiratani?" voices=""/>
+    <msg @l="83" char_id="-1" frame_id="-1" name="" text=" Sin embargo,&#xA;Makiura parecía demasiado frágil para dejarla sola." voices="" add="true"/>
+    <msg @l="84" char_id="-1" frame_id="-1" name="" page_feed="true" text="Después de ir de un lado a otro consigo misma durante un&#xA;rato, Shiratani decidió decir algo." voices=""/>
+    <page @l="86" fade="300"/>
+    <clear @l="87" class="char"/>
+    <char @l="88" id="srt_" pos="auto" src="srt_aaab"/>
+    <msg @l="90" char_id="-1" frame_id="-1" name="" page_feed="true" text="“Um, ¿pasa algo?”." voices="shir00405"/>
+    <page @l="93" fade="300"/>
+    <char @l="94" id="mku_" pos="auto" src="mku_aacaa"/>
+    <msg @l="96" char_id="-1" frame_id="-1" name="" text="Makiura levantó la cabeza." voices=""/>
+    <msg @l="97" char_id="-1" frame_id="-1" name="" text="Con un chasquido, Makiura cambió; su aura anterior parecía un&#xA;producto de la imaginación." voices=""/>
+    <msg @l="98" add="true" char_id="-1" frame_id="-1" name="" page_feed="true" text=" Su expresión sombría había sido&#xA;sustituida por su habitual gracia tranquila." voices=""/>
+    <page @l="100" fade="300"/>
+    <msg @l="102" char_id="-1" frame_id="-1" name="" page_feed="true" text="En cuanto vio que era Shiratani, Makiura adivinó por qué&#xA;estaba allí." voices=""/>
+    <page @l="104" fade="300"/>
+    <char @l="105" id="mku_" pos="auto" src="mku_aacca"/>
+    <msg @l="107" char_id="-1" frame_id="-1" name="" text="“Ah, te olvidaste de esto, ¿no?”." voices="maku01200"/>
+    <char @l="109" id="srt_" pos="auto" src="srt_aaaa"/>
+    <msg @l="111" char_id="-1" frame_id="-1" name="" text="Se levantó de su asiento, tomó el estuche de bolígrafos de&#xA;Shiratani y se lo entregó." voices=""/>
+    <msg @l="113" char_id="-1" frame_id="-1" name="" text="“Deberías tener cuidado con esto. Es especial para ti,&#xA;¿verdad?”." voices="maku01201"/>
+    <msg @l="115" char_id="-1" frame_id="-1" name="" text="Debió notar que Shiratani parecía llevarlo siempre encima." voices=""/>
+    <msg @l="116" char_id="-1" frame_id="-1" name="" text="Shiratani se sonrojó." voices=""/>
+    <char @l="118" id="srt_" pos="auto" src="srt_aaae"/>
+    <msg @l="120" char_id="-1" frame_id="-1" name="" text="“Muchas gracias”." voices="shir00406"/>
+    <msg @l="122" char_id="-1" frame_id="-1" name="" text="Makiura estaba actuando como siempre." voices=""/>
+    <msg @l="123" add="true" char_id="-1" frame_id="-1" name="" text=" Ni un indicio de&#xA;algo inusual." voices=""/>
+    <msg @l="124" char_id="-1" frame_id="-1" name="" page_feed="true" text="En lugar de poder preguntar qué pasaba, Shiratani se vio&#xA;obligado a darle las gracias y marcharse." voices=""/>
+    <wait_chgmv/>
+    <bg @l="126" src="black" time="1000"/>
+    <page @l="127" fade="300"/>
+    <wait_chgmv/>
+    <bg @l="128" alpha="1" src="bg01a" time="800"/>
+    <msg @l="130" char_id="-1" frame_id="-1" name="" text="Un día, un incidente importante alteró lo que había sido su&#xA;vida cotidiana." voices=""/>
+    <msg @l="131" add="true" char_id="-1" frame_id="-1" name="" text=" Makiura había sido sacada del ayuntamiento&#xA;para realizar una intervención quirúrgica a un niño." voices=""/>
+    <msg @l="132" char_id="-1" frame_id="-1" name="" text="Un hombre llamado Takemura estaba detrás." voices=""/>
+    <msg @l="133" char_id="-1" frame_id="-1" name="" text=" Supuestamente,&#xA;la había llevado a un hospital." voices="" add="true"/>
+    <msg @l="134" char_id="-1" frame_id="-1" name="" text="Y unos días más tarde, los tres regresaron sanos y salvos.&#xA;Pero, todo el incidente se consideró un gran problema." voices=""/>
+    <msg @l="135" char_id="-1" frame_id="-1" name="" page_feed="true" text="&#xA;Makiura, la persona más importante del ayuntamiento,&#xA;había actuado precipitadamente y se había expuesto al&#xA;peligro." voices="" add="true"/>
+    <page @l="137" fade="300"/>
+    <wait_chgmv/>
+    <bg @l="138" effect="cross_fade" src="bg11a" time="1000"/>
+    <char @l="139" id="tmr_" pos="auto" src="tmr_aabc"/>
+    <msg @l="141" char_id="-1" frame_id="-1" name="" text="Tanto ella como Yuusuke se enfrentaron a las duras críticas&#xA;del resto del comité." voices=""/>
+    <msg @l="142" add="true" char_id="-1" frame_id="-1" name="" text=" Sin embargo, la propia Shiratani no&#xA;creía que Yuusuke fuera tan malo." voices=""/>
+    <msg @l="143" char_id="-1" frame_id="-1" name="" text="Era más bien..." voices=""/>
+    <clear @l="145" class="char"/>
+    <char @l="146" id="srt_" pos="auto" src="srt_aaag"/>
+    <msg @l="148" char_id="-1" frame_id="-1" name="" text="(Solo tiene tendencia a hacer cosas absolutamente salvajes)." voices="shir00407"/>
+    <msg @l="150" char_id="-1" frame_id="-1" name="" text="Esa era la única impresión que tenía de él." voices=""/>
+    <msg @l="151" add="true" char_id="-1" frame_id="-1" name="" text=" Ella solo podía&#xA;llamarlo locura. Superó los límites de lo que ella&#xA;consideraba racional." voices=""/>
+    <clear @l="153" class="char"/>
+    <char @l="154" id="mku_" pos="auto" src="mku_aacia"/>
+    <msg @l="156" char_id="-1" frame_id="-1" name="" page_feed="true" text="Pero más que eso, la forma en que Makiura había luchado para&#xA;proteger a Yuusuke había dejado una impresión duradera." voices=""/>
+    <page @l="158" fade="300"/>
+    <clear @l="159" class="char"/>
+    <msg @l="161" char_id="-1" frame_id="-1" name="" text="Después de ese día, Shiratani se dio cuenta de algo." voices=""/>
+    <msg @l="162" char_id="-1" frame_id="-1" name="" page_feed="true" text="Poco a poco, Makiura empezaba a cambiar." voices=""/>
+    <page @l="165" fade="300"/>
+    <wait_chgmv/>
+    <bg @l="166" src="black" time="1000"/>
+    <wait @l="167" time="500"/>
+    <wait_chgmv/>
+    <ev @l="168" alpha="2" src="ev0t03aa" time="800"/>
+    <msg @l="170" char_id="-1" frame_id="-1" name="" text="Un día, al visitar la consulta médica, Shiratani fue testigo&#xA;de algo muy inusual." voices=""/>
+    <msg @l="171" add="true" char_id="-1" frame_id="-1" name="" text=" Makiura estaba durmiendo la siesta en su&#xA;escritorio." voices=""/>
+    <msg @l="173" char_id="-1" frame_id="-1" name="" text="“¿Doctora? ¿Se encuentra despierta?”." voices="shir00408"/>
+    <msg @l="175" char_id="-1" frame_id="-1" name="" text="Preguntó nerviosa, pero no recibió respuesta." voices=""/>
+    <msg @l="176" add="true" char_id="-1" frame_id="-1" name="" text=" Makiura parecía&#xA;estar en un sueño profundo." voices=""/>
+    <msg @l="178" char_id="-1" frame_id="-1" name="" text="“Esto es EXTRAÑO”." voices="shir00409"/>
+    <msg @l="180" char_id="-1" frame_id="-1" name="" text="Normalmente mantenía una fachada fuerte; manteniéndose&#xA;enérgica y animada." voices=""/>
+    <msg @l="181" char_id="-1" frame_id="-1" name="" text="Era difícil imaginarla mostrando ese tipo de vulnerabilidad." voices=""/>
+    <msg @l="182" char_id="-1" frame_id="-1" name="" page_feed="true" text="Sintiendo que era descortés despertarla, Shiratani decidió&#xA;esperar en su lugar." voices=""/>
+    <page @l="184" fade="300"/>
+    <msg @l="186" char_id="-1" frame_id="-1" name="" text="(Tiene un trabajo duro)." voices="shir00410"/>
+    <msg @l="188" char_id="-1" frame_id="-1" name="" text="Makiura era vital para el funcionamiento del ayuntamiento." voices=""/>
+    <msg @l="189" add="true" char_id="-1" frame_id="-1" name="" text="&#xA;Nadie podría sustituirla." voices=""/>
+    <msg @l="190" char_id="-1" frame_id="-1" name="" text="No era solo que fuera médico, sino que su personalidad la&#xA;convertía también en la líder perfecta." voices=""/>
+    <msg @l="191" char_id="-1" frame_id="-1" name="" text="Era una mujer, apenas mayor que la propia Shiratani, y sin&#xA;embargo había sido capaz de unir a la gente e infundir orden&#xA;en el caos tras la pandemia. Era casi un milagro." voices=""/>
+    <msg @l="192" char_id="-1" frame_id="-1" name="" text="Y allí estaba dormitando inocentemente en su silla." voices=""/>
+    <msg @l="193" char_id="-1" frame_id="-1" name="" page_feed="true" text=" Debía&#xA;estar agotada, pero al mirarla, Shiratani sintió que Makiura&#xA;parecía mucho más relajada ahora." voices="" add="true"/>
+    <page @l="195" fade="300"/>
+    <wait_chgmv/>
+    <bg @l="197" effect="cross_fade" src="bg03a" time="1000"/>
+    <msg @l="200" char_id="-1" frame_id="-1" name="" text="“Llegué”." voices=""/>
+    <se @l="202" buf="1" src="se003" volume="1."/>
+    <begin_trans @l="203" time="200"/>
+    <char @l="204" id="srt_" pos="auto" src="srt_aaaa"/>
+    <char @l="205" id="tmr_" pos="auto" src="tmr_aaba"/>
+    <end_trans @l="206"/>
+    <msg @l="208" char_id="-1" frame_id="-1" name="" text="La puerta se abrió, acompañada de un saludo muy informal." voices=""/>
+    <msg @l="209" char_id="-1" frame_id="-1" name="" text="Makiura tuvo otra visita." voices=""/>
+    <msg @l="210" add="true" char_id="-1" frame_id="-1" name="" text=" El hombre miró alrededor de&#xA;la habitación..." voices=""/>
+    <char @l="212" id="tmr_" pos="auto" src="tmr_aabg"/>
+    <msg @l="214" char_id="-1" frame_id="-1" name="" text="“¿Está dormida?”." voices=""/>
+    <msg @l="216" char_id="-1" frame_id="-1" name="" text="Era Yuusuke, que sonaba un poco decepcionado." voices=""/>
+    <msg @l="217" char_id="-1" frame_id="-1" name="" text="Dado que había provocado el mencionado incidente, era&#xA;bastante infame en el ayuntamiento." voices=""/>
+    <msg @l="218" add="true" char_id="-1" frame_id="-1" name="" page_feed="true" text=" Algunos incluso lo&#xA;calificaron de peligroso." voices=""/>
+    <page @l="220" fade="300"/>
+    <char @l="221" id="srt_" pos="auto" src="srt_aaae"/>
+    <msg @l="223" char_id="-1" frame_id="-1" name="" text="Sin embargo, Shiratani le saludó con una sonrisa." voices=""/>
+    <msg @l="225" char_id="-1" frame_id="-1" name="" text="“¿Necesita algo? Puedo decírselo a la doctora por ti cuando&#xA;se despierte, si quieres”." voices="shir00411"/>
+    <char @l="227" id="tmr_" pos="auto" src="tmr_aabb"/>
+    <msg @l="229" char_id="-1" frame_id="-1" name="" text="“Oh, ¿podrías darle esto a ella? Me pidió que los recogiera”." voices=""/>
+    <msg @l="231" char_id="-1" frame_id="-1" name="" text="Me entregó un paquete de papeles dentro de un sobre." voices=""/>
+    <msg @l="233" char_id="-1" frame_id="-1" name="" text="“Aah, esos serán los cuestionarios”." voices="shir00412"/>
+    <msg @l="234" char_id="-1" frame_id="-1" name="" text="“¿Son cuestionarios? Solo los tengo porque ella me lo pidió”." voices=""/>
+    <msg @l="235" char_id="-1" frame_id="-1" name="" text="“Estamos tratando de averiguar lo que la gente cree que&#xA;necesita más. Empezaré a cotejarlos mientras espero a que la&#xA;médico se despierte”." voices="shir00413"/>
+    <msg @l="236" char_id="-1" frame_id="-1" name="" text="“¿Qué les harás?”." voices=""/>
+    <msg @l="237" char_id="-1" frame_id="-1" name="" text="“Compilaré todas las respuestas que parezcan importantes.&#xA;Habrá muchas inútiles mezcladas”." voices="shir00414"/>
+    <msg @l="238" char_id="-1" frame_id="-1" name="" page_feed="true" text="“Oh, claro. Tiene sentido. Entonces, ¿por qué estás aquí?”." voices=""/>
+    <page @l="240" fade="300"/>
+    <msg @l="242" char_id="-1" frame_id="-1" name="" text="“Hay algo que necesito... pero me pareció grosero&#xA;despertarla, así que decidí esperar”." voices="shir00415"/>
+    <msg @l="243" char_id="-1" frame_id="-1" name="" text="“Probablemente esté en la sala de espera. Voy a buscarlo”." voices=""/>
+    <se @l="245" buf="1" src="se068" volume="1."/>
+    <msg @l="247" char_id="-1" frame_id="-1" name="" page_feed="true" text="Actuando como si fuera el dueño del lugar, Yuusuke tomó la&#xA;llave del escritorio y abrió la puerta de la sala de espera." voices=""/>
+    <se @l="249" buf="1" src="se003" volume="1."/>
+    <page @l="250" fade="300"/>
+    <clear @l="251" layer="tmr_"/>
+    <char @l="252" id="srt_" pos="auto" src="srt_aaab"/>
+    <msg @l="254" char_id="-1" frame_id="-1" name="" text="Shiratani se apresuró a hablar." voices=""/>
+    <msg @l="256" char_id="-1" frame_id="-1" name="" text="“¿Seguro que está bien entrar ahí?”." voices="shir00416"/>
+    <msg @l="257" char_id="-1" frame_id="-1" name="" text="“Soy su asistente." voices=""/>
+    <msg @l="258" add="true" char_id="-1" frame_id="-1" name="" text=" ¿Qué es lo que quieres?”." voices=""/>
+    <msg @l="260" char_id="-1" frame_id="-1" name="" page_feed="true" text="Shiratani le contó los detalles y Yuusuke desapareció tras la&#xA;puerta." voices=""/>
+    <se @l="262" buf="1" src="se004" volume="1."/>
+    <page @l="263" fade="300"/>
+    <char @l="264" id="srt_" pos="auto" src="srt_aaag"/>
+    <msg @l="266" char_id="-1" frame_id="-1" name="" text="Su asistente." voices=""/>
+    <msg @l="267" char_id="-1" frame_id="-1" name="" text="Rumiaba esa palabra." voices=""/>
+    <msg @l="268" char_id="-1" frame_id="-1" name="" text="Yuusuke no estaba en el comité, ni trabajaba para ninguna&#xA;división. ¿Se había convertido en el asistente personal de&#xA;Makiura?" voices=""/>
+    <msg @l="269" add="true" char_id="-1" frame_id="-1" name="" page_feed="true" text=" Desde luego, Shiratani no había oído nada en ese&#xA;sentido." voices=""/>
+    <page @l="271" fade="300"/>
+    <char @l="272" id="tmr_" pos="auto" src="tmr_aabb"/>
+    <char @l="273" id="srt_" pos="auto" src="srt_aaaa"/>
+    <msg @l="275" char_id="-1" frame_id="-1" name="" text="Cuando Yuusuke regresó, decidió preguntarle algo por&#xA;curiosidad." voices=""/>
+    <msg @l="277" char_id="-1" frame_id="-1" name="" text="“¿Puedo preguntarte algo?”." voices="shir00417"/>
+    <msg @l="278" char_id="-1" frame_id="-1" name="" text="“¿Qué?”." voices=""/>
+    <msg @l="279" char_id="-1" frame_id="-1" name="" text="“Sobre cuando fuiste al hospital. ¿No pensaste que era&#xA;peligroso?”." voices="shir00418"/>
+    <char @l="281" id="tmr_" pos="auto" src="tmr_aabc"/>
+    <msg @l="283" char_id="-1" frame_id="-1" name="" text="“...”." voices=""/>
+    <char @l="285" id="srt_" pos="auto" src="srt_aaab"/>
+    <msg @l="287" char_id="-1" frame_id="-1" name="" page_feed="true" text="“Oh, no quiero condenarte. Solo me pregunto cómo es que&#xA;fuiste capaz de hacer eso. ¿No tenías miedo?”." voices="shir00419"/>
+    <page @l="289" fade="300"/>
+    <msg @l="291" char_id="-1" frame_id="-1" name="" text="Hubo un momento de silencio." voices=""/>
+    <char @l="293" id="tmr_" pos="auto" src="tmr_aabj"/>
+    <msg @l="295" char_id="-1" frame_id="-1" name="" text="“Honestamente...”." voices=""/>
+    <char @l="297" id="srt_" pos="auto" src="srt_aaaa"/>
+    <msg @l="299" char_id="-1" frame_id="-1" name="" text="“¿Sí?”." voices="shir00420"/>
+    <char @l="301" id="tmr_" pos="auto" src="tmr_aabg"/>
+    <msg @l="303" char_id="-1" frame_id="-1" name="" text="“Los hospitales de noche son terroríficos. Parece que estás&#xA;en una película de terror. La primera noche estuvo bien,&#xA;porque teníamos cosas que hacer, pero nos quedamos allí&#xA;durante días." voices=""/>
+    <msg @l="304" char_id="-1" frame_id="-1" name="" text=" Pero a partir de la segunda noche... Bueno,&#xA;digamos que no voy a volver allí en la oscuridad. Hay que&#xA;tener muchas agallas para aguantar”." voices="" add="true"/>
+    <char @l="306" id="srt_" pos="auto" src="srt_aaae"/>
+    <msg @l="308" char_id="-1" frame_id="-1" name="" text="“Ya veo”." voices="shir00421"/>
+    <msg @l="310" char_id="-1" frame_id="-1" name="" text="Ella pensó que iba a contar alguna gran historia, pero acabó&#xA;murmurando sobre bebés fantasmas." voices=""/>
+    <msg @l="311" add="true" char_id="-1" frame_id="-1" name="" text=" Shiratani sonrió mientras&#xA;pensaba para sí misma." voices=""/>
+    <char @l="313" id="srt_" pos="auto" src="srt_aaab"/>
+    <msg @l="315" char_id="-1" frame_id="-1" name="" text="(Es un poco raro)." voices="shir00422"/>
+    <msg @l="317" char_id="-1" frame_id="-1" name="" page_feed="true" text="En ese momento escuchó el crujido de una silla detrás de&#xA;ella." voices=""/>
+    <page @l="319" fade="300"/>
+    <clear @l="320" class="char"/>
+    <char @l="321" id="l_mk" pos="auto" src="l_mku_aacp"/>
+    <msg @l="323" char_id="-1" frame_id="-1" name="" text="“Mmm... ¿Qué pasa...?”." voices="maku01202"/>
+    <msg @l="325" char_id="-1" frame_id="-1" name="" text="Makiura acababa de despertarse." voices=""/>
+    <msg @l="326" char_id="-1" frame_id="-1" name="" page_feed="true" text="Sus ojos se abrieron de par en par cuando los vio." voices=""/>
+    <page @l="328" fade="300"/>
+    <clear @l="329" class="char"/>
+    <char @l="330" id="mku_" pos="auto" src="mku_abcj"/>
+    <shake @l="331" amp="10" class="char" cycle="1" duration="200" type="random"/>
+    <msg @l="333" char_id="-1" frame_id="-1" name="" text="“Nngh... ¿Qué? ¿Takemura-san?”." voices="maku01203"/>
+    <msg @l="335" char_id="-1" frame_id="-1" name="" text="Se puso de pie apresuradamente." voices=""/>
+    <msg @l="336" char_id="-1" frame_id="-1" name="" page_feed="true" text="Lo que hizo a continuación fue todo un espectáculo." voices=""/>
+    <page @l="338" fade="300"/>
+    <clear @l="339" class="char"/>
+    <msg @l="341" char_id="-1" frame_id="-1" name="" text="Les dio la espalda mientras se arreglaba el cabello, y luego&#xA;fingió que ordenaba su escritorio mientras comprobaba su&#xA;aspecto en un espejo de mano." voices=""/>
+    <msg @l="342" char_id="-1" frame_id="-1" name="" text=" Luego se limpió la boca, por si&#xA;había estado babeando mientras dormía." voices="" add="true"/>
+    <msg @l="343" char_id="-1" frame_id="-1" name="" page_feed="true" text="Ver a Makiura tan nerviosa hizo que Yuusuke dijera&#xA;incómodamente..." voices=""/>
+    <page @l="345" fade="300"/>
+    <begin_trans @l="346" time="200"/>
+    <char @l="347" id="mku_" pos="auto" src="mku_aaco"/>
+    <char @l="348" id="tmr_" pos="auto" src="tmr_aabg"/>
+    <end_trans @l="349"/>
+    <msg @l="351" char_id="-1" frame_id="-1" name="" text="“Mal momento, ¿eh?" voices=""/>
+    <msg @l="352" add="true" char_id="-1" frame_id="-1" name="" text=" No era nada importante, me pasaré más&#xA;tarde”." voices=""/>
+    <char @l="354" id="mku_" pos="auto" src="mku_aacq"/>
+    <msg @l="356" char_id="-1" frame_id="-1" name="" text="“¡Oh, no! ¡Está bien!”." voices="maku01204"/>
+    <msg @l="357" char_id="-1" frame_id="-1" name="" page_feed="true" text="“Bueno, aquí está la llave de la sala de espera. Acabo de&#xA;usarla”." voices=""/>
+    <page @l="359" fade="300"/>
+    <char @l="360" id="mku_" pos="auto" src="mku_aack"/>
+    <msg @l="362" char_id="-1" frame_id="-1" name="" text="“¡¿Qué?! ¡No! ¡No puedes entrar ahí sin más! ¡¿Qué pasa si&#xA;alguien se equivoca?!”." voices="maku01205"/>
+    <clear @l="364" class="char"/>
+    <char @l="365" id="srt_" pos="auto" src="srt_aaag"/>
+    <msg @l="367" char_id="-1" frame_id="-1" name="" text="Shiratani escuchó su intercambio con la boca abierta." voices=""/>
+    <msg @l="368" char_id="-1" frame_id="-1" name="" text="¿Qué clase de “idea equivocada” podría ser?" voices=""/>
+    <msg @l="369" char_id="-1" frame_id="-1" name="" page_feed="true" text="¿Que estaban tan cerca que tenía permiso para entrar en su&#xA;habitación privada?" voices=""/>
+    <page @l="371" fade="300"/>
+    <clear @l="372" class="char"/>
+    <begin_trans @l="373" effect="cross_fade" time="500"/>
+    <char @l="374" id="mku_" pos="auto" src="mku_aacp"/>
+    <char @l="375" id="tmr_" pos="auto" src="tmr_aabg"/>
+    <end_trans @l="376"/>
+    <msg @l="378" char_id="-1" frame_id="-1" name="" text="“Soy tu asistente, a quién le importa”." voices=""/>
+    <char @l="380" id="mku_" pos="auto" src="mku_abco"/>
+    <msg @l="382" char_id="-1" frame_id="-1" name="" text="“Oh, es cierto. Mi asistente”." voices="maku01206"/>
+    <msg @l="385" char_id="-1" frame_id="-1" name="" text="Makiura se calló de repente." voices=""/>
+    <msg @l="386" char_id="-1" frame_id="-1" name="" text="Las cosas empezaban a ser incómodas." voices=""/>
+    <msg @l="387" char_id="-1" frame_id="-1" name="" text="Shiratani supo instintivamente por qué Makiura actuaba de&#xA;forma tan sospechosa." voices=""/>
+    <msg @l="390" char_id="-1" frame_id="-1" name="" text=" Todo empezó a encajar, como las piezas&#xA;de un rompecabezas." voices="" add="true"/>
+    <msg @l="391" char_id="-1" frame_id="-1" name="" text="Makiura había estado diferente desde que volvió del&#xA;hospital..." voices=""/>
+    <msg @l="392" add="true" char_id="-1" frame_id="-1" name="" page_feed="true" text=" y ya entendía exactamente por qué." voices=""/>
+    <page @l="394" fade="300"/>
+    <clear @l="395" class="char"/>
+    <char @l="396" id="srt_" pos="auto" src="srt_aaaf"/>
+    <msg @l="398" char_id="-1" frame_id="-1" name="" text="(Jo. Ahora lo entiendo)." voices="shir00423"/>
+    <msg @l="400" char_id="-1" frame_id="-1" name="" text="De repente, Shiratani se sintió mucho más cerca de Makiura." voices=""/>
+    <msg @l="401" add="true" char_id="-1" frame_id="-1" name="" text="&#xA;Esa repentina chispa de humanidad para ella era&#xA;tranquilizadora." voices=""/>
+    <clear @l="403" class="char"/>
+    <begin_trans @l="404" time="200"/>
+    <char @l="405" id="mku_" pos="auto" src="mku_aacp"/>
+    <char @l="406" id="tmr_" pos="auto" src="tmr_aabg"/>
+    <end_trans @l="407"/>
+    <msg @l="409" char_id="-1" frame_id="-1" name="" text="La cara de Makiura se había puesto roja mientras hablaba con&#xA;Yuusuke." voices=""/>
+    <msg @l="410" char_id="-1" frame_id="-1" name="" page_feed="true" text=" Como no quería entrometerse en su camino, Shiratani&#xA;se escabulló de la habitación con una gran sonrisa en la&#xA;cara." voices="" add="true"/>
+    <page @l="412" fade="300"/>
+    <se @l="413" buf="1" src="se004" volume="1."/>
+    <wait_chgmv/>
+    <bg @l="414" alpha="02" src="bg06a" time="800"/>
+    <char @l="415" id="srt_" pos="auto" src="srt_aaae"/>
+    <msg @l="417" char_id="-1" frame_id="-1" name="" text="(Me alegro por ti)." voices="shir00424"/>
+    <msg @l="419" char_id="-1" frame_id="-1" name="" text="Shiratani recordó el aspecto de Makiura cuando la encontró&#xA;sola en la sala de reuniones." voices=""/>
+    <msg @l="420" char_id="-1" frame_id="-1" name="" page_feed="true" text="Desde que vio eso, se preguntó si estaba bien seguir&#xA;dependiendo de una sola mujer para todo. No se sentía del&#xA;todo bien." voices=""/>
+    <page @l="422" fade="300"/>
+    <clear @l="423" class="char"/>
+    <msg @l="425" char_id="-1" frame_id="-1" name="" text="Pero, quizás Makiura había encontrado a alguien que la&#xA;apoyara." voices=""/>
+    <msg @l="426" char_id="-1" frame_id="-1" name="" text=" Deseándoles lo mejor, Shiratani salió de la&#xA;oficina tras ella." voices="" add="true"/>
+    <stopse @l="428" buf="1" fadeout="1000"/>
+    <stopbgm @l="429" fadeout="2000"/>
+    <wait_chgmv/>
+    <bg @l="430" effect="cross_fade" src="black" time="2000"/>
+  </code>
+</xscript>

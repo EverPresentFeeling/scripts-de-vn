@@ -1,0 +1,421 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xscript>
+  <debug editor="&quot;C:\Program Files (x86)\sakura\sakura.exe&quot; &quot;%src%&quot; -Y=%line%" src="D:\zombies\Series Build\開発データ\開発環境\vol別\vol0\script\text\通常シーン6（時子） パンデミック前.txt"/>
+  <code>
+    <description @l="1" text="パンデミック前"/>
+    <wait_chgmv/>
+    <bg @l="4" effect="cross_fade" src="black" time="200"/>
+    <msg @l="6" char_id="-1" frame_id="-1" name="" page_feed="true" text="“Y ahora estoy en paro”." voices=""/>
+    <page @l="8" fade="300"/>
+    <se @l="9" buf="1" src="se078" volume="1."/>
+    <wait_chgmv/>
+    <bg @l="10" effect="cross_fade" src="white" time="200"/>
+    <wait_chgmv/>
+    <bg @l="11" effect="cross_fade" src="bg70a" time="2000"/>
+    <bgm @l="12" src="bgm04" volume="1."/>
+    <se @l="13" buf="1" src="se059" volume="1."/>
+    <msg @l="15" char_id="-1" frame_id="-1" name="" text="Yuusuke corrió las cortinas y una luz cegadora entró en el&#xA;interior." voices=""/>
+    <msg @l="16" char_id="-1" frame_id="-1" name="" page_feed="true" text=" Seguía en pijama, mirando por la ventana." voices="" add="true"/>
+    <page @l="18" fade="300"/>
+    <msg @l="20" char_id="-1" frame_id="-1" name="" text="El reloj decía que eran las siete de la mañana." voices=""/>
+    <msg @l="21" char_id="-1" frame_id="-1" name="" text=" La mayoría de&#xA;la gente estaría apurada, preparándose para el trabajo en ese&#xA;momento. Pero, Yuusuke ya no tenía ningún trabajo al que ir." voices="" add="true"/>
+    <msg @l="22" add="true" char_id="-1" frame_id="-1" name="" text="La empresa para la que trabajaba había quebrado hace poco." voices=""/>
+    <msg @l="23" char_id="-1" frame_id="-1" name="" text="Aunque era su primer día de paro real, su empresa había&#xA;cerrado hace una semana." voices=""/>
+    <msg @l="24" add="true" char_id="-1" frame_id="-1" name="" text=" Las secuelas del anuncio de la&#xA;quiebra le habían dejado increíblemente ocupado." voices=""/>
+    <msg @l="25" char_id="-1" frame_id="-1" name="" page_feed="true" text="De estar en contacto frecuente con sus colegas tratando de&#xA;resolver la situación, a obtener toda la documentación&#xA;necesaria. Además de tener que lidiar con los trámites del&#xA;seguro y demás, no había tenido un momento de descanso en&#xA;toda la semana." voices=""/>
+    <page @l="27" fade="300"/>
+    <msg @l="29" char_id="-1" frame_id="-1" name="" text="Siguiendo con la mirada por la ventana, se estiró mucho." voices=""/>
+    <msg @l="30" char_id="-1" frame_id="-1" name="" text="Aunque el futuro parecía sombrío, el sol de la mañana era lo&#xA;suficientemente brillante como para disipar sus&#xA;preocupaciones." voices=""/>
+    <msg @l="31" char_id="-1" frame_id="-1" name="" text="Yuusuke no se había sentido así en mucho tiempo." voices=""/>
+    <msg @l="33" char_id="-1" frame_id="-1" name="" text="“Realmente debería empezar a buscar un nuevo trabajo hoy”." voices=""/>
+    <msg @l="35" char_id="-1" frame_id="-1" name="" text="Dio un pequeño suspiro, se cruzó de brazos y reflexionó." voices=""/>
+    <msg @l="36" char_id="-1" frame_id="-1" name="" text="&#xA;Tenía unos ahorros decentes y cobraba su seguro de desempleo." voices="" add="true"/>
+    <msg @l="37" char_id="-1" frame_id="-1" name="" page_feed="true" text="Sería bueno tomarse un pequeño descanso, pensó para sí mismo." voices=""/>
+    <page @l="39" fade="300"/>
+    <msg @l="41" char_id="-1" frame_id="-1" name="" text="“Darme un mes para divertirme o algo así”." voices=""/>
+    <msg @l="43" char_id="-1" frame_id="-1" name="" text="Terminaría todos los asuntos que le quedaban y luego se&#xA;dedicaría de lleno a la buena vida." voices=""/>
+    <msg @l="44" char_id="-1" frame_id="-1" name="" text=" Hacía años que no se&#xA;tomaba unas vacaciones largas, así que pensó que se merecía&#xA;una." voices="" add="true"/>
+    <msg @l="45" char_id="-1" frame_id="-1" name="" text="Al pensar en lo que podría hacer con todo ese tiempo libre,&#xA;empezó a sentirse un poco excitado." voices=""/>
+    <msg @l="47" char_id="-1" frame_id="-1" name="" page_feed="true" text="Aun así, ese día..." voices=""/>
+    <page @l="49" fade="300"/>
+    <msg @l="51" char_id="-1" frame_id="-1" name="" text="“Hoy debería limpiar mi casa”." voices=""/>
+    <msg @l="53" char_id="-1" frame_id="-1" name="" text="Era el momento de empezar de nuevo en la vida." voices=""/>
+    <wait_chgmv/>
+    <bg @l="55" src="black" time="1000"/>
+    <msg @l="57" char_id="-1" frame_id="-1" name="" page_feed="true" text="¿Qué mejor manera de recibirlo que pasar todo el día&#xA;ordenando?" voices=""/>
+    <wait @l="59" time="500"/>
+    <page @l="60" fade="300"/>
+    <wait_chgmv/>
+    <bg @l="61" alpha="1" src="bg74a" time="800"/>
+    <msg @l="63" char_id="-1" frame_id="-1" name="" text="Al día siguiente." voices=""/>
+    <msg @l="64" char_id="-1" frame_id="-1" name="" text="Al parecer, tener tiempo libre le hizo ser consciente de sus&#xA;responsabilidades de adulto, ya que esa mañana decidió sacar&#xA;la basura." voices=""/>
+    <msg @l="65" char_id="-1" frame_id="-1" name="" text="Desgraciadamente, por mucho que quisiera evitar cruzarse con&#xA;alguien, se encontró con un grupo de amas de casa&#xA;parlanchinas por el camino." voices=""/>
+    <msg @l="66" char_id="-1" frame_id="-1" name="" text="Había muchas familias que vivían en el piso de abajo, y nunca&#xA;podía evitarlas durante las últimas horas del día." voices=""/>
+    <msg @l="67" char_id="-1" frame_id="-1" name="" text="El complejo de apartamentos tenía su propia zona de recogida&#xA;de basura, por lo que deseó haber sacado la basura durante&#xA;la noche. Por desgracia, ya era demasiado tarde." voices=""/>
+    <msg @l="68" char_id="-1" frame_id="-1" name="" text="Sacar la basura era algo perfectamente normal, pero aun así&#xA;no podía soportar todas sus miradas curiosas." voices=""/>
+    <msg @l="69" add="true" char_id="-1" frame_id="-1" name="" page_feed="true" text=" Tal vez porque&#xA;se sentía culpable." voices=""/>
+    <page @l="71" fade="300"/>
+    <wait_chgmv/>
+    <bg @l="72" alpha="04" src="bg71a" time="800"/>
+    <msg @l="74" char_id="-1" frame_id="-1" name="" text="Su frenesí de limpieza del día anterior había producido un&#xA;gran volumen de basura, por lo que tuvo que hacer varios&#xA;viajes; con los brazos llenos de bolsas cada vez." voices=""/>
+    <msg @l="76" char_id="-1" frame_id="-1" name="" text="Mientras bajaba la última carga, se topó con una mujer en el&#xA;pasillo." voices=""/>
+    <char @l="78" id="tok_" pos="auto" src="tok_aajd"/>
+    <msg @l="80" char_id="-1" frame_id="-1" name="" text="“...”." voices="toki00100"/>
+    <msg @l="82" char_id="-1" frame_id="-1" name="" text="Ella inclinó ligeramente la cabeza y él le devolvió el&#xA;saludo." voices=""/>
+    <msg @l="83" char_id="-1" frame_id="-1" name="" page_feed="true" text="Era una oficinista que vivía en el mismo piso que él." voices=""/>
+    <page @l="85" fade="300"/>
+    <msg @l="87" char_id="-1" frame_id="-1" name="" text="No es que fueran amigos ni nada por el estilo." voices=""/>
+    <msg @l="88" char_id="-1" frame_id="-1" name="" text="Parecían salir del trabajo más o menos a la misma hora, así&#xA;que ya se habían cruzado antes. Pero, nunca habían hablado." voices=""/>
+    <msg @l="89" char_id="-1" frame_id="-1" name="" text="A menudo se trataba de un simple saludo como ese, pero a&#xA;veces simplemente se ignoraban." voices=""/>
+    <msg @l="90" char_id="-1" frame_id="-1" name="" page_feed="true" text="Él no tenía ningún interés en ella, y parecía que ella sentía&#xA;lo mismo." voices=""/>
+    <page @l="92" fade="300"/>
+    <char @l="93" id="tok_" pos="auto" src="tok_aajg"/>
+    <msg @l="95" char_id="-1" frame_id="-1" name="" text="O eso pensaba, pero algo parecía diferente." voices=""/>
+    <msg @l="96" char_id="-1" frame_id="-1" name="" text="Parecía algo perpleja mientras lo miraba." voices=""/>
+    <msg @l="97" char_id="-1" frame_id="-1" name="" text="Tal vez a ella le pareció extraño que estuviera vestido con&#xA;ropa informal, ya que todas las demás veces que se habían&#xA;visto él había llevado su traje de negocios." voices=""/>
+    <msg @l="98" char_id="-1" frame_id="-1" name="" page_feed="true" text="Sin importar el motivo, no estaban lo suficientemente&#xA;cerca como para que Yuusuke preguntara." voices=""/>
+    <page @l="100" fade="300"/>
+    <clear @l="101" class="char"/>
+    <char @l="102" id="l_to" pos="auto" src="l_tok_aajf"/>
+    <msg @l="104" char_id="-1" frame_id="-1" name="" text="Pasaron de largo sin mediar palabra." voices=""/>
+    <wait @l="106" time="300"/>
+    <clear @l="107" class="char"/>
+    <msg @l="109" char_id="-1" frame_id="-1" name="" text="(¿Umm?)." voices=""/>
+    <msg @l="111" char_id="-1" frame_id="-1" name="" page_feed="true" text="Le echó un vistazo a la cara y observó que parecía muy&#xA;cansada." voices=""/>
+    <page @l="113" fade="300"/>
+    <stopbgm @l="114" fadeout="2000"/>
+    <stopse @l="115" buf="1" fadeout="1000"/>
+    <wait_chgmv/>
+    <bg @l="116" effect="cross_fade" src="black" time="1000"/>
+    <wait @l="117" time="500"/>
+    <wait_chgmv/>
+    <bg @l="118" alpha="1" src="bg70a" time="800"/>
+    <bgm @l="119" src="bgm01" volume="1."/>
+    <msg @l="121" char_id="-1" frame_id="-1" name="" text="Pasó una semana." voices=""/>
+    <msg @l="122" char_id="-1" frame_id="-1" name="" text="Yuusuke había ido a varias entrevistas de trabajo mientras&#xA;vivía de su seguro de desempleo." voices=""/>
+    <msg @l="123" char_id="-1" frame_id="-1" name="" text="Quizá los entrevistadores se dieron cuenta de su falta de&#xA;motivación, ya que no había recibido ni una sola oferta." voices=""/>
+    <msg @l="124" char_id="-1" frame_id="-1" name="" text="Aunque no era exactamente un buscavidas, tenía la intención&#xA;de trabajar duro en cualquier trabajo que consiguiera. La&#xA;cadena de rechazos lo dejó algo deprimido." voices=""/>
+    <msg @l="125" char_id="-1" frame_id="-1" name="" page_feed="true" text="Para reponerse, decidió sacar su moto para hacer un pequeño&#xA;viaje." voices=""/>
+    <page @l="127" fade="300"/>
+    <wait_chgmv/>
+    <bg @l="128" alpha="03" src="bg74a" time="800"/>
+    <msg @l="130" char_id="-1" frame_id="-1" name="" text="Desempolvó su vieja motocicleta y trazó una ruta." voices=""/>
+    <msg @l="131" char_id="-1" frame_id="-1" name="" text="El GPS que utilizaba trazaba su posición a lo largo del&#xA;viaje, lo que le permitía consultarlo superpuesto en un mapa&#xA;a su regreso; algo que siempre le había gustado." voices=""/>
+    <msg @l="132" char_id="-1" frame_id="-1" name="" text="Todas las fotografías que tomara mientras estaba fuera&#xA;tendrían también datos de localización, lo que&#xA;significaría que podría alinearlas con el mapa más tarde." voices=""/>
+    <se @l="134" buf="1" src="se093" volume="1."/>
+    <msg @l="136" char_id="-1" frame_id="-1" name="" text="“Es hora de irse”." voices=""/>
+    <msg @l="138" char_id="-1" frame_id="-1" name="" text="Se puso el casco y arrancó la moto." voices=""/>
+    <se @l="140" buf="1" src="se094" volume="1."/>
+    <msg @l="142" char_id="-1" frame_id="-1" name="" page_feed="true" text="Iba a ser el mejor día de todos." voices=""/>
+    <wait_chgmv/>
+    <bg @l="144" alpha="4" src="bg69a" time="1000"/>
+    <page @l="145" fade="300"/>
+    <wait @l="146" time="500"/>
+    <wait_chgmv/>
+    <bg @l="147" effect="cross_fade" src="bg69b" time="2000"/>
+    <wait @l="148" time="500"/>
+    <stopse @l="149" buf="1" fadeout="800"/>
+    <wait_chgmv/>
+    <bg @l="150" effect="cross_fade" src="bg69c" time="2000"/>
+    <se @l="151" buf="1" src="se095" volume="1."/>
+    <msg @l="153" char_id="-1" frame_id="-1" name="" text="Y así pasó el día." voices=""/>
+    <msg @l="154" char_id="-1" frame_id="-1" name="" text="Yuusuke había pasado horas dando vueltas en su moto antes de&#xA;regresar finalmente a casa." voices=""/>
+    <msg @l="156" char_id="-1" frame_id="-1" name="" text="“Umm...”." voices=""/>
+    <msg @l="158" char_id="-1" frame_id="-1" name="" text="Lo único fue que su aventura no le había parecido muy&#xA;satisfactoria, ya que no tenía trabajo." voices=""/>
+    <msg @l="159" char_id="-1" frame_id="-1" name="" page_feed="true" text="Cuando era un descanso de la rutina diaria, siempre se&#xA;divertía mucho al hacer eso." voices=""/>
+    <page @l="161" fade="300"/>
+    <msg @l="163" char_id="-1" frame_id="-1" name="" text="Antes, cuando volvía a casa, su cuerpo estaba cansado, pero&#xA;su mente estaba renovada. Como si estuviera listo para&#xA;volver al trabajo y afrontar otro día." voices=""/>
+    <msg @l="164" char_id="-1" frame_id="-1" name="" text="Pero al tener mucho tiempo libre, ya no le gustaba tanto." voices=""/>
+    <msg @l="166" char_id="-1" frame_id="-1" name="" text="(Como que se siente desgastado)." voices=""/>
+    <msg @l="168" char_id="-1" frame_id="-1" name="" page_feed="true" text="Suspiró." voices=""/>
+    <page @l="170" fade="300"/>
+    <wait_chgmv/>
+    <bg @l="171" alpha="3" src="bg74c" time="1000"/>
+    <char @l="172" id="tok_" pos="auto" src="tok_aaje"/>
+    <msg @l="174" char_id="-1" frame_id="-1" name="" text="Mientras devolvía su motocicleta al aparcamiento, se topó con&#xA;la misma mujer de la semana anterior." voices=""/>
+    <char @l="176" id="tok_" pos="auto" src="tok_aajf"/>
+    <msg @l="178" char_id="-1" frame_id="-1" name="" text="“...”." voices="toki00101"/>
+    <msg @l="180" char_id="-1" frame_id="-1" name="" text="Lo vio y agachó la cabeza." voices=""/>
+    <msg @l="181" char_id="-1" frame_id="-1" name="" text="Aunque no llevaba la ropa de trabajo con la que ella solía&#xA;verlo, una vez más lo reconoció claramente." voices=""/>
+    <msg @l="182" char_id="-1" frame_id="-1" name="" page_feed="true" text="A pesar de lo tarde que era, acababa de volver del trabajo." voices=""/>
+    <page @l="184" fade="300"/>
+    <clear @l="185" class="char"/>
+    <msg @l="187" char_id="-1" frame_id="-1" name="" text="(¿Está borracha o algo así?)." voices=""/>
+    <msg @l="189" char_id="-1" frame_id="-1" name="" text="Parecía que arrastraba las piernas detrás de ella mientras&#xA;caminaba hacia el ascensor." voices=""/>
+    <msg @l="191" char_id="-1" frame_id="-1" name="" text="(Cada vez que la veo parece más agotada)." voices=""/>
+    <msg @l="193" char_id="-1" frame_id="-1" name="" text="Tal vez tenía un trabajo duro." voices=""/>
+    <msg @l="194" char_id="-1" frame_id="-1" name="" page_feed="true" text="A esas alturas, un trabajo parecía algo que hacían otras&#xA;personas." voices=""/>
+    <wait_chgmv/>
+    <bg @l="199" src="black" time="1000"/>
+    <wait @l="200" time="500"/>
+    <wait_chgmv/>
+    <bg @l="201" alpha="3" src="bg51e" time="800"/>
+    <page @l="202" fade="300"/>
+    <bgm @l="203" src="bgm04" volume="1."/>
+    <msg @l="206" char_id="-1" frame_id="-1" name="" text="Ya había pasado un mes. Yuusuke se había metido de lleno en&#xA;su estilo de vida de desempleado y había empezado a darse un&#xA;atracón de autocomplacencia." voices=""/>
+    <msg @l="207" char_id="-1" frame_id="-1" name="" text="Compró un litro de helado y algo de pollo frito en una tienda&#xA;de comestibles, y luego se quedó en la sección de revistas&#xA;hojeando los nuevos productos." voices=""/>
+    <msg @l="208" char_id="-1" frame_id="-1" name="" text="El libro de cocina que había comprado poco después de perder&#xA;su trabajo, pensando que aprendería a cocinar por sí mismo,&#xA;hacía tiempo que había acumulado una gruesa capa de polvo." voices=""/>
+    <msg @l="209" char_id="-1" frame_id="-1" name="" text="Comprar los alimentos y planificar las comidas había sido&#xA;divertido al principio, pero se convirtió en un dolor en un&#xA;par de días." voices=""/>
+    <msg @l="210" add="true" char_id="-1" frame_id="-1" name="" text=" Probar cosas nuevas era una tarea." voices=""/>
+    <msg @l="212" char_id="-1" frame_id="-1" name="" page_feed="true" text="De repente, vio por el rabillo del ojo una figura conocida." voices=""/>
+    <page @l="214" fade="300"/>
+    <char @l="215" id="tok_" pos="auto" src="tok_aaje"/>
+    <msg @l="217" char_id="-1" frame_id="-1" name="" text="(Oh)." voices=""/>
+    <msg @l="219" char_id="-1" frame_id="-1" name="" text="Era la misma mujer, que entraba tambaleándose por la entrada&#xA;de la tienda." voices=""/>
+    <msg @l="220" char_id="-1" frame_id="-1" name="" text="La tienda de conveniencia se encontraba en una carretera que&#xA;conectaba su complejo de apartamentos con la estación, por&#xA;lo que no era muy extraño que ella estuviera allí." voices=""/>
+    <msg @l="221" char_id="-1" frame_id="-1" name="" text="Yuusuke sintió que no valía la pena saludarla." voices=""/>
+    <msg @l="222" add="true" char_id="-1" frame_id="-1" name="" text=" Decidió&#xA;ignorarla." voices=""/>
+    <clear @l="224" class="char"/>
+    <se @l="225" buf="1" src="se031" volume="1."/>
+    <wait @l="226" time="100"/>
+    <se @l="227" buf="1" src="se031" volume="1."/>
+    <msg @l="229" char_id="-1" frame_id="-1" name="" text="Afortunadamente, ella no pareció darse cuenta de su presencia&#xA;y se limitó a comprar una bebida energética y una taza de&#xA;pudín antes de salir de la tienda." voices=""/>
+    <msg @l="230" char_id="-1" frame_id="-1" name="" text="Tenía un aspecto aún más sombrío que la última vez que la&#xA;había visto." voices=""/>
+    <msg @l="231" char_id="-1" frame_id="-1" name="" text="Su tez era mortalmente pálida, y las deslumbrantes luces&#xA;fluorescentes no le hacían ningún favor." voices=""/>
+    <msg @l="232" char_id="-1" frame_id="-1" name="" page_feed="true" text="Era tarde en la noche, así que probablemente estaba&#xA;regresando a casa después de trabajar horas extras." voices=""/>
+    <page @l="234" fade="300"/>
+    <msg @l="236" char_id="-1" frame_id="-1" name="" text="(Debe tener un trabajo de mierda)." voices=""/>
+    <msg @l="238" char_id="-1" frame_id="-1" name="" page_feed="true" text="Yuusuke sacudió la cabeza y volvió a su revista." voices=""/>
+    <page @l="240" fade="300"/>
+    <wait_chgmv/>
+    <bg @l="241" src="black" time="1000"/>
+    <wait @l="242" time="500"/>
+    <se @l="243" buf="2" src="se148" volume="1."/>
+    <wait_chgmv/>
+    <bg @l="244" alpha="1" src="bg58a" time="800"/>
+    <bgm @l="245" src="bgm03" volume="1."/>
+    <msg @l="247" char_id="-1" frame_id="-1" name="" text="El tiempo pasó volando, y se encontró con su segundo mes de&#xA;desempleo." voices=""/>
+    <msg @l="248" char_id="-1" frame_id="-1" name="" text="Era una tarde lluviosa." voices=""/>
+    <msg @l="249" char_id="-1" frame_id="-1" name="" page_feed="true" text="Yuusuke estaba volviendo de la tienda." voices=""/>
+    <page @l="252" fade="300"/>
+    <stopse @l="253" buf="2" fadeout="2000"/>
+    <wait_chgmv/>
+    <bg @l="254" alpha="3" src="black" time="800"/>
+    <se @l="259" buf="1" src="se100" volume="1."/>
+    <msg @l="261" char_id="-1" frame_id="-1" name="" text="Subió al ascensor de la primera planta de su edificio y,&#xA;justo cuando iba a pulsar el botón de su planta, una mujer&#xA;empapada entró a toda prisa a su lado." voices=""/>
+    <se @l="263" buf="2" src="se050" volume="1."/>
+    <wait_chgmv/>
+    <ev @l="264" alpha="1" src="ev0t04aa" time="800"/>
+    <msg @l="266" char_id="-1" frame_id="-1" name="" text="Tenía la cabeza caída y ocultaba su expresión." voices=""/>
+    <msg @l="267" char_id="-1" frame_id="-1" name="" text="La falda de su traje estaba arrugada, con las medias pegadas&#xA;a las piernas; probablemente debido a que había estado&#xA;caminando bajo la lluvia sin paraguas." voices=""/>
+    <msg @l="268" char_id="-1" frame_id="-1" name="" page_feed="true" text=" El agua goteaba de su&#xA;cabello oscuro, trenzado sin estar muy apretado, y se&#xA;acumulaba en el suelo." voices="" add="true"/>
+    <stopse @l="270" buf="2" fadeout="1000"/>
+    <page @l="271" fade="300"/>
+    <msg @l="273" char_id="-1" frame_id="-1" name="" text="(Mierda)." voices=""/>
+    <msg @l="275" char_id="-1" frame_id="-1" name="" text="Era la misma oficinista que vivía en el quinto piso con él." voices=""/>
+    <msg @l="276" char_id="-1" frame_id="-1" name="" text="&#xA;Sin embargo, parecía sacada de una película de terror." voices="" add="true"/>
+    <msg @l="277" char_id="-1" frame_id="-1" name="" text="Cada vez que la había visto últimamente, tenía un aspecto&#xA;progresivamente peor." voices=""/>
+    <msg @l="278" char_id="-1" frame_id="-1" name="" text="No prestó atención ni a Yuusuke ni al hombre de mediana edad&#xA;en el ascensor, sino que se limitó a teclear su teléfono." voices=""/>
+    <se @l="280" buf="1" src="se101" volume="1."/>
+    <msg @l="282" char_id="-1" frame_id="-1" name="" page_feed="true" text="Yuusuke sentía curiosidad, pero fingió no tenerla. Miraba la&#xA;pantalla del piso mientras el ascensor subía, con la bolsa&#xA;con la cena de esta noche colgando del brazo." voices=""/>
+    <page @l="284" fade="300"/>
+    <stopse @l="285" buf="1"/>
+    <se @l="286" buf="1" src="se102" volume="1."/>
+    <shake @l="287" amp="10" class="ev" cycle="1" duration="100" type="random"/>
+    <msg @l="289" char_id="-1" frame_id="-1" name="" text="En el cuarto piso, el hombre de mediana edad salió." voices=""/>
+    <se @l="291" buf="1" src="se109" volume="1."/>
+    <wait_chgmv/>
+    <bg @l="292" src="black" time="1000"/>
+    <msg @l="294" char_id="-1" frame_id="-1" name="" text="La mujer salió tambaleándose tras él." voices=""/>
+    <wait_chgmv/>
+    <bg @l="296" effect="cross_fade" src="bg71c" time="1000"/>
+    <msg @l="298" char_id="-1" frame_id="-1" name="" text="“Err.”" voices=""/>
+    <stopse @l="301" buf="1"/>
+    <msg @l="303" char_id="-1" frame_id="-1" name="" text="El murmullo de Yuusuke hizo que la mujer se detuviera de&#xA;golpe." voices=""/>
+    <msg @l="305" char_id="-1" frame_id="-1" name="" text="(Mierda)." voices=""/>
+    <msg @l="307" char_id="-1" frame_id="-1" name="" text="No había querido decir nada, pero la mujer ya se había&#xA;detenido." voices=""/>
+    <char @l="309" id="l_to" pos="auto" src="l_tok_aajf"/>
+    <msg @l="311" char_id="-1" frame_id="-1" name="" text="“...”." voices="toki00102"/>
+    <msg @l="313" char_id="-1" frame_id="-1" name="" page_feed="true" text="Ella lo miró interrogativamente." voices=""/>
+    <page @l="315" fade="300"/>
+    <msg @l="317" char_id="-1" frame_id="-1" name="" text="Hubo un silencio incómodo antes de que Yuusuke consiguiera&#xA;hablar." voices=""/>
+    <msg @l="319" char_id="-1" frame_id="-1" name="" text="“Solo estamos en el cuarto piso." voices=""/>
+    <msg @l="320" char_id="-1" frame_id="-1" name="" text=" Aunque, eh, puedes salir&#xA;si quieres”." voices="" add="true"/>
+    <char @l="322" id="l_to" pos="auto" src="l_tok_aajd"/>
+    <wait @l="323" time="500"/>
+    <clear @l="324" class="char"/>
+    <msg @l="326" char_id="-1" frame_id="-1" name="" text="La mujer levantó la vista para comprobar el número de la&#xA;planta, y luego volvió lentamente a su lugar original." voices=""/>
+    <se @l="328" buf="1" src="se100" volume="1."/>
+    <wait_chgmv/>
+    <bg @l="329" src="black" time="1000"/>
+    <wait_chgmv/>
+    <ev @l="330" alpha="3" src="ev0t04aa" time="800"/>
+    <wait @l="331" time="1000"/>
+    <se @l="332" buf="1" src="se101" volume="1."/>
+    <msg @l="334" char_id="-1" frame_id="-1" name="" page_feed="true" text="Se hizo el silencio mientras el ascensor reanudaba su&#xA;ascenso." voices=""/>
+    <page @l="336" fade="300"/>
+    <msg @l="338" char_id="-1" frame_id="-1" name="" text="(Maldición)." voices=""/>
+    <msg @l="340" char_id="-1" frame_id="-1" name="" text="También se bajarían en el mismo piso." voices=""/>
+    <msg @l="341" char_id="-1" frame_id="-1" name="" page_feed="true" text="Yuusuke tendría que soportar sentirse incómodo durante un&#xA;tiempo, al menos." voices=""/>
+    <page @l="343" fade="300"/>
+    <stopse @l="344" buf="1" fadeout="1000"/>
+    <waitse @l="345" buf="1"/>
+    <se @l="346" buf="1" src="se102" volume="1."/>
+    <wait_chgmv/>
+    <bg @l="347" alpha="03" src="bg71c" time="800"/>
+    <msg @l="349" char_id="-1" frame_id="-1" name="" text="Cuando llegaron al quinto piso, fue el primero en salir del&#xA;ascensor." voices=""/>
+    <msg @l="350" char_id="-1" frame_id="-1" name="" text="Llegó a su propia puerta antes de mirar hacia atrás y ver a&#xA;la mujer rebuscando en su bolso en la puerta del apartamento&#xA;de al lado." voices=""/>
+    <msg @l="355" char_id="-1" frame_id="-1" name="" page_feed="true" text="Parecía tener dificultades, pero Yuusuke la ignoró y entró." voices=""/>
+    <se @l="357" buf="1" src="se003" volume="1."/>
+    <page @l="358" fade="300"/>
+    <wait_chgmv/>
+    <bg @l="359" alpha="04" src="bg70c" time="1000"/>
+    <se @l="361" buf="1" src="se004" volume="1."/>
+    <msg @l="362" char_id="-1" frame_id="-1" name="" text="(Uf...)." voices=""/>
+    <msg @l="364" char_id="-1" frame_id="-1" name="" text="Tiró la bolsa al suelo." voices=""/>
+    <msg @l="366" char_id="-1" frame_id="-1" name="" page_feed="true" text="Y en un instante, se olvidó por completo de la mujer." voices=""/>
+    <page @l="368" fade="300"/>
+    <wait_chgmv/>
+    <bg @l="369" src="black" time="1000"/>
+    <wait @l="370" time="500"/>
+    <wait_chgmv/>
+    <bg @l="371" alpha="03" src="bg70c" time="800"/>
+    <msg @l="373" char_id="-1" frame_id="-1" name="" text="Una hora más tarde." voices=""/>
+    <msg @l="375" char_id="-1" frame_id="-1" name="" text="“No puede ser. ¿Así es como van a terminar?”." voices=""/>
+    <msg @l="377" char_id="-1" frame_id="-1" name="" text="Yuusuke había estado viendo una serie de televisión&#xA;extranjera que había alquilado mientras compraba la cena, y&#xA;el último episodio había terminado con un verdadero&#xA;cliffhanger." voices=""/>
+    <msg @l="378" char_id="-1" frame_id="-1" name="" text="Necesitaba desesperadamente saber qué pasaba después." voices=""/>
+    <msg @l="379" char_id="-1" frame_id="-1" name="" text="Tendría que esperar a mañana." voices=""/>
+    <msg @l="380" char_id="-1" frame_id="-1" name="" page_feed="true" text="A menos que fuera a alquilar la siguiente parte en ese&#xA;instante. La tienda todavía estaba abierta." voices=""/>
+    <page @l="382" fade="300"/>
+    <se @l="383" buf="1" src="se006" volume="1."/>
+    <wait_chgmv/>
+    <bg @l="384" alpha="01" src="bg71c" time="1000"/>
+    <msg @l="386" char_id="-1" frame_id="-1" name="" text="Agarrando su paraguas mientras avanzaba, cerró la puerta tras&#xA;de sí y se dirigió al ascensor." voices=""/>
+    <msg @l="388" char_id="-1" frame_id="-1" name="" text="(Debería haber alquilado toda la serie de una vez)." voices=""/>
+    <msg @l="390" char_id="-1" frame_id="-1" name="" page_feed="true" text="Estaba paseando despreocupadamente por el pasillo cuando se&#xA;topó con una gran sombra negra delante de él." voices=""/>
+    <stopbgm @l="392" fadeout="1000"/>
+    <page @l="393" fade="300"/>
+    <shake @l="394" amp="20" class="bg" cycle="1" duration="200" type="random"/>
+    <se @l="395" buf="1" src="se021" volume="1."/>
+    <msg @l="397" char_id="-1" frame_id="-1" name="" text="“¡Guah!”." voices=""/>
+    <msg @l="399" char_id="-1" frame_id="-1" name="" text="Se encontró gritando y retrocediendo." voices=""/>
+    <msg @l="400" char_id="-1" frame_id="-1" name="" text="La cosa misteriosa estaba justo delante de él." voices=""/>
+    <msg @l="401" char_id="-1" frame_id="-1" name="" text="Había oscurecido tanto que no podía distinguirlo." voices=""/>
+    <msg @l="403" char_id="-1" frame_id="-1" name="" page_feed="true" text="“Guh... Guh...”." voices=""/>
+    <page @l="405" fade="300"/>
+    <bgm @l="407" src="bgm05" volume="1."/>
+    <msg @l="409" char_id="-1" frame_id="-1" name="" text="Al mirar más de cerca, se dio cuenta de que era la silueta de&#xA;alguien en cuclillas." voices=""/>
+    <msg @l="410" char_id="-1" frame_id="-1" name="" text=" Eso lo tranquilizó, permitiéndole&#xA;estudiar más la silueta." voices="" add="true"/>
+    <msg @l="411" char_id="-1" frame_id="-1" name="" text="No era otra que la misma mujer empapada que había estado en&#xA;el ascensor con él." voices=""/>
+    <msg @l="412" char_id="-1" frame_id="-1" name="" page_feed="true" text="Por alguna razón estaba en cuclillas en la entrada, abrazando&#xA;sus rodillas contra sí misma." voices=""/>
+    <page @l="414" fade="300"/>
+    <msg @l="416" char_id="-1" frame_id="-1" name="" text="(¿Qué está haciendo?)." voices=""/>
+    <msg @l="418" char_id="-1" frame_id="-1" name="" text="Yuusuke era el que se había sobresaltado, pero la mujer&#xA;parecía estar acurrucada. Tal vez su grito la había&#xA;tomado por sorpresa." voices=""/>
+    <msg @l="419" add="true" char_id="-1" frame_id="-1" name="" text=" Su cabello y su ropa seguían empapados." voices=""/>
+    <msg @l="420" add="true" char_id="-1" frame_id="-1" name="" text="&#xA;¿Qué hacía sentada allí?" voices=""/>
+    <msg @l="421" char_id="-1" frame_id="-1" name="" text="Yuusuke estaba completamente desconcertado." voices=""/>
+    <msg @l="422" add="true" char_id="-1" frame_id="-1" name="" page_feed="true" text=" Pero, entonces&#xA;recordó que ella había estado rebuscando en su bolso y tuvo&#xA;una idea." voices=""/>
+    <page @l="424" fade="300"/>
+    <msg @l="426" char_id="-1" frame_id="-1" name="" text="“Oh, ¿has perdido la llave?”." voices=""/>
+    <char @l="428" id="l_to" pos="auto" src="l_tok_aajf"/>
+    <wait @l="429" time="200"/>
+    <clear @l="430" class="char"/>
+    <msg @l="432" char_id="-1" frame_id="-1" name="" text="“...”." voices="toki00103"/>
+    <msg @l="434" char_id="-1" frame_id="-1" name="" page_feed="true" text="Haciendo un movimiento tan pequeño que Yuusuke no lo habría&#xA;notado si no la hubiera estado mirando, ella asintió." voices=""/>
+    <page @l="436" fade="300"/>
+    <msg @l="438" char_id="-1" frame_id="-1" name="" text="(Maldita sea, mujer, no tenías que asustarme)." voices=""/>
+    <msg @l="440" char_id="-1" frame_id="-1" name="" text="Debería haber llamado a un cerrajero o haberse puesto en&#xA;contacto con los administradores del complejo de&#xA;apartamentos. Aunque tal vez no tenía la energía para&#xA;hacerlo." voices=""/>
+    <msg @l="441" char_id="-1" frame_id="-1" name="" text="Tal vez había metido la pata en el trabajo o la había dejado&#xA;su novio." voices=""/>
+    <msg @l="442" char_id="-1" frame_id="-1" name="" text=" Sin importar la razón, parecía deprimida." voices="" add="true"/>
+    <msg @l="443" add="true" char_id="-1" frame_id="-1" name="" text=" Y a ese&#xA;paso iba a coger un resfriado." voices=""/>
+    <msg @l="444" char_id="-1" frame_id="-1" name="" page_feed="true" text="Aun así..." voices=""/>
+    <page @l="446" fade="300"/>
+    <msg @l="448" char_id="-1" frame_id="-1" name="" text="(Realmente no quiero hablar con esta chica)." voices=""/>
+    <msg @l="450" char_id="-1" frame_id="-1" name="" text="¿Y si estaba loca?" voices=""/>
+    <msg @l="451" char_id="-1" frame_id="-1" name="" text="Claro, parecía bastante normal, pero Yuusuke no la conocía&#xA;muy bien." voices=""/>
+    <msg @l="452" char_id="-1" frame_id="-1" name="" page_feed="true" text="Pero debido a que había gritado, se sentiría mal si la dejaba&#xA;allí." voices=""/>
+    <page @l="455" fade="300"/>
+    <msg @l="457" char_id="-1" frame_id="-1" name="" text="Después de preocuparse por un rato sobre qué hacer; sacó su&#xA;teléfono del bolsillo, buscó entre sus contactos al&#xA;administrador del edificio y lo llamó." voices=""/>
+    <se @l="460" buf="1" src="se026" volume="1."/>
+    <msg @l="462" char_id="-1" frame_id="-1" name="" text="A pesar de ser tarde en la noche, aparentemente todavía&#xA;estaba trabajando. Después de decirle el número del&#xA;apartamento dijo que saldría enseguida a ayudar." voices=""/>
+    <se @l="463" buf="1" src="se031" volume="1."/>
+    <msg @l="465" char_id="-1" frame_id="-1" name="" text="Se encargaría del resto." voices=""/>
+    <msg @l="466" char_id="-1" frame_id="-1" name="" text="Yuusuke guardó su teléfono..." voices=""/>
+    <msg @l="468" char_id="-1" frame_id="-1" name="" text="“Nos vemos”." voices=""/>
+    <msg @l="470" char_id="-1" frame_id="-1" name="" page_feed="true" text="Y se apresuró a alejarse de la mujer." voices=""/>
+    <page @l="472" fade="300"/>
+    <stopbgm @l="473" fadeout="2000"/>
+    <wait_chgmv/>
+    <bg @l="474" src="black" time="1000"/>
+    <wait @l="475" time="1000"/>
+    <wait_chgmv/>
+    <bg @l="476" alpha="12" src="bg71a" time="800"/>
+    <bgm @l="477" src="bgm01" volume="1."/>
+    <msg @l="479" char_id="-1" frame_id="-1" name="" text="Tres días después." voices=""/>
+    <msg @l="480" char_id="-1" frame_id="-1" name="" text="Yuusuke se había quedado encerrado en su apartamento jugando&#xA;a los videojuegos, pero decidió salir. Al salir, notó algo&#xA;extraño." voices=""/>
+    <msg @l="481" char_id="-1" frame_id="-1" name="" text="Una bolsa de plástico colgaba del pomo de su puerta." voices=""/>
+    <se @l="483" buf="1" src="se154" volume="1."/>
+    <msg @l="485" char_id="-1" frame_id="-1" name="" page_feed="true" text="Miró dentro y encontró un café con leche, una magdalena y una&#xA;nota doblada." voices=""/>
+    <page @l="487" fade="300"/>
+    <msg @l="489" char_id="-1" frame_id="-1" name="" text="(¿Qué es esto?)." voices=""/>
+    <msg @l="491" char_id="-1" frame_id="-1" name="" page_feed="true" text="Estaba de pie, desconcertado, cuando una figura apareció al&#xA;final del pasillo." voices=""/>
+    <page @l="493" fade="300"/>
+    <char @l="494" id="tok_" pos="auto" src="tok_aajf"/>
+    <msg @l="496" char_id="-1" frame_id="-1" name="" text="Era la mujer." voices=""/>
+    <msg @l="497" char_id="-1" frame_id="-1" name="" text=" Cuando lo vio, se congeló." voices="" add="true"/>
+    <msg @l="498" char_id="-1" frame_id="-1" name="" text="Pareció dudar sobre si avanzar o retroceder, antes de&#xA;dirigirse lentamente hacia él." voices=""/>
+    <msg @l="499" char_id="-1" frame_id="-1" name="" text="Ella parecía estar un poco mejor, así que decidió hacerle un&#xA;gesto con la cabeza y seguir su camino." voices=""/>
+    <clear @l="501" class="char"/>
+    <msg @l="503" add="true" char_id="-1" frame_id="-1" name="" text=" Pero la mujer pasó&#xA;por su propia puerta y continuó hacia él." voices=""/>
+    <char @l="505" id="l_to" pos="auto" src="l_tok_aajf"/>
+    <msg @l="507" char_id="-1" frame_id="-1" name="" text="(¿Eh?)." voices=""/>
+    <msg @l="509" char_id="-1" frame_id="-1" name="" page_feed="true" text="Parecía que lo necesitaba para algo." voices=""/>
+    <page @l="511" fade="300"/>
+    <se @l="512" buf="1" src="se155" volume="1."/>
+    <wait_chgmv/>
+    <ev @l="513" effect="cross_fade" src="ev0t02aa" time="1000"/>
+    <msg @l="515" char_id="-1" frame_id="-1" name="" text="Cuando llegó a él, le tendió una bolsa de plástico." voices=""/>
+    <msg @l="516" char_id="-1" frame_id="-1" name="" text="Sus delicadas muñecas asomaban por las mangas de su camisa." voices=""/>
+    <msg @l="517" char_id="-1" frame_id="-1" name="" text="Por un momento Yuusuke no supo qué quería." voices=""/>
+    <msg @l="518" char_id="-1" frame_id="-1" name="" text="Pero entonces miró hacia abajo y recordó que también tenía&#xA;una bolsa de plástico en la mano." voices=""/>
+    <msg @l="520" char_id="-1" frame_id="-1" name="" text="“Oh, err... ¿Quieres intercambiar?”." voices=""/>
+    <wait_chgmv/>
+    <ev @l="522" effect="cross_fade" src="ev0t02ab" time="500"/>
+    <msg @l="524" char_id="-1" frame_id="-1" name="" text="La mujer asintió." voices=""/>
+    <se @l="526" buf="1" src="se155" volume="1."/>
+    <begin_trans @l="527" time="1000"/>
+    <wait_chgmv/>
+    <bg @l="528" src="bg71a"/>
+    <char @l="529" id="l_to" pos="auto" src="l_tok_aajf"/>
+    <end_trans @l="530"/>
+    <msg @l="532" char_id="-1" frame_id="-1" name="" text="Hizo lo que le dijo e intercambió las bolsas con ella;&#xA;momento en el que se inclinó ante él." voices=""/>
+    <msg @l="533" char_id="-1" frame_id="-1" name="" text="Entonces, después de decir algo parecido a “lo siento por lo&#xA;del otro día” en una voz apenas audible..." voices=""/>
+    <se @l="535" buf="1" src="se022" volume="1."/>
+    <clear @l="536" class="char"/>
+    <msg @l="538" add="true" char_id="-1" frame_id="-1" name="" page_feed="true" text=" prácticamente huyó&#xA;de él." voices=""/>
+    <page @l="540" fade="300"/>
+    <msg @l="542" char_id="-1" frame_id="-1" name="" text="La observó marcharse, todavía conmocionado." voices=""/>
+    <msg @l="543" add="true" char_id="-1" frame_id="-1" name="" text=" Luego miró la&#xA;nueva bolsa de plástico que tenía en sus manos." voices=""/>
+    <msg @l="545" char_id="-1" frame_id="-1" name="" text="(¿Qué fue eso?)." voices=""/>
+    <msg @l="547" char_id="-1" frame_id="-1" name="" text="Cuando miró dentro, vio que estaba llena de las mismas cosas&#xA;que la bolsa anterior." voices=""/>
+    <msg @l="548" char_id="-1" frame_id="-1" name="" text="Solo que las fechas indicaban que no habían caducado." voices=""/>
+    <msg @l="549" char_id="-1" frame_id="-1" name="" page_feed="true" text="Por un momento, siguió sin saber qué hacía la mujer, pero&#xA;entonces comprendió algo." voices=""/>
+    <page @l="551" fade="300"/>
+    <msg @l="553" char_id="-1" frame_id="-1" name="" text="(¿Me está dando las gracias? ¿Por lo del otro día?)." voices=""/>
+    <msg @l="555" char_id="-1" frame_id="-1" name="" text="Solo había una explicación a la que podía llegar." voices=""/>
+    <msg @l="556" char_id="-1" frame_id="-1" name="" text="Y es que él la había ayudado cuando se quedó fuera de su&#xA;apartamento." voices=""/>
+    <msg @l="557" char_id="-1" frame_id="-1" name="" text="Ella había parecido increíblemente deprimida en ese día&#xA;lluvioso." voices=""/>
+    <msg @l="558" char_id="-1" frame_id="-1" name="" text="Entonces, ella debió comprarle esas cosas como agradecimiento&#xA;y las dejó en el pomo de su puerta para que se diera cuenta." voices=""/>
+    <msg @l="559" char_id="-1" frame_id="-1" name="" page_feed="true" text="Como no lo había hecho, el material había caducado. Y, por&#xA;eso, ella había venido a sustituirlo por material recién&#xA;comprado." voices=""/>
+    <page @l="561" fade="300"/>
+    <msg @l="563" char_id="-1" frame_id="-1" name="" text="(No es que coma este tipo de cosas normalmente)." voices=""/>
+    <msg @l="565" char_id="-1" frame_id="-1" name="" text="Si se iba a tomar tantas molestias, debería haber llamado al&#xA;timbre y dárselo directamente." voices=""/>
+    <msg @l="566" char_id="-1" frame_id="-1" name="" text="O tal vez lo había hecho. Yuusuke había llevado los&#xA;auriculares todo el tiempo que estuvo jugando, así que puede&#xA;que no se diera cuenta." voices=""/>
+    <msg @l="568" char_id="-1" frame_id="-1" name="" text="La nota dentro de la bolsa se disculpaba por las molestias,&#xA;le daba las gracias por la ayuda y demás; todo ello escrito&#xA;con una letra impecable." voices=""/>
+    <msg @l="569" char_id="-1" frame_id="-1" name="" text="Parecía que también había escrito una nota nueva para&#xA;reemplazar la anterior." voices=""/>
+    <msg @l="571" char_id="-1" frame_id="-1" name="" page_feed="true" text="(Chica rara)." voices=""/>
+    <page @l="573" fade="300"/>
+    <msg @l="575" char_id="-1" frame_id="-1" name="" text="Al menos parecía más alegre." voices=""/>
+    <msg @l="577" char_id="-1" frame_id="-1" name="" text="(Bien está lo que bien acaba, supongo)." voices=""/>
+    <msg @l="579" char_id="-1" frame_id="-1" name="" text="Al parecer, incluso un vagabundo como él podía ser útil." voices=""/>
+    <msg @l="580" char_id="-1" frame_id="-1" name="" page_feed="true" text="De repente se dio cuenta de que no sabía el nombre de la&#xA;mujer. No es que importara, ya que probablemente no volvería&#xA;a tener nada que ver con ella." voices=""/>
+    <page @l="582" fade="300"/>
+    <wait_chgmv/>
+    <bg @l="583" effect="cross_fade" src="black" time="1000"/>
+    <msg @l="585" char_id="-1" frame_id="-1" name="" page_feed="true" text="Esa era la única vez que recordaba haber hablado con la mujer&#xA;antes de la pandemia." voices=""/>
+    <page @l="587" fade="300"/>
+    <stopse @l="588" buf="1" fadeout="1000"/>
+    <stopbgm @l="589" fadeout="2000"/>
+    <wait @l="590" time="2000"/>
+  </code>
+</xscript>

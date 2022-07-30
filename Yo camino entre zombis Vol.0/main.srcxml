@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xscript>
+  <debug editor="&quot;C:\Program Files (x86)\sakura\sakura.exe&quot; &quot;%src%&quot; -Y=%line%" src="D:\zombies\Series Build\開発データ\開発環境\vol別\vol0\script\main.txt"/>
+  <code>
+    <label @l="2" id="xscenario1"/>
+    <call @l="3" target="parte1"/>
+    <return @l="4" value=""/>
+    <label @l="7" id="xscenario2"/>
+    <call @l="8" target="parte2"/>
+    <return @l="9" value=""/>
+    <label @l="12" id="xscenario3"/>
+    <call @l="13" target="parte3"/>
+    <return @l="14" value=""/>
+    <label @l="17" id="xscenario4"/>
+    <call @l="18" target="parte4"/>
+    <return @l="19" value=""/>
+    <label @l="22" id="xscenario5"/>
+    <call @l="23" target="parte5"/>
+    <return @l="24" value=""/>
+    <label @l="27" id="xscenario6"/>
+    <call @l="28" target="parte6"/>
+    <return @l="29" value=""/>
+    <label @l="32" id="xscenario7"/>
+    <call @l="33" target="parte7"/>
+    <return @l="34" value=""/>
+    <label @l="37" id="xscenario8"/>
+    <call @l="38" target="parte8"/>
+    <return @l="39" value=""/>
+    <label @l="42" id="xscenario9"/>
+    <call @l="43" target="parte9"/>
+    <return @l="44" value=""/>
+    <label @l="47" id="xscenario10"/>
+    <call @l="48" target="mitsukih"/>
+    <return @l="49" value=""/>
+    <label @l="52" id="xscenario11"/>
+    <call @l="53" target="makiurah"/>
+    <return @l="54" value=""/>
+    <label @l="57" id="xscenario12"/>
+    <call @l="58" target="tokikoh"/>
+    <return @l="59" value=""/>
+    <label @l="62" id="endroll"/>
+    <ending @l="63"/>
+    <return @l="64" value=""/>
+  </code>
+</xscript>

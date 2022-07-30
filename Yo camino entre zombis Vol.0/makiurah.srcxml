@@ -1,0 +1,1134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xscript>
+  <debug editor="&quot;C:\Program Files (x86)\sakura\sakura.exe&quot; &quot;%src%&quot; -Y=%line%" src="D:\zombies\Series Build\開発データ\開発環境\vol別\vol0\script\text\牧浦・妄想h.txt"/>
+  <code>
+    <description @l="1" text="牧浦・妄想Ｈ"/>
+    <wait_chgmv/>
+    <bg @l="6" effect="cross_fade" src="bg03a" time="1000"/>
+    <bgm @l="7" src="bgm09" volume="1."/>
+    <msg @l="9" char_id="-1" frame_id="-1" name="" text="Makiura se despertó de un sueño superficial justo al&#xA;amanecer." voices=""/>
+    <msg @l="10" char_id="-1" frame_id="-1" name="" text="Se sintió muy aletargada." voices=""/>
+    <msg @l="11" char_id="-1" frame_id="-1" name="" text=" Las noches inquietas no eran nada&#xA;nuevo para ella, pero la noche anterior había sido&#xA;especialmente mala." voices="" add="true"/>
+    <msg @l="12" char_id="-1" frame_id="-1" name="" page_feed="true" text="La salida más reciente de Yuusuke pesaba en su mente." voices=""/>
+    <page @l="14" fade="300"/>
+    <char @l="15" id="mku_" pos="auto" src="mku_aace"/>
+    <msg @l="17" char_id="-1" frame_id="-1" name="" text="(Realmente estoy preocupada por él)." voices="maku01000"/>
+    <msg @l="19" char_id="-1" frame_id="-1" name="" text="Yuusuke había ido a buscar un barco." voices=""/>
+    <msg @l="20" char_id="-1" frame_id="-1" name="" text="Ella sabía que estaría bien." voices=""/>
+    <msg @l="21" char_id="-1" frame_id="-1" name="" text=" Era peligroso, pero era capaz." voices="" add="true"/>
+    <msg @l="22" char_id="-1" frame_id="-1" name="" text="Y, sin embargo, no podía deshacerse de sus preocupaciones." voices=""/>
+    <msg @l="23" add="true" char_id="-1" frame_id="-1" name="" text="&#xA;Había pasado toda la noche anterior preocupada por lo que&#xA;pasaría si se metía en problemas." voices=""/>
+    <clear @l="25" class="char"/>
+    <msg @l="28" char_id="-1" frame_id="-1" name="" text="“...”." voices="maku01001"/>
+    <msg @l="30" char_id="-1" frame_id="-1" name="" page_feed="true" text="Suspiró." voices=""/>
+    <page @l="32" fade="300"/>
+    <msg @l="34" char_id="-1" frame_id="-1" name="" text="(No debería actuar así, ahora mismo no. Hay otras cosas más&#xA;importantes)." voices="maku01002"/>
+    <msg @l="36" char_id="-1" frame_id="-1" name="" text="Sí, estaba preocupada por Yuusuke." voices=""/>
+    <msg @l="37" add="true" char_id="-1" frame_id="-1" name="" text=" Pero había otras&#xA;innumerables cosas que necesitaban su atención." voices=""/>
+    <msg @l="38" add="true" char_id="-1" frame_id="-1" name="" text=" Preocuparse&#xA;no la llevaría a ninguna parte." voices=""/>
+    <msg @l="39" char_id="-1" frame_id="-1" name="" page_feed="true" text="Tras repasar el programa del día, Makiura se puso a trabajar." voices=""/>
+    <page @l="41" fade="300"/>
+    <wait_chgmv/>
+    <bg @l="42" effect="cross_fade" src="black" time="1000"/>
+    <wait_chgmv/>
+    <bg @l="43" effect="cross_fade" src="bg03b" time="1000"/>
+    <msg @l="46" char_id="-1" frame_id="-1" name="" text="“Qué día tan tranquilo”." voices="maku01003"/>
+    <msg @l="48" char_id="-1" frame_id="-1" name="" text="Se enfrascó tanto en su trabajo que, antes de darse cuenta,&#xA;ya había pasado el mediodía." voices=""/>
+    <msg @l="49" char_id="-1" frame_id="-1" name="" text=" Las cosas habían estado&#xA;ocupadas, pero no había surgido nada inesperado." voices="" add="true"/>
+    <msg @l="50" char_id="-1" frame_id="-1" name="" text="Últimamente, todos los días eran un torbellino de caos en el&#xA;que nunca sabía lo que iba a ocurrir a continuación." voices=""/>
+    <msg @l="51" char_id="-1" frame_id="-1" name="" text="Sin embargo, ese día parecía estar inusualmente tranquilo.&#xA;Una tregua en la tormenta." voices=""/>
+    <msg @l="52" char_id="-1" frame_id="-1" name="" page_feed="true" text="El tiempo antes de la pandemia habría pasado de forma muy&#xA;similar, pero..." voices=""/>
+    <page @l="54" fade="300"/>
+    <msg @l="56" char_id="-1" frame_id="-1" name="" text="“Takemura-san...”." voices="maku01004"/>
+    <msg @l="58" char_id="-1" frame_id="-1" name="" text="Se encontró murmurando." voices=""/>
+    <msg @l="59" char_id="-1" frame_id="-1" name="" text="Quizás era la única que tenía un momento de respiro." voices=""/>
+    <msg @l="60" add="true" char_id="-1" frame_id="-1" name="" text="&#xA;¿Estaba Yuusuke a salvo? " voices=""/>
+    <msg @l="61" char_id="-1" frame_id="-1" name="" page_feed="true" text="El momento de tranquilidad le permitió dedicar tiempo a sus&#xA;pensamientos, que revivieron las ansias de la mañana." voices=""/>
+    <page @l="63" fade="300"/>
+    <char @l="65" id="srt_" pos="auto" src="srt_aaaa"/>
+    <stopbgm @l="66" fadeout="1000"/>
+    <msg @l="68" char_id="-1" frame_id="-1" name="" text="“¿Doctora?”." voices="shir00300"/>
+    <begin_trans @l="70" time="200"/>
+    <clear @l="71" class="char"/>
+    <char @l="72" id="mku_" pos="left" src="mku_aacf"/>
+    <char @l="73" id="srt_" pos="right" src="srt_aaaa"/>
+    <end_trans @l="74"/>
+    <msg @l="76" char_id="-1" frame_id="-1" name="" text="“¡¿Oh, er, sí?!”." voices="maku01005"/>
+    <bgm @l="78" src="bgm04" volume="1."/>
+    <msg @l="80" char_id="-1" frame_id="-1" name="" text="Makiura se giró ante la repentina interrupción." voices=""/>
+    <msg @l="81" add="true" char_id="-1" frame_id="-1" name="" text=" Allí estaba&#xA;Shiratani, de la división de comunicaciones." voices=""/>
+    <begin_trans @l="83" effect="cross_fade" time="200"/>
+    <char @l="84" id="mku_" pos="left" src="mku_aacc"/>
+    <char @l="85" id="srt_" pos="right" src="srt_aaae"/>
+    <end_trans @l="86"/>
+    <msg @l="88" char_id="-1" frame_id="-1" name="" text="“¿Se siente cansada? ¿Quiere que le traiga un café?”." voices="shir00301"/>
+    <msg @l="89" char_id="-1" frame_id="-1" name="" text="“Oh, sí, por favor, si no te importa”." voices="maku01006"/>
+    <msg @l="91" char_id="-1" frame_id="-1" name="" text="Shiratani había entrado en la habitación sin que Makiura se&#xA;diera cuenta en absoluto." voices=""/>
+    <msg @l="92" add="true" char_id="-1" frame_id="-1" name="" page_feed="true" text=" Se reprendió a sí misma por haberse&#xA;despistado." voices=""/>
+    <page @l="94" fade="300"/>
+    <clear @l="95" layer="srt_"/>
+    <msg @l="97" char_id="-1" frame_id="-1" name="" text="Shiratani dejó una bolsa de papel en un rincón de la&#xA;habitación antes de dirigirse a preparar el café." voices=""/>
+    <char @l="99" id="mku_" pos="left" src="mku_aaca"/>
+    <msg @l="101" char_id="-1" frame_id="-1" name="" text="(¿Qué puede ser?)." voices="maku01007"/>
+    <msg @l="103" char_id="-1" frame_id="-1" name="" text="Makiura ladeó la cabeza, pero no pudo vislumbrar lo que había&#xA;dentro de la bolsa." voices=""/>
+    <msg @l="104" char_id="-1" frame_id="-1" name="" page_feed="true" text=" Se preguntó qué sería, pero le pareció&#xA;grosero asomarse al interior sin permiso." voices="" add="true"/>
+    <clear @l="106" class="char"/>
+    <page @l="107" fade="300"/>
+    <begin_trans @l="108" effect="cross_fade" time="200"/>
+    <char @l="109" id="mku_" pos="left" src="mku_aacd"/>
+    <char @l="110" id="srt_" pos="right" src="srt_aaae"/>
+    <end_trans @l="111"/>
+    <msg @l="113" char_id="-1" frame_id="-1" name="" text="“Aquí tiene su café, doctora”." voices="shir00302"/>
+    <msg @l="115" char_id="-1" frame_id="-1" name="" text="Shiratani le entregó una taza." voices=""/>
+    <msg @l="116" add="true" char_id="-1" frame_id="-1" name="" text=" Luego recogió su bolsa de&#xA;papel y se sentó en la silla junto a Makiura." voices=""/>
+    <msg @l="119" char_id="-1" frame_id="-1" name="" text="“Es bueno que hoy no esté tan ocupada”." voices="shir00303"/>
+    <msg @l="120" char_id="-1" frame_id="-1" name="" text="“Sí”." voices="maku01008"/>
+    <msg @l="121" char_id="-1" frame_id="-1" name="" text="“Hemos recibido el contacto de Takemura. Todavía está&#xA;buscando un barco, pero aparentemente no ha habido ningún&#xA;problema hasta ahora”." voices="shir00304"/>
+    <char @l="123" id="mku_" pos="left" src="mku_abcq"/>
+    <msg @l="125" char_id="-1" frame_id="-1" name="" text="“Uf. Es bueno escuchar eso”." voices="maku01009"/>
+    <msg @l="127" char_id="-1" frame_id="-1" name="" text="Respiró aliviada y una pequeña nube de vapor salió de su&#xA;café." voices=""/>
+    <char @l="129" id="srt_" pos="right" src="srt_aaaf"/>
+    <msg @l="131" char_id="-1" frame_id="-1" name="" text="“Je, je”." voices="shir00305"/>
+    <msg @l="133" char_id="-1" frame_id="-1" name="" page_feed="true" text="Shiratani soltó una risita." voices=""/>
+    <page @l="135" fade="300"/>
+    <begin_trans @l="136" time="200"/>
+    <char @l="137" id="mku_" pos="left" src="mku_aace"/>
+    <char @l="138" id="srt_" pos="right" src="srt_aaae"/>
+    <end_trans @l="139"/>
+    <msg @l="141" char_id="-1" frame_id="-1" name="" text="“Oh, lo siento”." voices="maku01010"/>
+    <msg @l="142" char_id="-1" frame_id="-1" name="" text="“No hay nada que disculpar. Es exactamente la reacción que&#xA;esperaba”." voices="shir00306"/>
+    <char @l="144" id="mku_" pos="left" src="mku_aaco"/>
+    <msg @l="146" char_id="-1" frame_id="-1" name="" text="“Preferiría que no te burlaras de mí”." voices="maku01011"/>
+    <msg @l="148" char_id="-1" frame_id="-1" name="" text="Makiura empezó a sonrojarse." voices=""/>
+    <msg @l="149" add="true" char_id="-1" frame_id="-1" name="" page_feed="true" text=" Shiratani se inclinó para&#xA;susurrarle al oído." voices=""/>
+    <page @l="151" fade="300"/>
+    <begin_trans @l="152" time="200"/>
+    <clear @l="153" class="char"/>
+    <char @l="154" id="l_sr" pos="auto" src="l_srt_aaae"/>
+    <end_trans @l="155"/>
+    <msg @l="157" char_id="-1" frame_id="-1" name="" text="“Estoy segura de que su novio vendría corriendo si viera esa&#xA;mirada en su cara”." voices="shir00307"/>
+    <clear @l="159" class="char"/>
+    <char @l="160" id="l_mk" pos="auto" src="l_mku_aack"/>
+    <shake @l="161" amp="20" class="all" cycle="1" duration="200" type="random"/>
+    <msg @l="163" char_id="-1" frame_id="-1" name="" text="“¡¿Mi qué?!”." voices="maku01012"/>
+    <msg @l="165" char_id="-1" frame_id="-1" name="" page_feed="true" text="Makiura casi escupe su café." voices=""/>
+    <page @l="167" fade="300"/>
+    <clear @l="168" class="char"/>
+    <begin_trans @l="169" time="200"/>
+    <char @l="170" id="mku_" pos="left" src="mku_aack"/>
+    <char @l="171" id="srt_" pos="right" src="srt_aaaf"/>
+    <end_trans @l="172"/>
+    <msg @l="174" char_id="-1" frame_id="-1" name="" text="“Je, je, je. Será mejor que lo amarre mientras pueda,&#xA;doctora. Parece del tipo que tiene ojos errantes”." voices="shir00308"/>
+    <char @l="176" id="mku_" pos="auto" src="mku_aace"/>
+    <msg @l="178" char_id="-1" frame_id="-1" name="" text="“¿Qué...?”." voices="maku01013"/>
+    <msg @l="180" char_id="-1" frame_id="-1" name="" text="Makiura trató de ocultar su malestar." voices=""/>
+    <msg @l="181" char_id="-1" frame_id="-1" name="" text="Puede que Shiratani no haya dicho su nombre, pero Makiura&#xA;estaba segura de que con 'novio' solo podía referirse a&#xA;Yuusuke." voices=""/>
+    <msg @l="182" add="true" char_id="-1" frame_id="-1" name="" text=" Y Shiratani estaba siendo muy franca con todo el&#xA;asunto." voices=""/>
+    <char @l="184" id="srt_" pos="auto" src="srt_aaae"/>
+    <msg @l="186" char_id="-1" frame_id="-1" name="" text="“He elegido el traje perfecto para usted, doctora. Sé que le&#xA;va a encantar”." voices="shir00309"/>
+    <clear @l="188" layer="srt_"/>
+    <msg @l="190" char_id="-1" frame_id="-1" name="" page_feed="true" text="Shiratani empujó su bolsa de papel a los brazos de la Dra.&#xA;Makiura, que ya se había puesto roja, y se bebió el resto&#xA;del café de un trago." voices=""/>
+    <page @l="192" fade="300"/>
+    <clear @l="193" class="char"/>
+    <char @l="194" id="srt_" pos="auto" src="srt_aaaf"/>
+    <msg @l="196" char_id="-1" frame_id="-1" name="" text="“¡Que tenga muy buena suerte!”." voices="shir00310"/>
+    <clear @l="198" class="char"/>
+    <msg @l="200" char_id="-1" frame_id="-1" name="" text="Con una sonrisa de oreja a oreja, Shiratani salió de la&#xA;habitación." voices=""/>
+    <se @l="202" buf="1" src="se004" volume="1."/>
+    <char @l="203" id="mku_" pos="auto" src="mku_aack"/>
+    <msg @l="205" char_id="-1" frame_id="-1" name="" text="“Oye, espera, yo...”." voices="maku01014"/>
+    <msg @l="207" char_id="-1" frame_id="-1" name="" page_feed="true" text="Makiura se quedó con un café a medio terminar y una&#xA;misteriosa bolsa de papel." voices=""/>
+    <page @l="209" fade="300"/>
+    <stopbgm @l="210" fadeout="2000"/>
+    <clear @l="211" class="char"/>
+    <char @l="212" id="l_mk" pos="auto" src="l_mku_aace"/>
+    <msg @l="214" char_id="-1" frame_id="-1" name="" text="“¿Qué diablos puede ser esto?”." voices="maku01015"/>
+    <msg @l="216" char_id="-1" frame_id="-1" name="" text="Dejó la taza y miró dentro de la bolsa." voices=""/>
+    <char @l="218" id="l_mk" pos="auto" src="l_mku_aacf"/>
+    <msg @l="220" char_id="-1" frame_id="-1" name="" text="“¿Eh?”." voices="maku01016"/>
+    <msg @l="222" char_id="-1" frame_id="-1" name="" text="Makiura expresó su incertidumbre." voices=""/>
+    <bgm @l="224" src="bgm05" volume="1."/>
+    <se @l="225" buf="1" src="se062" volume="1."/>
+    <msg @l="227" char_id="-1" frame_id="-1" name="" text="Dentro de la bolsa había nada menos que un uniforme de&#xA;enfermera, demasiado sexy." voices=""/>
+    <msg @l="228" char_id="-1" frame_id="-1" name="" text="Era un solo vestido, en lugar de uno con falda separada. Y&#xA;todo el conjunto estaba allí; hasta la gorra." voices=""/>
+    <stopse @l="230" buf="1" fadeout="1000"/>
+    <char @l="231" id="l_mk" pos="auto" src="l_mku_abco"/>
+    <msg @l="233" char_id="-1" frame_id="-1" name="" text="“Shiratani-san, ¿por qué me has dado esto?”." voices="maku01017"/>
+    <msg @l="235" char_id="-1" frame_id="-1" name="" text="Se había referido a eso como el “traje perfecto”." voices=""/>
+    <msg @l="236" char_id="-1" frame_id="-1" name="" page_feed="true" text=" En otras&#xA;palabras, le estaba diciendo a Makiura que se lo pusiera y&#xA;fuera a ver a Yuusuke." voices="" add="true"/>
+    <page @l="238" fade="300"/>
+    <clear @l="239" class="char"/>
+    <msg @l="241" char_id="-1" frame_id="-1" name="" text="Makiura recordó una conversación que había tenido con algunos&#xA;colegas en el pasado." voices=""/>
+    <msg @l="242" add="true" char_id="-1" frame_id="-1" name="" text=" Algo sobre cómo todos los hombres&#xA;fantasean con mujeres en ciertos uniformes." voices=""/>
+    <msg @l="243" char_id="-1" frame_id="-1" name="" text=" Y cómo, entre la&#xA;galaxia de uniformes sexys, los uniformes de enfermera eran&#xA;lo mejor de lo mejor." voices="" add="true"/>
+    <msg @l="245" char_id="-1" frame_id="-1" name="" text="(¿Takemura también estará interesado en esto?)." voices="maku01018"/>
+    <msg @l="247" char_id="-1" frame_id="-1" name="" text="Tal vez Shiratani había conseguido alguna información que&#xA;decía que a Yuusuke le gustaban los uniformes." voices=""/>
+    <msg @l="248" add="true" char_id="-1" frame_id="-1" name="" page_feed="true" text=" Eso explicaría&#xA;por qué le había dado este traje a Makiura." voices=""/>
+    <page @l="250" fade="300"/>
+    <char @l="251" id="l_mk" pos="auto" src="l_mku_abco"/>
+    <msg @l="253" char_id="-1" frame_id="-1" name="" text="(Pero no hay manera de que me ponga esto. ¡Es demasiado&#xA;embarazoso!)." voices="maku01019"/>
+    <msg @l="255" char_id="-1" frame_id="-1" name="" text="Aunque se sentía decepcionada por haber defraudado a&#xA;Shiratani, simplemente no tenía el valor de enfrentarse a&#xA;Yuusuke con ese traje." voices=""/>
+    <clear @l="257" class="char"/>
+    <se @l="258" buf="1" src="se062" volume="1."/>
+    <msg @l="260" add="true" char_id="-1" frame_id="-1" name="" text=" Así que lo dobló de nuevo y lo&#xA;devolvió a la bolsa." voices=""/>
+    <msg @l="261" char_id="-1" frame_id="-1" name="" text="Suspirando, miró el reloj." voices=""/>
+    <stopse @l="263" buf="1" fadeout="1000"/>
+    <char @l="264" id="l_mk" pos="auto" src="l_mku_aace"/>
+    <msg @l="266" char_id="-1" frame_id="-1" name="" text="“Probablemente todavía tengo tiempo hasta que Takemura-san&#xA;regrese”." voices="maku01020"/>
+    <msg @l="268" char_id="-1" frame_id="-1" name="" text="Una leve somnolencia empezaba a apoderarse de ella,&#xA;probablemente debido a la falta de sueño de la noche&#xA;anterior." voices=""/>
+    <msg @l="269" char_id="-1" frame_id="-1" name="" text="Gracias a Yuusuke, últimamente le resultaba más fácil dormir.&#xA;Pero, una insomne como Makiura, sabía que lo mejor era&#xA;aprovechar cualquier oportunidad que le diera su cuerpo." voices=""/>
+    <msg @l="271" char_id="-1" frame_id="-1" name="" text="“Solo... echaré una pequeña siesta”." voices="maku01021"/>
+    <clear @l="273" class="char"/>
+    <msg @l="275" char_id="-1" frame_id="-1" name="" text="Makiura se inclinó hacia adelante sobre su escritorio..." voices=""/>
+    <msg @l="276" add="true" char_id="-1" frame_id="-1" name="" page_feed="true" text=" y se&#xA;durmió en un instante." voices=""/>
+    <page @l="278" fade="300"/>
+    <stopbgm @l="279" fadeout="2000"/>
+    <flash @l="280" count="1" fade="500" image="black"/>
+    <flash @l="281" count="1" fade="1000" image="black"/>
+    <wait_chgmv/>
+    <bg @l="283" src="black" time="2000"/>
+    <wait @l="284" time="1000"/>
+    <msg @l="286" char_id="-1" frame_id="-1" name="" text="“Sayaka. ¡Sayaka!”." voices="shir00311"/>
+    <msg @l="288" char_id="-1" frame_id="-1" name="" text="Una voz familiar con una frase desconocida." voices=""/>
+    <msg @l="289" char_id="-1" frame_id="-1" name="" text=" La voz pertenecía&#xA;a Shiratani, pero algo estaba mal." voices="" add="true"/>
+    <msg @l="290" char_id="-1" frame_id="-1" name="" text="Makiura ahogó un pequeño bostezo mientras se incorporaba de&#xA;su escritorio." voices=""/>
+    <msg @l="292" char_id="-1" frame_id="-1" name="" page_feed="true" text="(Debo haberme quedado dormida)." voices="maku01022"/>
+    <page @l="294" fade="300"/>
+    <wait_chgmv/>
+    <bg @l="295" effect="cross_fade" src="bg31a" time="2000"/>
+    <bgm @l="296" src="bgm05" volume="1."/>
+    <msg @l="299" char_id="-1" frame_id="-1" name="" text="Vio a Shiratani de pie junto a ella." voices=""/>
+    <msg @l="300" char_id="-1" frame_id="-1" name="" text=" Obviamente, había&#xA;intentado despertar a Makiura, pero por alguna razón&#xA;llevaba un traje de enfermera." voices="" add="true"/>
+    <msg @l="301" char_id="-1" frame_id="-1" name="" text=" Con la boca abierta, Makiura&#xA;preguntó..." voices="" add="true"/>
+    <msg @l="303" char_id="-1" frame_id="-1" name="" text="“¿Por qué estás vestida así?”." voices="maku01023"/>
+    <msg @l="304" char_id="-1" frame_id="-1" name="" text="“¿Qué quieres decir, Sayaka?”." voices="shir00312"/>
+    <msg @l="306" char_id="-1" frame_id="-1" name="" text="Sayaka... Ese era el primer nombre de Makiura, pero Shiratani&#xA;nunca lo había usado antes." voices=""/>
+    <msg @l="307" char_id="-1" frame_id="-1" name="" text=" Miró a su alrededor, luego a sí&#xA;misma, y se dio cuenta de que también llevaba un traje de&#xA;enfermera." voices="" add="true"/>
+    <char @l="309" id="mku_" pos="auto" src="mku_aaee"/>
+    <msg @l="311" char_id="-1" frame_id="-1" name="" text="“Errm...”." voices="maku01024"/>
+    <msg @l="313" char_id="-1" frame_id="-1" name="" text="Makiura estaba totalmente confundida, pero Shiratani continuó&#xA;con una sonrisa." voices=""/>
+    <msg @l="315" char_id="-1" frame_id="-1" name="" page_feed="true" text="“¿Todavía estás medio dormida?”." voices="shir00313"/>
+    <page @l="317" fade="300"/>
+    <msg @l="319" char_id="-1" frame_id="-1" name="" text="Ciertamente, su mente aún no funcionaba correctamente." voices=""/>
+    <char @l="321" id="mku_" pos="auto" src="mku_aaer"/>
+    <msg @l="323" add="true" char_id="-1" frame_id="-1" name="" text=" Makiura&#xA;se frotó la sien en un intento de ahuyentar el cansancio." voices=""/>
+    <msg @l="324" add="true" char_id="-1" frame_id="-1" name="" text="&#xA;Todo era tan absurdamente incoherente con lo que ella&#xA;sabía. Nada tenía sentido." voices=""/>
+    <msg @l="325" char_id="-1" frame_id="-1" name="" page_feed="true" text="Sin embargo, lenta pero seguramente, sus recuerdos volvieron." voices=""/>
+    <page @l="327" fade="300"/>
+    <clear @l="328" class="char"/>
+    <msg @l="330" char_id="-1" frame_id="-1" name="" text="Era enfermera en el departamento de ginecología." voices=""/>
+    <msg @l="331" add="true" char_id="-1" frame_id="-1" name="" text=" Y Shiratani&#xA;era una nueva enfermera que el hospital había contratado ese&#xA;año." voices=""/>
+    <msg @l="332" char_id="-1" frame_id="-1" name="" text=" Dado que Makiura tenía más experiencia, había ayudado a&#xA;Shiratani a aprender los trucos cuando empezó y la chica&#xA;decidió admirarla." voices="" add="true"/>
+    <msg @l="333" char_id="-1" frame_id="-1" name="" text="No había nada fuera de lo común." voices=""/>
+    <msg @l="334" char_id="-1" frame_id="-1" name="" text="Mientras Makiura intentaba poner en orden sus recuerdos,&#xA;Shiratani continuó en un tono silencioso." voices=""/>
+    <msg @l="336" char_id="-1" frame_id="-1" name="" page_feed="true" text="“Oye, entre nosotras, he oído que tu novio ha vuelto a causar&#xA;problemas”." voices="shir00314"/>
+    <page @l="338" fade="300"/>
+    <char @l="339" id="l_mk" pos="auto" src="l_mku_aaef"/>
+    <msg @l="341" char_id="-1" frame_id="-1" name="" text="“¿Mi novio?”." voices="maku01025"/>
+    <msg @l="343" char_id="-1" frame_id="-1" name="" text="En la cara de Shiratani apareció una sonrisa traviesa." voices=""/>
+    <msg @l="345" char_id="-1" frame_id="-1" name="" text="“¿El Dr. Takemura? ¿El médico interno? No tiene sentido&#xA;tratar de ocultarlo, todo el mundo sabe que están saliendo”." voices="shir00315"/>
+    <msg @l="347" char_id="-1" frame_id="-1" name="" text="Dijo con un guiño burlón." voices=""/>
+    <msg @l="349" char_id="-1" frame_id="-1" name="" page_feed="true" text="(¡¿Qué?!). " voices="maku01026"/>
+    <page @l="351" fade="300"/>
+    <wait_chgmv/>
+    <bg @l="352" src="black"/>
+    <begin_trans @l="354" time="1000"/>
+    <wait_chgmv/>
+    <bg @l="355" src="bg28a"/>
+    <scrnfilter @l="356" src="gray"/>
+    <end_trans @l="357"/>
+    <msg @l="360" char_id="-1" frame_id="-1" name="" text="Makiura se sumió de nuevo en el desconcierto." voices=""/>
+    <msg @l="361" char_id="-1" frame_id="-1" name="" text=" Pero mientras&#xA;intentaba averiguar por qué, se dio cuenta de que no sabía&#xA;qué era lo que la inquietaba en primer lugar." voices="" add="true"/>
+    <msg @l="362" char_id="-1" frame_id="-1" name="" text="Pensó en Yuusuke." voices=""/>
+    <char @l="364" id="tmr_" pos="auto" src="tmr_aaea"/>
+    <msg @l="366" char_id="-1" frame_id="-1" name="" text="Dr. Takemura." voices=""/>
+    <msg @l="367" char_id="-1" frame_id="-1" name="" text="Se había graduado en la facultad de medicina y ahora estaba&#xA;haciendo prácticas en ese hospital, rotando por los&#xA;distintos departamentos para ampliar sus estudios." voices=""/>
+    <msg @l="368" char_id="-1" frame_id="-1" name="" text=" Como&#xA;esperaba especializarse en ginecología, había pasado&#xA;un periodo bastante largo de formación en el departamento&#xA;de Makiura." voices="" add="true"/>
+    <msg @l="369" char_id="-1" frame_id="-1" name="" text=" En ese tiempo, los dos se habían acercado&#xA;bastante." voices="" add="true"/>
+    <msg @l="371" char_id="-1" frame_id="-1" name="" text="(Pero... ¿estamos saliendo? Me parece que... ¿sí?)." voices="maku01027"/>
+    <msg @l="373" char_id="-1" frame_id="-1" name="" page_feed="true" text="El cerebro de Makiura estaba nublado, pero las piezas&#xA;empezaban a encajar." voices=""/>
+    <page @l="375" fade="300"/>
+    <begin_trans @l="376" effect="cross_fade" time="1000"/>
+    <clear @l="377" class="char"/>
+    <scrnfilter @l="378" src=""/>
+    <wait_chgmv/>
+    <bg @l="379" src="bg31a"/>
+    <char @l="380" id="l_mk" pos="auto" src="l_mku_aaeg"/>
+    <end_trans @l="381"/>
+    <msg @l="383" char_id="-1" frame_id="-1" name="" text="“El Dr. Takemura está deprimido por ese fiasco, ¡así que&#xA;ahora es tu oportunidad de animarlo!”." voices="shir00316"/>
+    <msg @l="385" char_id="-1" frame_id="-1" name="" text="Shiratani le dio una palmada en el hombro. Qué terriblemente&#xA;amistosa estaba siendo." voices=""/>
+    <msg @l="386" add="true" char_id="-1" frame_id="-1" name="" text=" Incluso le dijo a Makiura en qué&#xA;habitación estaba Yuusuke." voices=""/>
+    <msg @l="388" char_id="-1" frame_id="-1" name="" text="“¡Tengo las cosas cubiertas aquí, así que ve a verlo ya!”." voices="shir00317"/>
+    <char @l="390" id="l_mk" pos="auto" src="l_mku_aaep"/>
+    <msg @l="392" char_id="-1" frame_id="-1" name="" page_feed="true" text="Y así, prácticamente empujó a Makiura fuera de donde estaba." voices=""/>
+    <page @l="394" fade="300"/>
+    <clear @l="395" class="char"/>
+    <stopbgm @l="396" fadeout="2000"/>
+    <wait_chgmv/>
+    <bg @l="397" alpha="3" src="black" time="800"/>
+    <msg @l="399" char_id="-1" frame_id="-1" name="" text="(Estoy saliendo con Takemura, ¿en serio?)." voices="maku01028"/>
+    <bgm @l="401" src="bgm03" volume="1."/>
+    <msg @l="403" char_id="-1" frame_id="-1" name="" text="Makiura seguía desconcertada." voices=""/>
+    <msg @l="404" char_id="-1" frame_id="-1" name="" text=" Sin embargo, tuvo que admitir&#xA;que la palabra “novio” tenía un cierto impacto." voices="" add="true"/>
+    <msg @l="405" char_id="-1" frame_id="-1" name="" page_feed="true" text=" Con un&#xA;impulso en su caminar, se dirigió a buscar a Yuusuke." voices="" add="true"/>
+    <page @l="407" fade="300"/>
+    <wait @l="408" time="1000"/>
+    <wait_chgmv/>
+    <bg @l="409" alpha="3" src="bg97a" time="800"/>
+    <msg @l="411" char_id="-1" frame_id="-1" name="" text="Pronto se encontró en la sala de ginecología." voices=""/>
+    <wait_chgmv/>
+    <bg @l="413" alpha="3" src="bg101a" time="1000"/>
+    <msg @l="416" char_id="-1" frame_id="-1" name="" text=" Yuusuke estaba&#xA;en una de las habitaciones, arreglando las sábanas de una&#xA;cama de prácticas." voices="" add="true"/>
+    <msg @l="418" char_id="-1" frame_id="-1" name="" text="“¿Doctor?”." voices="maku01029"/>
+    <msg @l="419" char_id="-1" frame_id="-1" name="" page_feed="true" text="“¿Umm?”." voices=""/>
+    <page @l="421" fade="300"/>
+    <char @l="422" id="tmr_" pos="auto" src="tmr_aaej"/>
+    <msg @l="424" char_id="-1" frame_id="-1" name="" text="Cuando levantó la vista hacia ella, no podía haber más&#xA;incertidumbre. Ese era Yuusuke." voices=""/>
+    <msg @l="425" char_id="-1" frame_id="-1" name="" text=" Llevaba su bata blanca y&#xA;trabajaba en el mismo hospital que ella." voices="" add="true"/>
+    <msg @l="426" char_id="-1" frame_id="-1" name="" text=" Por alguna razón,&#xA;Makiura se sintió profundamente conmovida por eso." voices="" add="true"/>
+    <char @l="428" id="tmr_" pos="auto" src="tmr_aaea"/>
+    <msg @l="430" char_id="-1" frame_id="-1" name="" text="“Ah, Makiura-san. Entra”." voices=""/>
+    <msg @l="432" char_id="-1" frame_id="-1" name="" text="Su saludo fue breve." voices=""/>
+    <msg @l="433" char_id="-1" frame_id="-1" name="" text=" Hay algo en su tono que no encaja, pero&#xA;probablemente no quería parecer demasiado amistosa en el&#xA;trabajo." voices="" add="true"/>
+    <msg @l="434" char_id="-1" frame_id="-1" name="" text="Se recompuso y lo estudió un poco más." voices=""/>
+    <msg @l="435" char_id="-1" frame_id="-1" name="" text=" A pesar de lo que&#xA;había oído, parecía relativamente tranquilo, pero algo en él&#xA;parecía rígido." voices="" add="true"/>
+    <msg @l="436" char_id="-1" frame_id="-1" name="" page_feed="true" text="Makiura tanteó con cautela." voices=""/>
+    <page @l="438" fade="300"/>
+    <msg @l="440" char_id="-1" frame_id="-1" name="" text="“¿Estás bien? He oído que ha habido algún problema”." voices="maku01030"/>
+    <char @l="442" id="tmr_" pos="auto" src="tmr_aaeb"/>
+    <msg @l="444" char_id="-1" frame_id="-1" name="" text="“Oh, ¿ya te has enterado?”." voices=""/>
+    <msg @l="446" char_id="-1" frame_id="-1" name="" text="Yuusuke metió las manos en los bolsillos de su bata blanca y&#xA;suspiró." voices=""/>
+    <char @l="448" id="tmr_" pos="auto" src="tmr_aaeg"/>
+    <msg @l="450" char_id="-1" frame_id="-1" name="" text="“No fue nada importante”." voices=""/>
+    <msg @l="451" char_id="-1" frame_id="-1" name="" text="“...”." voices="maku01031"/>
+    <msg @l="453" char_id="-1" frame_id="-1" name="" page_feed="true" text="Makiura miró a Yuusuke inquisitivamente, y él apartó la&#xA;mirada torpemente antes de continuar." voices=""/>
+    <page @l="455" fade="300"/>
+    <char @l="456" id="tmr_" pos="auto" src="tmr_aaej"/>
+    <msg @l="458" char_id="-1" frame_id="-1" name="" text="“El adjunto me dijo que no podía hacer nada, otra vez”." voices=""/>
+    <msg @l="460" char_id="-1" frame_id="-1" name="" text="Los médicos de cabecera eran los encargados de los médicos&#xA;internos." voices=""/>
+    <msg @l="461" add="true" char_id="-1" frame_id="-1" name="" text=" La conversación había tomado un giro serio. Makiura&#xA;preguntó vacilante..." voices=""/>
+    <msg @l="463" char_id="-1" frame_id="-1" name="" text="“Bueno, estamos los dos solos aquí. Así que, si quieres&#xA;hablar de ello...”." voices="maku01032"/>
+    <msg @l="464" char_id="-1" frame_id="-1" name="" text="“Oh... Claro”." voices=""/>
+    <clear @l="466" class="char"/>
+    <msg @l="468" char_id="-1" frame_id="-1" name="" text="Yuusuke levantó una mano para masajearse la nuca y se quedó&#xA;mirando el techo." voices=""/>
+    <msg @l="469" char_id="-1" frame_id="-1" name="" text=" Era muy nervioso, pero cuando estaba&#xA;deprimido no era diferente de cualquier otro hombre." voices="" add="true"/>
+    <msg @l="470" char_id="-1" frame_id="-1" name="" page_feed="true" text="Tras una larga pausa, respondió." voices=""/>
+    <page @l="472" fade="300"/>
+    <char @l="473" id="tmr_" pos="auto" src="tmr_aaec"/>
+    <msg @l="475" char_id="-1" frame_id="-1" name="" text="“La dirección es un desastre. No me importa que los adjuntos&#xA;tengan sus disputas, pero cuando dan órdenes&#xA;contradictorias, soy yo quien tiene que lidiar con el&#xA;desorden." voices=""/>
+    <msg @l="476" add="true" char_id="-1" frame_id="-1" name="" text=" Solo deseo que no me arrastren a sus discusiones”." voices=""/>
+    <msg @l="477" char_id="-1" frame_id="-1" name="" text="“Oh... Lo siento”." voices="maku01033"/>
+    <msg @l="479" char_id="-1" frame_id="-1" name="" text="Makiura no tenía nada de qué disculparse, pero se sentía mal&#xA;porque la gente de su lugar de trabajo lo trataba así." voices=""/>
+    <msg @l="480" add="true" char_id="-1" frame_id="-1" name="" text="&#xA;Yuusuke sacudió la cabeza y se miró los pies antes de&#xA;continuar." voices=""/>
+    <char @l="482" id="tmr_" pos="auto" src="tmr_aaeg"/>
+    <msg @l="484" char_id="-1" frame_id="-1" name="" text="“Sabía que iba a haber problemas cuando me apunté. Pero&#xA;finalmente conseguí una plaza de larga duración en este&#xA;departamento, y ahora no me dejan adquirir experiencia&#xA;haciendo los exámenes pélvicos." voices=""/>
+    <msg @l="485" char_id="-1" frame_id="-1" name="" text=" Es como si por fin fuera&#xA;médico, pero no puedo llegar a ningún sitio por cosas que&#xA;no son culpa mía." voices="" add="true"/>
+    <msg @l="486" char_id="-1" frame_id="-1" name="" page_feed="true" text=" No sé, quizá debería dejarlo”." voices="" add="true"/>
+    <page @l="488" fade="300"/>
+    <msg @l="489" char_id="-1" frame_id="-1" name="" text="Con eso, fue a sacudirse la bata blanca." voices=""/>
+    <begin_trans @l="491" time="200"/>
+    <clear @l="492" layer="tmr_"/>
+    <char @l="493" id="l_tm" pos="auto" src="l_tmr_aaeg"/>
+    <end_trans @l="494"/>
+    <shake @l="495" amp="10" class="all" cycle="1" duration="200" type="random"/>
+    <msg @l="497" add="true" char_id="-1" frame_id="-1" name="" text=" Makiura lo agarró&#xA;inmediatamente de la manga." voices=""/>
+    <msg @l="498" add="true" char_id="-1" frame_id="-1" name="" text=" No se había dado cuenta de que&#xA;Yuusuke estaba en tan mal estado." voices=""/>
+    <msg @l="499" char_id="-1" frame_id="-1" name="" text="A ese paso se separarían y no podrían trabajar juntos." voices=""/>
+    <msg @l="500" char_id="-1" frame_id="-1" name="" text="&#xA;Ella no quería eso. Ella quería que estuvieran juntos en el&#xA;hospital." voices="" add="true"/>
+    <msg @l="502" char_id="-1" frame_id="-1" name="" text="Yuusuke la miró con confusión, agarrando su manga." voices=""/>
+    <clear @l="504" class="char"/>
+    <char @l="505" id="l_mk" pos="auto" src="l_mku_aaef"/>
+    <wait @l="506" time="300"/>
+    <char @l="507" id="l_mk" pos="auto" src="l_mku_aaep"/>
+    <msg @l="509" char_id="-1" frame_id="-1" name="" text="“Err, bueno...”." voices="maku01034"/>
+    <msg @l="511" char_id="-1" frame_id="-1" name="" text="Makiura había entrado en acción, ¿pero para qué? " voices=""/>
+    <msg @l="513" char_id="-1" frame_id="-1" name="" text="(¿Qué debo hacer? ¿Cómo puedo hacer que Takemura se quede&#xA;conmigo?)." voices="maku01035"/>
+    <msg @l="515" char_id="-1" frame_id="-1" name="" page_feed="true" text="Pero al final, tuvo una idea." voices=""/>
+    <page @l="517" fade="300"/>
+    <char @l="518" id="l_mk" pos="auto" src="l_mku_aaen"/>
+    <msg @l="520" char_id="-1" frame_id="-1" name="" text="“Bueno, podrías...”." voices="maku01036"/>
+    <msg @l="521" char_id="-1" frame_id="-1" name="" text="“¿Umm?”." voices=""/>
+    <msg @l="522" char_id="-1" frame_id="-1" name="" text="“Si... errm, bueno... Si quieres, ¡puedes practicar&#xA;conmigo!”." voices="maku01037"/>
+    <clear @l="524" class="char"/>
+    <char @l="525" id="tmr_" pos="auto" src="tmr_aaek"/>
+    <msg @l="527" char_id="-1" frame_id="-1" name="" text="Yuusuke la miró sin comprender y con la mandíbula abierta." voices=""/>
+    <msg @l="528" add="true" char_id="-1" frame_id="-1" name="" text="&#xA;La cara de Makiura estaba ardiendo de rojo por lo que&#xA;acababa de proponer." voices=""/>
+    <msg @l="529" add="true" char_id="-1" frame_id="-1" name="" text=" Era tan audaz que no podía creerlo." voices=""/>
+    <char @l="531" id="tmr_" pos="auto" src="tmr_aaeb"/>
+    <msg @l="533" char_id="-1" frame_id="-1" name="" text="“Umm”." voices=""/>
+    <msg @l="535" char_id="-1" frame_id="-1" name="" text="Yuusuke, pensativo, se llevó una mano a la barbilla." voices=""/>
+    <msg @l="536" add="true" char_id="-1" frame_id="-1" name="" text=" Luego&#xA;habló." voices=""/>
+    <char @l="538" id="tmr_" pos="auto" src="tmr_aaej"/>
+    <msg @l="540" char_id="-1" frame_id="-1" name="" text="“Sí, te tomo la palabra”." voices=""/>
+    <msg @l="542" char_id="-1" frame_id="-1" name="" page_feed="true" text="Los dos se dirigieron a una sala con una mesa de exámenes." voices=""/>
+    <page @l="544" fade="300"/>
+    <wait_chgmv/>
+    <bg @l="545" alpha="3" src="black" time="800"/>
+    <wait_chgmv/>
+    <bg @l="546" alpha="3" src="bg97a" time="800"/>
+    <begin_trans @l="547" time="200"/>
+    <char @l="548" id="mku_" pos="left" src="mku_aaep"/>
+    <char @l="549" id="tmr_" pos="right" src="tmr_aaea"/>
+    <end_trans @l="550"/>
+    <msg @l="552" char_id="-1" frame_id="-1" name="" text="“Solo para asegurarme... ¿hablas en serio?”." voices=""/>
+    <msg @l="554" char_id="-1" frame_id="-1" name="" text="Yuusuke volvió a comprobar que ella estaba de acuerdo." voices=""/>
+    <msg @l="555" char_id="-1" frame_id="-1" name="" text="Makiura asintió." voices=""/>
+    <msg @l="556" char_id="-1" frame_id="-1" name="" text="Ella había propuesto la idea para evitar que Yuusuke&#xA;renunciara, y no tenía intención de faltar a su palabra." voices=""/>
+    <msg @l="558" char_id="-1" frame_id="-1" name="" text="(Takemura me necesita. Tengo que hacer esto por él). " voices="maku01038"/>
+    <msg @l="560" char_id="-1" frame_id="-1" name="" text="Era natural que ayudara cuando su novio estaba en problemas." voices=""/>
+    <msg @l="561" char_id="-1" frame_id="-1" name="" page_feed="true" text="&#xA;O al menos, eso era lo que se decía a sí misma en un intento&#xA;de alejar la vergüenza." voices="" add="true"/>
+    <page @l="563" fade="300"/>
+    <wait_chgmv/>
+    <bg @l="564" alpha="3" src="black" time="800"/>
+    <wait_chgmv/>
+    <bg @l="565" alpha="3" src="bg29a" time="800"/>
+    <se @l="566" buf="1" src="se004" volume="1."/>
+    <msg @l="568" char_id="-1" frame_id="-1" name="" text="“Bien, empezaré echando un vistazo a tu vagina”." voices=""/>
+    <msg @l="570" char_id="-1" frame_id="-1" name="" text="“C-Claro. ¡¿Qué?!”." voices="maku01039"/>
+    <msg @l="572" char_id="-1" frame_id="-1" name="" text="“Necesito inspeccionar tu vagina, es algo bastante básico. ¿Tal vez deberíamos cancelar esto?”." voices=""/>
+    <msg @l="573" char_id="-1" frame_id="-1" name="" page_feed="true" text="“Tienes razón, es básico. No te preocupes, me parece bien”." voices="maku01040"/>
+    <page @l="575" fade="300"/>
+    <msg @l="577" char_id="-1" frame_id="-1" name="" text="La vergüenza se apoderó de ella y le hizo enrojecer la cara." voices=""/>
+    <msg @l="578" add="true" char_id="-1" frame_id="-1" name="" text="No esperaba exponer sus partes íntimas a Yuusuke en una&#xA;habitación tan iluminada." voices=""/>
+    <msg @l="580" char_id="-1" frame_id="-1" name="" text="(Aww... ¿Cómo ha acabado así?)." voices="maku01041"/>
+    <msg @l="582" char_id="-1" frame_id="-1" name="" text="Estaba recibiendo exactamente lo que pedía." voices=""/>
+    <se @l="584" buf="1" src="se049" volume="1."/>
+    <wait_chgmv/>
+    <bg @l="585" src="black" time="1000"/>
+    <msg @l="587" char_id="-1" frame_id="-1" name="" page_feed="true" text="Yuusuke la miró fijamente mientras ella metía la mano bajo la&#xA;falda del uniforme para bajarle las medias y las bragas." voices=""/>
+    <page @l="589" fade="300"/>
+    <stopse @l="590" buf="1" fadeout="1000"/>
+    <stopbgm @l="591" fadeout="2000"/>
+    <label @l="594" id="scene_02"/>
+    <bgm @l="599" src="bgm05" volume="1."/>
+    <msg @l="601" char_id="-1" frame_id="-1" name="" text="Luego se sentó en la mesa de exámenes." voices=""/>
+    <msg @l="603" char_id="-1" frame_id="-1" name="" text="“¿Podrías abrir un poco más las piernas?”." voices=""/>
+    <msg @l="605" char_id="-1" frame_id="-1" name="" text="“Ugh, pero yo...”." voices="maku01042"/>
+    <msg @l="607" char_id="-1" frame_id="-1" name="" text="“¿Me vas a ayudar a practicar o no?”." voices=""/>
+    <msg @l="609" char_id="-1" frame_id="-1" name="" text="“Lo haré. ¿Pero podrías... por favor, correr la cortina&#xA;primero?”." voices="maku01043"/>
+    <msg @l="611" char_id="-1" frame_id="-1" name="" text="“Oh, sí, está bien”." voices=""/>
+    <se @l="613" buf="1" src="se078" volume="1."/>
+    <wait_chgmv/>
+    <ev @l="614" effect="cross_fade" src="ev0h06aa" time="1000"/>
+    <msg @l="616" char_id="-1" frame_id="-1" name="" text="Una cortina separaba a Yuusuke y a Makiura; impidiéndole ver&#xA;la mirada mortificada de la mujer." voices=""/>
+    <msg @l="617" char_id="-1" frame_id="-1" name="" page_feed="true" text=" Sin embargo, eso también&#xA;significaba que no podía ver las reacciones de Yuusuke a sus&#xA;partes." voices="" add="true"/>
+    <page @l="619" fade="300"/>
+    <msg @l="621" char_id="-1" frame_id="-1" name="" text="“Sepáralas”." voices=""/>
+    <msg @l="623" char_id="-1" frame_id="-1" name="" text="Su voz llegó a través de la cortina." voices=""/>
+    <msg @l="624" add="true" char_id="-1" frame_id="-1" name="" text=" Makiura hizo lo que pudo&#xA;para ayudarle; abriendo las piernas." voices=""/>
+    <msg @l="626" char_id="-1" frame_id="-1" name="" text="(Esta vez sí que me he metido en un buen lío, ¿no?)." voices="maku01044"/>
+    <msg @l="628" char_id="-1" frame_id="-1" name="" text="Tenía las piernas abiertas frente a su novio para que pudiera&#xA;examinar sus genitales." voices=""/>
+    <msg @l="629" char_id="-1" frame_id="-1" name="" text=" A pesar de que había una cortina&#xA;entre ellos, sintió que podía sentir su mirada acalorada&#xA;taladrándola." voices="" add="true"/>
+    <msg @l="631" char_id="-1" frame_id="-1" name="" text="(No, no. No puedo pensar así. Es un procedimiento médico y&#xA;necesita práctica)." voices="maku01045"/>
+    <msg @l="633" char_id="-1" frame_id="-1" name="" text="Repitió ese mantra en su cabeza como si tratara de&#xA;hipnotizarse a sí misma, pero se encontró con que se&#xA;ponía rígida a pesar de todo." voices=""/>
+    <msg @l="634" char_id="-1" frame_id="-1" name="" page_feed="true" text="Y entonces, Yuusuke la tocó." voices=""/>
+    <page @l="636" fade="300"/>
+    <wait_chgmv/>
+    <ev @l="637" effect="cross_fade" src="ev0h06ba" time="800"/>
+    <msg @l="639" char_id="-1" frame_id="-1" name="" text="“¡Mm!”." voices="maku01046"/>
+    <msg @l="641" char_id="-1" frame_id="-1" name="" text="Ella jadeó." voices=""/>
+    <msg @l="643" char_id="-1" frame_id="-1" name="" text="“¿Estás bien?”." voices=""/>
+    <msg @l="644" char_id="-1" frame_id="-1" name="" text="“S-Sí. Estoy... bien”." voices="maku01047"/>
+    <msg @l="645" char_id="-1" frame_id="-1" name="" text="“Seré amable”." voices=""/>
+    <msg @l="646" char_id="-1" frame_id="-1" name="" page_feed="true" text="“Gracias... Ah, aah...”." voices="maku01048"/>
+    <page @l="648" fade="300"/>
+    <wait_chgmv/>
+    <ev @l="649" effect="cross_fade" src="ev0h06ca" time="800"/>
+    <msg @l="651" char_id="-1" frame_id="-1" name="" text="Las dos manos de Yuusuke entraron en contacto con los labios&#xA;vaginales." voices=""/>
+    <msg @l="652" char_id="-1" frame_id="-1" name="" text=" Le abrió la hendidura; mirando el brillante&#xA;agujero que había debajo." voices="" add="true"/>
+    <wait_chgmv/>
+    <ev @l="654" effect="cross_fade" src="ev0h06da" time="800"/>
+    <msg @l="656" char_id="-1" frame_id="-1" name="" text="(Está mirando... justo a mi vagina)." voices="maku01049"/>
+    <msg @l="658" char_id="-1" frame_id="-1" name="" text="La vergüenza de Makiura se negaba a desaparecer mientras su&#xA;novio la tocaba y la observaba en la iluminada habitación." voices=""/>
+    <msg @l="660" char_id="-1" frame_id="-1" name="" page_feed="true" text="“No te pongas tan nerviosa”." voices=""/>
+    <page @l="662" fade="300"/>
+    <wait_chgmv/>
+    <ev @l="663" src="ev0h06dc" time="0"/>
+    <msg @l="665" char_id="-1" frame_id="-1" name="" text="“Probablemente tendrás... muchos pacientes que lo son.&#xA;Deberías decir algo para ayudar a relajarme”." voices="maku01050"/>
+    <msg @l="666" char_id="-1" frame_id="-1" name="" text="“Oh, buen punto”." voices=""/>
+    <msg @l="668" char_id="-1" frame_id="-1" name="" text="Yuusuke meditó su respuesta, antes de..." voices=""/>
+    <msg @l="670" char_id="-1" frame_id="-1" name="" text="“Es hermosa”." voices=""/>
+    <msg @l="672" char_id="-1" frame_id="-1" name="" text="Dijo algo descabellado." voices=""/>
+    <wait_chgmv/>
+    <ev @l="674" src="ev0h06dd" time="0"/>
+    <msg @l="676" char_id="-1" frame_id="-1" name="" text="“¡Ngh!”." voices="maku01051"/>
+    <msg @l="678" char_id="-1" frame_id="-1" name="" text="Escuchar esas palabras de alguien que le miraba la vagina&#xA;hizo que Makiura se sintiera tan avergonzada que estaba a&#xA;punto de explotar." voices=""/>
+    <msg @l="679" char_id="-1" frame_id="-1" name="" page_feed="true" text=" Con los pies asegurados en los estribos,&#xA;ni siquiera podía cerrar las piernas." voices="" add="true"/>
+    <page @l="681" fade="300"/>
+    <msg @l="683" char_id="-1" frame_id="-1" name="" text="(¡¿Qué demonios?! ¡¿Acaba de decir que es hermosa?! Oh... ¿Tal vez quiso decir que era saludable?)." voices="maku01052"/>
+    <msg @l="685" char_id="-1" frame_id="-1" name="" text="Intentó enderezarse, pero su inesperado comentario la había&#xA;excitado un poco." voices=""/>
+    <msg @l="686" add="true" char_id="-1" frame_id="-1" name="" text=" Un líquido transparente comenzó a gotear&#xA;por los dedos de Yuusuke." voices=""/>
+    <se @l="688" buf="1" src="hse102" volume="1."/>
+    <wait_chgmv/>
+    <ev @l="689" src="ev0h06dg" time="0"/>
+    <msg @l="691" char_id="-1" frame_id="-1" name="" text="“¡Naah!”." voices="maku01053"/>
+    <msg @l="693" char_id="-1" frame_id="-1" name="" page_feed="true" text="Un gemido agudo escapó de su boca." voices=""/>
+    <page @l="695" fade="300"/>
+    <se @l="696" buf="1" src="hse103" volume="1."/>
+    <msg @l="698" char_id="-1" frame_id="-1" name="" text="Una de las manos de Yuusuke mantenía su vagina bien abierta&#xA;mientras la otra la estimulaba." voices=""/>
+    <wait_chgmv/>
+    <ev @l="700" src="ev0h06da" time="0"/>
+    <msg @l="702" char_id="-1" frame_id="-1" name="" text="“Ah... Aah...”." voices="maku01054"/>
+    <msg @l="704" char_id="-1" frame_id="-1" name="" text="El suave tacto solo provocó más gemidos." voices=""/>
+    <msg @l="705" char_id="-1" frame_id="-1" name="" text="Solo debía ser una revisión médica, pero la parte inferior de&#xA;su cuerpo palpitaba." voices=""/>
+    <se @l="707" buf="1" src="hse101" volume="1."/>
+    <msg @l="709" char_id="-1" frame_id="-1" name="" page_feed="true" text=" Cuanto más se frotaban los dedos contra&#xA;ella, más audible se hacía el sonido de sus jugos." voices="" add="true"/>
+    <page @l="711" fade="300"/>
+    <wait_chgmv/>
+    <ev @l="712" src="ev0h06db" time="0"/>
+    <msg @l="714" char_id="-1" frame_id="-1" name="" text="(Puedo oírlo...)." voices="maku01055"/>
+    <msg @l="716" char_id="-1" frame_id="-1" name="" text="La cortina que se interponía entre ellos solo hacía que esos&#xA;ruidos obscenos parecieran más fuertes." voices=""/>
+    <msg @l="717" char_id="-1" frame_id="-1" name="" text="Las caderas de Makiura comenzaron a moverse mientras los&#xA;dedos jugaban con ella." voices=""/>
+    <wait_chgmv/>
+    <ev @l="719" src="ev0h06de" time="0"/>
+    <msg @l="721" char_id="-1" frame_id="-1" name="" text="“Mm, mmm...”." voices="maku01056"/>
+    <msg @l="723" char_id="-1" frame_id="-1" name="" text="Su cuerpo ardía y su rostro se tornaba escarlata." voices=""/>
+    <msg @l="724" add="true" char_id="-1" frame_id="-1" name="" text=" Tuvo suerte&#xA;de que Yuusuke no pudiera ver." voices=""/>
+    <msg @l="725" char_id="-1" frame_id="-1" name="" page_feed="true" text="Por otro lado, no pudo evitar los gemidos y los jugos que&#xA;salían." voices=""/>
+    <page @l="727" fade="300"/>
+    <se @l="728" buf="1" src="hse102" volume="1."/>
+    <wait_chgmv/>
+    <ev @l="729" effect="cross_fade" src="ev0h06fb" time="800"/>
+    <msg @l="731" char_id="-1" frame_id="-1" name="" text="“Ah, aah...”." voices="maku01057"/>
+    <msg @l="733" char_id="-1" frame_id="-1" name="" text="El dedo de Yuusuke finalmente penetró en su vagina." voices=""/>
+    <msg @l="734" char_id="-1" frame_id="-1" name="" text=" Aunque&#xA;solo era un dedo índice, su complexión masculina hacía que&#xA;fuera grueso." voices="" add="true"/>
+    <msg @l="735" char_id="-1" frame_id="-1" name="" text=" Mientras curvaba el dedo para inspeccionar el&#xA;interior de su vagina, se frotaba contra sus paredes." voices="" add="true"/>
+    <msg @l="736" add="true" char_id="-1" frame_id="-1" name="" text=" La&#xA;forma en que se movía de un lado a otro dentro de Makiura,&#xA;hizo que sintiera escalofríos." voices=""/>
+    <wait_chgmv/>
+    <ev @l="738" effect="cross_fade" src="ev0h06fc" time="800"/>
+    <msg @l="740" char_id="-1" frame_id="-1" name="" text="“Umm, tu dedo es... Bueno... Aah...”." voices="maku01058"/>
+    <msg @l="741" char_id="-1" frame_id="-1" name="" text="“¿Qué son esos ruidos raros?”." voices=""/>
+    <wait_chgmv/>
+    <ev @l="743" src="ev0h06fh" time="0"/>
+    <msg @l="745" char_id="-1" frame_id="-1" name="" text="“No son raros... Aaah, aaah... Aaah...”." voices="maku01059"/>
+    <msg @l="747" char_id="-1" frame_id="-1" name="" text="Los gemidos de Makiura eran cada vez más agudos mientras él&#xA;la estimulaba." voices=""/>
+    <msg @l="748" char_id="-1" frame_id="-1" name="" text="Su entrada se contrajo para tragarse el dedo." voices=""/>
+    <msg @l="749" char_id="-1" frame_id="-1" name="" page_feed="true" text="A esas alturas, su mente estaba en blanco." voices=""/>
+    <page @l="751" fade="300"/>
+    <wait_chgmv/>
+    <ev @l="752" src="ev0h06fe" time="0"/>
+    <msg @l="754" char_id="-1" frame_id="-1" name="" text="(Va a pensar que soy una especie de zorra... ¡Mmm!)." voices="maku01060"/>
+    <msg @l="756" char_id="-1" frame_id="-1" name="" text="Makiura cerró la boca." voices=""/>
+    <msg @l="757" char_id="-1" frame_id="-1" name="" text=" Pero eso solo hizo que Yuusuke&#xA;cambiara su ritmo, como si tratara de arrancarle los gemidos." voices="" add="true"/>
+    <se @l="759" buf="1" src="hse102" volume="1."/>
+    <msg @l="761" add="true" char_id="-1" frame_id="-1" name="" text="&#xA;Claramente había dejado atrás la pretensión de una inspección&#xA;médica." voices=""/>
+    <wait_chgmv/>
+    <ev @l="763" src="ev0h06ff" time="0"/>
+    <msg @l="765" char_id="-1" frame_id="-1" name="" text="“Por favor, ah, ah... ¡Toma esto en serio!”." voices="maku01061"/>
+    <msg @l="766" char_id="-1" frame_id="-1" name="" page_feed="true" text="“Ups, me he dejado llevar”." voices=""/>
+    <page @l="768" fade="300"/>
+    <wait_chgmv/>
+    <ev @l="769" src="ev0h06fh" time="0"/>
+    <msg @l="771" char_id="-1" frame_id="-1" name="" text="“Eres un... ¡Mm! ¡Hyahn!”." voices="maku01062"/>
+    <msg @l="773" char_id="-1" frame_id="-1" name="" text="Makiura dejó escapar un grito." voices=""/>
+    <msg @l="774" char_id="-1" frame_id="-1" name="" text="Yuusuke acababa de tocar su clítoris." voices=""/>
+    <flash @l="776" count="2" fade="300" image="white"/>
+    <msg @l="778" add="true" char_id="-1" frame_id="-1" name="" text=" Sus dedos acariciaron&#xA;suavemente la judía roja brillante que asomaba por la&#xA;capucha." voices=""/>
+    <msg @l="779" char_id="-1" frame_id="-1" name="" text="Sus caderas se movieron en el aire ante el repentino ataque." voices=""/>
+    <wait_chgmv/>
+    <ev @l="781" src="ev0h06fb" time="0"/>
+    <msg @l="783" char_id="-1" frame_id="-1" name="" text="(¡No toques mi clítoris!)." voices="maku01063"/>
+    <msg @l="785" char_id="-1" frame_id="-1" name="" text="Un intenso placer la asaltó." voices=""/>
+    <msg @l="786" char_id="-1" frame_id="-1" name="" page_feed="true" text="No pudo escapar, ya estaba atada a la silla de&#xA;reconocimiento. Ni siquiera podía cerrar las piernas." voices=""/>
+    <page @l="788" fade="300"/>
+    <msg @l="790" char_id="-1" frame_id="-1" name="" text="“Aah, no, no. Mmm, así no”." voices="maku01064"/>
+    <msg @l="792" char_id="-1" frame_id="-1" name="" text="Se estaba adormeciendo." voices=""/>
+    <msg @l="793" add="true" char_id="-1" frame_id="-1" name="" text=" Pronto empezó a sentir que flotaba&#xA;en medio de un mar de placer." voices=""/>
+    <msg @l="794" char_id="-1" frame_id="-1" name="" text="El ataque conjunto a su vagina y a su clítoris la hizo&#xA;acercarse rápidamente a su límite." voices=""/>
+    <wait_chgmv/>
+    <ev @l="796" src="ev0h06fg" time="0"/>
+    <msg @l="798" char_id="-1" frame_id="-1" name="" text="“Naah... N-No... ¡Oh, Dios!”." voices="maku01065"/>
+    <flash @l="800" count="2" fade="300" image="white"/>
+    <msg @l="802" char_id="-1" frame_id="-1" name="" text="Una convulsión la atravesó." voices=""/>
+    <msg @l="803" char_id="-1" frame_id="-1" name="" page_feed="true" text="Su vagina se cerró con fuerza alrededor del dedo insertado." voices=""/>
+    <page @l="805" fade="300"/>
+    <wait_chgmv/>
+    <ev @l="806" src="ev0h06fh" time="0"/>
+    <msg @l="808" char_id="-1" frame_id="-1" name="" text="“Aaah... Aaah...”." voices="maku01066"/>
+    <msg @l="810" char_id="-1" frame_id="-1" name="" text="Una expresión encantada se dibujó en el rostro de Makiura&#xA;mientras luchaba por recuperar el aliento." voices=""/>
+    <msg @l="811" char_id="-1" frame_id="-1" name="" text="Sus mejillas enrojecidas eran la viva imagen de la&#xA;satisfacción; había tenido un orgasmo con los dedos de su&#xA;novio." voices=""/>
+    <msg @l="812" char_id="-1" frame_id="-1" name="" text="Sin embargo, al momento siguiente, vio cómo se abría la&#xA;cortina." voices=""/>
+    <se @l="814" buf="1" src="se078" volume="1."/>
+    <wait_chgmv/>
+    <ev @l="816" effect="cross_fade" src="ev0h06gd" time="800"/>
+    <msg @l="818" char_id="-1" frame_id="-1" name="" text="“¡Ey!”." voices="maku01067"/>
+    <msg @l="820" char_id="-1" frame_id="-1" name="" text="Makiura se levantó de golpe." voices=""/>
+    <msg @l="821" char_id="-1" frame_id="-1" name="" page_feed="true" text=" Ante eso, Yuusuke pareció un&#xA;poco avergonzado." voices="" add="true"/>
+    <page @l="823" fade="300"/>
+    <msg @l="825" char_id="-1" frame_id="-1" name="" text="“Entonces, la inspección inicial ha terminado, pero...”." voices=""/>
+    <msg @l="827" char_id="-1" frame_id="-1" name="" text="Mostró su dedo, reluciente y húmedo." voices=""/>
+    <wait_chgmv/>
+    <ev @l="829" effect="cross_fade" src="ev0h06ge" time="800"/>
+    <msg @l="831" add="true" char_id="-1" frame_id="-1" name="" text=" El rostro de Makiura&#xA;adquirió un tono aún más intenso de carmesí mientras miraba&#xA;hacia otro lado." voices=""/>
+    <msg @l="833" char_id="-1" frame_id="-1" name="" text="“¿Te importaría continuar el examen?”." voices=""/>
+    <wait_chgmv/>
+    <ev @l="835" src="ev0h06gc" time="0"/>
+    <msg @l="837" char_id="-1" frame_id="-1" name="" text="“¿Eh? ¿Qué clase de...?”." voices="maku01068"/>
+    <msg @l="838" char_id="-1" frame_id="-1" name="" page_feed="true" text="“Este de aquí”." voices=""/>
+    <page @l="840" fade="300"/>
+    <wait_chgmv/>
+    <ev @l="841" effect="cross_fade" src="ev0h06hd" time="800"/>
+    <msg @l="843" char_id="-1" frame_id="-1" name="" text="Sacó su pene, que estaba completamente erecto y apuntaba&#xA;hacia arriba." voices=""/>
+    <msg @l="845" char_id="-1" frame_id="-1" name="" text="“Realmente tengo que examinarte por dentro. Quiero decir,&#xA;siempre y cuando estés de acuerdo con eso”." voices=""/>
+    <wait_chgmv/>
+    <ev @l="847" src="ev0h06ha" time="0"/>
+    <msg @l="849" char_id="-1" frame_id="-1" name="" text="“...”." voices="maku01069"/>
+    <msg @l="851" char_id="-1" frame_id="-1" name="" text="La respiración de Makiura se volvió agitada." voices=""/>
+    <wait_chgmv/>
+    <ev @l="853" src="ev0h06he" time="0"/>
+    <msg @l="855" add="true" char_id="-1" frame_id="-1" name="" text=" Ella apartó&#xA;la mirada de él y dijo..." voices=""/>
+    <msg @l="857" char_id="-1" frame_id="-1" name="" text="“Si crees que es necesario, deberíamos hacerlo”." voices="maku01070"/>
+    <msg @l="858" char_id="-1" frame_id="-1" name="" page_feed="true" text="“Genial”." voices=""/>
+    <page @l="860" fade="300"/>
+    <wait_chgmv/>
+    <ev @l="861" src="ev0h06hb" time="0"/>
+    <msg @l="863" char_id="-1" frame_id="-1" name="" text="Presionó la punta contra su entrada." voices=""/>
+    <msg @l="864" char_id="-1" frame_id="-1" name="" text=" Podía sentir su calor,&#xA;casi lo suficiente como para quemarla." voices="" add="true"/>
+    <msg @l="865" add="true" char_id="-1" frame_id="-1" name="" text=" La excitación de&#xA;Yuusuke era evidente." voices=""/>
+    <msg @l="867" char_id="-1" frame_id="-1" name="" text="(Solo un examen, solo un examen...)." voices="maku01071"/>
+    <msg @l="869" char_id="-1" frame_id="-1" name="" text="No podían tener sexo en una habitación iluminada, y mucho&#xA;menos hacerlo en el hospital donde trabajaban." voices=""/>
+    <msg @l="870" add="true" char_id="-1" frame_id="-1" name="" text=" Pero si fuera&#xA;un examen..." voices=""/>
+    <wait_chgmv/>
+    <ev @l="872" src="ev0h06hc" time="0"/>
+    <msg @l="874" char_id="-1" frame_id="-1" name="" text="(Entonces, ¡supongo que hay que hacerlo!)." voices="maku01072"/>
+    <msg @l="876" char_id="-1" frame_id="-1" name="" page_feed="true" text="No estaba pensando bien." voices=""/>
+    <page @l="878" fade="300"/>
+    <se @l="879" buf="1" src="hse102" volume="1."/>
+    <msg @l="881" char_id="-1" frame_id="-1" name="" text="El pene se frotó contra su empapada hendidura." voices=""/>
+    <msg @l="882" char_id="-1" frame_id="-1" name="" text="El estímulo caliente del miembro hacía que las caderas de&#xA;Makiura se agitaran." voices=""/>
+    <msg @l="883" char_id="-1" frame_id="-1" name="" text="Makiura sabía que la expresión de su cara le rogaría que lo&#xA;introdujera." voices=""/>
+    <msg @l="884" add="true" char_id="-1" frame_id="-1" name="" text=" Miró fijamente a Yuusuke." voices=""/>
+    <msg @l="885" char_id="-1" frame_id="-1" name="" text=" Entonces, con un&#xA;plop, el pene se introdujo." voices="" add="true"/>
+    <se @l="887" buf="1" src="hse103" volume="1."/>
+    <wait_chgmv/>
+    <ev @l="888" effect="cross_fade" src="ev0h06ig" time="800"/>
+    <msg @l="890" char_id="-1" frame_id="-1" name="" text="“Aah...”." voices="maku01073"/>
+    <msg @l="892" char_id="-1" frame_id="-1" name="" text="La erección de Yuusuke separó las paredes interiores." voices=""/>
+    <msg @l="893" char_id="-1" frame_id="-1" name="" text="En respuesta, Makiura jadeó de éxtasis." voices=""/>
+    <wait_chgmv/>
+    <ev @l="895" src="ev0h06ih" time="0"/>
+    <msg @l="897" char_id="-1" frame_id="-1" name="" page_feed="true" text="(Muy grueso... ¡Y todo está dentro de mí!)." voices="maku01074"/>
+    <page @l="899" fade="300"/>
+    <msg @l="901" char_id="-1" frame_id="-1" name="" text="Sentirlo dentro de ella encendió un fuego que recorrió su&#xA;cuerpo." voices=""/>
+    <msg @l="902" char_id="-1" frame_id="-1" name="" text=" Tan pronto como la gorda vara sació su vagina, sin&#xA;dejar ni un centímetro de espacio para respirar, empezó a&#xA;pistonear." voices="" add="true"/>
+    <se @l="904" buf="1" loop="true" src="hse122" volume="1."/>
+    <wait_chgmv/>
+    <ev @l="905" src="ev0h06id" time="0"/>
+    <msg @l="907" char_id="-1" frame_id="-1" name="" text="“¡Ah, ah, ah!”." voices="maku01075"/>
+    <msg @l="909" char_id="-1" frame_id="-1" name="" text="Yuusuke tiró de su pene hacia atrás, chocando contra los&#xA;pliegues, antes de volver a enroscarlo inmediatamente en sus&#xA;profundidades." voices=""/>
+    <msg @l="910" add="true" char_id="-1" frame_id="-1" name="" text=" La agitación de su vagina hizo que Makiura&#xA;gritara de alegría." voices=""/>
+    <wait_chgmv/>
+    <ev @l="912" src="ev0h06ig" time="0"/>
+    <msg @l="914" char_id="-1" frame_id="-1" name="" text="(¡Aah! Dios, no puedo... ¡dejar de gemir!)." voices="maku01076"/>
+    <msg @l="916" char_id="-1" frame_id="-1" name="" text="Se sintió muy avergonzada." voices=""/>
+    <msg @l="917" char_id="-1" frame_id="-1" name="" text="Yuusuke pudo ver la expresión de alegría en su rostro." voices=""/>
+    <msg @l="918" char_id="-1" frame_id="-1" name="" page_feed="true" text="Yuusuke golpeó las caderas con tanta violencia que hizo&#xA;temblar la mesa de exámenes." voices=""/>
+    <page @l="920" fade="300"/>
+    <wait_chgmv/>
+    <ev @l="921" src="ev0h06ih" time="0"/>
+    <msg @l="923" char_id="-1" frame_id="-1" name="" text="“¡Ahn, ah, ah, aah!”." voices="maku01077"/>
+    <msg @l="925" char_id="-1" frame_id="-1" name="" text="Los jugos de amor salpicaron y se aplastaron de su vagina con&#xA;cada empuje." voices=""/>
+    <msg @l="926" add="true" char_id="-1" frame_id="-1" name="" text=" Un placer adormecedor ya había comenzado a&#xA;recorrer su columna vertebral." voices=""/>
+    <wait_chgmv/>
+    <ev @l="928" src="ev0h06ig" time="0"/>
+    <msg @l="930" char_id="-1" frame_id="-1" name="" text="(¡¿Qué estoy haciendo?! ¡¿Cómo se siente esto tan bien?!)." voices="maku01078"/>
+    <msg @l="932" char_id="-1" frame_id="-1" name="" text="Yuusuke no se limitaba a moverse de adentro hacia afuera." voices=""/>
+    <msg @l="933" add="true" char_id="-1" frame_id="-1" name="" text="&#xA;Estaba golpeando sus puntos débiles con la máxima precisión." voices=""/>
+    <msg @l="934" add="true" char_id="-1" frame_id="-1" name="" text="&#xA;Su ritmo y sus ángulos perfectos la ponían cada vez más&#xA;caliente." voices=""/>
+    <msg @l="935" char_id="-1" frame_id="-1" name="" page_feed="true" text="Aunque la respiración de Makiura era cada vez más rápida y&#xA;superficial, consiguió hacer la pregunta que tenía en mente." voices=""/>
+    <page @l="937" fade="300"/>
+    <msg @l="939" char_id="-1" frame_id="-1" name="" text="“Umm... Entonces, ¿para qué es exactamente... este examen?”." voices="maku01079"/>
+    <msg @l="941" char_id="-1" frame_id="-1" name="" text="En realidad, nunca habían definido un objetivo." voices=""/>
+    <msg @l="943" char_id="-1" frame_id="-1" name="" text="“Err, ¿para comprobar tu, uh, sensibilidad?”." voices=""/>
+    <msg @l="944" char_id="-1" frame_id="-1" name="" text="“¡Seguro que no necesitas estar dentro de mí para hacerlo!”." voices="maku01080"/>
+    <msg @l="946" char_id="-1" frame_id="-1" name="" text="Estaba perfectamente claro que eso no era un examen." voices=""/>
+    <msg @l="947" char_id="-1" frame_id="-1" name="" text="Yuusuke se inclinó sobre Makiura, apoyándose en la mesa de&#xA;exámenes mientras presionaba." voices=""/>
+    <msg @l="948" add="true" char_id="-1" frame_id="-1" name="" text=" La propia mesa empezó a&#xA;crujir y a sonar bajo su peso combinado." voices=""/>
+    <msg @l="950" char_id="-1" frame_id="-1" name="" text="“Un pene es la mejor herramienta para examinar una vagina”." voices=""/>
+    <msg @l="952" char_id="-1" frame_id="-1" name="" page_feed="true" text="A medida que Yuusuke empujaba con fuerza, sus habilidades&#xA;para acariciar la vagina no eran menos precisas." voices=""/>
+    <page @l="954" fade="300"/>
+    <msg @l="955" char_id="-1" frame_id="-1" name="" text="La punta de su pene podía llegar mucho más profundo que&#xA;cualquier dedo." voices=""/>
+    <msg @l="956" char_id="-1" frame_id="-1" name="" text=" Empujó contra su útero, desatando fuegos&#xA;artificiales de placer en el interior." voices="" add="true"/>
+    <msg @l="958" char_id="-1" frame_id="-1" name="" text="“¡Espléndido, tu vagina se siente bastante saludable!”." voices=""/>
+    <msg @l="959" char_id="-1" frame_id="-1" name="" text="“¡Tonto! ¡Mentiroso!”." voices="maku01081"/>
+    <msg @l="961" char_id="-1" frame_id="-1" name="" text="Era demasiado para soportar." voices=""/>
+    <msg @l="965" add="true" char_id="-1" frame_id="-1" name="" text=" Makiura rodeó con sus brazos&#xA;a Yuusuke mientras su clímax se precipitaba a su encuentro." voices=""/>
+    <msg @l="967" char_id="-1" frame_id="-1" name="" text="“¡Me voy a correr!”." voices=""/>
+    <msg @l="969" char_id="-1" frame_id="-1" name="" page_feed="true" text="Su pene empezó a temblar entre las paredes." voices=""/>
+    <page @l="971" fade="300"/>
+    <msg @l="973" char_id="-1" frame_id="-1" name="" text="“Ah... Aah... ¡Aah!”." voices="maku01082"/>
+    <se @l="975" buf="1" src="hse105" volume="1."/>
+    <flash @l="976" count="3" fade="300" image="white"/>
+    <wait_chgmv/>
+    <ev @l="977" effect="cross_fade" src="ev0h06jg" time="500"/>
+    <msg @l="979" char_id="-1" frame_id="-1" name="" text="Yuusuke eyaculó." voices=""/>
+    <msg @l="980" char_id="-1" frame_id="-1" name="" text=" El pene palpitaba mientras la carga&#xA;caliente y blanca salía a borbotones." voices="" add="true"/>
+    <wait_chgmv/>
+    <ev @l="982" src="ev0h06jd" time="0"/>
+    <msg @l="984" char_id="-1" frame_id="-1" name="" text="(¿Y qué hay de... la anticoncepción?)." voices="maku01083"/>
+    <msg @l="986" char_id="-1" frame_id="-1" name="" text="Todo había sucedido tan rápido que se habían olvidado de usar&#xA;protección." voices=""/>
+    <msg @l="987" add="true" char_id="-1" frame_id="-1" name="" text=" La sensación que sintió en lo más profundo de su&#xA;vagina fue suficiente para dejarla boquiabierta." voices=""/>
+    <msg @l="988" add="true" char_id="-1" frame_id="-1" name="" text=" El semen&#xA;caliente se acumuló en su interior." voices=""/>
+    <msg @l="989" char_id="-1" frame_id="-1" name="" text="Era tan vívido que casi podía ver la corriente entrando en su&#xA;útero." voices=""/>
+    <se @l="991" buf="1" src="hse117" volume="1."/>
+    <flash @l="992" count="2" fade="300" image="white"/>
+    <wait_chgmv/>
+    <ev @l="993" src="ev0h06jg" time="0"/>
+    <msg @l="995" char_id="-1" frame_id="-1" name="" text="“¡Ah, ah, naaaaaah!”." voices="maku01084"/>
+    <msg @l="997" char_id="-1" frame_id="-1" name="" page_feed="true" text="Y ese fue el detonante para que Makiura también llegara al&#xA;clímax." voices=""/>
+    <page @l="999" fade="300"/>
+    <wait_chgmv/>
+    <ev @l="1000" src="ev0h06jh" time="0"/>
+    <msg @l="1002" char_id="-1" frame_id="-1" name="" text="“Me siento muy llena... Aah, está, todavía está&#xA;palpitando...”." voices="maku01085"/>
+    <msg @l="1004" char_id="-1" frame_id="-1" name="" text="Se aferró a Yuusuke, aceptando hasta la última gota de su&#xA;semen dentro de ella." voices=""/>
+    <msg @l="1006" char_id="-1" frame_id="-1" name="" text=" Después de un rato, se retiró&#xA;lentamente." voices="" add="true"/>
+    <wait_chgmv/>
+    <ev @l="1008" src="ev0h06kh" time="800"/>
+    <msg @l="1010" add="true" char_id="-1" frame_id="-1" name="" text=" El pene manchado de fluidos salió con un plop." voices=""/>
+    <msg @l="1012" char_id="-1" frame_id="-1" name="" text="“Aaah, aaah...”." voices="maku01086"/>
+    <msg @l="1014" char_id="-1" frame_id="-1" name="" text="Luchó por poner en orden su respiración." voices=""/>
+    <msg @l="1015" char_id="-1" frame_id="-1" name="" page_feed="true" text=" Por el rabillo&#xA;del ojo, vio que el pene seguía erecto." voices="" add="true"/>
+    <page @l="1017" fade="300"/>
+    <wait_chgmv/>
+    <ev @l="1018" src="ev0h06kc" time="800"/>
+    <msg @l="1020" char_id="-1" frame_id="-1" name="" text="“¿Quieres seguir?”." voices=""/>
+    <msg @l="1022" char_id="-1" frame_id="-1" name="" text="Yuusuke susurró." voices=""/>
+    <msg @l="1023" char_id="-1" frame_id="-1" name="" text="Ella asintió un poco..." voices=""/>
+    <wait_chgmv/>
+    <bg @l="1025" effect="cross_fade" src="black" time="1000"/>
+    <msg @l="1027" add="true" char_id="-1" frame_id="-1" name="" page_feed="true" text=" y fue levantada inmediatamente&#xA;y llevada a la cama de examen cercana." voices=""/>
+    <page @l="1029" fade="300"/>
+    <se @l="1030" buf="1" src="se017" volume="1."/>
+    <wait_chgmv/>
+    <ev @l="1031" effect="cross_fade" src="ev0h07aa" time="500"/>
+    <msg @l="1033" char_id="-1" frame_id="-1" name="" text="(¿Realmente tenemos que hacerlo así?)." voices="maku01087"/>
+    <msg @l="1035" char_id="-1" frame_id="-1" name="" text="Makiura estaba tumbada de frente, con el trasero empujado&#xA;hacia atrás." voices=""/>
+    <msg @l="1036" add="true" char_id="-1" frame_id="-1" name="" text=" Todas sus partes privadas estaban a la vista." voices=""/>
+    <msg @l="1037" char_id="-1" frame_id="-1" name="" text="&#xA;Todo le gritaba que cerrara las piernas, pero Yuusuke las&#xA;abría de par en par." voices="" add="true"/>
+    <msg @l="1038" char_id="-1" frame_id="-1" name="" page_feed="true" text="Las mejillas de Makiura se sonrojaron al sentir el calor del&#xA;miembro erecto rozando su trasero." voices=""/>
+    <page @l="1040" fade="300"/>
+    <wait_chgmv/>
+    <ev @l="1041" src="ev0h07ab" time="0"/>
+    <msg @l="1043" char_id="-1" frame_id="-1" name="" text="(Aww...)." voices="maku01088"/>
+    <msg @l="1045" char_id="-1" frame_id="-1" name="" text="La idea de tener sexo como los perros hirió su orgullo." voices=""/>
+    <msg @l="1046" char_id="-1" frame_id="-1" name="" text="Makiura no era una mujer fácil." voices=""/>
+    <msg @l="1047" char_id="-1" frame_id="-1" name="" text=" Su padre dirigía su propio&#xA;hospital, lo que significaba que había tenido una educación&#xA;rica y bien educada." voices="" add="true"/>
+    <msg @l="1048" char_id="-1" frame_id="-1" name="" text=" Por ello, muchos médicos jóvenes se le&#xA;habían insinuado. Pero, sus verdaderas intenciones eran tan&#xA;evidentes que ninguno había conseguido mantener su interés." voices="" add="true"/>
+    <msg @l="1049" char_id="-1" frame_id="-1" name="" text="Siempre había imaginado que tal vez su padre la emparejaría&#xA;con un hombre algún día y se harían cargo del negocio&#xA;familiar juntos." voices=""/>
+    <msg @l="1050" add="true" char_id="-1" frame_id="-1" name="" text=" Lo que no había imaginado era ser dominada&#xA;así." voices=""/>
+    <msg @l="1051" add="true" char_id="-1" frame_id="-1" name="" page_feed="true" text="&#xA;Y sin embargo, por alguna razón, ella estaba permitiendo&#xA;que sucediera." voices=""/>
+    <page @l="1053" fade="300"/>
+    <msg @l="1054" char_id="-1" frame_id="-1" name="" text="Parecía que sus emociones habían superado su razonamiento." voices=""/>
+    <msg @l="1056" char_id="-1" frame_id="-1" name="" text="“Aaah... Aaah...”." voices="maku01089"/>
+    <msg @l="1058" char_id="-1" frame_id="-1" name="" text="Yuusuke no prestó atención a cómo se sentía Makiura en ese&#xA;momento, ya que disfrutaba frotando su pene contra el&#xA;redondo trasero." voices=""/>
+    <msg @l="1059" char_id="-1" frame_id="-1" name="" text=" En el proceso le untó sus propios jugos por&#xA;todo el cuerpo y brillaron en su pálida piel." voices="" add="true"/>
+    <msg @l="1060" char_id="-1" frame_id="-1" name="" text="Entonces le agarró el trasero con ambas manos, metiendo el&#xA;pene en la hendidura y frotándolo de arriba a abajo. Makiura&#xA;estaba siendo tratada como un juguete, pero aun así&#xA;permaneció en silencio." voices=""/>
+    <msg @l="1062" char_id="-1" frame_id="-1" name="" text="“Bonita vista desde aquí atrás”." voices=""/>
+    <msg @l="1064" char_id="-1" frame_id="-1" name="" text="Sus muslos empezaron a estar húmedos, y pronto se dio cuenta&#xA;de que era porque el semen estaba saliendo de su vagina." voices=""/>
+    <msg @l="1065" char_id="-1" frame_id="-1" name="" text=" Tal&#xA;vez la vergüenza y los nervios le habían hecho apretar el&#xA;estómago y forzándolo a salir." voices="" add="true"/>
+    <msg @l="1066" char_id="-1" frame_id="-1" name="" page_feed="true" text=" Sería una visión obscenamente&#xA;lasciva; lo sabía con certeza." voices="" add="true"/>
+    <page @l="1068" fade="300"/>
+    <wait_chgmv/>
+    <ev @l="1069" src="ev0h07ad" time="0"/>
+    <msg @l="1071" char_id="-1" frame_id="-1" name="" text="“Si lo vas a poner, hazlo rápido, por favor”." voices="maku01090"/>
+    <msg @l="1072" char_id="-1" frame_id="-1" name="" text="“Oh, se oye bien. Ruega por ello un poco más”." voices=""/>
+    <wait_chgmv/>
+    <ev @l="1074" src="ev0h07ae" time="0"/>
+    <msg @l="1076" char_id="-1" frame_id="-1" name="" text="(¡¿Eh?! Ugh...)." voices="maku01091"/>
+    <msg @l="1078" char_id="-1" frame_id="-1" name="" text="Se tragó la vergüenza y, por el deseo de acabar con las&#xA;cosas, le suplicó." voices=""/>
+    <wait_chgmv/>
+    <ev @l="1080" src="ev0h07ab" time="0"/>
+    <msg @l="1082" char_id="-1" frame_id="-1" name="" text="“Por favor, doctor, démelo”." voices="maku01092"/>
+    <msg @l="1083" char_id="-1" frame_id="-1" name="" page_feed="true" text="“Así me gusta”." voices=""/>
+    <page @l="1085" fade="300"/>
+    <msg @l="1087" char_id="-1" frame_id="-1" name="" text="Las fornidas manos de Yuusuke mantenían su trasero fijo en su&#xA;sitio." voices=""/>
+    <msg @l="1088" char_id="-1" frame_id="-1" name="" text="Su punta endurecida presionó contra la entrada de Makiura,&#xA;que se retorcía." voices=""/>
+    <wait_chgmv/>
+    <ev @l="1090" src="ev0h07ac" time="0"/>
+    <msg @l="1092" char_id="-1" frame_id="-1" name="" text="(Ah... ¡Está entrando!)." voices="maku01093"/>
+    <se @l="1094" buf="1" src="hse104" volume="1."/>
+    <wait_chgmv/>
+    <ev @l="1095" effect="cross_fade" src="ev0h07bf" time="800"/>
+    <msg @l="1097" char_id="-1" frame_id="-1" name="" text="Una gorda serpiente penetró en sus entrañas." voices=""/>
+    <msg @l="1099" char_id="-1" frame_id="-1" name="" page_feed="true" text="“¡Naaah!”." voices="maku01094"/>
+    <page @l="1101" fade="300"/>
+    <se @l="1102" buf="2" loop="true" src="hse122" volume="1."/>
+    <msg @l="1104" char_id="-1" frame_id="-1" name="" text="La diferencia de posición trajo consigo una diferencia en el ángulo de ataque, que a su vez hizo que un nuevo tipo de&#xA;placer la recorriera." voices=""/>
+    <msg @l="1105" add="true" char_id="-1" frame_id="-1" name="" text=" El semen que aún quedaba en su interior&#xA;se convirtió en un amasijo espumoso a causa de los&#xA;empujones." voices=""/>
+    <msg @l="1106" char_id="-1" frame_id="-1" name="" text="Yuusuke se colgó sobre ella, forzando su camino más profundo&#xA;y abriendo la vagina." voices=""/>
+    <msg @l="1107" add="true" char_id="-1" frame_id="-1" name="" text=" El tarro de miel estaba empapado&#xA;mientras chupaba y apretaba su vara." voices=""/>
+    <msg @l="1108" char_id="-1" frame_id="-1" name="" page_feed="true" text="En esa posición no había escapatoria para Makiura; apenas&#xA;podía retorcerse. Solo tenía que aceptar lo que le ocurría." voices=""/>
+    <page @l="1110" fade="300"/>
+    <wait_chgmv/>
+    <ev @l="1111" src="ev0h07bd" time="0"/>
+    <msg @l="1113" char_id="-1" frame_id="-1" name="" text="“¡Naah, aaah, aaah!”." voices="maku01095"/>
+    <msg @l="1115" char_id="-1" frame_id="-1" name="" text="Golpeó con fuerza." voices=""/>
+    <msg @l="1116" char_id="-1" frame_id="-1" name="" text="Sus caderas golpearon rítmicamente el trasero de Makiura,&#xA;haciendo que se agitara." voices=""/>
+    <msg @l="1118" char_id="-1" frame_id="-1" name="" text="(Oh, Dios. ¡Oh, Dios!)." voices="maku01096"/>
+    <msg @l="1120" char_id="-1" frame_id="-1" name="" text="Una parte de ella se sentía deshonrada y degradada por la&#xA;forma en que la estaba utilizando, pero no podía negar que&#xA;otra parte de ella se deleitaba al ser dominada." voices=""/>
+    <se @l="1122" buf="2" loop="true" src="hse123" volume="1."/>
+    <wait_chgmv/>
+    <ev @l="1123" src="ev0h07bi" time="0"/>
+    <msg @l="1125" char_id="-1" frame_id="-1" name="" text="“¡Ngh, ah, naah!”." voices="maku01097"/>
+    <msg @l="1127" char_id="-1" frame_id="-1" name="" text="Los empujes de Yuusuke eran cada vez más violentos." voices=""/>
+    <msg @l="1128" char_id="-1" frame_id="-1" name="" page_feed="true" text=" El pene&#xA;palpitaba dentro de su vagina, más caliente e hinchado que&#xA;nunca." voices="" add="true"/>
+    <page @l="1130" fade="300"/>
+    <msg @l="1132" char_id="-1" frame_id="-1" name="" text="(Estoy haciendo que se sienta bien)." voices="maku01098"/>
+    <msg @l="1134" char_id="-1" frame_id="-1" name="" text="Los pensamientos de Makiura comenzaron a desvanecerse ante la&#xA;intensidad que sentía en su interior." voices=""/>
+    <msg @l="1135" char_id="-1" frame_id="-1" name="" text=" El gordo miembro se&#xA;agitaba en sus profundidades, enardeciendo un placer&#xA;adormecedor en todo su cuerpo." voices="" add="true"/>
+    <msg @l="1136" add="true" char_id="-1" frame_id="-1" name="" text=" Un dulce aroma salía de la&#xA;capa de sudor que se había formado en su nuca." voices=""/>
+    <wait_chgmv/>
+    <ev @l="1138" src="ev0h07bc" time="0"/>
+    <msg @l="1140" char_id="-1" frame_id="-1" name="" text="“Mmm, ngh... ¡Ahn!”." voices="maku01099"/>
+    <msg @l="1142" char_id="-1" frame_id="-1" name="" text="El ardiente palo de carne se frotó contra sus paredes&#xA;mientras golpeaba una y otra vez contra sus profundidades." voices=""/>
+    <msg @l="1143" add="true" char_id="-1" frame_id="-1" name="" page_feed="true" text="&#xA;Una sacudida de electricidad acompañó a cada empujón." voices=""/>
+    <page @l="1145" fade="300"/>
+    <msg @l="1147" char_id="-1" frame_id="-1" name="" text="“Aah... Aaah, aaah... ¡Ah!”." voices="maku01100"/>
+    <msg @l="1149" char_id="-1" frame_id="-1" name="" text="Antes de que se diera cuenta, estaba sacudiendo su propio&#xA;trasero al ritmo de los empujones." voices=""/>
+    <msg @l="1150" add="true" char_id="-1" frame_id="-1" name="" text=" Enviando su trasero para&#xA;recibir sus caderas y permitiendo que el pene se introduzca&#xA;aún más profundamente." voices=""/>
+    <msg @l="1152" char_id="-1" frame_id="-1" name="" text="“Aah... Ah... ¡Sí!”." voices="maku01101"/>
+    <msg @l="1154" char_id="-1" frame_id="-1" name="" text="Sus continuos empujones la hacían correr hacia el clímax." voices=""/>
+    <msg @l="1155" add="true" char_id="-1" frame_id="-1" name="" page_feed="true" text="&#xA;Y justo, cuando estaba a punto de alcanzarlo..." voices=""/>
+    <page @l="1157" fade="300"/>
+    <stopse @l="1158" buf="2"/>
+    <wait_chgmv/>
+    <ev @l="1159" effect="cross_fade" src="ev0h07ci" time="800"/>
+    <msg @l="1161" char_id="-1" frame_id="-1" name="" text="“¡Sayaka!”." voices="shir00318"/>
+    <msg @l="1163" char_id="-1" frame_id="-1" name="" text="Una voz se filtró por la puerta." voices=""/>
+    <msg @l="1164" char_id="-1" frame_id="-1" name="" text="Una silueta apareció a través del cristal esmerilado." voices=""/>
+    <msg @l="1165" char_id="-1" frame_id="-1" name="" text="Shiratani." voices=""/>
+    <wait_chgmv/>
+    <ev @l="1167" src="ev0h07ce" time="0"/>
+    <msg @l="1169" char_id="-1" frame_id="-1" name="" text="“¡Shiratani-san, mm!”." voices="maku01102"/>
+    <msg @l="1171" char_id="-1" frame_id="-1" name="" text="Makiura respondió, y luego se arrepintió al instante." voices=""/>
+    <msg @l="1172" char_id="-1" frame_id="-1" name="" page_feed="true" text=" Cerró&#xA;la boca, pero ya era demasiado tarde." voices="" add="true"/>
+    <page @l="1174" fade="300"/>
+    <wait_chgmv/>
+    <ev @l="1175" src="ev0h07cg" time="0"/>
+    <msg @l="1177" char_id="-1" frame_id="-1" name="" text="(¿Qué hago ahora?)." voices="maku01103"/>
+    <se @l="1179" buf="2" loop="true" src="hse122" volume="1."/>
+    <wait_chgmv/>
+    <ev @l="1180" effect="cross_fade" src="ev0h07dg" time="800"/>
+    <msg @l="1182" char_id="-1" frame_id="-1" name="" text="Miró detrás de ella en busca de ayuda, solo para ver a&#xA;Yuusuke sonriendo mientras seguía empujando." voices=""/>
+    <msg @l="1184" char_id="-1" frame_id="-1" name="" text="(¡¿Qué pasará si nos ve?!)." voices="maku01104"/>
+    <msg @l="1186" char_id="-1" frame_id="-1" name="" text="Yuusuke no se detuvo." voices=""/>
+    <msg @l="1187" add="true" char_id="-1" frame_id="-1" name="" text=" No le importó que su compañera de&#xA;trabajo estuviera al otro lado de la puerta." voices=""/>
+    <wait_chgmv/>
+    <ev @l="1189" src="ev0h07da" time="0"/>
+    <msg @l="1191" char_id="-1" frame_id="-1" name="" text="(Si se corre la voz de esto...)." voices="maku01105"/>
+    <msg @l="1193" char_id="-1" frame_id="-1" name="" text="Yuusuke y Makiura serían castigados." voices=""/>
+    <msg @l="1194" char_id="-1" frame_id="-1" name="" page_feed="true" text=" Solo cuando era&#xA;demasiado tarde, se dio cuenta de la realidad de lo que estaba&#xA;haciendo." voices="" add="true"/>
+    <page @l="1196" fade="300"/>
+    <wait_chgmv/>
+    <ev @l="1197" src="ev0h07dc" time="0"/>
+    <msg @l="1199" char_id="-1" frame_id="-1" name="" text="(¡No podemos dejar que nos encuentren!)." voices="maku01106"/>
+    <msg @l="1201" char_id="-1" frame_id="-1" name="" text="Intentó apartarse de Yuusuke, pero con él agarrándola con&#xA;fuerza, no había escapatoria." voices=""/>
+    <msg @l="1202" char_id="-1" frame_id="-1" name="" text=" Y con su pene golpeándola,&#xA;cualquier intento de objetar probablemente no sería más que&#xA;un gemido." voices="" add="true"/>
+    <wait_chgmv/>
+    <ev @l="1204" effect="cross_fade" src="ev0h07cc" time="800"/>
+    <msg @l="1206" char_id="-1" frame_id="-1" name="" text="“Solo voy a usar la sala de preparación. ¿Estás ocupada allí?&#xA;¿Has visto al Dr. Takemura?”." voices="shir00319"/>
+    <msg @l="1208" char_id="-1" frame_id="-1" name="" text="Shiratani habló. Debe haber terminado lo que estaba haciendo&#xA;antes." voices=""/>
+    <msg @l="1209" add="true" char_id="-1" frame_id="-1" name="" text=" Makiura no podía dejar que su preocupada colega viera&#xA;lo que estaba pasando." voices=""/>
+    <msg @l="1210" char_id="-1" frame_id="-1" name="" text="Yuusuke le susurró." voices=""/>
+    <msg @l="1212" char_id="-1" frame_id="-1" name="" page_feed="true" text="“Sospechará si no contestas”." voices=""/>
+    <page @l="1214" fade="300"/>
+    <wait_chgmv/>
+    <ev @l="1215" src="ev0h07ce" time="0"/>
+    <msg @l="1217" char_id="-1" frame_id="-1" name="" text="“¡Mm, lo sé!”." voices="maku01107"/>
+    <msg @l="1219" char_id="-1" frame_id="-1" name="" text="Parecía que no tenía intención de parar." voices=""/>
+    <msg @l="1220" char_id="-1" frame_id="-1" name="" text=" En ese caso, Makiura&#xA;tenía que asegurarse de que Shiratani no entrara en la&#xA;habitación." voices="" add="true"/>
+    <msg @l="1222" char_id="-1" frame_id="-1" name="" text="“Lo siento, estamos haciendo prácticas de examen pélvico&#xA;ahora mismo”." voices="maku01108"/>
+    <msg @l="1223" char_id="-1" frame_id="-1" name="" text="“¿Está el Dr. Takemura ahí también?”." voices="shir00320"/>
+    <msg @l="1224" char_id="-1" frame_id="-1" name="" text="“S-Sí. Está... dentro”." voices="maku01109"/>
+    <msg @l="1225" char_id="-1" frame_id="-1" name="" page_feed="true" text="“Bien, ¿qué pasa? Suenas un poco rara”." voices="shir00321"/>
+    <page @l="1227" fade="300"/>
+    <wait_chgmv/>
+    <ev @l="1228" src="ev0h07cb" time="0"/>
+    <msg @l="1230" char_id="-1" frame_id="-1" name="" text="“Oh, bueno... Es porque, um... es una inspección, ¿sabes?”." voices="maku01110"/>
+    <msg @l="1232" char_id="-1" frame_id="-1" name="" text="Sabía muy bien que su voz era estridente por el pánico." voices=""/>
+    <msg @l="1233" char_id="-1" frame_id="-1" name="" text="&#xA;Sin embargo, Shiratani pareció tragarse la excusa." voices="" add="true"/>
+    <msg @l="1235" char_id="-1" frame_id="-1" name="" text="“Oh, sí, los exámenes de ginecología son bastante intensos.&#xA;Con todos los implementos que tienen que poner ahí. Supongo&#xA;que tendré que hacerme uno en el futuro, ¿no?” ." voices="shir00322"/>
+    <wait_chgmv/>
+    <ev @l="1237" src="ev0h07ca" time="0"/>
+    <msg @l="1239" char_id="-1" frame_id="-1" name="" page_feed="true" text="“S-Sí. Toda mujer debería...”." voices="maku01111"/>
+    <page @l="1241" fade="300"/>
+    <wait_chgmv/>
+    <ev @l="1242" effect="cross_fade" src="ev0h07da" time="800"/>
+    <msg @l="1244" char_id="-1" frame_id="-1" name="" text="A medida que la conversación con Shiratani continuaba,&#xA;Makiura se encontraba cada vez más excitada." voices=""/>
+    <msg @l="1245" add="true" char_id="-1" frame_id="-1" name="" text=" La idea de que&#xA;Shiratani atravesara la puerta y viera que estaba teniendo&#xA;sexo, se estaba convirtiendo en una fantasía excitante." voices=""/>
+    <msg @l="1246" char_id="-1" frame_id="-1" name="" text="&#xA;Yuusuke siguió empujando, estimulando su vagina con una&#xA;precisión practicada." voices="" add="true"/>
+    <msg @l="1247" add="true" char_id="-1" frame_id="-1" name="" text=" Cada una de sus embestidas obligó&#xA;a Makiura a emitir un gemido." voices=""/>
+    <msg @l="1248" char_id="-1" frame_id="-1" name="" text="Yuusuke volvió a susurrarle, en un tono que demostraba que su&#xA;pregunta le parecía el colmo de la hilaridad." voices=""/>
+    <msg @l="1250" char_id="-1" frame_id="-1" name="" page_feed="true" text="“¿Qué tipo de inspección es?”." voices=""/>
+    <page @l="1252" fade="300"/>
+    <wait_chgmv/>
+    <ev @l="1253" src="ev0h07de" time="0"/>
+    <msg @l="1255" char_id="-1" frame_id="-1" name="" text="“¡Ngh! P-Por favor, ¡termina con esto de una vez!”." voices="maku01112"/>
+    <msg @l="1256" char_id="-1" frame_id="-1" name="" text="“¿Tal vez una inspección de fertilidad?”." voices=""/>
+    <wait_chgmv/>
+    <ev @l="1258" src="ev0h07df" time="0"/>
+    <msg @l="1260" char_id="-1" frame_id="-1" name="" text="“¡¿Qué?!”." voices="maku01113"/>
+    <msg @l="1262" char_id="-1" frame_id="-1" name="" text="Una visión del propio interior de Makiura se iluminó en su&#xA;mente." voices=""/>
+    <msg @l="1263" add="true" char_id="-1" frame_id="-1" name="" text=" Todo el semen que estaría nadando por su interior en&#xA;ese momento." voices=""/>
+    <msg @l="1264" char_id="-1" frame_id="-1" name="" text=" En ese punto de su ciclo, era muy probable que&#xA;se quedara embarazada." voices="" add="true"/>
+    <msg @l="1265" add="true" char_id="-1" frame_id="-1" name="" page_feed="true" text=" Su rostro se puso blanco como una&#xA;sábana." voices=""/>
+    <page @l="1267" fade="300"/>
+    <wait_chgmv/>
+    <ev @l="1268" src="ev0h07dd" time="0"/>
+    <msg @l="1270" char_id="-1" frame_id="-1" name="" text="“Ah, err...”." voices="maku01114"/>
+    <msg @l="1271" char_id="-1" frame_id="-1" name="" text="“¿Qué tal si primero vemos si tus óvulos pueden ser&#xA;fertilizados? Luego veremos si pasa a la fase de&#xA;implantación”." voices=""/>
+    <msg @l="1273" char_id="-1" frame_id="-1" name="" text="Naturalmente, dada su ocupación, Makiura conocía bien el&#xA;funcionamiento del embarazo y el parto." voices=""/>
+    <msg @l="1274" char_id="-1" frame_id="-1" name="" text=" Sin embargo, no había&#xA;planeado una lección práctica en el proceso tan pronto." voices="" add="true"/>
+    <msg @l="1275" char_id="-1" frame_id="-1" name="" text="Aun así, pensó que podría resultar muy valioso." voices=""/>
+    <msg @l="1276" add="true" char_id="-1" frame_id="-1" name="" text=" Experimentar&#xA;realmente el proceso desde la concepción hasta el parto&#xA;podría darle ventaja en su carrera." voices=""/>
+    <msg @l="1277" char_id="-1" frame_id="-1" name="" page_feed="true" text=" O, al menos, eso fue lo&#xA;que su mente adicta al placer decidió creer." voices="" add="true"/>
+    <page @l="1279" fade="300"/>
+    <wait_chgmv/>
+    <ev @l="1280" src="ev0h07dc" time="0"/>
+    <msg @l="1282" char_id="-1" frame_id="-1" name="" text="“¡Mmm!”." voices="maku01115"/>
+    <msg @l="1284" char_id="-1" frame_id="-1" name="" text="Su espalda se arqueó cuando la punta del pene de Yuusuke&#xA;presionó contra su útero." voices=""/>
+    <msg @l="1285" add="true" char_id="-1" frame_id="-1" name="" text=" Podía notar que se estaba&#xA;acumulando más semen en el pene mientras se agitaba&#xA;dentro de su vagina." voices=""/>
+    <msg @l="1287" char_id="-1" frame_id="-1" name="" text="“¿Cuánto tiempo pasará hasta que tengamos los resultados de&#xA;la prueba de hoy?”." voices=""/>
+    <msg @l="1289" char_id="-1" frame_id="-1" name="" page_feed="true" text="Makiura, en su estado de confusión, le dio una respuesta&#xA;directa." voices=""/>
+    <page @l="1291" fade="300"/>
+    <wait_chgmv/>
+    <ev @l="1292" src="ev0h07da" time="0"/>
+    <msg @l="1294" char_id="-1" frame_id="-1" name="" text="“¡Lo sabremos en... un mes!”." voices="maku01116"/>
+    <wait_chgmv/>
+    <ev @l="1296" effect="cross_fade" src="ev0h07ca" time="800"/>
+    <msg @l="1298" char_id="-1" frame_id="-1" name="" text="Shiratani debió oírlo, ya que dio una respuesta alegre&#xA;mientras seguía detrás de la puerta." voices=""/>
+    <msg @l="1300" char_id="-1" frame_id="-1" name="" text="“Ugh, es una larga espera para los resultados. Me pregunto&#xA;qué tipo de prueba están haciendo”." voices="shir00323"/>
+    <msg @l="1302" char_id="-1" frame_id="-1" name="" text="Makiura se tapó la boca con una mano, desesperada porque&#xA;Shiratani no descubriera la verdad." voices=""/>
+    <msg @l="1303" char_id="-1" frame_id="-1" name="" text=" Hizo todo lo posible,&#xA;pero algunos gemidos eran demasiado fuertes para ser&#xA;contenidos." voices="" add="true"/>
+    <msg @l="1304" char_id="-1" frame_id="-1" name="" page_feed="true" text=" A pesar del extravagante escenario de su&#xA;repentina cita, por alguna razón le estaba encantando." voices="" add="true"/>
+    <page @l="1306" fade="300"/>
+    <wait_chgmv/>
+    <ev @l="1307" effect="cross_fade" src="ev0h07cc" time="800"/>
+    <msg @l="1309" char_id="-1" frame_id="-1" name="" text="(No... ¡Esto está mal, muy mal!)." voices="maku01117"/>
+    <msg @l="1311" char_id="-1" frame_id="-1" name="" text="Su mente y su cuerpo estaban en conflicto, pero el placer que&#xA;crecía en su interior pronto se impuso." voices=""/>
+    <msg @l="1312" add="true" char_id="-1" frame_id="-1" name="" page_feed="true" text=" La emoción de ser&#xA;posiblemente encontrada por su compañera de trabajo hizo que&#xA;una fuente brotara de su vagina." voices=""/>
+    <page @l="1314" fade="300"/>
+    <wait_chgmv/>
+    <ev @l="1315" effect="cross_fade" src="ev0h07ca" time="800"/>
+    <msg @l="1317" char_id="-1" frame_id="-1" name="" text="“Ya he terminado de ordenar, así que me voy a ir ahora”." voices="shir00324"/>
+    <wait_chgmv/>
+    <ev @l="1319" effect="cross_fade" src="ev0h07ba" time="800"/>
+    <msg @l="1321" char_id="-1" frame_id="-1" name="" text="Shiratani se alejó." voices=""/>
+    <msg @l="1322" add="true" char_id="-1" frame_id="-1" name="" text=" Makiura apenas había ocultado la verdad." voices=""/>
+    <wait_chgmv/>
+    <ev @l="1324" src="ev0h07bf" time="0"/>
+    <msg @l="1326" char_id="-1" frame_id="-1" name="" text="“¡Ah! ¡Ahn! ¡Eeyah!”." voices="maku01118"/>
+    <se @l="1328" buf="2" loop="true" src="hse123" volume="1."/>
+    <msg @l="1330" char_id="-1" frame_id="-1" name="" text="El placer que había estado conteniendo explotó en ella." voices=""/>
+    <msg @l="1331" char_id="-1" frame_id="-1" name="" text=" Movió&#xA;sus caderas al compás de las de Yuusuke, con sus ritmos en&#xA;perfecta sincronía, mientras las carnosas palmadas llenaban&#xA;la habitación." voices="" add="true"/>
+    <wait_chgmv/>
+    <ev @l="1333" src="ev0h07bc" time="0"/>
+    <msg @l="1335" char_id="-1" frame_id="-1" name="" text="“¡Mmm, mm! ¡Naah, aah!”." voices="maku01119"/>
+    <msg @l="1337" char_id="-1" frame_id="-1" name="" text="El grueso pene se frotó contra sus pliegues, y la punta&#xA;sacaba los jugos de Makiura." voices=""/>
+    <msg @l="1338" char_id="-1" frame_id="-1" name="" text="Makiura se olvidó de la humillante posición en la que se&#xA;encontraba y de cómo se habría desmayado al verse en&#xA;cualquier día normal. Quería más del pene de Yuusuke." voices=""/>
+    <msg @l="1339" char_id="-1" frame_id="-1" name="" page_feed="true" text=" Y él&#xA;respondió de la misma manera, golpeando sus caderas&#xA;contra ella tan fuerte como pudo." voices="" add="true"/>
+    <page @l="1341" fade="300"/>
+    <wait_chgmv/>
+    <ev @l="1342" src="ev0h07bi" time="0"/>
+    <msg @l="1344" char_id="-1" frame_id="-1" name="" text="“¡Ah, ah, aaah, mm! Aaah, aah... ¡Aaaah!”." voices="maku01120"/>
+    <msg @l="1346" char_id="-1" frame_id="-1" name="" text="Makiura gritó de alegría, clavando las uñas en la cama." voices=""/>
+    <msg @l="1347" add="true" char_id="-1" frame_id="-1" name="" text=" Cada&#xA;empuje profundo en el interior fue acompañado por la espuma&#xA;y las salpicaduras de líquidos de su punto de conexión." voices=""/>
+    <msg @l="1348" char_id="-1" frame_id="-1" name="" text="Oír a Yuusuke jadear en su oído hizo que su vagina se&#xA;retorciera." voices=""/>
+    <msg @l="1349" char_id="-1" frame_id="-1" name="" text="El pene dentro de ella se hizo más grande." voices=""/>
+    <msg @l="1350" char_id="-1" frame_id="-1" name="" text=" Estaba palpitando;&#xA;claramente se acercaba a su límite." voices="" add="true"/>
+    <msg @l="1352" char_id="-1" frame_id="-1" name="" text="“¡Me voy a correr! Puedo hacerlo dentro, ¿verdad?”." voices=""/>
+    <msg @l="1353" char_id="-1" frame_id="-1" name="" page_feed="true" text="“¡Sí! ¡Por favor!”." voices="maku01121"/>
+    <page @l="1355" fade="300"/>
+    <stopse @l="1356" buf="2"/>
+    <msg @l="1358" char_id="-1" frame_id="-1" name="" text="Yuusuke se inclinó hacia ella, atornillando su pene contra el&#xA;útero." voices=""/>
+    <msg @l="1359" char_id="-1" frame_id="-1" name="" text=" Una fracción de segundo después, sintió una violenta&#xA;sacudida en su interior mientras un chorro caliente se&#xA;vertía directamente en sus profundidades." voices="" add="true"/>
+    <se @l="1361" buf="1" src="hse105" volume="1."/>
+    <flash @l="1362" count="3" fade="300" image="white"/>
+    <wait_chgmv/>
+    <bg @l="1363" src="white" time="1000"/>
+    <wait_chgmv/>
+    <ev @l="1364" effect="cross_fade" src="ev0h07ei" time="500"/>
+    <msg @l="1366" char_id="-1" frame_id="-1" name="" text="“Aah... Ngah... ¡Ah, ah, aaah!”." voices="maku01122"/>
+    <msg @l="1368" char_id="-1" frame_id="-1" name="" text="Makiura se puso rígida al aceptarlo todo." voices=""/>
+    <se @l="1370" buf="1" src="hse105" volume="1."/>
+    <flash @l="1371" count="3" fade="300" image="white"/>
+    <msg @l="1373" char_id="-1" frame_id="-1" name="" text="Su vagina se convulsionó una, dos y tres veces mientras él&#xA;descargaba todo su semen." voices=""/>
+    <msg @l="1375" char_id="-1" frame_id="-1" name="" page_feed="true" text="“¡Mmm! ¡Aah! Ah, aaah... ¡Ah!”." voices="maku01123"/>
+    <page @l="1377" fade="300"/>
+    <msg @l="1379" char_id="-1" frame_id="-1" name="" text="Con su interior bañado en semen, Makiura llegó al clímax." voices=""/>
+    <msg @l="1380" add="true" char_id="-1" frame_id="-1" name="" text=" Un&#xA;torrente de placer la asaltó mientras enterraba la cabeza y&#xA;se aferraba a las sábanas." voices=""/>
+    <msg @l="1381" char_id="-1" frame_id="-1" name="" text="La presencia de Yuusuke se desbordó de su interior." voices=""/>
+    <wait_chgmv/>
+    <ev @l="1383" src="ev0h07eh" time="0"/>
+    <msg @l="1385" char_id="-1" frame_id="-1" name="" text="(Ah... estoy muy llena... de espeso... semen)." voices="maku01124"/>
+    <msg @l="1387" char_id="-1" frame_id="-1" name="" text="Disfrutó del éxtasis." voices=""/>
+    <msg @l="1388" char_id="-1" frame_id="-1" name="" page_feed="true" text="Cuando finalmente Yuusuke saco su pene, Makiura se desplomó&#xA;en la cama." voices=""/>
+    <stopbgm @l="1390" fadeout="2000"/>
+    <wait_chgmv/>
+    <bg @l="1391" effect="cross_fade" src="black" time="2000"/>
+    <page @l="1392" fade="300"/>
+    <wait @l="1393" time="1000"/>
+    <wait_chgmv/>
+    <ev @l="1394" effect="cross_fade" src="ev0h06ka" time="1000"/>
+    <bgm @l="1395" src="bgm04" volume="1."/>
+    <msg @l="1397" char_id="-1" frame_id="-1" name="" text="Cuando los dos se calmaron, volvieron al examen." voices=""/>
+    <msg @l="1398" add="true" char_id="-1" frame_id="-1" name="" text=" Yuusuke la&#xA;había convencido diciéndole que esas oportunidades no se&#xA;presentaban a menudo." voices=""/>
+    <msg @l="1399" char_id="-1" frame_id="-1" name="" text=" Mientras los dedos manipulaban sus&#xA;genitales, el semen comenzó a salir de ella una vez más." voices="" add="true"/>
+    <msg @l="1400" char_id="-1" frame_id="-1" name="" text="&#xA;Le abrió la vagina, permitiendo que sus jugos combinados&#xA;salieran mientras observaba su interior." voices="" add="true"/>
+    <wait_chgmv/>
+    <ev @l="1402" effect="cross_fade" src="ev0h06kb" time="500"/>
+    <msg @l="1404" char_id="-1" frame_id="-1" name="" text="(Aww... Esto es muy embarazoso). " voices="maku01125"/>
+    <msg @l="1406" char_id="-1" frame_id="-1" name="" page_feed="true" text="La combinación de recordar su anterior degeneración y la&#xA;presente situación mortificante fue casi suficiente para&#xA;hacerla desmayar." voices=""/>
+    <stopbgm @l="1408" fadeout="2000"/>
+    <page @l="1409" fade="300"/>
+    <msg @l="1411" char_id="-1" frame_id="-1" name="" text="“Sayaka”." voices="shir00325"/>
+    <wait_chgmv/>
+    <ev @l="1413" effect="cross_fade" src="ev0h06kd" time="0"/>
+    <msg @l="1415" char_id="-1" frame_id="-1" name="" text="Y entonces, volvió la voz de Shiratani." voices=""/>
+    <bgm @l="1417" src="bgm05" volume="1."/>
+    <msg @l="1419" add="true" char_id="-1" frame_id="-1" name="" text=" Una figura detrás&#xA;de la puerta." voices=""/>
+    <msg @l="1421" char_id="-1" frame_id="-1" name="" text="“¡¿Sí?!”." voices="maku01126"/>
+    <msg @l="1422" char_id="-1" frame_id="-1" name="" text="“¿Ya has terminado el examen? Estás tardando mucho ahí&#xA;dentro”." voices="shir00326"/>
+    <msg @l="1423" char_id="-1" frame_id="-1" name="" text="“Errrrrm...”." voices="maku01127"/>
+    <msg @l="1425" char_id="-1" frame_id="-1" name="" text="Había estado tan absorta en Yuusuke que no se había dado&#xA;cuenta del tiempo que había pasado." voices=""/>
+    <msg @l="1426" char_id="-1" frame_id="-1" name="" text=" Aunque intentó levantarse&#xA;de la mesa de exámenes, se vio incapaz de moverse." voices="" add="true"/>
+    <msg @l="1427" char_id="-1" frame_id="-1" name="" text=" Era como&#xA;si sus miembros estuvieran bloqueados y se negaran a ceder&#xA;un ápice." voices="" add="true"/>
+    <msg @l="1428" char_id="-1" frame_id="-1" name="" page_feed="true" text="Por su parte, Yuusuke, entendiendo o no que Makiura se había&#xA;quedado paralizada, siguió sondeando su vagina." voices=""/>
+    <page @l="1430" fade="300"/>
+    <wait_chgmv/>
+    <ev @l="1431" effect="cross_fade" src="ev0h06kb" time="500"/>
+    <msg @l="1433" char_id="-1" frame_id="-1" name="" text="“¡Eeeeek!”." voices="maku01128"/>
+    <msg @l="1435" char_id="-1" frame_id="-1" name="" text="Un gemido estridente." voices=""/>
+    <wait_chgmv/>
+    <ev @l="1437" effect="cross_fade" src="ev0h06kg" time="500"/>
+    <msg @l="1439" char_id="-1" frame_id="-1" name="" text="“E-Espere un minuto, doctor. Este examen es... ¡Ah, ah!”." voices="maku01129"/>
+    <msg @l="1441" char_id="-1" frame_id="-1" name="" text="Su ropa desaliñada y el semen que goteaba de su vagina le&#xA;dejarían pocas excusas si la veían." voices=""/>
+    <msg @l="1442" char_id="-1" frame_id="-1" name="" text=" Sabía que tenía que&#xA;arreglar su aspecto, pero sus músculos no escuchaban a su&#xA;cerebro." voices="" add="true"/>
+    <msg @l="1444" char_id="-1" frame_id="-1" name="" page_feed="true" text="“¿Puedo entrar, Sayaka?”." voices="shir00327"/>
+    <page @l="1446" fade="300"/>
+    <se @l="1447" buf="1" src="se125" volume="1."/>
+    <msg @l="1449" char_id="-1" frame_id="-1" name="" text="Una mano giró el pomo de la puerta." voices=""/>
+    <se @l="1451" buf="1" src="se005" volume="1."/>
+    <msg @l="1452" char_id="-1" frame_id="-1" name="" text=" Lentamente, la puerta&#xA;comenzó a abrirse." voices="" add="true"/>
+    <wait_chgmv/>
+    <ev @l="1454" effect="cross_fade" src="ev0h06kh" time="500"/>
+    <msg @l="1456" char_id="-1" frame_id="-1" name="" text="(¡E-Ella va a verme!)." voices="maku01130"/>
+    <msg @l="1458" char_id="-1" frame_id="-1" name="" text="La desesperación se hizo presente." voices=""/>
+    <msg @l="1459" add="true" char_id="-1" frame_id="-1" name="" text=" El sudor brotó." voices=""/>
+    <msg @l="1460" add="true" char_id="-1" frame_id="-1" name="" text="&#xA;Los latidos de su corazón se aceleraron." voices=""/>
+    <warp @l="1462" param1="12" preset="Shimmer"/>
+    <msg @l="1464" add="true" char_id="-1" frame_id="-1" name="" page_feed="true" text=" Sus ojos iban de&#xA;un lado a otro. Era demasiado tarde." voices=""/>
+    <page @l="1466" fade="300"/>
+    <stopbgm @l="1467" fadeout="2000"/>
+    <wait_chgmv/>
+    <bg @l="1468" effect="cross_fade" src="white" time="3000"/>
+    <end_scene @l="1471"/>
+    <wait @l="1475" time="1000"/>
+    <wait_chgmv/>
+    <bg @l="1476" src="black" time="1000"/>
+    <msg @l="1478" char_id="-1" frame_id="-1" name="" text="“¿Doctora? ¿Doctora?”." voices="shir00328"/>
+    <msg @l="1480" char_id="-1" frame_id="-1" name="" text="Una voz familiar, y una forma de dirigirse familiar." voices=""/>
+    <msg @l="1481" char_id="-1" frame_id="-1" name="" page_feed="true" text="Makiura se levantó de golpe." voices=""/>
+    <page @l="1483" fade="300"/>
+    <begin_trans @l="1484" alpha="0" time="200"/>
+    <wait_chgmv/>
+    <bg @l="1485" src="bg03b"/>
+    <char @l="1486" id="l_mk" pos="auto" src="l_mku_aack"/>
+    <end_trans @l="1487"/>
+    <se @l="1489" buf="1" src="se017" volume="1."/>
+    <shake @l="1490" amp="10" class="all" cycle="1" duration="200" type="random"/>
+    <bgm @l="1491" src="bgm04" volume="1."/>
+    <msg @l="1493" char_id="-1" frame_id="-1" name="" text="“¿Uugh? ¡No! Esto no es lo que...”." voices="maku01131"/>
+    <msg @l="1495" char_id="-1" frame_id="-1" name="" text="Gritó de pánico." voices=""/>
+    <char @l="1497" id="l_mk" pos="auto" src="l_mku_aacf"/>
+    <msg @l="1499" char_id="-1" frame_id="-1" name="" text="“Oh... ¿Qué?”." voices="maku01132"/>
+    <msg @l="1501" char_id="-1" frame_id="-1" name="" text="Tardó un momento en darse cuenta de que ya no estaba en la&#xA;sala de inspección, sino en su despacho del&#xA;ayuntamiento." voices=""/>
+    <begin_trans @l="1503" effect="cross_fade" time="500"/>
+    <clear @l="1504" class="char"/>
+    <char @l="1505" id="mku_" pos="left" src="mku_aacf"/>
+    <char @l="1506" id="srt_" pos="right" src="srt_aaaa"/>
+    <end_trans @l="1507"/>
+    <msg @l="1509" char_id="-1" frame_id="-1" name="" text="&#xA;Shiratani estaba vestida normalmente; de pie frente a ella&#xA;y sosteniendo una bolsa de papel." voices="" add="true"/>
+    <msg @l="1511" char_id="-1" frame_id="-1" name="" text="(Mm... ¿Umm?)." voices="maku01133"/>
+    <msg @l="1513" char_id="-1" frame_id="-1" name="" page_feed="true" text="Makiura estaba confundida." voices=""/>
+    <page @l="1515" fade="300"/>
+    <msg @l="1517" char_id="-1" frame_id="-1" name="" text="Shiratani la miró con desconfianza a la cara." voices=""/>
+    <msg @l="1518" char_id="-1" frame_id="-1" name="" text="Makiura miró alrededor de la habitación." voices=""/>
+    <msg @l="1519" add="true" char_id="-1" frame_id="-1" name="" text=" Entonces, supuso que&#xA;había estado durmiendo en su escritorio y que se había&#xA;puesto en pie de un salto al ser despertada." voices=""/>
+    <msg @l="1520" add="true" char_id="-1" frame_id="-1" name="" text=" Lo que&#xA;significaba que todo lo que acababa de experimentar..." voices=""/>
+    <char @l="1522" id="mku_" pos="left" src="mku_aack"/>
+    <msg @l="1524" char_id="-1" frame_id="-1" name="" text="(Espera, ¿eso fue un sueño?)." voices="maku01134"/>
+    <msg @l="1526" char_id="-1" frame_id="-1" name="" text="Finalmente, se dio cuenta de que nada de lo que había visto&#xA;era real." voices=""/>
+    <msg @l="1527" char_id="-1" frame_id="-1" name="" page_feed="true" text="Toda la tensión desapareció de ella." voices=""/>
+    <page @l="1529" fade="300"/>
+    <begin_trans @l="1530" effect="cross_fade" time="500"/>
+    <clear @l="1531" class="char"/>
+    <char @l="1532" id="l_mk" pos="left" src="l_mku_aacr"/>
+    <char @l="1533" id="l_sr" pos="right" src="l_srt_aaab"/>
+    <end_trans @l="1534"/>
+    <msg @l="1536" char_id="-1" frame_id="-1" name="" text="Shiratani ladeó la cabeza." voices=""/>
+    <msg @l="1538" char_id="-1" frame_id="-1" name="" text="“¿Se encuentra bien?”." voices="shir00329"/>
+    <msg @l="1540" char_id="-1" frame_id="-1" name="" text="Makiura mantuvo los ojos en el suelo y dijo..." voices=""/>
+    <msg @l="1542" char_id="-1" frame_id="-1" name="" text="“Oh, sí... Solo estaba teniendo un sueño extraño, creo”." voices="maku01135"/>
+    <char @l="1544" id="l_sr" pos="auto" src="l_srt_aaac"/>
+    <msg @l="1546" char_id="-1" frame_id="-1" name="" page_feed="true" text="“Seguro que gemía mucho mientras dormía. ¿Qué estaba&#xA;soñando?”." voices="shir00330"/>
+    <page @l="1548" fade="300"/>
+    <char @l="1549" id="l_mk" pos="auto" src="l_mku_aaco"/>
+    <msg @l="1551" char_id="-1" frame_id="-1" name="" text="“Bueno...”." voices="maku01136"/>
+    <msg @l="1553" char_id="-1" frame_id="-1" name="" text="Su cara se puso roja como la remolacha." voices=""/>
+    <msg @l="1554" char_id="-1" frame_id="-1" name="" text=" En un intento de&#xA;disimularlo, tomó una taza de café; solo para descubrir que&#xA;estaba vacía. Shiratani la miró con extrañeza." voices="" add="true"/>
+    <msg @l="1555" char_id="-1" frame_id="-1" name="" text="&#xA;Afortunadamente, parecía que había decidido dejar pasar el&#xA;comportamiento sospechoso de Makiura." voices="" add="true"/>
+    <msg @l="1556" add="true" char_id="-1" frame_id="-1" name="" text=" Shiratani cambió de&#xA;tema." voices=""/>
+    <char @l="1558" id="l_sr" pos="auto" src="l_srt_aaab"/>
+    <msg @l="1560" char_id="-1" frame_id="-1" name="" text="“Oh, claro, ¿recuerda el traje que le regalé? Resulta que le&#xA;di el equivocado”." voices="shir00331"/>
+    <msg @l="1562" char_id="-1" frame_id="-1" name="" page_feed="true" text="Makiura levantó la vista con sorpresa." voices=""/>
+    <page @l="1564" fade="300"/>
+    <char @l="1565" id="l_mk" pos="auto" src="l_mku_aacn"/>
+    <msg @l="1567" char_id="-1" frame_id="-1" name="" text="“¿En serio?”." voices="maku01137"/>
+    <char @l="1569" id="l_sr" pos="auto" src="l_srt_aaag"/>
+    <msg @l="1571" char_id="-1" frame_id="-1" name="" text="“Sí. Bueno, fue un poco excesivo, ¿no cree?”." voices="shir00332"/>
+    <char @l="1573" id="l_mk" pos="auto" src="l_mku_aaco"/>
+    <msg @l="1575" char_id="-1" frame_id="-1" name="" text="“Aah... sí... Ciertamente lo fue”." voices="maku01138"/>
+    <msg @l="1577" char_id="-1" frame_id="-1" name="" text="Aunque la apuntaran con una pistola, Makiura nunca habría&#xA;confesado que tuvo un sueño sexual con Yuusuke con esa ropa." voices=""/>
+    <char @l="1579" id="l_sr" pos="auto" src="l_srt_aaae"/>
+    <msg @l="1581" char_id="-1" frame_id="-1" name="" text="“Aunque, traigo buenas noticias. ¡Tengo algo mucho mejor aquí&#xA;mismo!”." voices="shir00333"/>
+    <msg @l="1583" char_id="-1" frame_id="-1" name="" page_feed="true" text="Shiratani tomó la bolsa que había dejado anteriormente y, en&#xA;su lugar, dejó la nueva." voices=""/>
+    <page @l="1585" fade="300"/>
+    <char @l="1586" id="l_mk" pos="auto" src="l_mku_aace"/>
+    <msg @l="1588" char_id="-1" frame_id="-1" name="" text="“Oh, gracias...”." voices="maku01139"/>
+    <msg @l="1590" char_id="-1" frame_id="-1" name="" text="Makiura aceptó de mala gana la bolsa de papel que Shiratani&#xA;le puso en las manos." voices=""/>
+    <begin_trans @l="1592" effect="cross_fade" time="500"/>
+    <clear @l="1593" class="char"/>
+    <char @l="1594" id="mku_" pos="left" src="mku_aace"/>
+    <char @l="1595" id="srt_" pos="right" src="srt_aaaf"/>
+    <end_trans @l="1596"/>
+    <msg @l="1598" char_id="-1" frame_id="-1" name="" text="“¡Pues, buena suerte con eso! La apoyaré”." voices="shir00334"/>
+    <msg @l="1600" char_id="-1" frame_id="-1" name="" page_feed="true" text="Después de dedicarle otra sonrisa soleada, Shiratani salió de&#xA;la habitación." voices=""/>
+    <se @l="1602" buf="1" src="se022" volume="1."/>
+    <clear @l="1603" layer="srt_"/>
+    <waitse @l="1604" buf="1"/>
+    <se @l="1605" buf="1" src="se003" volume="1."/>
+    <waitse @l="1606" buf="1"/>
+    <se @l="1607" buf="1" src="se004" volume="1."/>
+    <page @l="1609" fade="300"/>
+    <char @l="1610" id="mku_" pos="auto" src="mku_aace"/>
+    <msg @l="1612" char_id="-1" frame_id="-1" name="" text="Y así, Makiura se quedó sola y sintiéndose perdida mientras&#xA;miraba con desesperación la nueva bolsa." voices=""/>
+    <begin_trans @l="1614" effect="cross_fade" time="500"/>
+    <clear @l="1615" layer="mku_"/>
+    <char @l="1616" id="l_mk" pos="auto" src="l_mku_aaco"/>
+    <end_trans @l="1617"/>
+    <msg @l="1619" char_id="-1" frame_id="-1" name="" text="“Otro conjunto, ¿eh?”." voices="maku01140"/>
+    <msg @l="1621" char_id="-1" frame_id="-1" name="" text="Recordó el sueño una vez más y empezó a sonrojarse." voices=""/>
+    <msg @l="1622" add="true" char_id="-1" frame_id="-1" name="" text=" Qué sueño&#xA;tan loco había sido." voices=""/>
+    <msg @l="1623" add="true" char_id="-1" frame_id="-1" name="" text=" Pero, ¿quizás alguna parte oculta de&#xA;ella anhelaba secretamente una conducta tan escandalosa? " voices=""/>
+    <msg @l="1624" add="true" char_id="-1" frame_id="-1" name="" text="&#xA;¿Yuusuke podría estar interesado en ella también?" voices=""/>
+    <char @l="1626" id="l_mk" pos="auto" src="l_mku_aacr"/>
+    <msg @l="1628" char_id="-1" frame_id="-1" name="" text="(¡No, no, no! ¡No soy una pervertida!)." voices="maku01141"/>
+    <clear @l="1630" class="char"/>
+    <msg @l="1632" char_id="-1" frame_id="-1" name="" text="Makiura se llevó las dos manos a sus ardientes mejillas y&#xA;dejó escapar un enorme suspiro." voices=""/>
+    <stopse @l="1634" buf="1" fadeout="1000"/>
+    <stopbgm @l="1635" fadeout="2000"/>
+    <wait_chgmv/>
+    <bg @l="1636" src="black" time="2000"/>
+  </code>
+</xscript>

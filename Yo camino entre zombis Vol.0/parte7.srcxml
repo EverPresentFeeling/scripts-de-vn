@@ -1,0 +1,385 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xscript>
+  <debug editor="&quot;C:\Program Files (x86)\sakura\sakura.exe&quot; &quot;%src%&quot; -Y=%line%" src="D:\zombies\Series Build\開発データ\開発環境\vol別\vol0\script\text\通常シーン7（時子） パンデミック後.txt"/>
+  <code>
+    <description @l="1" text="パンデミック後"/>
+    <wait_chgmv/>
+    <bg @l="3" src="black"/>
+    <se @l="4" buf="1" src="se062" volume="1."/>
+    <waitse @l="5" buf="1"/>
+    <wait_chgmv/>
+    <bg @l="6" effect="cross_fade" src="bg72a" time="1000"/>
+    <bgm @l="7" src="bgm03" volume="1."/>
+    <msg @l="9" char_id="-1" frame_id="-1" name="" text="En la mesa había una gran variedad de alimentos." voices=""/>
+    <msg @l="10" add="true" char_id="-1" frame_id="-1" name="" text=" La mayor&#xA;parte era comida enlatada y conservada." voices=""/>
+    <msg @l="11" char_id="-1" frame_id="-1" name="" page_feed="true" text=" También había algo de&#xA;carne congelada que no se había podrido, cítricos y&#xA;cualquier otra cosa que pudiera conseguir en el supermercado&#xA;cercano." voices="" add="true"/>
+    <page @l="13" fade="300"/>
+    <char @l="14" id="tok_" pos="auto" src="tok_aaga"/>
+    <msg @l="16" char_id="-1" frame_id="-1" name="" text="“...”." voices=""/>
+    <msg @l="18" char_id="-1" frame_id="-1" name="" text="Tokiko lo miraba todo, completamente inmóvil." voices=""/>
+    <msg @l="20" char_id="-1" frame_id="-1" name="" text="“Umm... No vas a comer, ¿eh?”." voices=""/>
+    <msg @l="22" char_id="-1" frame_id="-1" name="" text="Yuusuke se rascó la cabeza." voices=""/>
+    <msg @l="23" char_id="-1" frame_id="-1" name="" text="Él había pensado que, dado el estado actual de Tokiko, ella&#xA;podría participar en alguna comida normal. Pero parecía que&#xA;no era el caso." voices=""/>
+    <msg @l="24" char_id="-1" frame_id="-1" name="" text=" Al final, no tenía ningún interés en la&#xA;comida humana." voices="" add="true"/>
+    <msg @l="25" char_id="-1" frame_id="-1" name="" page_feed="true" text="Aunque había mostrado pequeños fragmentos de inteligencia, en&#xA;el fondo seguía siendo una zombi." voices=""/>
+    <page @l="27" fade="300"/>
+    <msg @l="29" char_id="-1" frame_id="-1" name="" text="“Oh, da igual”." voices=""/>
+    <msg @l="31" char_id="-1" frame_id="-1" name="" text="Desde que había notado los cambios en Tokiko, Yuusuke había&#xA;decidido realizar algunos pequeños experimentos." voices=""/>
+    <msg @l="32" char_id="-1" frame_id="-1" name="" text=" Pero al&#xA;igual que ese, todos habían fracasado." voices="" add="true"/>
+    <msg @l="34" char_id="-1" frame_id="-1" name="" text="Había vuelto del ayuntamiento para liberarla." voices=""/>
+    <msg @l="35" char_id="-1" frame_id="-1" name="" page_feed="true" text="Para su sorpresa, había acabado pasando bastante tiempo con&#xA;ella; pero era momento de la despedida." voices=""/>
+    <clear @l="37" class="char"/>
+    <page @l="38" fade="300"/>
+    <se @l="40" buf="1" src="se003" volume="1."/>
+    <msg @l="42" char_id="-1" frame_id="-1" name="" text="Le puso las botas en la entrada y abrió la puerta." voices=""/>
+    <msg @l="43" char_id="-1" frame_id="-1" name="" text="Cuando se encontró con Tokiko por primera vez, ella estaba&#xA;encerrada en esa habitación; sin poder abrir la puerta." voices=""/>
+    <msg @l="44" char_id="-1" frame_id="-1" name="" text="Pero ya podía marcharse si lo deseaba." voices=""/>
+    <msg @l="46" char_id="-1" frame_id="-1" name="" text="“Nos vemos”." voices=""/>
+    <msg @l="48" char_id="-1" frame_id="-1" name="" text="Llamó detrás de él." voices=""/>
+    <msg @l="49" char_id="-1" frame_id="-1" name="" page_feed="true" text="Naturalmente, no hubo respuesta. Así que, Yuusuke siguió su&#xA;camino." voices=""/>
+    <page @l="51" fade="300"/>
+    <wait_chgmv/>
+    <bg @l="52" alpha="03" src="bg71b" time="800"/>
+    <msg @l="55" char_id="-1" frame_id="-1" name="" text="El sol había empezado a ponerse." voices=""/>
+    <msg @l="56" char_id="-1" frame_id="-1" name="" text="Pensaba volver al ayuntamiento al anochecer, cuando los&#xA;vigías no pudieran ver muy bien." voices=""/>
+    <msg @l="57" char_id="-1" frame_id="-1" name="" text=" Se había escabullido de&#xA;ellos al salir, así que si lo pillaban a la vuelta se&#xA;llevaría un montón de problemas." voices="" add="true"/>
+    <msg @l="58" char_id="-1" frame_id="-1" name="" text="Como tenía algo de tiempo para matar, decidió dar un paseo&#xA;por la ciudad." voices=""/>
+    <msg @l="59" add="true" char_id="-1" frame_id="-1" name="" page_feed="true" text=" Quería ver qué aspecto tenía mientras aún&#xA;había luz en el exterior." voices=""/>
+    <page @l="61" fade="300"/>
+    <msg @l="63" char_id="-1" frame_id="-1" name="" text="“¿Eh?”." voices=""/>
+    <char @l="65" id="tok_" pos="auto" src="tok_aagb"/>
+    <msg @l="67" char_id="-1" frame_id="-1" name="" text="Al volverse al oír los pasos, vio a Tokiko pasando por la&#xA;puerta." voices=""/>
+    <msg @l="69" char_id="-1" frame_id="-1" name="" text="(Supongo que quería salir a la calle... ¿Me pregunto a&#xA;dónde?)." voices=""/>
+    <msg @l="71" char_id="-1" frame_id="-1" name="" text="Tokiko lo miró mientras se quedaba quieta." voices=""/>
+    <msg @l="72" char_id="-1" frame_id="-1" name="" text="Si tenía un destino en mente, podría ser divertido averiguar&#xA;dónde estaba." voices=""/>
+    <wait_chgmv/>
+    <bg @l="74" alpha="03" src="bg74b" time="1000"/>
+    <char @l="75" id="tok_" pos="auto" src="tok_aagb"/>
+    <msg @l="77" char_id="-1" frame_id="-1" name="" text="Sin embargo, parecía que no era el caso." voices=""/>
+    <msg @l="78" char_id="-1" frame_id="-1" name="" text=" Tokiko lo siguió&#xA;hasta la salida del bloque de apartamentos, tambaleándose&#xA;tras él como una sonámbula." voices="" add="true"/>
+    <msg @l="79" add="true" char_id="-1" frame_id="-1" name="" text=" Aunque sus pasos se volvían más&#xA;firmes cuanto más caminaba." voices=""/>
+    <msg @l="80" char_id="-1" frame_id="-1" name="" page_feed="true" text="Al principio pensó que podría ser una coincidencia, pero los&#xA;ojos de Tokiko se mantuvieron firmes en él todo el tiempo." voices=""/>
+    <page @l="82" fade="300"/>
+    <msg @l="84" char_id="-1" frame_id="-1" name="" text="(No importa)." voices=""/>
+    <msg @l="86" char_id="-1" frame_id="-1" name="" page_feed="true" text="Ella no iba a causarle ningún daño, así que decidió&#xA;permitirle hacer lo que quisiera." voices=""/>
+    <page @l="88" fade="300"/>
+    <wait_chgmv/>
+    <bg @l="89" alpha="03" src="bg48b" time="1000"/>
+    <msg @l="91" char_id="-1" frame_id="-1" name="" text="Cuando volviera al ayuntamiento, estaría esperando a que el&#xA;ejército viniera a rescatarlos; llevándoselos a todos a un&#xA;lugar lejano." voices=""/>
+    <msg @l="92" add="true" char_id="-1" frame_id="-1" name="" text=" Probablemente sería la última vez que viera&#xA;esas calles tan familiares." voices=""/>
+    <msg @l="94" char_id="-1" frame_id="-1" name="" text="(No es que sean algo especial para mí)." voices=""/>
+    <msg @l="96" char_id="-1" frame_id="-1" name="" text="En realidad, lo único que había hecho era caminar de su casa&#xA;a la estación y de la estación a su casa. No había conocido&#xA;bien el barrio." voices=""/>
+    <msg @l="97" char_id="-1" frame_id="-1" name="" text=" Después de todo, lo había conocido mucho&#xA;mejor después de la pandemia; ya que había recorrido las&#xA;tiendas en busca de suministros." voices="" add="true"/>
+    <msg @l="98" add="true" char_id="-1" frame_id="-1" name="" text=" Probablemente era la primera&#xA;vez que daba un paseo tranquilo." voices=""/>
+    <msg @l="99" char_id="-1" frame_id="-1" name="" page_feed="true" text="Cada vez que doblaba una esquina, sentía una pequeña emoción&#xA;al preguntarse qué podría estar al acecho." voices=""/>
+    <page @l="101" fade="300"/>
+    <msg @l="103" char_id="-1" frame_id="-1" name="" text="No había señales de nadie más alrededor." voices=""/>
+    <char @l="105" id="tok_" pos="auto" src="tok_aagb"/>
+    <msg @l="107" add="true" char_id="-1" frame_id="-1" name="" text=" Todo lo que podía&#xA;oír era el ruido de los pasos de Tokiko detrás de él." voices=""/>
+    <msg @l="108" char_id="-1" frame_id="-1" name="" text="Cualquier superviviente que hubiera quedado probablemente&#xA;habría escuchado la transmisión del ayuntamiento y habría&#xA;intentado llegar hasta allí. La ciudad estaba completamente&#xA;sin vida." voices=""/>
+    <msg @l="109" char_id="-1" frame_id="-1" name="" page_feed="true" text="Ni un zombi ni un humano a la vista. Le gustaba lo tranquilo&#xA;que era le tranquilizaba." voices=""/>
+    <page @l="111" fade="300"/>
+    <char @l="112" id="tok_" pos="auto" src="tok_aaga"/>
+    <msg @l="114" char_id="-1" frame_id="-1" name="" text="“...”." voices=""/>
+    <msg @l="116" char_id="-1" frame_id="-1" name="" text="Entonces se dio cuenta de que Tokiko se había detenido&#xA;repentinamente detrás de él." voices=""/>
+    <msg @l="118" char_id="-1" frame_id="-1" name="" text="“¿Umm?”." voices=""/>
+    <msg @l="120" char_id="-1" frame_id="-1" name="" text="Habían cruzado una intersección desierta cuando ella se&#xA;interesó por un coche cercano." voices=""/>
+    <msg @l="121" char_id="-1" frame_id="-1" name="" text="Estaba de pie junto a la ventanilla del lado del pasajero,&#xA;mirando al interior." voices=""/>
+    <msg @l="122" char_id="-1" frame_id="-1" name="" text="Era la primera vez que mostraba interés por algo desde que&#xA;salieron." voices=""/>
+    <msg @l="123" char_id="-1" frame_id="-1" name="" page_feed="true" text="Yuusuke se preguntaba qué habría dentro." voices=""/>
+    <page @l="125" fade="300"/>
+    <clear @l="126" class="char"/>
+    <msg @l="128" char_id="-1" frame_id="-1" name="" text="Se acercó y se asomó." voices=""/>
+    <wait_chgmv/>
+    <ev @l="130" src="eve01ac" time="500"/>
+    <msg @l="132" char_id="-1" frame_id="-1" name="" text="“Puaj...”." voices=""/>
+    <msg @l="134" char_id="-1" frame_id="-1" name="" text="En su interior yacía un cadáver disecado, a medio camino de&#xA;convertirse en un esqueleto." voices=""/>
+    <msg @l="135" char_id="-1" frame_id="-1" name="" text="Parecía que algunos zombis habían intentado entrar por la&#xA;fuerza, ya que la puerta estaba maltrecha y la ventana sucia&#xA;y agrietada." voices=""/>
+    <msg @l="136" char_id="-1" frame_id="-1" name="" text="Sin embargo, es probable que no tuvieran suficiente mano de&#xA;obra, ya que el coche seguía firmemente sellado.&#xA;Probablemente se habían dado por vencidos y habían ido a&#xA;darse un festín a otro lugar." voices=""/>
+    <msg @l="137" char_id="-1" frame_id="-1" name="" page_feed="true" text="El cadáver no mostraba signos de haber sido comido." voices=""/>
+    <page @l="139" fade="300"/>
+    <begin_trans @l="140" time="1000"/>
+    <wait_chgmv/>
+    <bg @l="141" src="bg48b"/>
+    <char @l="142" id="tok_" pos="auto" src="tok_aagb"/>
+    <end_trans @l="143"/>
+    <msg @l="145" char_id="-1" frame_id="-1" name="" text="Yuusuke echó una mirada a la cara de Tokiko." voices=""/>
+    <msg @l="146" char_id="-1" frame_id="-1" name="" text="Su expresión no cambió, pero sus ojos estaban fijos en el&#xA;cadáver." voices=""/>
+    <msg @l="148" char_id="-1" frame_id="-1" name="" page_feed="true" text="(¿Eh? ¿Te da hambre?)." voices=""/>
+    <page @l="150" fade="300"/>
+    <wait_chgmv/>
+    <bg @l="151" src="black" time="1000"/>
+    <begin_trans @l="152" alpha="11" time="1000"/>
+    <wait_chgmv/>
+    <bg @l="153" src="bg73a"/>
+    <scrnfilter @l="154" src="sepia"/>
+    <end_trans @l="155"/>
+    <msg @l="157" char_id="-1" frame_id="-1" name="" text="Tokiko había estado encerrada en su apartamento desde el&#xA;brote." voices=""/>
+    <msg @l="158" char_id="-1" frame_id="-1" name="" text="Era poco probable que se hubiera comido a un humano." voices=""/>
+    <msg @l="159" char_id="-1" frame_id="-1" name="" text="Pero seguía siendo un zombi, y eso significaba que&#xA;probablemente veía los cadáveres como comida." voices=""/>
+    <msg @l="160" char_id="-1" frame_id="-1" name="" text="Yuusuke estaba al tanto de cómo habían surgido los zombis&#xA;inteligentes, así que comprendió que Tokiko probablemente se&#xA;haría más inteligente cuantos más humanos comiera." voices=""/>
+    <msg @l="161" char_id="-1" frame_id="-1" name="" text="Y sinceramente, no era algo que le apeteciera presenciar." voices=""/>
+    <msg @l="162" char_id="-1" frame_id="-1" name="" page_feed="true" text="La idea de ver a su antiguo compañera acabar así era&#xA;deprimente." voices=""/>
+    <page @l="164" fade="300"/>
+    <wait_chgmv/>
+    <bg @l="165" src="black" time="1000"/>
+    <begin_trans @l="166" alpha="11" time="1000"/>
+    <scrnfilter @l="167" src=""/>
+    <wait_chgmv/>
+    <bg @l="168" src="bg48b"/>
+    <char @l="169" id="tok_" pos="auto" src="tok_aagb"/>
+    <end_trans @l="170"/>
+    <msg @l="172" char_id="-1" frame_id="-1" name="" text="“...”." voices=""/>
+    <msg @l="174" char_id="-1" frame_id="-1" name="" text="Tokiko miró a Yuusuke." voices=""/>
+    <clear @l="176" class="char"/>
+    <msg @l="178" char_id="-1" frame_id="-1" name="" text="“...”." voices=""/>
+    <msg @l="180" char_id="-1" frame_id="-1" name="" text="Luego, aparentemente habiendo perdido todo el interés en el&#xA;coche, se alejó de él." voices=""/>
+    <msg @l="181" char_id="-1" frame_id="-1" name="" text="Por el momento, era casi como si ella hubiera leído su mente." voices=""/>
+    <msg @l="182" char_id="-1" frame_id="-1" name="" text="O tal vez no estaba tan interesada en comerlo." voices=""/>
+    <msg @l="183" char_id="-1" frame_id="-1" name="" page_feed="true" text="Yuusuke no tenía ni idea de cómo trabajaba Tokiko, así que&#xA;todos sus actos estaban llenos de misterio." voices=""/>
+    <page @l="185" fade="300"/>
+    <begin_trans @l="186" time="1000"/>
+    <clear @l="187" class="char"/>
+    <scrnfilter @l="188" src="gray"/>
+    <wait_chgmv/>
+    <bg @l="189" src="bgp07"/>
+    <end_trans @l="190"/>
+    <msg @l="192" char_id="-1" frame_id="-1" name="" text="Por lo demás, los zombis en su conjunto eran un enigma." voices=""/>
+    <msg @l="193" char_id="-1" frame_id="-1" name="" text=" Como,&#xA;¿de dónde sacaron la energía?" voices="" add="true"/>
+    <msg @l="194" char_id="-1" frame_id="-1" name="" text="Si era por comer humanos, entonces en teoría deberían haber&#xA;dejado de moverse al morir de hambre. Pero no lo hicieron." voices=""/>
+    <msg @l="195" char_id="-1" frame_id="-1" name="" text="Claro que desaparecían de la superficie cuando llegaba el&#xA;invierno, pero por dentro se movían con normalidad." voices=""/>
+    <msg @l="196" char_id="-1" frame_id="-1" name="" text="El mero hecho de que los cadáveres se reanimaran a sí mismos&#xA;superaba los límites de la lógica." voices=""/>
+    <msg @l="197" char_id="-1" frame_id="-1" name="" page_feed="true" text="Si la humanidad no estuviera al borde de la extinción por la&#xA;pandemia, los zombis habrían sido una fuente de&#xA;consternación y un objetivo de investigación para la ciencia." voices=""/>
+    <page @l="199" fade="300"/>
+    <begin_trans @l="200" alpha="3" time="800"/>
+    <wait_chgmv/>
+    <bg @l="201" src="black"/>
+    <scrnfilter @l="202" src=""/>
+    <end_trans @l="203"/>
+    <wait_chgmv/>
+    <bg @l="204" alpha="3" src="bg76b" time="800"/>
+    <msg @l="206" char_id="-1" frame_id="-1" name="" text="Los pies de Yuusuke siguieron llevándole por donde querían&#xA;hasta que tropezó con un edificio conocido." voices=""/>
+    <msg @l="208" char_id="-1" frame_id="-1" name="" text="“Oh, sí. Dejé varios de ellos junto a las entradas”." voices=""/>
+    <msg @l="210" char_id="-1" frame_id="-1" name="" text="Mientras estaba asediado en el supermercado, había atado a&#xA;varios zombis cerca de las entradas para que actuaran como&#xA;perros guardianes." voices=""/>
+    <msg @l="212" char_id="-1" frame_id="-1" name="" page_feed="true" text="“Bueno, ya estoy aquí...”." voices=""/>
+    <page @l="214" fade="300"/>
+    <wait_chgmv/>
+    <bg @l="215" alpha="3" src="black" time="800"/>
+    <wait_chgmv/>
+    <bg @l="216" alpha="3" src="bg80b" time="800"/>
+    <wait_chgmv/>
+    <bg @l="217" alpha="3" src="black" time="800"/>
+    <se @l="218" buf="1" src="se049" volume="1."/>
+    <msg @l="220" char_id="-1" frame_id="-1" name="" text="Recorrió las entradas delantera y trasera, desatando todas&#xA;las cuerdas." voices=""/>
+    <msg @l="221" char_id="-1" frame_id="-1" name="" text="Aunque liberados, los zombis no parecían poder moverse del&#xA;todo bien. Solo se quedaron deambulando en el lugar." voices=""/>
+    <char @l="223" id="tok_" pos="auto" src="tok_aaga"/>
+    <msg @l="225" char_id="-1" frame_id="-1" name="" text="“...”." voices=""/>
+    <msg @l="227" char_id="-1" frame_id="-1" name="" text="Tokiko tampoco parecía tener mucho interés en otros zombis." voices=""/>
+    <msg @l="228" char_id="-1" frame_id="-1" name="" page_feed="true" text="Los miró, pero no se acercó; sino que mantuvo la distancia." voices=""/>
+    <clear @l="230" class="char"/>
+    <stopse @l="231" buf="1" fadeout="1000"/>
+    <page @l="232" fade="300"/>
+    <wait_chgmv/>
+    <bg @l="233" src="bg76b"/>
+    <msg @l="235" char_id="-1" frame_id="-1" name="" text="Una vez hecho eso, Yuusuke miró al supermercado." voices=""/>
+    <msg @l="236" char_id="-1" frame_id="-1" name="" text="El ascensor en el que habían escapado funcionaba a duras&#xA;penas con energía de emergencia y probablemente ya estaría&#xA;inmovilizado." voices=""/>
+    <msg @l="237" char_id="-1" frame_id="-1" name="" text=" Y las escaleras estaban bloqueadas por&#xA;persianas, sin dejar un camino alternativo al tercer piso." voices="" add="true"/>
+    <msg @l="238" char_id="-1" frame_id="-1" name="" text="Como su salida del supermercado había sido muy apresurada,&#xA;habían dejado atrás un montón de herramientas y otros&#xA;objetos útiles; ahí se quedarían." voices=""/>
+    <msg @l="239" char_id="-1" frame_id="-1" name="" text=" Durante años, si no&#xA;décadas." voices="" add="true"/>
+    <msg @l="240" add="true" char_id="-1" frame_id="-1" name="" text=" Posiblemente incluso más tiempo." voices=""/>
+    <msg @l="241" char_id="-1" frame_id="-1" name="" page_feed="true" text="Los restos de la vida de Yuusuke con Mitsuki y sus hermanos,&#xA;que había llegado a un abrupto final." voices=""/>
+    <page @l="243" fade="300"/>
+    <msg @l="245" char_id="-1" frame_id="-1" name="" text="“...”." voices=""/>
+    <msg @l="247" char_id="-1" frame_id="-1" name="" page_feed="true" text="Yuusuke se quedó mirando el supermercado un rato más antes de&#xA;darle la espalda." voices=""/>
+    <page @l="249" fade="300"/>
+    <wait_chgmv/>
+    <bg @l="250" alpha="3" src="black" time="800"/>
+    <wait_chgmv/>
+    <bg @l="251" alpha="02" src="bg48b" time="800"/>
+    <wait_chgmv/>
+    <bg @l="252" alpha="02" src="bg75b" time="800"/>
+    <msg @l="255" char_id="-1" frame_id="-1" name="" text="Volvió a la estación, pasó por el barrio comercial y luego se&#xA;paseó por la zona residencial; viendo la ciudad en su&#xA;totalidad." voices=""/>
+    <msg @l="256" char_id="-1" frame_id="-1" name="" text="Lo único que se movía era él y Tokiko." voices=""/>
+    <msg @l="257" char_id="-1" frame_id="-1" name="" text="La ciudad estaba en un silencio sepulcral." voices=""/>
+    <stopbgm @l="260" fadeout="2000"/>
+    <msg @l="262" char_id="-1" frame_id="-1" name="" text="Justo cuando pensaba que era el momento de terminar su&#xA;paseo..." voices=""/>
+    <se @l="264" buf="1" src="se180" volume="1."/>
+    <waitse @l="265" buf="1"/>
+    <msg @l="267" add="true" char_id="-1" frame_id="-1" name="" text=" oyó un estruendo metálico desconocido procedente del&#xA;otro lado de la calle." voices=""/>
+    <bgm @l="269" src="bgm06" volume="1."/>
+    <se @l="270" buf="1" src="se180" volume="1."/>
+    <msg @l="272" char_id="-1" frame_id="-1" name="" text="Un sonido de traqueteo, agitando el silencio, cada vez más&#xA;cerca." voices=""/>
+    <msg @l="273" add="true" char_id="-1" frame_id="-1" name="" text=" Yuusuke se quedó helado." voices=""/>
+    <msg @l="274" char_id="-1" frame_id="-1" name="" text="No pudo averiguar qué era." voices=""/>
+    <msg @l="275" char_id="-1" frame_id="-1" name="" page_feed="true" text="No hubo tiempo de pensar en esconderse antes de que el sonido&#xA;doblara la esquina." voices=""/>
+    <stopse @l="277" buf="1" fadeout="1000"/>
+    <page @l="278" fade="300"/>
+    <wait_chgmv/>
+    <ev @l="279" src="eve02ac" time="1000"/>
+    <msg @l="281" char_id="-1" frame_id="-1" name="" text="Una silueta de cuatro patas." voices=""/>
+    <msg @l="282" add="true" char_id="-1" frame_id="-1" name="" text=" Un perro." voices=""/>
+    <msg @l="283" char_id="-1" frame_id="-1" name="" text="Miró a Yuusuke y se detuvo." voices=""/>
+    <msg @l="284" char_id="-1" frame_id="-1" name="" text="Tenía un pelaje corto, ligeramente ensuciado, y una mezcla de&#xA;marrón claro y negro. Era delgado y tenso, sin una pizca de&#xA;grasa a la vista." voices=""/>
+    <msg @l="285" char_id="-1" frame_id="-1" name="" page_feed="true" text="Aunque era de tamaño medio para un perro, se quedó allí&#xA;orgulloso y sin miedo." voices=""/>
+    <page @l="287" fade="300"/>
+    <msg @l="289" char_id="-1" frame_id="-1" name="" text="(¿Un extraviado... o no?)." voices=""/>
+    <msg @l="291" char_id="-1" frame_id="-1" name="" text="Al echar un segundo vistazo, Yuusuke se dio cuenta de que&#xA;arrastraba una especie de cadena en el suelo detrás de él.&#xA;Esa era la fuente del ruido." voices=""/>
+    <msg @l="292" char_id="-1" frame_id="-1" name="" text="Debía ser una mascota que había tirado de su cadena y se&#xA;había escapado." voices=""/>
+    <msg @l="293" char_id="-1" frame_id="-1" name="" text="Miró directamente a Yuusuke, con los ojos brillantes." voices=""/>
+    <msg @l="295" char_id="-1" frame_id="-1" name="" text="Bajo esa mirada acerada, Yuusuke empezó a sudar." voices=""/>
+    <msg @l="296" char_id="-1" frame_id="-1" name="" text="Llevaba una pistola en la bolsa, pero no estaba seguro de&#xA;poder efectuar un disparo si el perro decidía atacarlo." voices=""/>
+    <msg @l="298" char_id="-1" frame_id="-1" name="" text="(Espero que no tenga hambre...)." voices=""/>
+    <msg @l="300" char_id="-1" frame_id="-1" name="" page_feed="true" text="Los perros de compañía no solían atacar a los humanos, pero&#xA;todo estaba perdido si estaban hambrientos." voices=""/>
+    <page @l="302" fade="300"/>
+    <msg @l="304" char_id="-1" frame_id="-1" name="" text="El perro dio un paso hacia él." voices=""/>
+    <msg @l="305" char_id="-1" frame_id="-1" name="" text="Yuusuke sintió que no tenía otra opción, así que se movió&#xA;para tomar su arma y amenazar al perro." voices=""/>
+    <wait_chgmv/>
+    <bg @l="307" src="bg75b" time="1000"/>
+    <char @l="308" id="tok_" pos="auto" src="tok_aagb"/>
+    <msg @l="310" char_id="-1" frame_id="-1" name="" text="“...”." voices=""/>
+    <msg @l="312" char_id="-1" frame_id="-1" name="" text="Pero justo entonces, Tokiko miró por casualidad al perro." voices=""/>
+    <stopbgm @l="314" fadeout="2000"/>
+    <msg @l="316" char_id="-1" frame_id="-1" name="" text="Se congeló." voices=""/>
+    <msg @l="317" char_id="-1" frame_id="-1" name="" text="Entonces giró la cabeza, dejó caer la cola y comenzó a gemir." voices=""/>
+    <msg @l="318" add="true" char_id="-1" frame_id="-1" name="" page_feed="true" text="Se había vuelto tímido en un instante." voices=""/>
+    <page @l="320" fade="300"/>
+    <msg @l="322" char_id="-1" frame_id="-1" name="" text="Le robó miradas, como si tratara de no mirarla a los ojos, y&#xA;se acercó vacilante." voices=""/>
+    <msg @l="323" char_id="-1" frame_id="-1" name="" text="Verlo con las orejas gachas y actuando de forma sumisa&#xA;permitió a Yuusuke relajarse." voices=""/>
+    <se @l="325" buf="1" src="se070" volume="1."/>
+    <bgm @l="326" src="bgm04" volume="1."/>
+    <msg @l="328" char_id="-1" frame_id="-1" name="" text="Observó en silencio cómo se acercaba el perro. A medida que&#xA;se acercaba, parecía volverse más alegre." voices=""/>
+    <msg @l="329" add="true" char_id="-1" frame_id="-1" name="" text=" Su cadena&#xA;repiqueteó detrás de él mientras los rodeaba." voices=""/>
+    <msg @l="330" char_id="-1" frame_id="-1" name="" page_feed="true" text="Al ver que no le iban a hacer nada, acabó apoyándose en las&#xA;piernas de Tokiko; acariciando su sucio pelaje contra ella&#xA;mientras miraba inquisitivamente." voices=""/>
+    <page @l="332" fade="300"/>
+    <msg @l="334" char_id="-1" frame_id="-1" name="" text="“...”." voices=""/>
+    <msg @l="336" char_id="-1" frame_id="-1" name="" text="Tokiko le devolvió una mirada perdida." voices=""/>
+    <msg @l="337" char_id="-1" frame_id="-1" name="" text="A pesar de que ella solo estaba de pie, sin dar ninguna&#xA;reacción en particular, el perro empezó a mover la cola&#xA;alegremente." voices=""/>
+    <msg @l="338" char_id="-1" frame_id="-1" name="" text="Tal vez se había sentido solo después de perder a su humano." voices=""/>
+    <msg @l="340" char_id="-1" frame_id="-1" name="" text="“Perro, no tenías que asustarme”." voices=""/>
+    <msg @l="342" char_id="-1" frame_id="-1" name="" page_feed="true" text="Dijo Yuusuke con exasperación, pero el perro se limitó a&#xA;sacar la lengua y a mirarlo." voices=""/>
+    <page @l="344" fade="300"/>
+    <clear @l="345" class="char"/>
+    <msg @l="347" char_id="-1" frame_id="-1" name="" text="Lo seguía mientras caminaba, pero no había forma de llevarlo&#xA;de vuelta al ayuntamiento con él." voices=""/>
+    <msg @l="348" char_id="-1" frame_id="-1" name="" text="Yuusuke tenía un poco de pollo en conserva en su bolsa, que&#xA;sacó y dio de comer al perro." voices=""/>
+    <msg @l="352" char_id="-1" frame_id="-1" name="" text=" Mientras comía, soltó el collar&#xA;y la cadena." voices="" add="true"/>
+    <se @l="355" buf="1" src="se070" volume="1."/>
+    <msg @l="357" char_id="-1" frame_id="-1" name="" page_feed="true" text="Esperando que estuviera satisfecho, Yuusuke comenzó a&#xA;espantarlo. Obedientemente se alejó trotando, pero no&#xA;sin mirar hacia atrás a regañadientes varias veces." voices=""/>
+    <page @l="359" fade="300"/>
+    <wait_chgmv/>
+    <bg @l="360" alpha="03" src="black" time="800"/>
+    <wait_chgmv/>
+    <bg @l="365" src="bg108a" time="1000"/>
+    <msg @l="367" char_id="-1" frame_id="-1" name="" text="“Un perro, ¿eh? Tal vez podría haberte mantenido si&#xA;estuviéramos en las montañas”." voices=""/>
+    <msg @l="369" char_id="-1" frame_id="-1" name="" text="Parecía bastante inteligente, así que podría haber sido un&#xA;buen perro guardián." voices=""/>
+    <msg @l="373" char_id="-1" frame_id="-1" name="" text="Yuusuke se apoyó en la barandilla, dando un sorbo a una lata&#xA;de café mientras miraba la ciudad." voices=""/>
+    <msg @l="374" char_id="-1" frame_id="-1" name="" text=" Por lo que pudo ver, no&#xA;había nada fuera de lo normal." voices="" add="true"/>
+    <msg @l="375" char_id="-1" frame_id="-1" name="" text="Estaba tranquilo, sin humanos ni zombis alrededor." voices=""/>
+    <msg @l="376" char_id="-1" frame_id="-1" name="" text="Vivir aquí era mucho más fácil que vivir en el ayuntamiento&#xA;con toda esa gente." voices=""/>
+    <msg @l="377" char_id="-1" frame_id="-1" name="" text=" En ese sentido, Yuusuke realmente no&#xA;tenía muchas razones para volver al ayuntamiento, pero&#xA;tampoco tenía nada más que hacer." voices="" add="true"/>
+    <msg @l="378" char_id="-1" frame_id="-1" name="" text="No tenía ningún propósito." voices=""/>
+    <msg @l="379" char_id="-1" frame_id="-1" name="" page_feed="true" text="Estaba en el limbo." voices=""/>
+    <wait_chgmv/>
+    <bg @l="382" src="bg71b" time="1000"/>
+    <page @l="383" fade="300"/>
+    <msg @l="385" char_id="-1" frame_id="-1" name="" text="Después de meditar un rato, fue a lanzar su lata vacía por&#xA;encima de la barandilla; solo para que su mano chocara con&#xA;algo." voices=""/>
+    <msg @l="387" char_id="-1" frame_id="-1" name="" text="“¿Eh?”." voices=""/>
+    <char @l="389" id="tok_" pos="auto" src="tok_aaga"/>
+    <msg @l="391" char_id="-1" frame_id="-1" name="" text="Se giró para ver que Tokiko había agarrado la lata de café&#xA;con ambas manos." voices=""/>
+    <msg @l="392" add="true" char_id="-1" frame_id="-1" name="" text=" La miraba con curiosidad." voices=""/>
+    <msg @l="393" add="true" char_id="-1" frame_id="-1" name="" text=" Eso fue&#xA;sorprendente." voices=""/>
+    <msg @l="395" char_id="-1" frame_id="-1" name="" page_feed="true" text="“¿Quieres un trago?”." voices=""/>
+    <page @l="397" fade="300"/>
+    <msg @l="399" char_id="-1" frame_id="-1" name="" text="Ella no reaccionó a su oferta, ni intentó nada más." voices=""/>
+    <msg @l="400" char_id="-1" frame_id="-1" name="" text="Solo la sostuvo en sus manos." voices=""/>
+    <stopbgm @l="402" fadeout="2000"/>
+    <msg @l="404" char_id="-1" frame_id="-1" name="" text="Esperó un rato, pero cuando no pasó nada y alargó la mano&#xA;para tomar la lata. Justo cuando lo hizo, Tokiko perdió el&#xA;interés en la lata." voices=""/>
+    <se @l="406" buf="1" src="se009" volume="1."/>
+    <msg @l="409" char_id="-1" frame_id="-1" name="" text=" Sus brazos cayeron a los lados, y chocó&#xA;contra el suelo y rodó." voices="" add="true"/>
+    <msg @l="411" char_id="-1" frame_id="-1" name="" text="Su contenido restante se derramó por el suelo." voices=""/>
+    <msg @l="413" char_id="-1" frame_id="-1" name="" text="“Augh, diablos. Has venido y has hecho un lío”." voices=""/>
+    <msg @l="415" char_id="-1" frame_id="-1" name="" text="Las manos de Tokiko y la bolsa de plástico del suelo estaban&#xA;manchadas de un líquido marrón y pegajoso." voices=""/>
+    <msg @l="416" char_id="-1" frame_id="-1" name="" page_feed="true" text="Afortunadamente, la bolsa solo contenía una comida ligera que&#xA;había tomado en una tienda de comestibles en el camino de&#xA;vuelta, así que no era gran cosa." voices=""/>
+    <page @l="418" fade="300"/>
+    <clear @l="419" layer="tok_"/>
+    <msg @l="421" char_id="-1" frame_id="-1" name="" text="Estaba a punto de tirar todo cuando Tokiko se agachó..." voices=""/>
+    <msg @l="422" add="true" char_id="-1" frame_id="-1" name="" text="&#xA;y recogió la lata vacía." voices=""/>
+    <se @l="424" buf="1" src="se155" volume="1."/>
+    <msg @l="426" char_id="-1" frame_id="-1" name="" text="Permaneció un momento en esa posición, antes de agarrar&#xA;también la bolsa de plástico sucia y meter la lata dentro." voices=""/>
+    <char @l="428" id="tok_" pos="auto" src="tok_aagb"/>
+    <msg @l="430" char_id="-1" frame_id="-1" name="" text="“...”." voices=""/>
+    <msg @l="432" char_id="-1" frame_id="-1" name="" text="Luego, con movimientos casi mecánicos, le tendió la bolsa a&#xA;Yuusuke." voices=""/>
+    <wait_chgmv/>
+    <bg @l="434" effect="cross_fade" src="white" time="500"/>
+    <begin_trans @l="435" time="500"/>
+    <wait_chgmv/>
+    <ev @l="436" src="ev0t02aa"/>
+    <scrnfilter @l="437" src="sepia"/>
+    <end_trans @l="438"/>
+    <wait_chgmv/>
+    <bg @l="439" effect="cross_fade" src="white" time="500"/>
+    <begin_trans @l="441" effect="cross_fade" time="500"/>
+    <wait_chgmv/>
+    <bg @l="442" src="bg71b"/>
+    <char @l="443" id="tok_" pos="auto" src="tok_aagb"/>
+    <scrnfilter @l="444" src=""/>
+    <end_trans @l="445"/>
+    <msg @l="447" char_id="-1" frame_id="-1" name="" page_feed="true" text="Tuvo una repentina sensación de déjà vu." voices=""/>
+    <page @l="449" fade="300"/>
+    <bgm @l="450" src="bgm09" volume="1."/>
+    <msg @l="452" char_id="-1" frame_id="-1" name="" text="“Oh, sí. Esto ha sucedido antes, ¿no?”." voices=""/>
+    <msg @l="454" char_id="-1" frame_id="-1" name="" text="Recordó a Tokiko en el pasado; una versión de ella que había&#xA;olvidado por completo." voices=""/>
+    <msg @l="455" char_id="-1" frame_id="-1" name="" text="Un día, hace mucho tiempo, ella había ido a su apartamento y&#xA;le había dado una bolsa de plástico como agradecimiento." voices=""/>
+    <msg @l="457" char_id="-1" frame_id="-1" name="" text="“Muy bien, ¿qué está pasando aquí? ¿Todavía tienes algo de&#xA;memoria ahí dentro después de todo? ¿O tal vez está&#xA;volviendo lentamente?”." voices=""/>
+    <msg @l="459" char_id="-1" frame_id="-1" name="" text="Sin embargo, el modo en que no prestaba atención a sus manos&#xA;sucias y sostenía la bolsa como un robot no hacía más que&#xA;confirmar que no era más que una cáscara de lo que una vez&#xA;había sido." voices=""/>
+    <msg @l="460" char_id="-1" frame_id="-1" name="" page_feed="true" text="Yuusuke suspiró." voices=""/>
+    <page @l="462" fade="300"/>
+    <msg @l="464" char_id="-1" frame_id="-1" name="" text="“Supongo que debería hacerlo”." voices=""/>
+    <begin_trans @l="466" effect="cross_fade" time="1000"/>
+    <clear @l="467" class="char"/>
+    <char @l="468" id="l_to" pos="auto" src="l_tok_aagb"/>
+    <end_trans @l="469"/>
+    <msg @l="472" char_id="-1" frame_id="-1" name="" text="Sacó su pistola, comprobó que estaba cargada y le apuntó&#xA;entre los ojos." voices=""/>
+    <msg @l="474" char_id="-1" frame_id="-1" name="" text="“...”." voices=""/>
+    <msg @l="476" char_id="-1" frame_id="-1" name="" text="Tokiko ni siquiera se inmutó." voices=""/>
+    <msg @l="477" char_id="-1" frame_id="-1" name="" text="Al permitirle seguirle, había podido pasar todo el día&#xA;observándola. Realmente era diferente a los demás zombis." voices=""/>
+    <msg @l="478" char_id="-1" frame_id="-1" name="" text="Al mismo tiempo, también era diferente de los zombis&#xA;inteligentes del campus universitario." voices=""/>
+    <msg @l="479" char_id="-1" frame_id="-1" name="" text="En ocasiones, vislumbraba en sus acciones su personalidad&#xA;rota." voices=""/>
+    <msg @l="481" char_id="-1" frame_id="-1" name="" page_feed="true" text="“Me pregunto cómo son las cosas para ti ahora mismo. Tal vez&#xA;sea una pesadilla ahí dentro”." voices=""/>
+    <page @l="483" fade="300"/>
+    <msg @l="485" char_id="-1" frame_id="-1" name="" text="Los zombis probablemente no podrían morir de hambre." voices=""/>
+    <msg @l="486" char_id="-1" frame_id="-1" name="" text="Seguirían arrastrándose hasta el día en que su vida&#xA;terminara. Si es que son capaces de morir de esa manera." voices=""/>
+    <msg @l="487" char_id="-1" frame_id="-1" name="" text="Si Tokiko estaba mostrando signos de inteligencia, entonces&#xA;tal vez eso significaba que había ganado alguna forma de&#xA;consciencia. En ese caso, podría estar sufriendo un dolor&#xA;incomprensible; sintiendo cada momento de vigilia como si&#xA;estuviera en el infierno." voices=""/>
+    <msg @l="488" char_id="-1" frame_id="-1" name="" text="Aunque, al estar muerta y no poder seguir adelante, era más&#xA;como si estuviera en el purgatorio." voices=""/>
+    <msg @l="489" char_id="-1" frame_id="-1" name="" page_feed="true" text="Tal vez era el momento de dejarla morir." voices=""/>
+    <page @l="491" fade="300"/>
+    <msg @l="493" char_id="-1" frame_id="-1" name="" text="Yuusuke miró fijamente a Tokiko." voices=""/>
+    <msg @l="494" char_id="-1" frame_id="-1" name="" text="Ni una pizca de emoción cruzó su rostro." voices=""/>
+    <msg @l="495" char_id="-1" frame_id="-1" name="" page_feed="true" text="No sabía nada y no estaba seguro. Todo lo que tenía para&#xA;seguir era su conjetura." voices=""/>
+    <page @l="497" fade="300"/>
+    <msg @l="501" char_id="-1" frame_id="-1" name="" text="“Gah, qué estoy haciendo." voices=""/>
+    <msg @l="502" add="true" char_id="-1" frame_id="-1" name="" text=" Esto es estúpido”." voices=""/>
+    <msg @l="504" char_id="-1" frame_id="-1" name="" text="Bajó el arma." voices=""/>
+    <msg @l="505" char_id="-1" frame_id="-1" name="" text="Los sentimientos de Tokiko no eran lo que había estado en su&#xA;mente. Solo había estado pensando en sí mismo." voices=""/>
+    <msg @l="507" char_id="-1" frame_id="-1" name="" text="“Yo no mato a las bellezas. Vamos, tienes las manos sucias”." voices=""/>
+    <msg @l="509" char_id="-1" frame_id="-1" name="" text="Le quitó la bolsa, luego sacó una servilleta y le limpió las&#xA;manos." voices=""/>
+    <msg @l="511" char_id="-1" frame_id="-1" name="" text="“Sabes... Gracias a ti, hoy tuve una forma bastante divertida&#xA;de matar el tiempo”." voices=""/>
+    <msg @l="513" char_id="-1" frame_id="-1" name="" page_feed="true" text="Había planeado pasear por la ciudad solo, pero tener a Tokiko&#xA;a su lado había hecho que nunca se sintiera aburrido." voices=""/>
+    <page @l="515" fade="300"/>
+    <begin_trans @l="516" effect="cross_fade" time="500"/>
+    <clear @l="517" class="char"/>
+    <char @l="518" id="tok_" pos="auto" src="tok_aagb"/>
+    <end_trans @l="519"/>
+    <page @l="520" fade="300"/>
+    <msg @l="522" char_id="-1" frame_id="-1" name="" text="El cielo se estaba oscureciendo." voices=""/>
+    <msg @l="523" add="true" char_id="-1" frame_id="-1" name="" text=" Tenía que empezar a&#xA;prepararse para volver al ayuntamiento." voices=""/>
+    <msg @l="525" char_id="-1" frame_id="-1" name="" text="“Tal vez podamos salir juntos un poco más”." voices=""/>
+    <msg @l="527" char_id="-1" frame_id="-1" name="" page_feed="true" text="Dijo mientras se daba la vuelta." voices=""/>
+    <page @l="529" fade="300"/>
+    <msg @l="531" char_id="-1" frame_id="-1" name="" text="“...”." voices=""/>
+    <msg @l="533" char_id="-1" frame_id="-1" name="" text="Tokiko ni siquiera asintió con la cabeza. Pero, cuando&#xA;Yuusuke comenzó a alejarse, ella lo siguió." voices=""/>
+    <stopse @l="535" buf="1" fadeout="1000"/>
+    <stopbgm @l="536" fadeout="2000"/>
+    <wait_chgmv/>
+    <bg @l="537" effect="cross_fade" src="black" time="2000"/>
+  </code>
+</xscript>
