@@ -1,0 +1,631 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+
+<!-- 【サイズミックの動画を見るときは…】  -->
+
+	<cut>
+		<Name>liru_Title_rdy_ST</Name>
+		<note>タイトルスタート</note>
+		<DR>1</DR>
+		<start>0</start>
+		<span>240</span>
+		<loop>0</loop>
+		<GetKey>title1,tmpDinner,tmpBath</GetKey>
+	</cut>
+
+	<cut>
+		<Name>liru_Title_rdy_LP</Name>
+		<note>タイトルループ</note>
+		<DR>1</DR>
+		<start>240</start>
+		<span>60</span>
+		<loop>3</loop>
+		<rate>0.5</rate>
+		<btn>
+			<ID>Dinner</ID>
+			<Text>ご飯がいい?</Text>
+			<TextSub>¿La cena primero?</TextSub>
+			<NextCut>liru_Title_din_ST</NextCut>
+			<DR>1</DR>
+			<x>800</x>
+			<y>50</y>
+		</btn>
+		<btn>
+			<ID>Bath</ID>
+			<Text>お風呂がいい?</Text>
+			<TextSub>¿Tal vez un baño?</TextSub>
+			<NextCut>liru_Title_bath_ST</NextCut>
+			<DR>1</DR>
+			<x>900</x>
+			<y>200</y>
+		</btn>
+		<btn>
+			<ID>Fuck</ID>
+			<Text>やっぱり…_ア・タ・シ?</Text>
+			<TextSub>¿O... yo?</TextSub>
+			<NextCut>liru_Title_fuck_ST</NextCut>
+			<DR>1</DR>
+			<x>860</x>
+			<y>360</y>
+		</btn>
+	</cut>
+
+	<cut>
+		<Name>liru_Title_bath_ST</Name>
+		<note>お風呂スタート</note>
+		<DR>1</DR>
+		<start>300</start>
+		<span>70</span>
+		<loop>0</loop>
+	</cut>
+
+	<cut>
+		<Name>liru_Title_bath_LP</Name>
+		<note>お風呂ループ</note>
+		<DR>1</DR>
+		<start>370</start>
+		<span>60</span>
+		<loop>1</loop>
+		<NextScene>Bath</NextScene>
+	</cut>
+
+	<cut>
+		<Name>liru_Title_fuck_ST</Name>
+		<note>あたしスタート</note>
+		<DR>1</DR>
+		<start>480</start>
+		<span>250</span>
+		<loop>0</loop>
+	</cut>
+
+	<cut>
+		<Name>liru_Title_fuck_LP</Name>
+		<note>あたしループ</note>
+		<DR>1</DR>
+		<start>730</start>
+		<span>60</span>
+		<loop>4</loop>
+		<btn>
+			<ID>Dinner</ID>
+			<Text>ご飯にしよ？</Text>
+			<TextSub>Vamos a cenar, ¿de acuerdo?</TextSub>
+			<NextCut>liru_Title_fuckDin_LP</NextCut>
+			<DR>1</DR>
+			<x>800</x>
+			<y>50</y>
+		</btn>
+		<btn>
+			<ID>Bath</ID>
+			<Text>お風呂入ろ！</Text>
+			<TextSub>¡Vamos a tomar un baño!</TextSub>
+			<NextCut>liru_Title_fuckBath_LP</NextCut>
+			<DR>1</DR>
+			<x>900</x>
+			<y>200</y>
+		</btn>
+	</cut>
+
+	<cut>
+		<Name>liru_Title_fuckDin_LP</Name>
+		<note>→晩ご飯へ</note>
+		<DR>1</DR>
+		<start>730</start>
+		<span>60</span>
+		<loop>0</loop>
+		<NextScene>Dinner</NextScene>
+	</cut>
+
+	<cut>
+		<Name>liru_Title_fuckBath_LP</Name>
+		<note>→お風呂</note>
+		<DR>1</DR>
+		<start>730</start>
+		<span>60</span>
+		<loop>0</loop>
+		<NextScene>Bath</NextScene>
+	</cut>
+
+	<cut>
+		<Name>liru_Title_din_ST</Name>
+		<note>ごはんスタート</note>
+		<DR>1</DR>
+		<start>840</start>
+		<span>100</span>
+		<loop>0</loop>
+	</cut>
+
+	<cut>
+		<Name>liru_Title_din_LP</Name>
+		<note>ごはんループ</note>
+		<DR>1</DR>
+		<start>941</start>
+		<span>60</span>
+		<loop>1</loop>
+		<NextScene>Dinner</NextScene>
+	</cut>
+
+	<cut>
+		<Name>liru_Title_rdy_ST</Name>
+		<note>タイトルスタート</note>
+		<DR>2</DR>
+		<start>0</start>
+		<span>290</span>
+		<loop>0</loop>
+		<GetKey>title2,tmpDinner,tmpBath</GetKey>
+	</cut>
+
+	<cut>
+		<Name>liru_Title_rdy_LP</Name>
+		<note>タイトルループ</note>
+		<DR>2</DR>
+		<start>290</start>
+		<span>60</span>
+		<loop>3</loop>
+		<rate>0.5</rate>
+		<btn>
+			<ID>Dinner</ID>
+			<Text>ご飯にする？</Text>
+			<TextSub>¿Tienes hambre?</TextSub>
+			<NextCut>liru_Title_din_ST</NextCut>
+			<DR>2</DR>
+			<x>800</x>
+			<y>50</y>
+		</btn>
+		<btn>
+			<ID>Bath</ID>
+			<Text>お風呂にする？</Text>
+			<TextSub>¿La hora del baño?</TextSub>
+			<NextCut>liru_Title_bath_ST</NextCut>
+			<DR>2</DR>
+			<x>900</x>
+			<y>200</y>
+		</btn>
+		<btn>
+			<ID>Fuck</ID>
+			<Text>それとも…_ア・タ・シ？</Text>
+			<TextSub>O tal vez... ¿yo?</TextSub>
+			<NextCut>liru_Title_fuck_ST</NextCut>
+			<DR>2</DR>
+			<ReqKey>bathPai,dinner2</ReqKey>
+			<x>860</x>
+			<y>360</y>
+		</btn>
+	</cut>
+
+	<cut>
+		<Name>liru_Title_din_ST</Name>
+		<note>ごはんスタート</note>
+		<DR>2</DR>
+		<start>350</start>
+		<span>100</span>
+		<loop>0</loop>
+	</cut>
+
+	<cut>
+		<Name>liru_Title_din_LP</Name>
+		<note>ごはんループ</note>
+		<DR>2</DR>
+		<start>450</start>
+		<span>60</span>
+		<loop>1</loop>
+		<NextScene>Dinner</NextScene>
+	</cut>
+
+	<cut>
+		<Name>liru_Title_bath_ST</Name>
+		<note>お風呂スタート</note>
+		<DR>2</DR>
+		<start>530</start>
+		<span>110</span>
+		<loop>0</loop>
+	</cut>
+
+	<cut>
+		<Name>liru_Title_bath_LP</Name>
+		<note>お風呂ループ</note>
+		<DR>2</DR>
+		<start>640</start>
+		<span>60</span>
+		<loop>1</loop>
+		<NextScene>Bath</NextScene>
+	</cut>
+
+	<cut>
+		<Name>liru_Title_fuck_ST</Name>
+		<note>あたし(強制パイズリ)スタート</note>
+		<DR>2</DR>
+		<start>710</start>
+		<span>210</span>
+		<loop>0</loop>
+	</cut>
+
+	<cut>
+		<Name>liru_Title_fuck_LP</Name>
+		<note>あたし(強制パイズリ)ループ</note>
+		<DR>2</DR>
+		<start>920</start>
+		<span>60</span>
+		<loop>15</loop>
+		<btn>
+			<ID>go1</ID>
+			<Text>射精るぅうう!!</Text>
+			<TextSub>¡Me corro!</TextSub>
+			<NextCut>liru_Title_fin_ST</NextCut>
+			<DR>2</DR>
+			<GetDR>-1</GetDR>
+		</btn>
+	</cut>
+
+	<cut>
+		<Name>liru_Title_fin_ST</Name>
+		<note>あたしスタート</note>
+		<DR>2</DR>
+		<start>980</start>
+		<span>130</span>
+		<loop>0</loop>
+	</cut>
+
+	<cut>
+		<Name>liru_Title_fin_LP</Name>
+		<note>あたしループ</note>
+		<DR>2</DR>
+		<start>1110</start>
+		<span>60</span>
+		<loop>3</loop>
+		<btn>
+			<ID>Dinner</ID>
+			<Text>おなか_すいたよね</Text>
+			<TextSub>Debes tener hambre.</TextSub>
+			<NextCut>liru_Title_finDin_LP</NextCut>
+			<DR>2</DR>
+			<x>800</x>
+			<y>50</y>
+		</btn>
+		<btn>
+			<ID>Bath</ID>
+			<Text>汗かいた_でしょ～？</Text>
+			<TextSub>¿Sudaste mucho?</TextSub>
+			<NextCut>liru_Title_finBath_LP</NextCut>
+			<DR>2</DR>
+			<x>900</x>
+			<y>200</y>
+		</btn>
+	</cut>
+
+	<cut>
+		<Name>liru_Title_finDin_LP</Name>
+		<note>→晩ご飯へ</note>
+		<DR>2</DR>
+		<start>1110</start>
+		<span>60</span>
+		<loop>0</loop>
+		<NextScene>Dinner</NextScene>
+	</cut>
+
+	<cut>
+		<Name>liru_Title_finBath_LP</Name>
+		<note>→お風呂</note>
+		<DR>2</DR>
+		<start>1110</start>
+		<span>60</span>
+		<loop>0</loop>
+		<NextScene>Bath</NextScene>
+	</cut>
+
+	<cut>
+		<Name>liru_Title_rdy_ST</Name>
+		<note>タイトルスタート</note>
+		<DR>3</DR>
+		<start>0</start>
+		<span>300</span>
+		<loop>0</loop>
+		<GetKey>title3,tmpDinner,tmpBath</GetKey>
+	</cut>
+
+	<cut>
+		<Name>liru_Title_rdy_LP</Name>
+		<note>タイトルループ</note>
+		<DR>3</DR>
+		<start>300</start>
+		<span>60</span>
+		<loop>3</loop>
+		<rate>0.5</rate>
+		<btn>
+			<ID>Dinner</ID>
+			<Text>ごはん…？</Text>
+			<TextSub>¿Hora de comer?</TextSub>
+			<NextCut>liru_Title_din_ST</NextCut>
+			<DR>3</DR>
+			<x>800</x>
+			<y>50</y>
+		</btn>
+		<btn>
+			<ID>Bath</ID>
+			<Text>お風呂…？</Text>
+			<TextSub>¿Bañarte conmigo?</TextSub>
+			<NextCut>liru_Title_bath_ST</NextCut>
+			<DR>3</DR>
+			<x>900</x>
+			<y>200</y>
+		</btn>
+		<btn>
+			<ID>Fuck</ID>
+			<Text>あた…し？</Text>
+			<TextSub>¿O hacerlo... conmigo?</TextSub>
+			<NextCut>liru_Title_kiss_ST</NextCut>
+			<DR>3</DR>
+			<ReqKey>bathSex,dinner3</ReqKey>
+			<x>860</x>
+			<y>360</y>
+		</btn>
+	</cut>
+
+	<cut>
+		<Name>liru_Title_din_ST</Name>
+		<note>ごはんスタート</note>
+		<DR>3</DR>
+		<start>360</start>
+		<span>140</span>
+		<loop>0</loop>
+	</cut>
+
+	<cut>
+		<Name>liru_Title_din_LP</Name>
+		<note>ごはんループ</note>
+		<DR>3</DR>
+		<start>500</start>
+		<span>60</span>
+		<loop>1</loop>
+		<NextScene>Dinner</NextScene>
+	</cut>
+
+	<cut>
+		<Name>liru_Title_bath_ST</Name>
+		<note>お風呂スタート</note>
+		<DR>3</DR>
+		<start>600</start>
+		<span>110</span>
+		<loop>0</loop>
+	</cut>
+
+	<cut>
+		<Name>liru_Title_bath_LP</Name>
+		<note>お風呂ループ</note>
+		<DR>3</DR>
+		<start>710</start>
+		<span>60</span>
+		<loop>1</loop>
+		<NextScene>Bath</NextScene>
+	</cut>
+
+	<cut>
+		<Name>liru_Title_kiss_ST</Name>
+		<note>キススタート</note>
+		<DR>3</DR>
+		<start>780</start>
+		<span>90</span>
+		<loop>0</loop>
+	</cut>
+
+	<cut>
+		<Name>liru_Title_kiss_LP</Name>
+		<note>キスループ</note>
+		<DR>3</DR>
+		<start>870</start>
+		<span>120</span>
+		<loop>1</loop>
+		<btn>
+			<ID>go1</ID>
+			<Text>はぁ…リル…</Text>
+			<TextSub>Aaah... Liru...</TextSub>
+			<Jmp>1</Jmp>
+			<DR>3</DR>
+		</btn>
+	</cut>
+
+	<cut>
+		<Name>liru_Title_cunni_ST</Name>
+		<note>むりやりスタート</note>
+		<DR>3</DR>
+		<start>990</start>
+		<span>280</span>
+		<loop>0</loop>
+	</cut>
+
+	<cut>
+		<Name>liru_Title_cunni_LP</Name>
+		<note>むりやりループ</note>
+		<DR>3</DR>
+		<start>1270</start>
+		<span>60</span>
+		<loop>20</loop>
+		<btn>
+			<ID>back</ID>
+			<Text>戻る</Text>
+			<Jmp>-3</Jmp>
+			<DR>3</DR>
+			<x>70</x>
+			<y>610</y>
+		</btn>
+		<btn>
+			<ID>go1</ID>
+			<Text>リルのここ…_とってもおいしいよ</Text>
+			<TextSub>¡La vagina de Liru es muy sabrosa!</TextSub>
+			<Jmp>1</Jmp>
+			<DR>3</DR>
+			<x>1030</x>
+			<y>450</y>
+		</btn>
+	</cut>
+
+	<cut>
+		<Name>liru_Title_insPst1_ST</Name>
+		<note>むりやりスタート</note>
+		<DR>3</DR>
+		<start>1330</start>
+		<span>220</span>
+		<loop>0</loop>
+	</cut>
+
+	<cut>
+		<Name>liru_Title_insPst1_LP</Name>
+		<note>むりやりループ</note>
+		<DR>3</DR>
+		<start>1550</start>
+		<span>60</span>
+		<loop>40</loop>
+		<btn>
+			<ID>back</ID>
+			<Text>戻る</Text>
+			<Jmp>-3</Jmp>
+			<DR>3</DR>
+			<x>70</x>
+			<y>610</y>
+		</btn>
+		<btn>
+			<ID>go1</ID>
+			<Text>かわいいから_だっこしてやるぞ！</Text>
+			<TextSub>Qué hermosa, ¡te voy a abrazar!</TextSub>
+			<Jmp>1</Jmp>
+			<DR>3</DR>
+			<x>1030</x>
+			<y>450</y>
+		</btn>
+	</cut>
+
+	<cut>
+		<Name>liru_Title_pst2_ST</Name>
+		<note>駅弁スタート</note>
+		<DR>3</DR>
+		<start>1610</start>
+		<span>50</span>
+		<loop>0</loop>
+	</cut>
+
+	<cut>
+		<Name>liru_Title_pst2_LP</Name>
+		<note>駅弁ループ</note>
+		<DR>3</DR>
+		<start>1660</start>
+		<span>60</span>
+		<loop>30</loop>
+		<btn>
+			<ID>back</ID>
+			<Text>戻る</Text>
+			<Jmp>-3</Jmp>
+			<DR>3</DR>
+			<x>70</x>
+			<y>610</y>
+		</btn>
+		<btn>
+			<ID>go1</ID>
+			<Text>よ～し中にたっぷり_出してやるぞ～！！</Text>
+			<TextSub>¡¡Te voy a llenar hasta el tope!!</TextSub>
+			<Jmp>1</Jmp>
+			<DR>3</DR>
+			<GetDR>-2</GetDR>
+			<x>1030</x>
+			<y>450</y>
+		</btn>
+	</cut>
+
+	<cut>
+		<Name>liru_Title_fin_ST</Name>
+		<note>フィニッシュスタート</note>
+		<DR>3</DR>
+		<start>1720</start>
+		<span>180</span>
+		<loop>0</loop>
+	</cut>
+
+	<cut>
+		<Name>liru_Title_fin_LP</Name>
+		<note>フィニッシュループ</note>
+		<DR>3</DR>
+		<start>1900</start>
+		<span>40</span>
+		<loop>6</loop>
+		<btn>
+			<ID>back</ID>
+			<Text>戻る</Text>
+			<Jmp>-3</Jmp>
+			<DR>3</DR>
+			<x>70</x>
+			<y>610</y>
+		</btn>
+		<btn>
+			<ID>go1</ID>
+			<Text>ふぅ…_めちゃくちゃ交尾した</Text>
+			<TextSub>Uf... Lo hicimos muy fuerte.</TextSub>
+			<Jmp>1</Jmp>
+			<DR>3</DR>
+			<x>1030</x>
+			<y>450</y>
+		</btn>
+	</cut>
+
+	<cut>
+		<Name>liru_Title_aft_ST</Name>
+		<note>フィニッシュスタート</note>
+		<DR>3</DR>
+		<start>1940</start>
+		<span>210</span>
+		<loop>0</loop>
+	</cut>
+
+	<cut>
+		<Name>liru_Title_aft_LP</Name>
+		<note>フィニッシュループ</note>
+		<DR>3</DR>
+		<start>2150</start>
+		<span>40</span>
+		<loop>3</loop>
+		<btn>
+			<ID>back</ID>
+			<Text>戻る</Text>
+			<Jmp>-3</Jmp>
+			<DR>3</DR>
+			<x>70</x>
+			<y>610</y>
+		</btn>
+		<btn>
+			<ID>Dinner</ID>
+			<Text>はらぺこ！_ご飯にしよ！</Text>
+			<TextSub>¡Hambre! ¡Hora de la cena!</TextSub>
+			<NextCut>liru_Title_aftDin_LP</NextCut>
+			<DR>3</DR>
+			<x>800</x>
+			<y>50</y>
+		</btn>
+		<btn>
+			<ID>Bath</ID>
+			<Text>ぬるぬる…_お風呂入ろ！</Text>
+			<TextSub>Estoy muy pegajoso... ¡A la bañera!</TextSub>
+			<NextCut>liru_Title_aftBath_LP</NextCut>
+			<DR>3</DR>
+			<x>900</x>
+			<y>200</y>
+		</btn>
+	</cut>
+
+	<cut>
+		<Name>liru_Title_aftDin_LP</Name>
+		<note>→晩ご飯へ</note>
+		<DR>3</DR>
+		<start>2150</start>
+		<span>40</span>
+		<loop>0</loop>
+		<NextScene>Dinner</NextScene>
+	</cut>
+
+	<cut>
+		<Name>liru_Title_aftBath_LP</Name>
+		<note>→お風呂</note>
+		<DR>3</DR>
+		<start>2150</start>
+		<span>40</span>
+		<loop>0</loop>
+		<NextScene>Bath</NextScene>
+	</cut>
+
+</data>

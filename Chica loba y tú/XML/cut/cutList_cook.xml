@@ -1,0 +1,527 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<!-- ===== Round:1 =====  -->
+
+	<caption>
+		<cut>liru_Cook_aft_ST</cut>
+		<Round>1</Round>
+		<text>うぁあ…すごい敏感になってるぅぅ…</text>
+		<textSub>Uaaah... Estoy increíblemente sensible por dentro... </textSub>
+		<type>caption_liru</type>
+		<startTime>1</startTime>
+		<endTime>181</endTime>
+		<order>header</order>
+		<sound>liru_sex_pullAct_ST_c01</sound>
+	</caption>
+
+	<caption>
+		<cut>liru_Cook_aft_ST</cut>
+		<Round>1</Round>
+		<text>んぁあん…はぁん…</text>
+		<textSub>Unnngh...</textSub>
+		<type>caption_liru</type>
+		<startTime>85</startTime>
+		<endTime>265</endTime>
+		<order>continue</order>
+	</caption>
+
+	<caption>
+		<cut>liru_Cook_aft_ST</cut>
+		<Round>1</Round>
+		<text>ハァ…ハァ…ハァ…</text>
+		<textSub>Aaah... aaah... aaah... </textSub>
+		<type>caption_liru</type>
+		<startTime>149</startTime>
+		<endTime>329</endTime>
+		<order>continue</order>
+		<Lip>1</Lip>
+	</caption>
+
+	<!-- ===== Round:2 =====  -->
+
+	<caption>
+		<cut>liru_Cook_aft_ST</cut>
+		<Round>2</Round>
+		<text>この…出された後に抜く時がまた</text>
+		<textSub>Aaaahn... Me gusta la sensación de sacarlo justo después de que te corriste... </textSub>
+		<type>caption_liru</type>
+		<startTime>10</startTime>
+		<endTime>190</endTime>
+		<order>header</order>
+		<sound>liru_sex_pullAct_ST_c02</sound>
+	</caption>
+
+	<caption>
+		<cut>liru_Cook_aft_ST</cut>
+		<Round>2</Round>
+		<text>あぁ～ん…んッ…</text>
+		<textSub>Aahn... </textSub>
+		<type>caption_liru</type>
+		<startTime>80</startTime>
+		<endTime>260</endTime>
+		<order>continue</order>
+	</caption>
+
+	<caption>
+		<cut>liru_Cook_aft_ST</cut>
+		<Round>2</Round>
+		<text>ハァ…ハァ…ハァ…</text>
+		<textSub>Aaah... aaah... aaah... </textSub>
+		<type>caption_liru</type>
+		<startTime>142</startTime>
+		<endTime>322</endTime>
+		<order>continue</order>
+		<Lip>1</Lip>
+	</caption>
+
+
+
+	<!-- ===================== sfx(効果音) =====================  -->
+
+	<sfx>
+		<note>抜き</note>
+		<cut>liru_Cook_aft_ST</cut>
+		<startTime>33</startTime>
+		<sound>liru_sfx_pull48f</sound>
+	</sfx>
+
+	<caption>
+		<cut>liru_Cook_cook1_ST</cut>
+		<text>おぉッ！おはよーッ！！</text>
+		<textSub>¡Oooh! ¡¡Buenos días!!</textSub>
+		<type>caption_liru</type>
+		<startTime>96</startTime>
+		<endTime>276</endTime>
+		<order>header</order>
+		<sound>liru_cook_c01</sound>
+	</caption>
+
+	<caption>
+		<cut>liru_Cook_cook1_ST</cut>
+		<text>今日も良い朝だね～っ</text>
+		<textSub>¡Hoy es un gran día!</textSub>
+		<type>caption_liru</type>
+		<startTime>44</startTime>
+		<endTime>224</endTime>
+		<order>continue</order>
+	</caption>
+
+
+
+	<!-- ===================== sfx(効果音) =====================  -->
+
+	<sfx>
+		<note>トントン</note>
+		<cut>liru_Cook_cook1_ST</cut>
+		<startTime>1</startTime>
+		<sound>liru_sfx_tonton</sound>
+	</sfx>
+
+	<sfx>
+		<note>トントン</note>
+		<cut>liru_Cook_cook2_LP</cut>
+		<startTime>8</startTime>
+		<loop>999</loop>
+		<sound>liru_sfx_tonton</sound>
+	</sfx>
+
+	<caption>
+		<cut>liru_Cook_cook2_ST</cut>
+		<text>何ってほらー</text>
+		<textSub>¿Qué te parece?</textSub>
+		<type>caption_liru</type>
+		<startTime>10</startTime>
+		<endTime>190</endTime>
+		<order>header</order>
+		<sound>liru_cook_c02</sound>
+	</caption>
+
+	<caption>
+		<cut>liru_Cook_cook2_ST</cut>
+		<text>手料理食べたいって言ってたじゃん？</text>
+		<textSub>Dijiste que querías que cocinara, ¿no?</textSub>
+		<type>caption_liru</type>
+		<startTime>38</startTime>
+		<endTime>218</endTime>
+		<order>continue</order>
+	</caption>
+
+	<caption>
+		<cut>liru_Cook_cook2_ST</cut>
+		<text>だから…朝ご飯でも…</text>
+		<textSub>Así que... pensé... </textSub>
+		<type>caption_liru</type>
+		<startTime>106</startTime>
+		<endTime>286</endTime>
+		<order>continue</order>
+		<sound>liru_cook_c03</sound>
+	</caption>
+
+	<caption>
+		<cut>liru_Cook_cook2_ST</cut>
+		<text>作ってあげよっかなー…って</text>
+		<textSub>... en hacerte el desayuno...</textSub>
+		<type>caption_liru</type>
+		<startTime>176</startTime>
+		<endTime>356</endTime>
+		<order>continue</order>
+	</caption>
+
+	<caption>
+		<cut>liru_Cook_cook3_ST</cut>
+		<text>あーっ、コレね</text>
+		<textSub>Ah, ¿esto? </textSub>
+		<type>caption_liru</type>
+		<startTime>15</startTime>
+		<endTime>195</endTime>
+		<order>header</order>
+		<sound>liru_cook_c04</sound>
+	</caption>
+
+	<caption>
+		<cut>liru_Cook_cook3_ST</cut>
+		<text>まぁ日頃のご愛顧に…って</text>
+		<textSub>Bueno, supongo que podrías llamar a esto un pequeño servicio.</textSub>
+		<type>caption_liru</type>
+		<startTime>50</startTime>
+		<endTime>230</endTime>
+		<order>continue</order>
+	</caption>
+
+	<caption>
+		<cut>liru_Cook_cook3_ST</cut>
+		<text>どぉ？ 似合う？</text>
+		<textSub>¿Qué te parece, me veo bien?</textSub>
+		<type>caption_liru</type>
+		<startTime>137</startTime>
+		<endTime>317</endTime>
+		<order>continue</order>
+	</caption>
+
+	<caption>
+		<cut>liru_Cook_cook4_ST</cut>
+		<text>えーっ！</text>
+		<textSub>¡¿Eeh?!</textSub>
+		<type>caption_liru</type>
+		<startTime>10</startTime>
+		<endTime>190</endTime>
+		<order>header</order>
+		<sound>liru_cook_c05</sound>
+	</caption>
+
+	<caption>
+		<cut>liru_Cook_cook4_ST</cut>
+		<text>もっと感想とか無いの～！？</text>
+		<textSub>¡¿No puedes ser un poco más descriptivo con tus pensamientos?!</textSub>
+		<type>caption_liru</type>
+		<startTime>20</startTime>
+		<endTime>200</endTime>
+		<order>continue</order>
+	</caption>
+
+	<caption>
+		<cut>liru_Cook_cook4_ST</cut>
+		<text> 発情しちゃったりとかーッ！</text>
+		<textSub>¡Al menos podrías ponerte más caliente!</textSub>
+		<type>caption_liru</type>
+		<startTime>81</startTime>
+		<endTime>261</endTime>
+		<order>continue</order>
+	</caption>
+
+	<caption>
+		<cut>liru_Cook_fin_ST</cut>
+		<text>アッ…ンッ…ンッ…ンッ！</text>
+		<textSub>Ahn... mmm... mmm... </textSub>
+		<type>caption_liru</type>
+		<startTime>1</startTime>
+		<endTime>181</endTime>
+		<order>header</order>
+		<Lip>1</Lip>
+		<sound>liru_sex_finPsvND_ST_b01</sound>
+	</caption>
+
+	<caption>
+		<cut>liru_Cook_fin_ST</cut>
+		<text>アァンッ…太いの脈打ってるぅ！</text>
+		<textSub>Ahn... ¡Tu pene se está moviendo!</textSub>
+		<type>caption_liru</type>
+		<startTime>40</startTime>
+		<endTime>220</endTime>
+		<order>continue</order>
+	</caption>
+
+	<caption>
+		<cut>liru_Cook_fin_ST</cut>
+		<text>膣内…いっぱいにされちゃうッ！</text>
+		<textSub>¡Tu amor... me está llenando por dentro!</textSub>
+		<type>caption_liru</type>
+		<startTime>98</startTime>
+		<endTime>278</endTime>
+		<order>continue</order>
+	</caption>
+
+	<caption>
+		<cut>liru_Cook_fin_ST</cut>
+		<text>ハァ…ハァ…ハァ…</text>
+		<textSub>Aaah... aaah... aaah... </textSub>
+		<type>caption_liru</type>
+		<startTime>293</startTime>
+		<endTime>473</endTime>
+		<order>continue</order>
+		<loop>999</loop>
+		<Lip>1</Lip>
+		<sound>liru_breathH_LP_c01</sound>
+	</caption>
+
+
+
+	<!-- ===================== sfx(効果音) =====================  -->
+
+	<sfx>
+		<note>射精1</note>
+		<cut>liru_Cook_fin_ST</cut>
+		<startTime>42</startTime>
+		<sound>liru_sfx_fin1</sound>
+	</sfx>
+
+	<sfx>
+		<note>射精2</note>
+		<cut>liru_Cook_fin_ST</cut>
+		<startTime>63</startTime>
+		<sound>liru_sfx_fin2</sound>
+	</sfx>
+
+	<sfx>
+		<note>射精3</note>
+		<cut>liru_Cook_fin_ST</cut>
+		<startTime>82</startTime>
+		<sound>liru_sfx_fin3</sound>
+	</sfx>
+
+	<sfx>
+		<note>射精4</note>
+		<cut>liru_Cook_fin_ST</cut>
+		<startTime>103</startTime>
+		<sound>liru_sfx_fin4</sound>
+	</sfx>
+
+	<sfx>
+		<note>射精5</note>
+		<cut>liru_Cook_fin_ST</cut>
+		<startTime>135</startTime>
+		<sound>liru_sfx_fin1</sound>
+	</sfx>
+
+	<sfx>
+		<note>中速ピストン</note>
+		<cut>liru_Cook_fuck1_LP</cut>
+		<startTime>1</startTime>
+		<loop>999</loop>
+		<sound>liru_sfx_pst15f</sound>
+	</sfx>
+
+	<caption>
+		<cut>liru_Cook_fuck1_ST</cut>
+		<text>ふわぁッ！？</text>
+		<textSub>¡¿Guah! ¡¡Espera, espera!!</textSub>
+		<type>caption_liru</type>
+		<startTime>16</startTime>
+		<endTime>196</endTime>
+		<order>header</order>
+		<sound>liru_cook_c06</sound>
+	</caption>
+
+	<caption>
+		<cut>liru_Cook_fuck1_ST</cut>
+		<text>待って待って！</text>
+		<type>caption_liru</type>
+		<startTime>19</startTime>
+		<endTime>199</endTime>
+		<order>continue</order>
+	</caption>
+
+	<caption>
+		<cut>liru_Cook_fuck1_ST</cut>
+		<text>包丁とか危ないだろーっ！！ </text>
+		<textSub>¡Cuidado, hay cuchillos por aquí!</textSub>
+		<type>caption_liru</type>
+		<startTime>43</startTime>
+		<endTime>223</endTime>
+		<order>continue</order>
+	</caption>
+
+	<caption>
+		<cut>liru_Cook_fuck1_ST</cut>
+		<text>ちょっと落ち着け！</text>
+		<textSub>¡Oye, cálmate!</textSub>
+		<type>caption_liru</type>
+		<startTime>99</startTime>
+		<endTime>279</endTime>
+		<order>continue</order>
+		<sound>liru_cook_c07</sound>
+	</caption>
+
+	<caption>
+		<cut>liru_Cook_fuck1_ST</cut>
+		<text>落ち着けって！！…</text>
+		<textSub>¡Cálmate! </textSub>
+		<type>caption_liru</type>
+		<startTime>138</startTime>
+		<endTime>318</endTime>
+		<order>continue</order>
+	</caption>
+
+	<caption>
+		<cut>liru_Cook_fuck1_ST</cut>
+		<text>はぁああんッ！</text>
+		<textSub>¡Aaaahn!</textSub>
+		<type>caption_liru</type>
+		<startTime>182</startTime>
+		<endTime>362</endTime>
+		<order>continue</order>
+	</caption>
+
+	<caption>
+		<cut>liru_Cook_fuck1_ST</cut>
+		<text>ンッ…ンンッ…ふぁ…ァン…</text>
+		<textSub>Mmm... naaah... aah... aah... </textSub>
+		<type>caption_liru</type>
+		<startTime>222</startTime>
+		<endTime>402</endTime>
+		<order>continue</order>
+		<loop>999</loop>
+		<Lip>1</Lip>
+		<sound>liru_sex_pstPsvB_LP_c01</sound>
+	</caption>
+
+
+
+	<!-- ===================== sfx(効果音) =====================  -->
+
+	<sfx>
+		<note>挿入音</note>
+		<cut>liru_Cook_fuck1_ST</cut>
+		<startTime>190</startTime>
+		<sound>liru_sfx_ins24f</sound>
+	</sfx>
+
+	<sfx>
+		<note>高速ピストン</note>
+		<cut>liru_Cook_fuck2_LP</cut>
+		<startTime>1</startTime>
+		<loop>999</loop>
+		<sound>liru_sfx_pst10f</sound>
+	</sfx>
+
+	<!-- ===== Round:1 =====  -->
+
+	<caption>
+		<cut>liru_Cook_fuck2_ST</cut>
+		<Round>1</Round>
+		<text>ヤンッ…ちんぽ凄い…</text>
+		<textSub>Oooh... Tu pene es increíble... </textSub>
+		<type>caption_liru</type>
+		<startTime>10</startTime>
+		<endTime>190</endTime>
+		<order>header</order>
+		<sound>liru_sex_pstPsvC_ST_c01</sound>
+	</caption>
+
+	<caption>
+		<cut>liru_Cook_fuck2_ST</cut>
+		<Round>1</Round>
+		<text>こんなのすぐイッちゃうぅ…</text>
+		<textSub>Me voy a venir muy rápido... </textSub>
+		<type>caption_liru</type>
+		<startTime>87</startTime>
+		<endTime>267</endTime>
+		<order>continue</order>
+	</caption>
+
+	<caption>
+		<cut>liru_Cook_fuck2_ST</cut>
+		<Round>1</Round>
+		<text>んッ…ンァ…アッ…アッ…</text>
+		<textSub>Mmm... ooh... mmm... aaah... ahn... </textSub>
+		<type>caption_liru</type>
+		<startTime>190</startTime>
+		<endTime>370</endTime>
+		<order>continue</order>
+		<loop>999</loop>
+		<Lip>1</Lip>
+		<sound>liru_sex_pstPsvC_LP_c01</sound>
+	</caption>
+
+	<!-- ===== Round:2 =====  -->
+
+	<caption>
+		<cut>liru_Cook_fuck2_ST</cut>
+		<Round>2</Round>
+		<text>ひゃあぁ～ん…チンポォ！</text>
+		<textSub>Hyaaaahn... ¡Tu pene!</textSub>
+		<type>caption_liru</type>
+		<startTime>10</startTime>
+		<endTime>190</endTime>
+		<order>header</order>
+		<sound>liru_sex_pstPsvC_ST_c02</sound>
+	</caption>
+
+	<caption>
+		<cut>liru_Cook_fuck2_ST</cut>
+		<Round>2</Round>
+		<text>もっとぉ…もっとぉ！！</text>
+		<textSub>Más... ¡Más! ¡Aahn!</textSub>
+		<type>caption_liru</type>
+		<startTime>110</startTime>
+		<endTime>290</endTime>
+		<order>continue</order>
+	</caption>
+
+	<caption>
+		<cut>liru_Cook_fuck2_ST</cut>
+		<Round>2</Round>
+		<text>アンッ…アッ…ンンッ…</text>
+		<textSub>Ahn... naah... aah... aah... </textSub>
+		<type>caption_liru</type>
+		<startTime>220</startTime>
+		<endTime>400</endTime>
+		<order>continue</order>
+		<Lip>1</Lip>
+	</caption>
+
+	<caption>
+		<cut>liru_Cook_fuck2_ST</cut>
+		<Round>2</Round>
+		<text>んッ…ンァ…アッ…アッ…</text>
+		<textSub>Mmm... ooh... mmm... aaaah... ahn...</textSub>
+		<type>caption_liru</type>
+		<startTime>350</startTime>
+		<endTime>530</endTime>
+		<order>continue</order>
+		<loop>999</loop>
+		<Lip>1</Lip>
+		<sound>liru_sex_pstPsvC_LP_c01</sound>
+	</caption>
+
+
+
+	<!-- ===================== sfx(効果音) =====================  -->
+
+	<sfx>
+		<note>中速ピストン</note>
+		<cut>liru_Cook_fuck2_ST</cut>
+		<startTime>1</startTime>
+		<loop>999</loop>
+		<sound>liru_sfx_pst15f</sound>
+	</sfx>
+
+	<sfx>
+		<note>高速ピストン</note>
+		<cut>liru_Cook_fuck2_ST</cut>
+		<startTime>15</startTime>
+		<loop>999</loop>
+		<sound>liru_sfx_pst10f</sound>
+	</sfx>
+
+</data>

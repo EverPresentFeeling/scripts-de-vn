@@ -1,0 +1,1312 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+
+
+	<!-- ===================== sfx(効果音) =====================  -->
+
+	<sfx>
+		<note>足音</note>
+		<cut>liru_Title_rdy_ST</cut>
+		<startTime>23</startTime>
+		<sound>liru_sfx_footstep</sound>
+	</sfx>
+
+	<sfx>
+		<note>ドアオープン</note>
+		<cut>liru_Title_rdy_ST</cut>
+		<startTime>43</startTime>
+		<sound>liru_sfx_dooropen</sound>
+	</sfx>
+
+
+	<!-- ===================== DR(デレ度):1 =====================  -->
+
+	<caption>
+		<cut>liru_Title_bath_ST</cut>
+		<DR>1</DR>
+		<text>おっしゃーッ！</text>
+		<textSub>¡Muy bien! ¡Entremos juntos!</textSub>
+		<type>caption_liru</type>
+		<startTime>10</startTime>
+		<endTime>190</endTime>
+		<order>header</order>
+		<Color>white</Color>
+		<sound>liru_title_bath_a01</sound>
+	</caption>
+
+	<caption>
+		<cut>liru_Title_bath_ST</cut>
+		<DR>1</DR>
+		<text>一緒に入るぞ～ッ！</text>
+		<type>caption_liru</type>
+		<startTime>29</startTime>
+		<endTime>209</endTime>
+		<order>continue</order>
+		<Color>white</Color>
+	</caption>
+
+
+
+	<!-- ===================== sfx(効果音) =====================  -->
+
+	<sfx>
+		<note>手を叩く</note>
+		<cut>liru_Title_bath_ST</cut>
+		<DR>1</DR>
+		<startTime>19</startTime>
+		<sound>liru_sfx_panch</sound>
+	</sfx>
+
+	<caption>
+		<cut>liru_Title_din_ST</cut>
+		<DR>1</DR>
+		<text>ごはん冷めちゃうぞッ！</text>
+		<textSub>¡La comida se enfriará!</textSub>
+		<type>caption_liru</type>
+		<startTime>18</startTime>
+		<endTime>198</endTime>
+		<order>header</order>
+		<Color>white</Color>
+		<sound>liru_title_dinner_a01</sound>
+	</caption>
+
+	<caption>
+		<cut>liru_Title_din_ST</cut>
+		<DR>1</DR>
+		<text>はやくはやくッ！</text>
+		<textSub>¡¡Rápido!!</textSub>
+		<type>caption_liru</type>
+		<startTime>41</startTime>
+		<endTime>221</endTime>
+		<order>continue</order>
+		<Color>white</Color>
+	</caption>
+
+	<caption>
+		<cut>liru_Title_fuck_ST</cut>
+		<DR>1</DR>
+		<text>えッ…</text>
+		<textSub>¿Eh? </textSub>
+		<type>caption_liru</type>
+		<startTime>30</startTime>
+		<endTime>210</endTime>
+		<order>header</order>
+		<Color>white</Color>
+		<sound>liru_title_fuck_ST_a01</sound>
+	</caption>
+
+	<caption>
+		<cut>liru_Title_fuck_ST</cut>
+		<DR>1</DR>
+		<text>うわッ！</text>
+		<textSub>¡¡Guah!!</textSub>
+		<type>caption_liru</type>
+		<startTime>40</startTime>
+		<endTime>220</endTime>
+		<order>continue</order>
+		<Color>white</Color>
+	</caption>
+
+	<caption>
+		<cut>liru_Title_fuck_ST</cut>
+		<DR>1</DR>
+		<text>ちょッ…何考えてんの！</text>
+		<textSub>Espera... ¡¿Qué estás pensando?!</textSub>
+		<type>caption_liru</type>
+		<startTime>66</startTime>
+		<endTime>246</endTime>
+		<order>continue</order>
+		<Color>white</Color>
+	</caption>
+
+	<caption>
+		<cut>liru_Title_fuck_ST</cut>
+		<DR>1</DR>
+		<text>ふぁああんッ！</text>
+		<textSub>Aaaaah...</textSub>
+		<type>caption_liru</type>
+		<startTime>136</startTime>
+		<endTime>316</endTime>
+		<order>continue</order>
+		<Color>white</Color>
+	</caption>
+
+	<caption>
+		<cut>liru_Title_fuck_ST</cut>
+		<DR>1</DR>
+		<text>もー！</text>
+		<textSub>¡Eh, vamos!</textSub>
+		<type>caption_liru</type>
+		<startTime>220</startTime>
+		<endTime>400</endTime>
+		<order>continue</order>
+		<Color>white</Color>
+		<sound>liru_title_dny_ST_a01</sound>
+	</caption>
+
+	<caption>
+		<cut>liru_Title_fuck_ST</cut>
+		<DR>1</DR>
+		<text>そういうのはご飯のあとでいっぱいシよッ！</text>
+		<textSub>Espera hasta que hayamos cenado, ¿de acuerdo?</textSub>
+		<type>caption_liru</type>
+		<startTime>246</startTime>
+		<endTime>426</endTime>
+		<order>continue</order>
+		<Color>white</Color>
+	</caption>
+
+
+
+	<!-- ===================== sfx(効果音) =====================  -->
+
+	<sfx>
+		<note>足音</note>
+		<cut>liru_Title_fuck_ST</cut>
+		<DR>1</DR>
+		<startTime>20</startTime>
+		<sound>liru_sfx_footstep</sound>
+	</sfx>
+
+	<sfx>
+		<note>おっぱいぼよん</note>
+		<cut>liru_Title_fuck_ST</cut>
+		<DR>1</DR>
+		<startTime>68</startTime>
+		<sound>liru_sfx_pom</sound>
+	</sfx>
+
+	<sfx>
+		<note>パンチ</note>
+		<cut>liru_Title_fuck_ST</cut>
+		<DR>1</DR>
+		<startTime>213</startTime>
+		<sound>liru_sfx_attack</sound>
+	</sfx>
+
+	<sfx>
+		<note>ノックダウン</note>
+		<cut>liru_Title_fuck_ST</cut>
+		<DR>1</DR>
+		<startTime>235</startTime>
+		<sound>liru_sfx_knockdown</sound>
+	</sfx>
+
+	<caption>
+		<cut>liru_Title_rdy_ST</cut>
+		<DR>1</DR>
+		<text>お帰りなさいませ～ ご主人様ぁ～！</text>
+		<textSub>¡Bienvenido de nuevo, amo!</textSub>
+		<type>caption_liru</type>
+		<startTime>60</startTime>
+		<endTime>240</endTime>
+		<order>header</order>
+		<Color>white</Color>
+		<sound>liru_title_intro_a01</sound>
+	</caption>
+
+	<caption>
+		<cut>liru_Title_rdy_ST</cut>
+		<DR>1</DR>
+		<text>えッ？</text>
+		<textSub>¿Eh?</textSub>
+		<type>caption_liru</type>
+		<startTime>83</startTime>
+		<endTime>263</endTime>
+		<order>continue</order>
+		<Color>white</Color>
+	</caption>
+
+	<caption>
+		<cut>liru_Title_rdy_ST</cut>
+		<DR>1</DR>
+		<text>メイドじゃないよ</text>
+		<textSub>No soy una sirvienta...</textSub>
+		<type>caption_liru</type>
+		<startTime>103</startTime>
+		<endTime>283</endTime>
+		<order>continue</order>
+		<Color>white</Color>
+	</caption>
+
+	<caption>
+		<cut>liru_Title_rdy_ST</cut>
+		<DR>1</DR>
+		<text>忠犬だよッ ちゅーけん！</text>
+		<textSub>¡Soy una perrita fiel!</textSub>
+		<type>caption_liru</type>
+		<startTime>144</startTime>
+		<endTime>324</endTime>
+		<order>continue</order>
+		<Color>white</Color>
+	</caption>
+
+
+	<!-- ===================== DR(デレ度):2 =====================  -->
+
+	<caption>
+		<cut>liru_Title_bath_ST</cut>
+		<DR>2</DR>
+		<text>よぉ～っし!</text>
+		<textSub>¡¡Muy bien!!</textSub>
+		<type>caption_liru</type>
+		<startTime>15</startTime>
+		<endTime>195</endTime>
+		<order>header</order>
+		<Color>white</Color>
+		<sound>liru_title_bath_b01</sound>
+	</caption>
+
+	<caption>
+		<cut>liru_Title_bath_ST</cut>
+		<DR>2</DR>
+		<text>このアタシが背中を流してやろうぞ～ッ</text>
+		<textSub>¡¡Voy a fregar tu espalda!!</textSub>
+		<type>caption_liru</type>
+		<startTime>33</startTime>
+		<endTime>213</endTime>
+		<order>continue</order>
+		<Color>white</Color>
+	</caption>
+
+	<caption>
+		<cut>liru_Title_din_ST</cut>
+		<DR>2</DR>
+		<text>お腹減っちゃった？</text>
+		<textSub>¿Tienes hambre?</textSub>
+		<type>caption_liru</type>
+		<startTime>9</startTime>
+		<endTime>189</endTime>
+		<order>header</order>
+		<Color>white</Color>
+		<sound>liru_title_dinner_b01</sound>
+	</caption>
+
+	<caption>
+		<cut>liru_Title_din_ST</cut>
+		<DR>2</DR>
+		<text>すぐ支度するからねッ！</text>
+		<textSub>¡Prepararé algo ahora mismo!</textSub>
+		<type>caption_liru</type>
+		<startTime>41</startTime>
+		<endTime>221</endTime>
+		<order>continue</order>
+		<Color>white</Color>
+	</caption>
+
+	<caption>
+		<cut>liru_Title_fin_ST</cut>
+		<DR>2</DR>
+		<text>!!</text>
+		<textSub>¡¡...!!</textSub>
+		<type>caption_liru</type>
+		<startTime>5</startTime>
+		<endTime>185</endTime>
+		<order>header</order>
+		<Color>white</Color>
+		<sound>liru_blank_b01</sound>
+	</caption>
+
+	<caption>
+		<cut>liru_Title_fin_ST</cut>
+		<DR>2</DR>
+		<text>ゴホンッ…</text>
+		<textSub>Ejem... </textSub>
+		<type>caption_liru</type>
+		<startTime>80</startTime>
+		<endTime>260</endTime>
+		<order>continue</order>
+		<Lip>1</Lip>
+		<Color>white</Color>
+		<sound>liru_title_dny_ST_b01</sound>
+	</caption>
+
+	<caption>
+		<cut>liru_Title_fin_ST</cut>
+		<DR>2</DR>
+		<text>まだそういう時間じゃないでしょッ！</text>
+		<textSub>Es un poco temprano para eso. </textSub>
+		<type>caption_liru</type>
+		<startTime>123</startTime>
+		<endTime>303</endTime>
+		<order>continue</order>
+		<Color>white</Color>
+	</caption>
+
+	<caption>
+		<cut>liru_Title_fin_ST</cut>
+		<DR>2</DR>
+		<text>もぉ…</text>
+		<textSub>Dios...</textSub>
+		<type>caption_liru</type>
+		<startTime>184</startTime>
+		<endTime>364</endTime>
+		<order>continue</order>
+		<Color>white</Color>
+	</caption>
+
+
+
+	<!-- ===================== sfx(効果音) =====================  -->
+
+	<sfx>
+		<note>ピストン</note>
+		<cut>liru_Title_fin_ST</cut>
+		<DR>2</DR>
+		<startTime>0</startTime>
+		<loop>1</loop>
+		<sound>liru_sfx_pstShrot30f</sound>
+	</sfx>
+
+	<sfx>
+		<note>パンチ</note>
+		<cut>liru_Title_fin_ST</cut>
+		<DR>2</DR>
+		<startTime>24</startTime>
+		<sound>liru_sfx_attack</sound>
+	</sfx>
+
+	<sfx>
+		<note>射精</note>
+		<cut>liru_Title_fin_ST</cut>
+		<DR>2</DR>
+		<startTime>38</startTime>
+		<loop>1</loop>
+		<sound>liru_sfx_fin1</sound>
+	</sfx>
+
+	<sfx>
+		<note>ノックダウン</note>
+		<cut>liru_Title_fin_ST</cut>
+		<DR>2</DR>
+		<startTime>50</startTime>
+		<sound>liru_sfx_knockdown</sound>
+	</sfx>
+
+	<sfx>
+		<note>ピストン</note>
+		<cut>liru_Title_fuck_LP</cut>
+		<DR>2</DR>
+		<startTime>1</startTime>
+		<loop>999</loop>
+		<sound>liru_sfx_pst30f</sound>
+	</sfx>
+
+	<caption>
+		<cut>liru_Title_fuck_ST</cut>
+		<DR>2</DR>
+		<text>えッ?</text>
+		<textSub>¿Eh? </textSub>
+		<type>caption_liru</type>
+		<startTime>30</startTime>
+		<endTime>210</endTime>
+		<order>header</order>
+		<Color>white</Color>
+		<sound>liru_title_nod_01</sound>
+	</caption>
+
+	<caption>
+		<cut>liru_Title_fuck_ST</cut>
+		<DR>2</DR>
+		<text>キャッ！</text>
+		<textSub>¡Eeek!</textSub>
+		<type>caption_liru</type>
+		<startTime>115</startTime>
+		<endTime>295</endTime>
+		<order>header</order>
+		<sound>liru_title_fuck_ST_b01</sound>
+	</caption>
+
+	<caption>
+		<cut>liru_Title_fuck_ST</cut>
+		<DR>2</DR>
+		<text>待って！ </text>
+		<textSub>¡Espera! </textSub>
+		<type>caption_liru</type>
+		<startTime>19</startTime>
+		<endTime>199</endTime>
+		<order>continue</order>
+		<Color>white</Color>
+	</caption>
+
+	<caption>
+		<cut>liru_Title_fuck_ST</cut>
+		<DR>2</DR>
+		<text>ダメ、ダメだってェ！</text>
+		<textSub>No, ¡para!</textSub>
+		<type>caption_liru</type>
+		<startTime>50</startTime>
+		<endTime>230</endTime>
+		<order>continue</order>
+	</caption>
+
+	<caption>
+		<cut>liru_Title_fuck_ST</cut>
+		<DR>2</DR>
+		<text>あんッ！…ん…ンンッ！</text>
+		<textSub>¡Ahn! ¡Mmm... mmm!</textSub>
+		<type>caption_liru</type>
+		<startTime>105</startTime>
+		<endTime>285</endTime>
+		<order>continue</order>
+		<loop>999</loop>
+		<Lip>1</Lip>
+		<Color>white</Color>
+		<sound>liru_title_paiPst_b01</sound>
+	</caption>
+
+
+
+	<!-- ===================== sfx(効果音) =====================  -->
+
+	<sfx>
+		<note>カム</note>
+		<cut>liru_Title_fuck_ST</cut>
+		<DR>2</DR>
+		<startTime>35</startTime>
+		<sound>liru_sfx_po</sound>
+	</sfx>
+
+	<sfx>
+		<note>カモン</note>
+		<cut>liru_Title_fuck_ST</cut>
+		<DR>2</DR>
+		<startTime>45</startTime>
+		<sound>liru_sfx_po</sound>
+	</sfx>
+
+	<sfx>
+		<note>ピストン</note>
+		<cut>liru_Title_fuck_ST</cut>
+		<DR>2</DR>
+		<startTime>156</startTime>
+		<loop>999</loop>
+		<sound>liru_sfx_pst30f</sound>
+	</sfx>
+
+	<caption>
+		<cut>liru_Title_rdy_ST</cut>
+		<DR>2</DR>
+		<text>やっと帰ってきたぁ…</text>
+		<textSub>¡¡Por fin has vuelto!! </textSub>
+		<type>caption_liru</type>
+		<startTime>62</startTime>
+		<endTime>242</endTime>
+		<order>header</order>
+		<Color>white</Color>
+		<sound>liru_title_intro_b01</sound>
+	</caption>
+
+	<caption>
+		<cut>liru_Title_rdy_ST</cut>
+		<DR>2</DR>
+		<text>もぉーッ 遅いぞッ！</text>
+		<textSub>¡Dios! ¡¡Llegas muy tarde!! </textSub>
+		<type>caption_liru</type>
+		<startTime>54</startTime>
+		<endTime>234</endTime>
+		<order>continue</order>
+		<Color>white</Color>
+	</caption>
+
+	<caption>
+		<cut>liru_Title_rdy_ST</cut>
+		<DR>2</DR>
+		<text>ご飯用意して ちゃんと待ってたんだからなーッ！</text>
+		<textSub>Ya preparé la cena... ¡He estado esperando por ti todo este tiempo!</textSub>
+		<type>caption_liru</type>
+		<startTime>114</startTime>
+		<endTime>294</endTime>
+		<order>continue</order>
+		<Color>white</Color>
+	</caption>
+
+	<caption>
+		<cut>liru_Title_rdy_ST</cut>
+		<DR>2</DR>
+		<text>待ちくたびれちゃったんだからぁ…</text>
+		<textSub>Estoy cansada de esperar...</textSub>
+		<type>caption_liru</type>
+		<startTime>199</startTime>
+		<endTime>379</endTime>
+		<order>continue</order>
+		<Color>white</Color>
+	</caption>
+
+
+	<!-- ===================== DR(デレ度):3 =====================  -->
+
+	<!-- ===== Round:1 =====  -->
+
+	<caption>
+		<cut>liru_Title_aft_LP</cut>
+		<DR>3</DR>
+		<Round>1</Round>
+		<text>もぉ…なんだかまるで狼みたいだったゾ</text>
+		<textSub>Honestamente... fuiste como una bestia salvaje... </textSub>
+		<type>caption_liru</type>
+		<startTime>130</startTime>
+		<endTime>310</endTime>
+		<order>header</order>
+		<sound>liru_title_fin_LP_c01</sound>
+	</caption>
+
+	<caption>
+		<cut>liru_Title_aft_LP</cut>
+		<DR>3</DR>
+		<Round>1</Round>
+		<text>まぁ、悪くは…ないわネッ うん</text>
+		<textSub>Bueno... supongo que me gustó un poco...</textSub>
+		<type>caption_liru</type>
+		<startTime>121</startTime>
+		<endTime>301</endTime>
+		<order>continue</order>
+	</caption>
+
+	<!-- ===== Round:2 =====  -->
+
+	<caption>
+		<cut>liru_Title_aft_LP</cut>
+		<DR>3</DR>
+		<Round>2</Round>
+		<text>ヤダっ…もう…</text>
+		<textSub>Oh, cielos... </textSub>
+		<type>caption_liru</type>
+		<startTime>130</startTime>
+		<endTime>310</endTime>
+		<order>header</order>
+		<sound>liru_title_fin_LP_c02</sound>
+	</caption>
+
+	<caption>
+		<cut>liru_Title_aft_LP</cut>
+		<DR>3</DR>
+		<Round>2</Round>
+		<text>なんか新境地って感じ…</text>
+		<textSub>Es como si todavía fuéramos recién casados... </textSub>
+		<type>caption_liru</type>
+		<startTime>66</startTime>
+		<endTime>246</endTime>
+		<order>continue</order>
+	</caption>
+
+	<caption>
+		<cut>liru_Title_aft_LP</cut>
+		<DR>3</DR>
+		<Round>2</Round>
+		<text>たまにはいいわね、こういうのも</text>
+		<textSub>Pero esto no es tan malo de vez en cuando...</textSub>
+		<type>caption_liru</type>
+		<startTime>156</startTime>
+		<endTime>336</endTime>
+		<order>continue</order>
+	</caption>
+
+	<!-- ===== Round: =====  -->
+
+	<caption>
+		<cut>liru_Title_aft_ST</cut>
+		<DR>3</DR>
+		<text>あぁんッ！</text>
+		<textSub>Aah... </textSub>
+		<type>caption_liru</type>
+		<startTime>5</startTime>
+		<endTime>185</endTime>
+		<order>header</order>
+		<sound>liru_title_pull_ST_c01</sound>
+	</caption>
+
+	<caption>
+		<cut>liru_Title_aft_ST</cut>
+		<DR>3</DR>
+		<text>ゆっくり抜いてーッ！  ンァアンッ！</text>
+		<textSub>Tira despacio... ¡Aah!</textSub>
+		<type>caption_liru</type>
+		<startTime>14</startTime>
+		<endTime>194</endTime>
+		<order>continue</order>
+	</caption>
+
+	<caption>
+		<cut>liru_Title_aft_ST</cut>
+		<DR>3</DR>
+		<text>ハァ…ハァ…</text>
+		<textSub>Aaah... aaah...</textSub>
+		<type>caption_liru</type>
+		<startTime>87</startTime>
+		<endTime>267</endTime>
+		<order>continue</order>
+		<Lip>1</Lip>
+	</caption>
+
+	<caption>
+		<cut>liru_Title_bath_ST</cut>
+		<DR>3</DR>
+		<text>お風呂ね</text>
+		<textSub>¿Un baño?</textSub>
+		<type>caption_liru</type>
+		<startTime>10</startTime>
+		<endTime>190</endTime>
+		<order>header</order>
+		<Lip>0.1</Lip>
+		<Color>white</Color>
+		<sound>liru_title_bath_c01</sound>
+	</caption>
+
+	<caption>
+		<cut>liru_Title_bath_ST</cut>
+		<DR>3</DR>
+		<text>は～い 今すぐぅ～</text>
+		<textSub>Bien, ¡lo haré!</textSub>
+		<type>caption_liru</type>
+		<startTime>38</startTime>
+		<endTime>218</endTime>
+		<order>continue</order>
+		<Lip>0.1</Lip>
+		<Color>white</Color>
+	</caption>
+
+
+
+	<!-- ===================== sfx(効果音) =====================  -->
+
+	<sfx>
+		<note>ピストン(遅)</note>
+		<cut>liru_Title_cunni_LP</cut>
+		<DR>3</DR>
+		<startTime>1</startTime>
+		<loop>999</loop>
+		<sound>liru_sfx_pst30f</sound>
+	</sfx>
+
+	<caption>
+		<cut>liru_Title_cunni_ST</cut>
+		<DR>3</DR>
+		<text>ハァンッ</text>
+		<textSub>Uuh...</textSub>
+		<type>caption_liru</type>
+		<startTime>1</startTime>
+		<endTime>181</endTime>
+		<order>header</order>
+		<Color>white</Color>
+		<sound>liru_title_fuck_ST_c02</sound>
+	</caption>
+
+	<caption>
+		<cut>liru_Title_cunni_ST</cut>
+		<DR>3</DR>
+		<text>そんな帰ってくるなり…</text>
+		<textSub>No hay necesidad de tener sexo justo después de regresar... </textSub>
+		<type>caption_liru</type>
+		<startTime>34</startTime>
+		<endTime>214</endTime>
+		<order>continue</order>
+		<Color>white</Color>
+	</caption>
+
+	<caption>
+		<cut>liru_Title_cunni_ST</cut>
+		<DR>3</DR>
+		<text>盛らなくてもォ…</text>
+		<type>caption_liru</type>
+		<startTime>84</startTime>
+		<endTime>264</endTime>
+		<order>continue</order>
+		<Color>white</Color>
+	</caption>
+
+	<caption>
+		<cut>liru_Title_cunni_ST</cut>
+		<DR>3</DR>
+		<text>キャッ！</text>
+		<textSub>¡Eeek!</textSub>
+		<type>caption_liru</type>
+		<startTime>171</startTime>
+		<endTime>351</endTime>
+		<order>continue</order>
+		<Color>white</Color>
+		<sound>liru_title_fuck_ST_c01</sound>
+	</caption>
+
+	<caption>
+		<cut>liru_Title_cunni_ST</cut>
+		<DR>3</DR>
+		<text>やだ…ここ…玄関なのにぃ</text>
+		<textSub>No podemos... ¡Estamos en la entrada...! </textSub>
+		<type>caption_liru</type>
+		<startTime>186</startTime>
+		<endTime>366</endTime>
+		<order>continue</order>
+		<Color>white</Color>
+	</caption>
+
+	<caption>
+		<cut>liru_Title_cunni_ST</cut>
+		<DR>3</DR>
+		<text>はぁあん！</text>
+		<textSub>¡¡Aaaahn!!</textSub>
+		<type>caption_liru</type>
+		<startTime>291</startTime>
+		<endTime>471</endTime>
+		<order>continue</order>
+		<Color>white</Color>
+	</caption>
+
+	<caption>
+		<cut>liru_Title_cunni_ST</cut>
+		<DR>3</DR>
+		<text>んッ…んッ…んん…んッ…</text>
+		<textSub>Mmm... mmm... mmmmgh... mmm... </textSub>
+		<type>caption_liru</type>
+		<startTime>321</startTime>
+		<endTime>501</endTime>
+		<order>continue</order>
+		<loop>999</loop>
+		<Lip>1</Lip>
+		<Color>white</Color>
+		<sound>liru_sex_pstPsvA_LP_c01</sound>
+	</caption>
+
+
+
+	<!-- ===================== sfx(効果音) =====================  -->
+
+	<sfx>
+		<note>パンツを脱がす音</note>
+		<cut>liru_Title_cunni_ST</cut>
+		<DR>3</DR>
+		<startTime>40</startTime>
+		<sound>liru_sfx_pantsOrothi</sound>
+	</sfx>
+
+	<caption>
+		<cut>liru_Title_din_ST</cut>
+		<DR>3</DR>
+		<text>あれッ…そう…なんだ…</text>
+		<textSub>¿Eh? Ya... veo...</textSub>
+		<type>caption_liru</type>
+		<startTime>10</startTime>
+		<endTime>190</endTime>
+		<order>header</order>
+		<Lip>0.1</Lip>
+		<Color>white</Color>
+		<sound>liru_title_dinner_c01</sound>
+	</caption>
+
+	<caption>
+		<cut>liru_Title_din_ST</cut>
+		<DR>3</DR>
+		<text>よしッ！</text>
+		<textSub>¡Bien!</textSub>
+		<type>caption_liru</type>
+		<startTime>75</startTime>
+		<endTime>255</endTime>
+		<order>continue</order>
+		<Lip>0.1</Lip>
+		<Color>white</Color>
+	</caption>
+
+	<caption>
+		<cut>liru_Title_din_ST</cut>
+		<DR>3</DR>
+		<text>すぐ支度するからねッ！</text>
+		<textSub>¡Voy a prepararlo!</textSub>
+		<type>caption_liru</type>
+		<startTime>96</startTime>
+		<endTime>276</endTime>
+		<order>continue</order>
+		<Lip>0.1</Lip>
+		<Color>white</Color>
+	</caption>
+
+	<!-- ===== Round:1 =====  -->
+
+	<caption>
+		<cut>liru_Title_fin_ST</cut>
+		<DR>3</DR>
+		<Round>1</Round>
+		<text>ハァハァ…アァンッ！！</text>
+		<textSub>Aaah... aah... ¡Ahn!</textSub>
+		<type>caption_liru</type>
+		<startTime>10</startTime>
+		<endTime>190</endTime>
+		<order>header</order>
+		<sound>liru_title_fin_ST_c01</sound>
+	</caption>
+
+	<caption>
+		<cut>liru_Title_fin_ST</cut>
+		<DR>3</DR>
+		<Round>1</Round>
+		<text>おちんちん脈打ってる…</text>
+		<textSub>Tu pene se está moviendo...</textSub>
+		<type>caption_liru</type>
+		<startTime>50</startTime>
+		<endTime>230</endTime>
+		<order>continue</order>
+	</caption>
+
+	<caption>
+		<cut>liru_Title_fin_ST</cut>
+		<DR>3</DR>
+		<Round>1</Round>
+		<text>すごい勢い…</text>
+		<textSub>Está muy caliente...</textSub>
+		<type>caption_liru</type>
+		<startTime>109</startTime>
+		<endTime>289</endTime>
+		<order>continue</order>
+	</caption>
+
+	<caption>
+		<cut>liru_Title_fin_ST</cut>
+		<DR>3</DR>
+		<Round>1</Round>
+		<text>ハァ…ハァ…</text>
+		<textSub>Aaah... aaah...</textSub>
+		<type>caption_liru</type>
+		<startTime>167</startTime>
+		<endTime>347</endTime>
+		<order>continue</order>
+		<Lip>1</Lip>
+	</caption>
+
+	<caption>
+		<cut>liru_Title_fin_ST</cut>
+		<DR>3</DR>
+		<Round>1</Round>
+		<text>ハァ…ハァ…</text>
+		<textSub>Aaah... aaah...</textSub>
+		<type>caption_liru</type>
+		<startTime>266</startTime>
+		<endTime>446</endTime>
+		<order>continue</order>
+		<Lip>1</Lip>
+		<sound>liru_breathH_LP_c01</sound>
+	</caption>
+
+	<!-- ===== Round:2 =====  -->
+
+	<caption>
+		<cut>liru_Title_fin_ST</cut>
+		<DR>3</DR>
+		<Round>2</Round>
+		<text>ンンッ！！</text>
+		<textSub>¡¡Mmm!!</textSub>
+		<type>caption_liru</type>
+		<startTime>30</startTime>
+		<endTime>210</endTime>
+		<order>header</order>
+		<Lip>1</Lip>
+		<sound>liru_title_fin_ST_c02</sound>
+	</caption>
+
+	<caption>
+		<cut>liru_Title_fin_ST</cut>
+		<DR>3</DR>
+		<Round>2</Round>
+		<text>精子…子宮に打ち付けられてるぅ</text>
+		<textSub>El semen... se está pegando a mi interior... </textSub>
+		<type>caption_liru</type>
+		<startTime>29</startTime>
+		<endTime>209</endTime>
+		<order>continue</order>
+	</caption>
+
+	<caption>
+		<cut>liru_Title_fin_ST</cut>
+		<DR>3</DR>
+		<Round>2</Round>
+		<text>ッアアン</text>
+		<textSub>¡Aaahn!</textSub>
+		<type>caption_liru</type>
+		<startTime>122</startTime>
+		<endTime>302</endTime>
+		<order>continue</order>
+		<Lip>1</Lip>
+	</caption>
+
+	<caption>
+		<cut>liru_Title_fin_ST</cut>
+		<DR>3</DR>
+		<Round>2</Round>
+		<text>ハァ…ハァ…</text>
+		<textSub>Aaah... aaah...</textSub>
+		<type>caption_liru</type>
+		<startTime>160</startTime>
+		<endTime>340</endTime>
+		<order>continue</order>
+		<Lip>1</Lip>
+	</caption>
+
+	<caption>
+		<cut>liru_Title_fin_ST</cut>
+		<DR>3</DR>
+		<Round>2</Round>
+		<text>ハァ…ハァ…</text>
+		<textSub>Aaah... aaah...</textSub>
+		<type>caption_liru</type>
+		<startTime>255</startTime>
+		<endTime>435</endTime>
+		<order>continue</order>
+		<Lip>1</Lip>
+		<sound>liru_breathH_LP_c01</sound>
+	</caption>
+
+
+
+	<!-- ===================== sfx(効果音) =====================  -->
+
+	<sfx>
+		<note>射精1</note>
+		<cut>liru_Title_fin_ST</cut>
+		<DR>3</DR>
+		<startTime>32</startTime>
+		<sound>liru_sfx_fin1</sound>
+	</sfx>
+
+	<sfx>
+		<note>射精2</note>
+		<cut>liru_Title_fin_ST</cut>
+		<DR>3</DR>
+		<startTime>53</startTime>
+		<sound>liru_sfx_fin2</sound>
+	</sfx>
+
+	<sfx>
+		<note>射精3</note>
+		<cut>liru_Title_fin_ST</cut>
+		<DR>3</DR>
+		<startTime>72</startTime>
+		<sound>liru_sfx_fin3</sound>
+	</sfx>
+
+	<sfx>
+		<note>射精4</note>
+		<cut>liru_Title_fin_ST</cut>
+		<DR>3</DR>
+		<startTime>93</startTime>
+		<sound>liru_sfx_fin4</sound>
+	</sfx>
+
+	<sfx>
+		<note>射精5</note>
+		<cut>liru_Title_fin_ST</cut>
+		<DR>3</DR>
+		<startTime>115</startTime>
+		<sound>liru_sfx_fin1</sound>
+	</sfx>
+
+	<sfx>
+		<note>ピストン(20F)</note>
+		<cut>liru_Title_insPst1_LP</cut>
+		<DR>3</DR>
+		<startTime>5</startTime>
+		<loop>999</loop>
+		<sound>liru_sfx_pst20f</sound>
+	</sfx>
+
+	<!-- ===== Round:1 =====  -->
+
+	<caption>
+		<cut>liru_Title_insPst1_ST</cut>
+		<DR>3</DR>
+		<Round>1</Round>
+		<text>んぁ…入ってくるぅ…</text>
+		<textSub>Naah... Está entrando... </textSub>
+		<type>caption_liru</type>
+		<startTime>40</startTime>
+		<endTime>220</endTime>
+		<order>header</order>
+		<sound>liru_title_ins_ST_c01</sound>
+	</caption>
+
+	<caption>
+		<cut>liru_Title_insPst1_ST</cut>
+		<DR>3</DR>
+		<Round>1</Round>
+		<text>ふぁ…あああんッ！！</text>
+		<textSub>¡Aaah... aaaahn!</textSub>
+		<type>caption_liru</type>
+		<startTime>80</startTime>
+		<endTime>260</endTime>
+		<order>continue</order>
+	</caption>
+
+	<caption>
+		<cut>liru_Title_insPst1_ST</cut>
+		<DR>3</DR>
+		<Round>1</Round>
+		<text>んっ…くぁ…アンッ…んっ…</text>
+		<textSub>Mmm... gggh... ahn... mmm...</textSub>
+		<type>caption_liru</type>
+		<startTime>135</startTime>
+		<endTime>315</endTime>
+		<order>continue</order>
+		<loop>999</loop>
+		<Lip>1</Lip>
+		<sound>liru_sex_pstPsvB_LP_c01</sound>
+	</caption>
+
+	<!-- ===== Round:2 =====  -->
+
+	<caption>
+		<cut>liru_Title_insPst1_ST</cut>
+		<DR>3</DR>
+		<Round>2</Round>
+		<text>ヤッ…待って…</text>
+		<textSub>Oh, no... ¡Espera...!</textSub>
+		<type>caption_liru</type>
+		<startTime>45</startTime>
+		<endTime>225</endTime>
+		<order>header</order>
+		<sound>liru_title_ins_ST_c02</sound>
+	</caption>
+
+	<caption>
+		<cut>liru_Title_insPst1_ST</cut>
+		<DR>3</DR>
+		<Round>2</Round>
+		<text>まだ濡れてな…ふぁあああんッ！</text>
+		<textSub>Todavía no estoy mojada... Aaaaaaahn...</textSub>
+		<type>caption_liru</type>
+		<startTime>50</startTime>
+		<endTime>230</endTime>
+		<order>continue</order>
+	</caption>
+
+	<caption>
+		<cut>liru_Title_insPst1_ST</cut>
+		<DR>3</DR>
+		<Round>2</Round>
+		<text>んっ…くぁ…アンッ…んっ…</text>
+		<textSub>Mmm... gggh... ahn... mmm...</textSub>
+		<type>caption_liru</type>
+		<startTime>135</startTime>
+		<endTime>315</endTime>
+		<order>continue</order>
+		<loop>999</loop>
+		<Lip>1</Lip>
+		<sound>liru_sex_pstPsvB_LP_c01</sound>
+	</caption>
+
+
+
+	<!-- ===================== sfx(効果音) =====================  -->
+
+	<sfx>
+		<note>挿入音</note>
+		<cut>liru_Title_insPst1_ST</cut>
+		<DR>3</DR>
+		<startTime>115</startTime>
+		<sound>liru_sfx_ins24f</sound>
+	</sfx>
+
+	<sfx>
+		<note>ピストン(20F)</note>
+		<cut>liru_Title_insPst1_ST</cut>
+		<DR>3</DR>
+		<startTime>185</startTime>
+		<loop>999</loop>
+		<sound>liru_sfx_pst20f</sound>
+	</sfx>
+
+	<caption>
+		<cut>liru_Title_kiss_ST</cut>
+		<DR>3</DR>
+		<text>エッ…うぅ…</text>
+		<textSub>Uuh... ungh...</textSub>
+		<type>caption_liru</type>
+		<startTime>30</startTime>
+		<endTime>210</endTime>
+		<order>header</order>
+		<Color>white</Color>
+		<sound>liru_title_kissBefoe_c01</sound>
+	</caption>
+
+	<caption>
+		<cut>liru_Title_kiss_ST</cut>
+		<DR>3</DR>
+		<text>ンッ…チュ…レロレロ…ブチュ…</text>
+		<textSub>Aaahn... mmm... slrrp... slrrrp... glug...</textSub>
+		<type>caption_liru</type>
+		<startTime>50</startTime>
+		<endTime>230</endTime>
+		<order>continue</order>
+		<loop>999</loop>
+		<Lip>1</Lip>
+		<Color>white</Color>
+		<sound>liru_kiss_ST_c01</sound>
+	</caption>
+
+
+
+	<!-- ===================== sfx(効果音) =====================  -->
+
+	<sfx>
+		<note>ピストン(15F)</note>
+		<cut>liru_Title_pst2_LP</cut>
+		<DR>3</DR>
+		<startTime>1</startTime>
+		<loop>999</loop>
+		<sound>liru_sfx_pst15f</sound>
+	</sfx>
+
+	<!-- ===== Round:1 =====  -->
+
+	<caption>
+		<cut>liru_Title_pst2_ST</cut>
+		<DR>3</DR>
+		<Round>1</Round>
+		<text>やああ…はげしっ…ンっ</text>
+		<textSub>Aaaah... Está muy duro... mmm...</textSub>
+		<type>caption_liru</type>
+		<startTime>30</startTime>
+		<endTime>210</endTime>
+		<order>header</order>
+		<sound>liru_title_pst2_ST_c01</sound>
+	</caption>
+
+	<caption>
+		<cut>liru_Title_pst2_ST</cut>
+		<DR>3</DR>
+		<Round>1</Round>
+		<text>ちんぽ激しいよぉ…ッ！！</text>
+		<textSub>¡¡Quiero tu pene!!</textSub>
+		<type>caption_liru</type>
+		<startTime>86</startTime>
+		<endTime>266</endTime>
+		<order>continue</order>
+	</caption>
+
+	<caption>
+		<cut>liru_Title_pst2_ST</cut>
+		<DR>3</DR>
+		<Round>1</Round>
+		<text>んッ…ンァ…アッ…アッ…</text>
+		<textSub>Mmm... naah... aah... aah... </textSub>
+		<type>caption_liru</type>
+		<startTime>140</startTime>
+		<endTime>320</endTime>
+		<order>continue</order>
+		<loop>999</loop>
+		<Lip>1</Lip>
+		<sound>liru_sex_pstPsvC_LP_c01</sound>
+	</caption>
+
+	<!-- ===== Round:2 =====  -->
+
+	<caption>
+		<cut>liru_Title_pst2_ST</cut>
+		<DR>3</DR>
+		<Round>2</Round>
+		<text>ああぁん…そんなにされたら…ンンッ…</text>
+		<textSub>Aaaahn... Si eres tan rudo, yo... mmm...</textSub>
+		<type>caption_liru</type>
+		<startTime>30</startTime>
+		<endTime>210</endTime>
+		<order>header</order>
+		<sound>liru_title_pst2_ST_c02</sound>
+	</caption>
+
+	<caption>
+		<cut>liru_Title_pst2_ST</cut>
+		<DR>3</DR>
+		<Round>2</Round>
+		<text>おかしくなっちゃぅううう…ああんっ</text>
+		<textSub>Me vuelvo loca...aahn...</textSub>
+		<type>caption_liru</type>
+		<startTime>88</startTime>
+		<endTime>268</endTime>
+		<order>continue</order>
+	</caption>
+
+	<caption>
+		<cut>liru_Title_pst2_ST</cut>
+		<DR>3</DR>
+		<Round>2</Round>
+		<text>んッ…ンァ…アッ…アッ…</text>
+		<textSub>Mmm... naah... aah... aah... </textSub>
+		<type>caption_liru</type>
+		<startTime>156</startTime>
+		<endTime>336</endTime>
+		<order>continue</order>
+		<loop>999</loop>
+		<Lip>1</Lip>
+		<sound>liru_sex_pstPsvC_LP_c01</sound>
+	</caption>
+
+
+
+	<!-- ===================== sfx(効果音) =====================  -->
+
+	<sfx>
+		<note>ピストン(20F)</note>
+		<cut>liru_Title_pst2_ST</cut>
+		<DR>3</DR>
+		<startTime>1</startTime>
+		<endTime>2</endTime>
+		<sound>liru_sfx_pstSingle</sound>
+	</sfx>
+
+	<caption>
+		<cut>liru_Title_rdy_ST</cut>
+		<DR>3</DR>
+		<text>おかえりッ</text>
+		<textSub>Bienvenido de nuevo... </textSub>
+		<type>caption_liru</type>
+		<startTime>62</startTime>
+		<endTime>242</endTime>
+		<order>header</order>
+		<Color>white</Color>
+		<sound>liru_title_intro_c01</sound>
+	</caption>
+
+	<caption>
+		<cut>liru_Title_rdy_ST</cut>
+		<DR>3</DR>
+		<text>今日も一日お疲れ様ぁ！</text>
+		<textSub>¿Por qué no te relajas después de tu largo día?</textSub>
+		<type>caption_liru</type>
+		<startTime>32</startTime>
+		<endTime>212</endTime>
+		<order>continue</order>
+		<Color>white</Color>
+	</caption>
+
+	<caption>
+		<cut>liru_Title_rdy_ST</cut>
+		<DR>3</DR>
+		<text>ご飯にする？ お風呂にする？</text>
+		<textSub>¿Quieres cenar? ¿Tomar un baño?</textSub>
+		<type>caption_liru</type>
+		<startTime>95</startTime>
+		<endTime>275</endTime>
+		<order>continue</order>
+		<Color>white</Color>
+	</caption>
+
+	<caption>
+		<cut>liru_Title_rdy_ST</cut>
+		<DR>3</DR>
+		<text>それとも…</text>
+		<textSub>¿O me quieres... a mí?</textSub>
+		<type>caption_liru</type>
+		<startTime>172</startTime>
+		<endTime>352</endTime>
+		<order>continue</order>
+		<Color>white</Color>
+	</caption>
+
+	<caption>
+		<cut>liru_Title_rdy_ST</cut>
+		<DR>3</DR>
+		<text>ア・タ・シ？</text>
+		<type>caption_liru</type>
+		<startTime>196</startTime>
+		<endTime>376</endTime>
+		<order>continue</order>
+		<Color>white</Color>
+	</caption>
+
+</data>

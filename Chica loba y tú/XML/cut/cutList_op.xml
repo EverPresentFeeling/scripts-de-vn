@@ -1,0 +1,150 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+
+	<!-- ===================== DR(デレ度):1 =====================  -->
+
+	<!-- ===== Round: =====  -->
+
+	<caption>
+		<cut>liru_Op_talk_LP</cut>
+		<DR>1</DR>
+		<text>サイズミックの動画を見るときは</text>
+		<textSub>Al ver un vídeo de Seismic...</textSub>
+		<type>caption_liru</type>
+		<startTime>10</startTime>
+		<endTime>190</endTime>
+		<order>header</order>
+		<x>10</x>
+		<y>435</y>
+		<Color>white</Color>
+		<Font>Font_CG4_32</Font>
+		<sound>liru_logo_a01</sound>
+	</caption>
+
+	<caption>
+		<cut>liru_Op_talk_LP</cut>
+		<DR>1</DR>
+		<text>お肉をいーっぱい食べてから</text>
+		<textSub>¡hazlo después de haberte llenado de carne!</textSub>
+		<type>caption_liru</type>
+		<startTime>53</startTime>
+		<endTime>233</endTime>
+		<order>continue</order>
+		<x>10</x>
+		<y>435</y>
+		<Color>white</Color>
+		<Font>Font_CG4_32</Font>
+	</caption>
+
+	<caption>
+		<cut>liru_Op_talk_LP</cut>
+		<DR>1</DR>
+		<text>しあわせ気分で見てねッ！</text>
+		<type>caption_liru</type>
+		<startTime>109</startTime>
+		<endTime>289</endTime>
+		<order>continue</order>
+		<x>10</x>
+		<y>435</y>
+		<Color>white</Color>
+		<Font>Font_CG4_32</Font>
+	</caption>
+
+
+	<!-- ===================== DR(デレ度):2 =====================  -->
+
+	<caption>
+		<cut>liru_Op_talk_LP</cut>
+		<DR>2</DR>
+		<text>サイズミックの動画を見るときは</text>
+		<textSub>Al ver un vídeo de Seismic...</textSub>
+		<type>caption_liru</type>
+		<startTime>10</startTime>
+		<endTime>190</endTime>
+		<order>header</order>
+		<x>10</x>
+		<y>435</y>
+		<Color>white</Color>
+		<Font>Font_CG4_32</Font>
+		<sound>liru_logo_b01</sound>
+	</caption>
+
+	<caption>
+		<cut>liru_Op_talk_LP</cut>
+		<DR>2</DR>
+		<text>リラックスして </text>
+		<textSub>¡hazlo cuando estés relajado y cómodo!</textSub>
+		<type>caption_liru</type>
+		<startTime>55</startTime>
+		<endTime>235</endTime>
+		<order>continue</order>
+		<x>10</x>
+		<y>435</y>
+		<Color>white</Color>
+		<Font>Font_CG4_32</Font>
+	</caption>
+
+	<caption>
+		<cut>liru_Op_talk_LP</cut>
+		<DR>2</DR>
+		<text>楽ぅ～な体勢で 見てねッ！</text>
+		<type>caption_liru</type>
+		<startTime>86</startTime>
+		<endTime>266</endTime>
+		<order>continue</order>
+		<x>10</x>
+		<y>435</y>
+		<Lip>0.1</Lip>
+		<Color>white</Color>
+		<Font>Font_CG4_32</Font>
+	</caption>
+
+
+	<!-- ===================== DR(デレ度):3 =====================  -->
+
+	<caption>
+		<cut>liru_Op_talk_LP</cut>
+		<DR>3</DR>
+		<text>サイズミックの動画を見るときは</text>
+		<textSub>Al ver un vídeo de Seismic...</textSub>
+		<type>caption_liru</type>
+		<startTime>8</startTime>
+		<endTime>188</endTime>
+		<order>header</order>
+		<x>10</x>
+		<y>435</y>
+		<Color>white</Color>
+		<Font>Font_CG4_32</Font>
+		<sound>liru_logo_c01</sound>
+	</caption>
+
+	<caption>
+		<cut>liru_Op_talk_LP</cut>
+		<DR>3</DR>
+		<text>精神を解き放ち</text>
+		<textSub>¡deja que tu mente se vaya y entrégate a tu deseo sexual!</textSub>
+		<type>caption_liru</type>
+		<startTime>52</startTime>
+		<endTime>232</endTime>
+		<order>continue</order>
+		<x>10</x>
+		<y>435</y>
+		<Color>white</Color>
+		<Font>Font_CG4_32</Font>
+	</caption>
+
+	<caption>
+		<cut>liru_Op_talk_LP</cut>
+		<DR>3</DR>
+		<text>性欲に身を任せるのだぁ～ッ！！</text>
+		<type>caption_liru</type>
+		<startTime>88</startTime>
+		<endTime>268</endTime>
+		<order>continue</order>
+		<x>10</x>
+		<y>435</y>
+		<Color>white</Color>
+		<Font>Font_CG4_32</Font>
+	</caption>
+
+</data>

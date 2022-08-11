@@ -1,0 +1,138 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<!-- ===== Round: =====  -->
+
+	<caption>
+		<cut>liru_Breakfast_bf1_ST</cut>
+		<text>でッ！</text>
+		<textSub>¡Oye! ¿Qué te ha parecido?</textSub>
+		<type>caption_liru</type>
+		<startTime>9</startTime>
+		<endTime>189</endTime>
+		<order>header</order>
+		<sound>liru_bf_c01</sound>
+	</caption>
+
+	<caption>
+		<cut>liru_Breakfast_bf1_ST</cut>
+		<text>どーだった？</text>
+		<type>caption_liru</type>
+		<startTime>20</startTime>
+		<endTime>200</endTime>
+		<order>continue</order>
+	</caption>
+
+	<caption>
+		<cut>liru_Breakfast_bf1_ST</cut>
+		<text>アタシの作った あ・さ・ご・は・んッ！！</text>
+		<textSub>¡¿Te gustó el "DESAYUNO" que te hice?!</textSub>
+		<type>caption_liru</type>
+		<startTime>50</startTime>
+		<endTime>230</endTime>
+		<order>continue</order>
+	</caption>
+
+	<caption>
+		<cut>liru_Breakfast_bf1_ST</cut>
+		<text>アタシの作った あ・さ・ご・は・んッ！！</text>
+		<textSub>¡¿Te gustó el "DESAYUNO" que te hice?!</textSub>
+		<type>caption_liru</type>
+		<startTime>111</startTime>
+		<endTime>291</endTime>
+		<order>continue</order>
+		<Lip>1</Lip>
+	</caption>
+
+
+
+	<!-- ===================== sfx(効果音) =====================  -->
+
+	<sfx>
+		<note>テーブルを叩く音</note>
+		<cut>liru_Breakfast_bf1_ST</cut>
+		<startTime>14</startTime>
+		<sound>liru_sfx_tableStamp</sound>
+	</sfx>
+
+	<caption>
+		<cut>liru_Breakfast_bf2_ST</cut>
+		<text>感想だよ！</text>
+		<textSub>Te estoy pidiendo... ¡tu opinión!</textSub>
+		<type>caption_liru</type>
+		<startTime>10</startTime>
+		<endTime>190</endTime>
+		<order>header</order>
+		<sound>liru_bf_c02</sound>
+	</caption>
+
+	<caption>
+		<cut>liru_Breakfast_bf2_ST</cut>
+		<text>カ・ン・ソ・ウ！</text>
+		<type>caption_liru</type>
+		<startTime>36</startTime>
+		<endTime>216</endTime>
+		<order>continue</order>
+	</caption>
+
+	<caption>
+		<cut>liru_Breakfast_bf3_ST</cut>
+		<text>そーか！そーかぁー！</text>
+		<textSub>¡Ya veo! ¡Genial!</textSub>
+		<type>caption_liru</type>
+		<startTime>15</startTime>
+		<endTime>195</endTime>
+		<order>header</order>
+		<sound>liru_bf_c03</sound>
+	</caption>
+
+
+
+	<!-- ===================== sfx(効果音) =====================  -->
+
+	<sfx>
+		<note>テーブルを叩く音</note>
+		<cut>liru_Breakfast_bf3_ST</cut>
+		<startTime>10</startTime>
+		<sound>liru_sfx_tableStamp</sound>
+	</sfx>
+
+	<caption>
+		<cut>liru_Breakfast_bf3_ST</cut>
+		<text>明日も作ったげるねッ！</text>
+		<textSub>¡¡También haré el desayuno mañana!!</textSub>
+		<type>caption_liru</type>
+		<startTime>49</startTime>
+		<endTime>229</endTime>
+		<order>continue</order>
+	</caption>
+
+
+
+	<!-- ===================== sfx(効果音) =====================  -->
+
+	<sfx>
+		<note>テーブルを叩く音</note>
+		<cut>liru_Breakfast_bf3_ST</cut>
+		<startTime>62</startTime>
+		<sound>liru_sfx_tableBeat</sound>
+	</sfx>
+
+	<sfx>
+		<note>テーブルを叩く音</note>
+		<cut>liru_Breakfast_bf3_ST</cut>
+		<startTime>74</startTime>
+		<sound>liru_sfx_tableBeat</sound>
+	</sfx>
+
+	<caption>
+		<cut>liru_Breakfast_bf4_ST</cut>
+		<text>まっかせてよ～ッ！</text>
+		<textSub>¡¡Solo déjamelo a mí!!</textSub>
+		<type>caption_liru</type>
+		<startTime>10</startTime>
+		<endTime>190</endTime>
+		<order>header</order>
+		<sound>liru_bf_c04</sound>
+	</caption>
+
+</data>

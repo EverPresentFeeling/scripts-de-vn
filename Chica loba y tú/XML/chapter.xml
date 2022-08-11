@@ -1,0 +1,246 @@
+<?xml version="1.0"?>
+<XmlProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+
+	<Chapter>
+		<SceneName>op</SceneName>
+  	<Cut></Cut>
+  	<ReqKey>op1</ReqKey>
+  	<Swf>chapter_op1</Swf>
+  	<ChapterNameMain>導入1</ChapterNameMain>
+  	<ChapterNameSub>Opening 1</ChapterNameSub>
+  	<X>185</X>
+  	<Y>160</Y>
+  	<DR>1</DR>
+  	<Round>0</Round>
+  </Chapter>
+	<Chapter>
+		<SceneName>op</SceneName>
+  	<Cut></Cut>
+  	<ReqKey>op2</ReqKey>
+  	<Swf>chapter_op2</Swf>
+  	<ChapterNameMain>導入2</ChapterNameMain>
+  	<ChapterNameSub>Opening 2</ChapterNameSub>
+  	<X>340</X>
+  	<Y>160</Y>
+  	<DR>2</DR>
+  	<Round>0</Round>
+  </Chapter>
+	<Chapter>
+		<SceneName>op</SceneName>
+  	<Cut></Cut>
+  	<ReqKey>op3</ReqKey>
+  	<Swf>chapter_op3</Swf>
+  	<ChapterNameMain>導入3</ChapterNameMain>
+  	<ChapterNameSub>Opening 3</ChapterNameSub>
+  	<X>495</X>
+  	<Y>160</Y>
+  	<DR>3</DR>
+  	<Round>0</Round>
+  </Chapter>
+	<Chapter>
+		<SceneName>title</SceneName>
+  	<Cut></Cut>
+  	<ReqKey>title1</ReqKey>
+  	<Swf>chapter_title1</Swf>
+  	<ChapterNameMain>玄関1</ChapterNameMain>
+  	<ChapterNameSub>Entrance 1</ChapterNameSub>
+  	<X>655</X>
+  	<Y>160</Y>
+  	<DR>1</DR>
+  	<Round>0</Round>
+  </Chapter>
+	<Chapter>
+		<SceneName>title</SceneName>
+  	<Cut></Cut>
+  	<ReqKey>title2</ReqKey>
+  	<Swf>chapter_title2</Swf>
+  	<ChapterNameMain>玄関2</ChapterNameMain>
+  	<ChapterNameSub>Entrance 2</ChapterNameSub>
+  	<X>810</X>
+  	<Y>160</Y>
+  	<DR>2</DR>
+  	<Round>0</Round>
+  </Chapter>
+	<Chapter>
+		<SceneName>title</SceneName>
+  	<Cut></Cut>
+  	<ReqKey>title3</ReqKey>
+  	<Swf>chapter_title3</Swf>
+  	<ChapterNameMain>玄関3</ChapterNameMain>
+  	<ChapterNameSub>Entrance 3</ChapterNameSub>
+  	<X>965</X>
+  	<Y>160</Y>
+  	<DR>3</DR>
+  	<Round>0</Round>
+  </Chapter>
+	<Chapter>
+		<SceneName>dinner</SceneName>
+  	<Cut></Cut>
+  	<ReqKey>dinner1</ReqKey>
+  	<Swf>chapter_dinner1</Swf>
+  	<ChapterNameMain>晩ごはん（ギョーザ）</ChapterNameMain>
+  	<ChapterNameSub>Dinner (Gyoza)</ChapterNameSub>
+  	<X>185</X>
+  	<Y>275</Y>
+  	<DR>1</DR>
+  	<Round>0</Round>
+  </Chapter>
+	<Chapter>
+		<SceneName>dinner</SceneName>
+  	<Cut></Cut>
+  	<ReqKey>dinner2</ReqKey>
+  	<Swf>chapter_dinner2</Swf>
+  	<ChapterNameMain>晩ごはん（とんかつ）</ChapterNameMain>
+  	<ChapterNameSub>Dinner (Tonkatsu)</ChapterNameSub>
+  	<X>340</X>
+  	<Y>275</Y>
+  	<DR>2</DR>
+  	<Round>0</Round>
+  </Chapter>
+	<Chapter>
+		<SceneName>dinner</SceneName>
+  	<Cut></Cut>
+  	<ReqKey>dinner3</ReqKey>
+  	<Swf>chapter_dinner3</Swf>
+  	<ChapterNameMain>晩ごはん（ステーキ）</ChapterNameMain>
+  	<ChapterNameSub>Dinner (Steak)</ChapterNameSub>
+  	<X>495</X>
+  	<Y>275</Y>
+  	<DR>3</DR>
+  	<Round>0</Round>
+  </Chapter>
+	<Chapter>
+		<SceneName>cook</SceneName>
+  	<Cut></Cut>
+  	<ReqKey>cook</ReqKey>
+  	<Swf>chapter_cook</Swf>
+  	<ChapterNameMain>手料理だよ</ChapterNameMain>
+  	<ChapterNameSub>Liru's Cooking</ChapterNameSub>
+  	<X>655</X>
+  	<Y>275</Y>
+  	<DR>3</DR>
+  	<Round>0</Round>
+  </Chapter>
+	<Chapter>
+		<SceneName>cook</SceneName>
+  	<Cut>liru_cook_fuck1_ST</Cut>
+  	<ReqKey>cookSex</ReqKey>
+  	<Swf>chapter_cookSex</Swf>
+  	<ChapterNameMain>お料理中にエッチ</ChapterNameMain>
+  	<ChapterNameSub>Cooking Sex</ChapterNameSub>
+  	<X>810</X>
+  	<Y>275</Y>
+  	<DR>3</DR>
+  	<Round>0</Round>
+  </Chapter>
+	<Chapter>
+		<SceneName>breakfast</SceneName>
+  	<Cut></Cut>
+  	<ReqKey>breakfast</ReqKey>
+  	<Swf>chapter_breakfast</Swf>
+  	<ChapterNameMain>リルが作った朝ごはん</ChapterNameMain>
+  	<ChapterNameSub>Liru's Breakfast</ChapterNameSub>
+  	<X>965</X>
+  	<Y>275</Y>
+  	<DR>3</DR>
+  	<Round>0</Round>
+  </Chapter>
+	<Chapter>
+		<SceneName>bath</SceneName>
+  	<Cut></Cut>
+  	<ReqKey>bath</ReqKey>
+  	<Swf>chapter_bath</Swf>
+  	<ChapterNameMain>いっしょにお風呂</ChapterNameMain>
+  	<ChapterNameSub>Bath Room</ChapterNameSub>
+  	<X>185</X>
+  	<Y>390</Y>
+  	<DR>0</DR>
+  	<Round>0</Round>
+  </Chapter>
+	<Chapter>
+		<SceneName>bath</SceneName>
+  	<Cut>liru_bath_fela1_ST</Cut>
+  	<ReqKey>bathFela</ReqKey>
+  	<Swf>chapter_bathFela</Swf>
+  	<ChapterNameMain>お風呂フェラ</ChapterNameMain>
+  	<ChapterNameSub>Bath Fellatio</ChapterNameSub>
+  	<X>340</X>
+  	<Y>390</Y>
+  	<DR>0</DR>
+  	<Round>0</Round>
+  </Chapter>
+	<Chapter>
+		<SceneName>bath</SceneName>
+  	<Cut>liru_bath_paiPst1_ST</Cut>
+  	<ReqKey>bathPai</ReqKey>
+  	<Swf>chapter_bathPai</Swf>
+  	<ChapterNameMain>お風呂パイズリ</ChapterNameMain>
+  	<ChapterNameSub>Bath Breast Sex</ChapterNameSub>
+  	<X>495</X>
+  	<Y>390</Y>
+  	<DR>0</DR>
+  	<Round>0</Round>
+  </Chapter>
+	<Chapter>
+		<SceneName>bath</SceneName>
+  	<Cut>liru_bath_sexRdy_ST</Cut>
+  	<ReqKey>bathSex</ReqKey>
+  	<Swf>chapter_bathSex</Swf>
+  	<ChapterNameMain>お風呂バック</ChapterNameMain>
+  	<ChapterNameSub>Bath Doggy Style</ChapterNameSub>
+  	<X>655</X>
+  	<Y>390</Y>
+  	<DR>0</DR>
+  	<Round>0</Round>
+  </Chapter>
+	<Chapter>
+		<SceneName>bed</SceneName>
+  	<Cut></Cut>
+  	<ReqKey>bed</ReqKey>
+  	<Swf>chapter_bed</Swf>
+  	<ChapterNameMain>ベッドでエッチ</ChapterNameMain>
+  	<ChapterNameSub>Bed Room</ChapterNameSub>
+  	<X>185</X>
+  	<Y>505</Y>
+  	<DR>0</DR>
+  	<Round>0</Round>
+  </Chapter>
+	<Chapter>
+		<SceneName>bed</SceneName>
+  	<Cut>liru_bed_rdyB_ST</Cut>
+  	<ReqKey>bedBack</ReqKey>
+  	<Swf>chapter_bedBack</Swf>
+  	<ChapterNameMain>ベッドでバック</ChapterNameMain>
+  	<ChapterNameSub>Bed Doggy Style</ChapterNameSub>
+  	<X>340</X>
+  	<Y>505</Y>
+  	<DR>0</DR>
+  	<Round>0</Round>
+  </Chapter>
+	<Chapter>
+		<SceneName>bed</SceneName>
+  	<Cut>liru_bed_rdyR_ST</Cut>
+  	<ReqKey>bedRide</ReqKey>
+  	<Swf>chapter_bedRide</Swf>
+  	<ChapterNameMain>ベッドで騎乗位</ChapterNameMain>
+  	<ChapterNameSub>Bed Ride</ChapterNameSub>
+  	<X>495</X>
+  	<Y>505</Y>
+  	<DR>0</DR>
+  	<Round>0</Round>
+  </Chapter>
+  <Main>
+  	<ChapterTitle>チャプターセレクト</ChapterTitle>
+  	<LabelDR>デレ度</LabelDR>
+		<LabelVoice>ボイス</LabelVoice>
+  	<LabelDsc>お風呂とベッドのシーンでは&#xD;デレ度3段階 x ボイス2種類の&#xD;合計6派ターンから選べます</LabelDsc>
+  	<Cancel>閉じる</Cancel>
+  </Main>
+  <Sub>
+  	<ChapterTitle>Seleccionar capítulo</ChapterTitle>
+  	<LabelDR>Nivel de amor</LabelDR>
+  	<LabelVoice>Voz</LabelVoice>
+  	<LabelDsc>Puedes elegir entre 3 etapas de nivel de afecto&#xD;y 2 patrones de voz. Este ajuste es solo para el&#xD;título y la escena de cama.</LabelDsc>
+  	<Cancel>Cerrar</Cancel>
+  </Sub>  
+</XmlProject>

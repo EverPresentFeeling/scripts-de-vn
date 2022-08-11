@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+
+<!-- 【サイズミックの動画を見るときは…】  -->
+
+	<cut>
+		<Name>liru_Op_talk_LP</Name>
+		<note>OPループ</note>
+		<DR>1</DR>
+		<start>1</start>
+		<span>60</span>
+		<loop>3</loop>
+		<rate>0</rate>
+		<NextScene>Title</NextScene>
+		<GetKey>op1</GetKey>
+	</cut>
+
+	<cut>
+		<Name>liru_Op_talk_LP</Name>
+		<note>OPループ</note>
+		<DR>2</DR>
+		<start>1</start>
+		<span>60</span>
+		<loop>3</loop>
+		<rate>0</rate>
+		<NextScene>Title</NextScene>
+		<GetKey>op2</GetKey>
+	</cut>
+
+	<cut>
+		<Name>liru_Op_talk_LP</Name>
+		<note>OPループ</note>
+		<DR>3</DR>
+		<start>1</start>
+		<span>60</span>
+		<loop>3</loop>
+		<rate>0</rate>
+		<NextScene>Title</NextScene>
+		<GetKey>op3</GetKey>
+	</cut>
+
+</data>

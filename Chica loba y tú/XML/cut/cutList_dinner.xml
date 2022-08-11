@@ -1,0 +1,455 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+
+	<!-- ===================== DR(デレ度):1 =====================  -->
+
+	<!-- ===== Round: =====  -->
+
+	<caption>
+		<cut>liru_Dinner_din1_ST</cut>
+		<DR>1</DR>
+		<text>本日のディナーは…</text>
+		<textSub>Hoy tenemos...</textSub>
+		<type>caption_liru</type>
+		<startTime>20</startTime>
+		<endTime>200</endTime>
+		<order>header</order>
+		<sound>liru_cnv_din_a01</sound>
+	</caption>
+
+	<caption>
+		<cut>liru_Dinner_din1_ST</cut>
+		<DR>1</DR>
+		<text>ギョウザですッ！</text>
+		<textSub>... ¡gyoza para cenar!</textSub>
+		<type>caption_liru</type>
+		<startTime>43</startTime>
+		<endTime>223</endTime>
+		<order>continue</order>
+	</caption>
+
+
+
+	<!-- ===================== sfx(効果音) =====================  -->
+
+	<sfx>
+		<note>袋を掴む</note>
+		<cut>liru_Dinner_din2_ST</cut>
+		<DR>1</DR>
+		<startTime>20</startTime>
+		<sound>liru_sfx_grabPla01</sound>
+	</sfx>
+
+	<caption>
+		<cut>liru_Dinner_din2_ST</cut>
+		<DR>1</DR>
+		<text>チルドです！</text>
+		<textSub>¡Es del congelador!</textSub>
+		<type>caption_liru</type>
+		<startTime>50</startTime>
+		<endTime>230</endTime>
+		<order>header</order>
+		<sound>liru_cnv_din_a02</sound>
+	</caption>
+
+	<caption>
+		<cut>liru_Dinner_din3_ST</cut>
+		<DR>1</DR>
+		<text>いただきまーす！！</text>
+		<textSub>¡¡Hora de comer!!</textSub>
+		<type>caption_liru</type>
+		<startTime>50</startTime>
+		<endTime>230</endTime>
+		<order>header</order>
+		<sound>liru_cnv_din_a03</sound>
+	</caption>
+
+	<caption>
+		<cut>liru_Dinner_din3_ST</cut>
+		<DR>1</DR>
+		<text>もぐもぐ…</text>
+		<textSub>Aaamgh, amgh... </textSub>
+		<type>caption_liru</type>
+		<startTime>65</startTime>
+		<endTime>245</endTime>
+		<order>continue</order>
+		<sound>liru_cnv_din_a04</sound>
+	</caption>
+
+	<caption>
+		<cut>liru_Dinner_din4_ST</cut>
+		<DR>1</DR>
+		<text>むぐぐ…</text>
+		<textSub>Mmgh...</textSub>
+		<type>caption_liru</type>
+		<startTime>10</startTime>
+		<endTime>190</endTime>
+		<order>header</order>
+		<sound>liru_cnv_din_a05</sound>
+	</caption>
+
+	<caption>
+		<cut>liru_Dinner_din4_ST</cut>
+		<DR>1</DR>
+		<text>フツゥ～の味だよね</text>
+		<textSub>Sí, no es nada especial.</textSub>
+		<type>caption_liru</type>
+		<startTime>30</startTime>
+		<endTime>210</endTime>
+		<order>continue</order>
+	</caption>
+
+	<caption>
+		<cut>liru_Dinner_din5_ST</cut>
+		<DR>1</DR>
+		<text>アタシオオカミ少女なんで…</text>
+		<textSub>Soy una chica loba, así que...</textSub>
+		<type>caption_liru</type>
+		<startTime>40</startTime>
+		<endTime>220</endTime>
+		<order>header</order>
+		<sound>liru_cnv_din_a06</sound>
+	</caption>
+
+	<caption>
+		<cut>liru_Dinner_din5_ST</cut>
+		<DR>1</DR>
+		<text>野菜とかちょっと</text>
+		<textSub>Las verduras y yo no nos llevamos bien...</textSub>
+		<type>caption_liru</type>
+		<startTime>51</startTime>
+		<endTime>231</endTime>
+		<order>continue</order>
+	</caption>
+
+
+	<!-- ===================== DR(デレ度):2 =====================  -->
+
+	<caption>
+		<cut>liru_Dinner_din1_ST</cut>
+		<DR>2</DR>
+		<text>はむ…モグモグ…んぐ…ん～</text>
+		<textSub>Gulm... amgh, amgh... gulp... ¡¡Mmmm!!</textSub>
+		<type>caption_liru</type>
+		<startTime>20</startTime>
+		<endTime>200</endTime>
+		<order>header</order>
+		<sound>liru_cnv_din_b01</sound>
+	</caption>
+
+
+
+	<!-- ===================== sfx(効果音) =====================  -->
+
+	<sfx>
+		<note>トンカツを囓る</note>
+		<cut>liru_Dinner_din1_ST</cut>
+		<DR>2</DR>
+		<startTime>22</startTime>
+		<sound>liru_sfx_biteKatsu</sound>
+	</sfx>
+
+	<caption>
+		<cut>liru_Dinner_din2_ST</cut>
+		<DR>2</DR>
+		<text>こちらは肉屋のおじさん特製のトンカツで御座います</text>
+		<textSub>Esto es carne de cerdo de primera del carnicero... </textSub>
+		<type>caption_liru</type>
+		<startTime>8</startTime>
+		<endTime>188</endTime>
+		<order>header</order>
+		<sound>liru_cnv_din_b02</sound>
+	</caption>
+
+	<caption>
+		<cut>liru_Dinner_din2_ST</cut>
+		<DR>2</DR>
+		<text>至高の一品です</text>
+		<textSub>¡Es un plato superior!</textSub>
+		<type>caption_liru</type>
+		<startTime>87</startTime>
+		<endTime>267</endTime>
+		<order>continue</order>
+	</caption>
+
+	<caption>
+		<cut>liru_Dinner_din3_ST</cut>
+		<DR>2</DR>
+		<text>ところでー！</text>
+		<textSub>Por cierto... </textSub>
+		<type>caption_liru</type>
+		<startTime>1</startTime>
+		<endTime>181</endTime>
+		<order>header</order>
+		<sound>liru_cnv_din_b03</sound>
+	</caption>
+
+	<caption>
+		<cut>liru_Dinner_din3_ST</cut>
+		<DR>2</DR>
+		<text>そのお皿で一人寂しそうにしているトンカツ…</text>
+		<textSub>... esa chuleta de cerdo en tu plato se ve muy sola... </textSub>
+		<type>caption_liru</type>
+		<startTime>38</startTime>
+		<endTime>218</endTime>
+		<order>continue</order>
+	</caption>
+
+	<caption>
+		<cut>liru_Dinner_din3_ST</cut>
+		<DR>2</DR>
+		<text>食べないの？</text>
+		<textSub>¿No te la vas a comer?</textSub>
+		<type>caption_liru</type>
+		<startTime>121</startTime>
+		<endTime>301</endTime>
+		<order>continue</order>
+	</caption>
+
+	<caption>
+		<cut>liru_Dinner_din4_ST</cut>
+		<DR>2</DR>
+		<text>いやいやー！</text>
+		<textSub>¡No, no, no!</textSub>
+		<type>caption_liru</type>
+		<startTime>10</startTime>
+		<endTime>190</endTime>
+		<order>header</order>
+		<sound>liru_cnv_din_b04</sound>
+	</caption>
+
+	<caption>
+		<cut>liru_Dinner_din4_ST</cut>
+		<DR>2</DR>
+		<text>そのトンカツはアタシに食べられたがっていると…</text>
+		<textSub>Esa chuleta está pidiendo que me la coma yo...</textSub>
+		<type>caption_liru</type>
+		<startTime>26</startTime>
+		<endTime>206</endTime>
+		<order>continue</order>
+	</caption>
+
+	<caption>
+		<cut>liru_Dinner_din4_ST</cut>
+		<DR>2</DR>
+		<text>お見受けした！</text>
+		<textSub>¡Lo sé!</textSub>
+		<type>caption_liru</type>
+		<startTime>93</startTime>
+		<endTime>273</endTime>
+		<order>continue</order>
+	</caption>
+
+	<caption>
+		<cut>liru_Dinner_din5_ST</cut>
+		<DR>2</DR>
+		<text>ちょっと言ってみただけだよぉ</text>
+		<textSub>Valía la pena intentarlo...</textSub>
+		<type>caption_liru</type>
+		<startTime>20</startTime>
+		<endTime>200</endTime>
+		<order>header</order>
+		<sound>liru_cnv_din_b05</sound>
+	</caption>
+
+
+	<!-- ===================== DR(デレ度):3 =====================  -->
+
+	<caption>
+		<cut>liru_Dinner_din1_ST</cut>
+		<DR>3</DR>
+		<text>やったぁ～っ！</text>
+		<textSub>¡¡Guaah!!</textSub>
+		<type>caption_liru</type>
+		<startTime>20</startTime>
+		<endTime>200</endTime>
+		<order>header</order>
+		<sound>liru_cnv_din_c01</sound>
+	</caption>
+
+	<caption>
+		<cut>liru_Dinner_din1_ST</cut>
+		<DR>3</DR>
+		<text>待望の松阪牛だー！！</text>
+		<textSub>¡Es carne de Matsuzaka! ¡Por fin!</textSub>
+		<type>caption_liru</type>
+		<startTime>31</startTime>
+		<endTime>211</endTime>
+		<order>continue</order>
+	</caption>
+
+
+
+	<!-- ===================== sfx(効果音) =====================  -->
+
+	<sfx>
+		<note>ステーキが焼ける音</note>
+		<cut>liru_Dinner_din1_ST</cut>
+		<DR>3</DR>
+		<startTime>1</startTime>
+		<sound>liru_sfx_stake</sound>
+	</sfx>
+
+	<caption>
+		<cut>liru_Dinner_din2_ST</cut>
+		<DR>3</DR>
+		<text>アタシは別に毎日でもいいよー！</text>
+		<textSub>¡Podría comer esto todos los días!</textSub>
+		<type>caption_liru</type>
+		<startTime>1</startTime>
+		<endTime>181</endTime>
+		<order>header</order>
+		<sound>liru_cnv_din_c02</sound>
+	</caption>
+
+	<caption>
+		<cut>liru_Dinner_din3_ST</cut>
+		<DR>3</DR>
+		<text>ではではー…早速頂きまーす！</text>
+		<textSub>¡Bien, es hora de comer!</textSub>
+		<type>caption_liru</type>
+		<startTime>10</startTime>
+		<endTime>190</endTime>
+		<order>header</order>
+		<sound>liru_cnv_din_c03</sound>
+	</caption>
+
+	<caption>
+		<cut>liru_Dinner_din3_ST</cut>
+		<DR>3</DR>
+		<text>はーむ…もぐもぐ…んぐんぐ…</text>
+		<textSub>Ahm... amgh, amgh... gulp... </textSub>
+		<type>caption_liru</type>
+		<startTime>90</startTime>
+		<endTime>270</endTime>
+		<order>continue</order>
+		<sound>liru_cnv_din_c04</sound>
+	</caption>
+
+	<caption>
+		<cut>liru_Dinner_din3_ST</cut>
+		<DR>3</DR>
+		<text>ンーッ！この口溶け！</text>
+		<textSub>¡¡Mmmm!! La forma en que se derrite en mi boca...</textSub>
+		<type>caption_liru</type>
+		<startTime>210</startTime>
+		<endTime>390</endTime>
+		<order>continue</order>
+		<sound>liru_cnv_din_c05</sound>
+	</caption>
+
+	<caption>
+		<cut>liru_Dinner_din3_ST</cut>
+		<DR>3</DR>
+		<text>コレだよコレ～！</text>
+		<textSub>¡Perfecto!</textSub>
+		<type>caption_liru</type>
+		<startTime>277</startTime>
+		<endTime>457</endTime>
+		<order>continue</order>
+	</caption>
+
+	<caption>
+		<cut>liru_Dinner_din3_ST</cut>
+		<DR>3</DR>
+		<text>しゃーわせーだなぁ…</text>
+		<textSub>Estoy en el cielo ahora mismo... </textSub>
+		<type>caption_liru</type>
+		<startTime>333</startTime>
+		<endTime>513</endTime>
+		<order>continue</order>
+	</caption>
+
+
+
+	<!-- ===================== sfx(効果音) =====================  -->
+
+	<sfx>
+		<note>テーブルを叩く音</note>
+		<cut>liru_Dinner_din3_ST</cut>
+		<DR>3</DR>
+		<startTime>250</startTime>
+		<sound>liru_sfx_tableBeat</sound>
+	</sfx>
+
+	<caption>
+		<cut>liru_Dinner_din4_ST</cut>
+		<DR>3</DR>
+		<text>えッ！？</text>
+		<textSub>¡¿Eh?!</textSub>
+		<type>caption_liru</type>
+		<startTime>30</startTime>
+		<endTime>210</endTime>
+		<order>header</order>
+		<sound>liru_cnv_din_c06</sound>
+	</caption>
+
+	<caption>
+		<cut>liru_Dinner_din4_ST</cut>
+		<DR>3</DR>
+		<text>アタシが料理？</text>
+		<textSub>¿Te refieres a la comida que hago?</textSub>
+		<type>caption_liru</type>
+		<startTime>23</startTime>
+		<endTime>203</endTime>
+		<order>continue</order>
+	</caption>
+
+	<caption>
+		<cut>liru_Dinner_din4_ST</cut>
+		<DR>3</DR>
+		<text>ダメダメ～ッ！</text>
+		<textSub>¡Ni hablar!</textSub>
+		<type>caption_liru</type>
+		<startTime>78</startTime>
+		<endTime>258</endTime>
+		<order>continue</order>
+	</caption>
+
+	<caption>
+		<cut>liru_Dinner_din5_ST</cut>
+		<DR>3</DR>
+		<text>だってほら…</text>
+		<textSub>Pero, quiero decir... </textSub>
+		<type>caption_liru</type>
+		<startTime>10</startTime>
+		<endTime>190</endTime>
+		<order>header</order>
+		<sound>liru_cnv_din_c07</sound>
+	</caption>
+
+	<caption>
+		<cut>liru_Dinner_din5_ST</cut>
+		<DR>3</DR>
+		<text>料理って柄じゃないでしょ？</text>
+		<textSub>¿Te parezco una cocinera?</textSub>
+		<type>caption_liru</type>
+		<startTime>38</startTime>
+		<endTime>218</endTime>
+		<order>continue</order>
+	</caption>
+
+	<caption>
+		<cut>liru_Dinner_din6_ST</cut>
+		<DR>3</DR>
+		<text>そぉーだよー！</text>
+		<textSub>¡¡Así es!!</textSub>
+		<type>caption_liru</type>
+		<startTime>10</startTime>
+		<endTime>190</endTime>
+		<order>header</order>
+		<sound>liru_cnv_din_c08</sound>
+	</caption>
+
+	<caption>
+		<cut>liru_Dinner_din6_ST</cut>
+		<DR>3</DR>
+		<text>アハハハーッ</text>
+		<textSub>Ja, ja, ja...</textSub>
+		<type>caption_liru</type>
+		<startTime>40</startTime>
+		<endTime>220</endTime>
+		<order>continue</order>
+	</caption>
+
+</data>

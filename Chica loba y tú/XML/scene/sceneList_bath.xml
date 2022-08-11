@@ -1,0 +1,636 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+
+<!-- 【お風呂でエッチ】  -->
+
+	<cut>
+		<Name>liru_Bath_rdy_ST</Name>
+		<note>バスルーム導入スタート</note>
+		<start>0</start>
+		<span>160</span>
+		<loop>0</loop>
+		<GetKey>bath</GetKey>
+		<LostKey>tmpBath</LostKey>
+	</cut>
+
+	<cut>
+		<Name>liru_Bath_rdy_LP</Name>
+		<note>バスルーム導入ループ</note>
+		<start>160</start>
+		<span>60</span>
+		<loop>5</loop>
+		<btn>
+			<ID>back</ID>
+			<Text>戻る</Text>
+			<Jmp>-1</Jmp>
+		</btn>
+		<btn>
+			<ID>go1</ID>
+			<Text>おっぱい！</Text>
+			<TextSub>¡¡Pechos!!</TextSub>
+			<Jmp>1</Jmp>
+		</btn>
+	</cut>
+
+	<cut>
+		<Name>liru_Bath_pet_ST</Name>
+		<note>ペッティングスタート</note>
+		<start>220</start>
+		<span>120</span>
+		<loop>0</loop>
+	</cut>
+
+	<cut>
+		<Name>liru_Bath_pet_LP</Name>
+		<note>ペッティングループ</note>
+		<start>340</start>
+		<span>60</span>
+		<loop>8</loop>
+		<btn>
+			<ID>back</ID>
+			<Text>戻る</Text>
+			<Jmp>-3</Jmp>
+		</btn>
+		<btn>
+			<ID>go2</ID>
+			<Text>もう我慢出来ない！_お尻こっちに向けて！</Text>
+			<TextSub>¡No más Sr. Buen Tipo! ¡Muéstrame ese trasero!</TextSub>
+			<NextCut>liru_Bath_sexRdy_ST</NextCut>
+			<ReqKey>dinner2</ReqKey>
+		</btn>
+		<btn>
+			<ID>go1</ID>
+			<Text>リルのお手々で_シュッシュしてほしい</Text>
+			<TextSub>Liru, ¡acaríciame_con tu mano!</TextSub>
+			<Jmp>1</Jmp>
+		</btn>
+	</cut>
+
+	<cut>
+		<Name>liru_Bath_tkk1_ST</Name>
+		<note>手コキ準備スタート</note>
+		<start>400</start>
+		<span>140</span>
+		<loop>0</loop>
+	</cut>
+
+	<cut>
+		<Name>liru_Bath_tkk1_LP</Name>
+		<note>手コキ準備ループ</note>
+		<start>540</start>
+		<span>40</span>
+		<loop>20</loop>
+		<btn>
+			<ID>back</ID>
+			<Text>戻る</Text>
+			<Jmp>-3</Jmp>
+		</btn>
+		<btn>
+			<ID>go1</ID>
+			<Text>こりゃぁ…たまらん</Text>
+			<TextSub>Esto es... ¡genial!</TextSub>
+			<Jmp>1</Jmp>
+		</btn>
+	</cut>
+
+	<cut>
+		<Name>liru_Bath_tkk2_ST</Name>
+		<note>手コキピストンスタート</note>
+		<start>580</start>
+		<span>80</span>
+		<loop>0</loop>
+	</cut>
+
+	<cut>
+		<Name>liru_Bath_tkk2_LP</Name>
+		<note>手コキピストンループ</note>
+		<start>660</start>
+		<span>60</span>
+		<loop>30</loop>
+		<rate>0.8</rate>
+		<btn>
+			<ID>back</ID>
+			<Text>戻る</Text>
+			<Jmp>-2</Jmp>
+		</btn>
+		<btn>
+			<ID>go2</ID>
+			<Text>おっぱいで挟んで！</Text>
+			<TextSub>¡Apriétalo entre tus pechos!</TextSub>
+			<NextCut>liru_Bath_paiPst1_ST</NextCut>
+			<ReqKey>dinner1</ReqKey>
+		</btn>
+		<btn>
+			<ID>go1</ID>
+			<Text>リルのお口でして！</Text>
+			<TextSub>¡Chúpame el pene!</TextSub>
+			<Jmp>1</Jmp>
+		</btn>
+	</cut>
+
+	<cut>
+		<Name>liru_Bath_fela1_ST</Name>
+		<note>フェラピストン1スタート</note>
+		<start>720</start>
+		<span>160</span>
+		<loop>0</loop>
+	</cut>
+
+	<cut>
+		<Name>liru_Bath_fela1_LP</Name>
+		<note>フェラピストン1ループ</note>
+		<start>880</start>
+		<span>40</span>
+		<loop>25</loop>
+		<btn>
+			<ID>back</ID>
+			<Text>戻る</Text>
+			<Jmp>-3</Jmp>
+		</btn>
+		<btn>
+			<ID>go1</ID>
+			<Text>口の中エロいよ</Text>
+			<TextSub>¡Tu boca se siente muy bien!</TextSub>
+			<Jmp>1</Jmp>
+		</btn>
+	</cut>
+
+	<cut>
+		<Name>liru_Bath_fela2_ST</Name>
+		<note>フェラピストン2スタート</note>
+		<start>920</start>
+		<span>50</span>
+		<loop>0</loop>
+	</cut>
+
+	<cut>
+		<Name>liru_Bath_fela2_LP</Name>
+		<note>フェラピストン2ループ</note>
+		<start>970</start>
+		<span>40</span>
+		<loop>30</loop>
+		<btn>
+			<ID>back</ID>
+			<Text>戻る</Text>
+			<Jmp>-3</Jmp>
+		</btn>
+		<btn>
+			<ID>go1</ID>
+			<Text>そろそろ出そうだ！</Text>
+			<TextSub>¡Estoy a punto de correrme!</TextSub>
+			<Jmp>1</Jmp>
+		</btn>
+	</cut>
+
+	<cut>
+		<Name>liru_Bath_felaFin_ST</Name>
+		<note>フェラフィニッシュスタート</note>
+		<start>1010</start>
+		<span>210</span>
+		<loop>0</loop>
+	</cut>
+
+	<cut>
+		<Name>liru_Bath_felaFin_LP</Name>
+		<note>フェラフィニッシュループ</note>
+		<start>1220</start>
+		<span>40</span>
+		<loop>8</loop>
+		<btn>
+			<ID>back</ID>
+			<Text>戻る</Text>
+			<Jmp>-3</Jmp>
+		</btn>
+		<btn>
+			<ID>go1</ID>
+			<Text>いっぱい出ちゃった…</Text>
+			<TextSub>Me he corrido mucho...</TextSub>
+			<Jmp>1</Jmp>
+			<GetKey>bathFela</GetKey>
+		</btn>
+	</cut>
+
+	<cut>
+		<Name>liru_Bath_felaAft_ST</Name>
+		<note>フェラ事後スタート</note>
+		<start>1260</start>
+		<span>120</span>
+		<loop>0</loop>
+	</cut>
+
+	<cut>
+		<Name>liru_Bath_felaAft_LP</Name>
+		<note>フェラ事後ループ</note>
+		<start>1380</start>
+		<span>40</span>
+		<loop>10</loop>
+		<btn>
+			<ID>back</ID>
+			<Text>戻る</Text>
+			<Jmp>-3</Jmp>
+		</btn>
+		<btn>
+			<ID>go1</ID>
+			<Text>汁出し過ぎて_お腹減った！</Text>
+			<TextSub>¡Me he corrido tanto que me ha dado hambre!</TextSub>
+			<Jmp>1</Jmp>
+			<ReqKey>tmpDinner</ReqKey>
+		</btn>
+		<btn>
+			<ID>go2</ID>
+			<Text>今度はベッドで_リルリルしたい！</Text>
+			<TextSub>¡Quiero hacerlo en la cama después!</TextSub>
+			<Jmp>2</Jmp>
+		</btn>
+	</cut>
+
+	<cut>
+		<Name>liru_Bath_felaDinner_LP</Name>
+		<note>ごはん</note>
+		<start>1380</start>
+		<span>40</span>
+		<loop>0</loop>
+		<NextScene>dinner</NextScene>
+	</cut>
+
+	<cut>
+		<Name>liru_Bath_felaBedr_LP</Name>
+		<note>ベッド</note>
+		<start>1380</start>
+		<span>40</span>
+		<loop>0</loop>
+		<NextScene>bed</NextScene>
+	</cut>
+
+	<cut>
+		<Name>liru_Bath_paiPst1_ST</Name>
+		<note>パイズリピストン1スタート</note>
+		<start>1420</start>
+		<span>165</span>
+		<loop>0</loop>
+	</cut>
+
+	<cut>
+		<Name>liru_Bath_paiPst1_LP</Name>
+		<note>パイズリピストン1ループ</note>
+		<start>1585</start>
+		<span>60</span>
+		<loop>25</loop>
+		<btn>
+			<ID>back</ID>
+			<Text>戻る</Text>
+			<NextCut>liru_Bath_tkk2_LP</NextCut>
+		</btn>
+		<btn>
+			<ID>go1</ID>
+			<Text>おっぱいおっぱい！_もっと…おっぱい！</Text>
+			<TextSub>¡¡Pechos!! ¡¡Más pechos!!</TextSub>
+			<Jmp>1</Jmp>
+		</btn>
+	</cut>
+
+	<cut>
+		<Name>liru_Bath_paiPst2_ST</Name>
+		<note>パイズリピストン2スタート</note>
+		<start>1645</start>
+		<span>90</span>
+		<loop>0</loop>
+	</cut>
+
+	<cut>
+		<Name>liru_Bath_paiPst2_LP</Name>
+		<note>パイズリピストン2ループ</note>
+		<start>1735</start>
+		<span>30</span>
+		<loop>30</loop>
+		<btn>
+			<ID>back</ID>
+			<Text>戻る</Text>
+			<Jmp>-3</Jmp>
+		</btn>
+		<btn>
+			<ID>go1</ID>
+			<Text>あぁリルのおっぱい！_おっぱいぃぃ！！</Text>
+			<TextSub>¡¡Aah!! ¡¡Los pechos de Liru!!</TextSub>
+			<Jmp>1</Jmp>
+			<GetKey>bathPai</GetKey>
+		</btn>
+	</cut>
+
+	<cut>
+		<Name>liru_Bath_paiFin_ST</Name>
+		<note>パイズリフィニッシュ</note>
+		<start>1765</start>
+		<span>225</span>
+		<loop>0</loop>
+	</cut>
+
+	<cut>
+		<Name>liru_Bath_paiFin_LP</Name>
+		<note>パイズリフィニッシュ</note>
+		<start>1990</start>
+		<span>40</span>
+		<loop>8</loop>
+		<btn>
+			<ID>back</ID>
+			<Text>戻る</Text>
+			<Jmp>-3</Jmp>
+		</btn>
+		<btn>
+			<ID>go1</ID>
+			<Text>今日もいっぱい_出してしまった…</Text>
+			<TextSub>Hoy, también... Lo haremos mucho, Liru...</TextSub>
+			<Jmp>1</Jmp>
+			<GetKey>bathPai</GetKey>
+		</btn>
+	</cut>
+
+	<cut>
+		<Name>liru_Bath_paiAft_ST</Name>
+		<note>パイズリ事後</note>
+		<start>2030</start>
+		<span>140</span>
+		<loop>0</loop>
+	</cut>
+
+	<cut>
+		<Name>liru_Bath_paiAft_LP</Name>
+		<note>パイズリ事後</note>
+		<start>2170</start>
+		<span>40</span>
+		<loop>10</loop>
+		<btn>
+			<ID>back</ID>
+			<Text>戻る</Text>
+			<Jmp>-3</Jmp>
+		</btn>
+		<btn>
+			<ID>go1</ID>
+			<Text>おっぱい見てたら_お腹減った！</Text>
+			<TextSub>¡Mirar tus pechos me ha dado hambre!</TextSub>
+			<Jmp>1</Jmp>
+			<ReqKey>tmpDinner</ReqKey>
+		</btn>
+		<btn>
+			<ID>go2</ID>
+			<Text>この続きは_ベッドでしよっか</Text>
+			<TextSub>Continuemos esto en la cama...</TextSub>
+			<Jmp>2</Jmp>
+		</btn>
+	</cut>
+
+	<cut>
+		<Name>liru_Bath_paiDinner_LP</Name>
+		<note>ごはん</note>
+		<start>2170</start>
+		<span>40</span>
+		<loop>0</loop>
+		<NextScene>dinner</NextScene>
+	</cut>
+
+	<cut>
+		<Name>liru_Bath_paiBed_LP</Name>
+		<note>ベッド</note>
+		<start>2170</start>
+		<span>40</span>
+		<loop>0</loop>
+		<NextScene>bed</NextScene>
+	</cut>
+
+	<cut>
+		<Name>liru_Bath_sexRdy_ST</Name>
+		<note>導入スタート</note>
+		<start>2210</start>
+		<span>150</span>
+		<loop>0</loop>
+	</cut>
+
+	<cut>
+		<Name>liru_Bath_sexRdy_LP</Name>
+		<note>導入ループ</note>
+		<start>2360</start>
+		<span>60</span>
+		<loop>3</loop>
+		<btn>
+			<ID>back</ID>
+			<Text>戻る</Text>
+			<NextCut>liru_Bath_pet_LP</NextCut>
+		</btn>
+		<btn>
+			<ID>go1</ID>
+			<Text>入れちゃうぞ！</Text>
+			<TextSub>¡Voy a entrar!</TextSub>
+			<Jmp>1</Jmp>
+		</btn>
+	</cut>
+
+	<cut>
+		<Name>liru_Bath_sexIns_ST</Name>
+		<note>挿入スタート</note>
+		<start>2420</start>
+		<span>260</span>
+		<loop>0</loop>
+	</cut>
+
+	<cut>
+		<Name>liru_Bath_sexIns_LP</Name>
+		<note>挿入ループ</note>
+		<start>2680</start>
+		<span>40</span>
+		<loop>8</loop>
+		<btn>
+			<ID>back</ID>
+			<Text>戻る</Text>
+			<Jmp>-3</Jmp>
+		</btn>
+		<btn>
+			<ID>go1</ID>
+			<Text>リルの膣内…_お風呂より温かい</Text>
+			<TextSub>¡Estás más caliente que_la bañera por dentro, Liru!</TextSub>
+			<Jmp>1</Jmp>
+		</btn>
+	</cut>
+
+	<cut>
+		<Name>liru_Bath_sexPst1_ST</Name>
+		<note>ピストン1スタート</note>
+		<start>2720</start>
+		<span>30</span>
+		<loop>0</loop>
+	</cut>
+
+	<cut>
+		<Name>liru_Bath_sexPst1_LP</Name>
+		<note>ピストン1ループ</note>
+		<start>2750</start>
+		<span>30</span>
+		<loop>25</loop>
+		<btn>
+			<ID>back</ID>
+			<Text>戻る</Text>
+			<Jmp>-3</Jmp>
+		</btn>
+		<btn>
+			<ID>go1</ID>
+			<Text>ゆっくりピストン_気持ちいいよ</Text>
+			<TextSub>Me gusta la forma_en que te mueves...</TextSub>
+			<Jmp>1</Jmp>
+		</btn>
+	</cut>
+
+	<cut>
+		<Name>liru_Bath_sexPst2_ST</Name>
+		<note>ピストン2スタート</note>
+		<start>2780</start>
+		<span>30</span>
+		<loop>0</loop>
+	</cut>
+
+	<cut>
+		<Name>liru_Bath_sexPst2_LP</Name>
+		<note>ピストン2ループ</note>
+		<start>2810</start>
+		<span>30</span>
+		<loop>40</loop>
+		<btn>
+			<ID>back</ID>
+			<Text>戻る</Text>
+			<Jmp>-3</Jmp>
+		</btn>
+		<btn>
+			<ID>go1</ID>
+			<Text>はぁはぁ…_リルのお尻たまらん</Text>
+			<TextSub>¡Tienes un gran trasero, Liru!</TextSub>
+			<Jmp>1</Jmp>
+		</btn>
+	</cut>
+
+	<cut>
+		<Name>liru_Bath_sexPst3_ST</Name>
+		<note>ピストン3スタート</note>
+		<start>2840</start>
+		<span>30</span>
+		<loop>0</loop>
+	</cut>
+
+	<cut>
+		<Name>liru_Bath_sexPst3_LP</Name>
+		<note>ピストン3ループ</note>
+		<start>2870</start>
+		<span>30</span>
+		<loop>60</loop>
+		<btn>
+			<ID>back</ID>
+			<Text>戻る</Text>
+			<Jmp>-3</Jmp>
+		</btn>
+		<btn>
+			<ID>go1</ID>
+			<Text>そろそろ膣内にッ！</Text>
+			<TextSub>¡Me voy a correr dentro de ti!</TextSub>
+			<Jmp>1</Jmp>
+			<GetKey>bathSex</GetKey>
+		</btn>
+	</cut>
+
+	<cut>
+		<Name>liru_Bath_sexFin_ST</Name>
+		<note>中出しスタート</note>
+		<start>2900</start>
+		<span>180</span>
+		<loop>0</loop>
+	</cut>
+
+	<cut>
+		<Name>liru_Bath_sexFin_LP</Name>
+		<note>中出しループ</note>
+		<start>3080</start>
+		<span>40</span>
+		<loop>8</loop>
+		<btn>
+			<ID>back</ID>
+			<Text>戻る</Text>
+			<Jmp>-3</Jmp>
+		</btn>
+		<btn>
+			<ID>go1</ID>
+			<Text>めちゃくちゃ出た！</Text>
+			<TextSub>Unggh... ¡Me he corrido mucho!</TextSub>
+			<Jmp>1</Jmp>
+		</btn>
+	</cut>
+
+	<cut>
+		<Name>liru_Bath_sexpull_ST</Name>
+		<note>チンコ抜きスタート</note>
+		<start>3120</start>
+		<span>210</span>
+		<loop>0</loop>
+	</cut>
+
+	<cut>
+		<Name>liru_Bath_sexpull_LP</Name>
+		<note>チンコ抜きループ</note>
+		<start>3330</start>
+		<span>40</span>
+		<loop>2</loop>
+		<NextCut>liru_Bath_sexAft_ST</NextCut>
+	</cut>
+
+	<cut>
+		<Name>liru_Bath_sexAft_ST</Name>
+		<note>事後スタート</note>
+		<start>3370</start>
+		<span>160</span>
+		<loop>0</loop>
+	</cut>
+
+	<cut>
+		<Name>liru_Bath_sexAft_LP</Name>
+		<note>事後ループ</note>
+		<start>3530</start>
+		<span>40</span>
+		<loop>10</loop>
+		<btn>
+			<ID>back</ID>
+			<Text>戻る</Text>
+			<NextCut>liru_Bath_sexFin_ST</NextCut>
+		</btn>
+		<btn>
+			<ID>go1</ID>
+			<Text>運動しすぎて_お腹が減った！</Text>
+			<TextSub>¡Todo ese ejercicio_me ha dado hambre!</TextSub>
+			<Jmp>1</Jmp>
+			<ReqKey>tmpDinner</ReqKey>
+			<x>1030</x>
+			<y>100</y>
+		</btn>
+		<btn>
+			<ID>go2</ID>
+			<Text>夜はまだまだ_これからなんだぜ？</Text>
+			<TextSub>¡La noche aún es joven, Liru!</TextSub>
+			<Jmp>2</Jmp>
+			<x>1000</x>
+			<y>220</y>
+		</btn>
+	</cut>
+
+	<cut>
+		<Name>liru_Bath_sexDinner_LP</Name>
+		<note>ごはん</note>
+		<start>3530</start>
+		<span>40</span>
+		<loop>0</loop>
+		<NextScene>dinner</NextScene>
+	</cut>
+
+	<cut>
+		<Name>liru_Bath_sexBed_LP</Name>
+		<note>ベッド</note>
+		<start>3530</start>
+		<span>40</span>
+		<loop>0</loop>
+		<NextScene>bed</NextScene>
+	</cut>
+
+</data>

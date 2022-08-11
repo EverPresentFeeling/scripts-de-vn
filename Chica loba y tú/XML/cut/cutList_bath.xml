@@ -1,0 +1,5491 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+
+
+	<!-- ===================== sfx(効果音) =====================  -->
+
+	<sfx>
+		<note>射精1</note>
+		<cut>liru_Bath_felaFin_ST</cut>
+		<startTime>40</startTime>
+		<sound>liru_sfx_fin1</sound>
+	</sfx>
+
+	<sfx>
+		<note>射精2</note>
+		<cut>liru_Bath_felaFin_ST</cut>
+		<startTime>62</startTime>
+		<sound>liru_sfx_fin2</sound>
+	</sfx>
+
+	<sfx>
+		<note>射精3</note>
+		<cut>liru_Bath_felaFin_ST</cut>
+		<startTime>80</startTime>
+		<sound>liru_sfx_fin3</sound>
+	</sfx>
+
+	<sfx>
+		<note>射精4</note>
+		<cut>liru_Bath_felaFin_ST</cut>
+		<startTime>101</startTime>
+		<sound>liru_sfx_fin4</sound>
+	</sfx>
+
+	<sfx>
+		<note>射精5</note>
+		<cut>liru_Bath_felaFin_ST</cut>
+		<startTime>122</startTime>
+		<sound>liru_sfx_fin1</sound>
+	</sfx>
+
+	<sfx>
+		<note>パイズリ音2</note>
+		<cut>liru_Bath_paiFin_ST</cut>
+		<startTime>1</startTime>
+		<endTime>34</endTime>
+		<sound>liru_sfx_pai20f</sound>
+	</sfx>
+
+	<sfx>
+		<note>射精1</note>
+		<cut>liru_Bath_paiFin_ST</cut>
+		<startTime>35</startTime>
+		<sound>liru_sfx_fin1</sound>
+	</sfx>
+
+	<sfx>
+		<note>射精2</note>
+		<cut>liru_Bath_paiFin_ST</cut>
+		<startTime>57</startTime>
+		<sound>liru_sfx_fin2</sound>
+	</sfx>
+
+	<sfx>
+		<note>射精3</note>
+		<cut>liru_Bath_paiFin_ST</cut>
+		<startTime>75</startTime>
+		<sound>liru_sfx_fin3</sound>
+	</sfx>
+
+	<sfx>
+		<note>射精4</note>
+		<cut>liru_Bath_paiFin_ST</cut>
+		<startTime>96</startTime>
+		<sound>liru_sfx_fin4</sound>
+	</sfx>
+
+	<sfx>
+		<note>射精5</note>
+		<cut>liru_Bath_paiFin_ST</cut>
+		<startTime>118</startTime>
+		<sound>liru_sfx_fin1</sound>
+	</sfx>
+
+	<sfx>
+		<note>パイズリ音1</note>
+		<cut>liru_Bath_paiPst1_LP</cut>
+		<startTime>1</startTime>
+		<loop>999</loop>
+		<sound>liru_sfx_pai15f</sound>
+	</sfx>
+
+	<sfx>
+		<note>パイズリ音1</note>
+		<cut>liru_Bath_paiPst1_ST</cut>
+		<startTime>145</startTime>
+		<sound>liru_sfx_pai15f</sound>
+	</sfx>
+
+	<sfx>
+		<note>パイズリ音2</note>
+		<cut>liru_Bath_paiPst2_LP</cut>
+		<startTime>1</startTime>
+		<loop>999</loop>
+		<sound>liru_sfx_pai20f</sound>
+	</sfx>
+
+	<sfx>
+		<note>パイズリ音1</note>
+		<cut>liru_Bath_paiPst2_ST</cut>
+		<startTime>1</startTime>
+		<endTime>60</endTime>
+		<sound>liru_sfx_pai15f</sound>
+	</sfx>
+
+	<sfx>
+		<note>パイズリ音2</note>
+		<cut>liru_Bath_paiPst2_ST</cut>
+		<startTime>70</startTime>
+		<sound>liru_sfx_pai20f</sound>
+	</sfx>
+
+	<sfx>
+		<note>水チャプ1</note>
+		<cut>liru_Bath_rdy_ST</cut>
+		<startTime>25</startTime>
+		<sound>liru_sfx_water_chap2</sound>
+	</sfx>
+
+	<sfx>
+		<note>水チャプ2</note>
+		<cut>liru_Bath_rdy_ST</cut>
+		<startTime>95</startTime>
+		<sound>liru_sfx_water_chap1</sound>
+	</sfx>
+
+	<sfx>
+		<note>射精1</note>
+		<cut>liru_Bath_sexFin_ST</cut>
+		<startTime>42</startTime>
+		<sound>liru_sfx_fin1</sound>
+	</sfx>
+
+	<sfx>
+		<note>射精2</note>
+		<cut>liru_Bath_sexFin_ST</cut>
+		<startTime>63</startTime>
+		<sound>liru_sfx_fin2</sound>
+	</sfx>
+
+	<sfx>
+		<note>射精3</note>
+		<cut>liru_Bath_sexFin_ST</cut>
+		<startTime>82</startTime>
+		<sound>liru_sfx_fin3</sound>
+	</sfx>
+
+	<sfx>
+		<note>射精4</note>
+		<cut>liru_Bath_sexFin_ST</cut>
+		<startTime>103</startTime>
+		<sound>liru_sfx_fin4</sound>
+	</sfx>
+
+	<sfx>
+		<note>射精5</note>
+		<cut>liru_Bath_sexFin_ST</cut>
+		<startTime>125</startTime>
+		<sound>liru_sfx_fin1</sound>
+	</sfx>
+
+	<sfx>
+		<cut>liru_Bath_sexPst1_LP</cut>
+		<startTime>5</startTime>
+		<loop>999</loop>
+		<sound>liru_sfx_pst30f</sound>
+	</sfx>
+
+	<sfx>
+		<cut>liru_Bath_sexPst1_ST</cut>
+		<startTime>5</startTime>
+		<loop>999</loop>
+		<sound>liru_sfx_pst30f</sound>
+	</sfx>
+
+	<sfx>
+		<cut>liru_Bath_sexPst2_LP</cut>
+		<startTime>3</startTime>
+		<loop>999</loop>
+		<sound>liru_sfx_pst15f</sound>
+	</sfx>
+
+	<sfx>
+		<cut>liru_Bath_sexPst2_ST</cut>
+		<startTime>3</startTime>
+		<loop>999</loop>
+		<sound>liru_sfx_pst15f</sound>
+	</sfx>
+
+	<sfx>
+		<cut>liru_Bath_sexPst3_LP</cut>
+		<startTime>2</startTime>
+		<loop>999</loop>
+		<sound>liru_sfx_pst10f</sound>
+	</sfx>
+
+	<sfx>
+		<cut>liru_Bath_sexPst3_ST</cut>
+		<startTime>2</startTime>
+		<loop>999</loop>
+		<sound>liru_sfx_pst10f</sound>
+	</sfx>
+
+	<sfx>
+		<cut>liru_Bath_sexpull_ST</cut>
+		<startTime>33</startTime>
+		<sound>liru_sfx_pull48f</sound>
+	</sfx>
+
+	<sfx>
+		<note>手コキ音</note>
+		<cut>liru_Bath_tkk1_LP</cut>
+		<startTime>1</startTime>
+		<loop>999</loop>
+		<sound>liru_sfx_tkk60f</sound>
+	</sfx>
+
+	<sfx>
+		<note>水の音</note>
+		<cut>liru_Bath_tkk1_ST</cut>
+		<startTime>30</startTime>
+		<sound>liru_sfx_water_zbn3</sound>
+	</sfx>
+
+	<sfx>
+		<note>手コキ音</note>
+		<cut>liru_Bath_tkk1_ST</cut>
+		<startTime>140</startTime>
+		<sound>liru_sfx_tkk60f</sound>
+	</sfx>
+
+	<sfx>
+		<note>手コキ音</note>
+		<cut>liru_Bath_tkk2_LP</cut>
+		<startTime>1</startTime>
+		<loop>999</loop>
+		<sound>liru_sfx_tkk30f</sound>
+	</sfx>
+
+	<sfx>
+		<note>手コキ音</note>
+		<cut>liru_Bath_tkk2_ST</cut>
+		<startTime>70</startTime>
+		<sound>liru_sfx_tkk30f</sound>
+	</sfx>
+
+
+	<!-- ===================== DR(デレ度):1 =====================  -->
+
+	<!-- ===== Round:1 =====  -->
+
+	<caption>
+		<cut>liru_Bath_fela1_ST</cut>
+		<DR>1</DR>
+		<Round>1</Round>
+		<text>えっ…口でして欲しいの…？</text>
+		<textSub>¿Eh? ¿Quieres que use mi boca?</textSub>
+		<type>caption_liru</type>
+		<startTime>0</startTime>
+		<endTime>180</endTime>
+		<order>header</order>
+		<sound>liru_fela_pstA_ST_a01</sound>
+	</caption>
+
+	<caption>
+		<cut>liru_Bath_fela1_ST</cut>
+		<DR>1</DR>
+		<Round>1</Round>
+		<text>よぉ～し…は～むっ</text>
+		<textSub>Bien... aaahm...</textSub>
+		<type>caption_liru</type>
+		<startTime>72</startTime>
+		<endTime>252</endTime>
+		<order>continue</order>
+	</caption>
+
+	<caption>
+		<cut>liru_Bath_fela1_ST</cut>
+		<DR>1</DR>
+		<Round>1</Round>
+		<text>んっんっ…ぺろ…れろ…んっ</text>
+		<textSub>Mmmmgh... slrp... slrp... mmm...</textSub>
+		<type>caption_liru</type>
+		<startTime>165</startTime>
+		<endTime>345</endTime>
+		<order>continue</order>
+		<loop>999</loop>
+		<Lip>1</Lip>
+		<sound>liru_fela_pstA_LP_a01</sound>
+	</caption>
+
+	<!-- ===== Round:2 =====  -->
+
+	<caption>
+		<cut>liru_Bath_fela1_ST</cut>
+		<DR>1</DR>
+		<Round>2</Round>
+		<text>ねねっ…口でしたげよっか？</text>
+		<textSub>Oye... ¿quieres una mamada?</textSub>
+		<type>caption_liru</type>
+		<startTime>0</startTime>
+		<endTime>180</endTime>
+		<order>header</order>
+		<sound>liru_fela_pstA_ST_a02</sound>
+	</caption>
+
+	<caption>
+		<cut>liru_Bath_fela1_ST</cut>
+		<DR>1</DR>
+		<Round>2</Round>
+		<text>あ～むっ</text>
+		<textSub>Aaahm...</textSub>
+		<type>caption_liru</type>
+		<startTime>119</startTime>
+		<endTime>299</endTime>
+		<order>continue</order>
+	</caption>
+
+	<caption>
+		<cut>liru_Bath_fela1_ST</cut>
+		<DR>1</DR>
+		<Round>2</Round>
+		<text>んっんっ…ぺろ…れろ…んっ</text>
+		<textSub>Mmmmgh... slrp... slrp... mmm...</textSub>
+		<type>caption_liru</type>
+		<startTime>165</startTime>
+		<endTime>345</endTime>
+		<order>continue</order>
+		<loop>999</loop>
+		<Lip>1</Lip>
+		<sound>liru_fela_pstA_LP_a01</sound>
+	</caption>
+
+	<!-- ===== Round: =====  -->
+
+	<caption>
+		<cut>liru_Bath_fela2_LP</cut>
+		<DR>1</DR>
+		<text>んっんっじゅる</text>
+		<textSub>Mmmm, slrrrp...</textSub>
+		<type>caption_liru</type>
+		<startTime>1</startTime>
+		<endTime>181</endTime>
+		<order>header</order>
+		<loop>999</loop>
+		<sound>liru_fela_pstB_LP_a01</sound>
+	</caption>
+
+	<!-- ===== Round:1 =====  -->
+
+	<caption>
+		<cut>liru_Bath_felaAft_ST</cut>
+		<DR>1</DR>
+		<Round>1</Round>
+		<text>こういうの…</text>
+		<textSub>Me pregunto si todas las chicas tragan... </textSub>
+		<type>caption_liru</type>
+		<startTime>1</startTime>
+		<endTime>181</endTime>
+		<order>header</order>
+		<sound>liru_fela_fin_LP_a01</sound>
+	</caption>
+
+	<caption>
+		<cut>liru_Bath_felaAft_ST</cut>
+		<DR>1</DR>
+		<Round>1</Round>
+		<text>女の子はみんな飲んでるのかなぁ</text>
+		<type>caption_liru</type>
+		<startTime>30</startTime>
+		<endTime>210</endTime>
+		<order>continue</order>
+	</caption>
+
+	<caption>
+		<cut>liru_Bath_felaAft_ST</cut>
+		<DR>1</DR>
+		<Round>1</Round>
+		<text>オマエのだから 飲んでやるんだからな！</text>
+		<textSub>Me lo tragaré, ¡pero solo porque eres tú!</textSub>
+		<type>caption_liru</type>
+		<startTime>102</startTime>
+		<endTime>282</endTime>
+		<order>continue</order>
+		<Lip>0.1</Lip>
+	</caption>
+
+	<!-- ===== Round:2 =====  -->
+
+	<caption>
+		<cut>liru_Bath_felaAft_ST</cut>
+		<DR>1</DR>
+		<Round>2</Round>
+		<text>相変わらず凄い量だなぁ</text>
+		<textSub>Siempre me sorprende lo mucho que se llega a... </textSub>
+		<type>caption_liru</type>
+		<startTime>28</startTime>
+		<endTime>208</endTime>
+		<order>header</order>
+		<sound>liru_fela_fin_LP_a02</sound>
+	</caption>
+
+	<caption>
+		<cut>liru_Bath_felaAft_ST</cut>
+		<DR>1</DR>
+		<Round>2</Round>
+		<text>流石に飲みきれないっつーのッ！</text>
+		<textSub>¡No puedo tragármelo todo!</textSub>
+		<type>caption_liru</type>
+		<startTime>79</startTime>
+		<endTime>259</endTime>
+		<order>continue</order>
+	</caption>
+
+	<!-- ===== Round: =====  -->
+
+	<caption>
+		<cut>liru_Bath_felaFin_ST</cut>
+		<DR>1</DR>
+		<text>んーっ…んっ…むっ…んんー！！</text>
+		<textSub>¡Mmmm... mmm... mmm... mmmmmgh!</textSub>
+		<type>caption_liru</type>
+		<startTime>1</startTime>
+		<endTime>181</endTime>
+		<order>header</order>
+		<sound>liru_fela_fin_ST_a01</sound>
+	</caption>
+
+	<caption>
+		<cut>liru_Bath_felaFin_ST</cut>
+		<DR>1</DR>
+		<text>ぷはッ！！</text>
+		<textSub>¡¡Puah!!</textSub>
+		<type>caption_liru</type>
+		<startTime>171</startTime>
+		<endTime>351</endTime>
+		<order>continue</order>
+		<Lip>1</Lip>
+	</caption>
+
+	<caption>
+		<cut>liru_Bath_felaFin_ST</cut>
+		<DR>1</DR>
+		<text>ハァ…ハァ…</text>
+		<textSub>Aah... aaah...</textSub>
+		<type>caption_liru</type>
+		<startTime>220</startTime>
+		<endTime>400</endTime>
+		<order>continue</order>
+		<loop>999</loop>
+		<Lip>1</Lip>
+		<sound>liru_breathH_LP_a01</sound>
+	</caption>
+
+	<!-- ===== Round:1 =====  -->
+
+	<caption>
+		<cut>liru_Bath_paiAft_ST</cut>
+		<DR>1</DR>
+		<Round>1</Round>
+		<text>アタシに不意打ちとは…なかなかやるなッ！</text>
+		<textSub>Me has tomado por sorpresa... ¡No está mal! </textSub>
+		<type>caption_liru</type>
+		<startTime>10</startTime>
+		<endTime>190</endTime>
+		<order>header</order>
+		<sound>liru_pai_fin_LP_a01</sound>
+	</caption>
+
+	<caption>
+		<cut>liru_Bath_paiAft_ST</cut>
+		<DR>1</DR>
+		<Round>1</Round>
+		<text>でーも！</text>
+		<textSub>Pero... </textSub>
+		<type>caption_liru</type>
+		<startTime>109</startTime>
+		<endTime>289</endTime>
+		<order>continue</order>
+	</caption>
+
+	<caption>
+		<cut>liru_Bath_paiAft_ST</cut>
+		<DR>1</DR>
+		<Round>1</Round>
+		<text>次出すときは、先に言ってくれよな！</text>
+		<textSub>¡Quiero que me avises la próxima vez que vayas a correrte!</textSub>
+		<type>caption_liru</type>
+		<startTime>151</startTime>
+		<endTime>331</endTime>
+		<order>continue</order>
+	</caption>
+
+	<!-- ===== Round:2 =====  -->
+
+	<caption>
+		<cut>liru_Bath_paiAft_ST</cut>
+		<DR>1</DR>
+		<Round>2</Round>
+		<text>ハァ～！</text>
+		<textSub>Aaah...</textSub>
+		<type>caption_liru</type>
+		<startTime>1</startTime>
+		<endTime>181</endTime>
+		<order>header</order>
+		<Lip>0.5</Lip>
+		<sound>liru_pai_fin_LP_a02</sound>
+	</caption>
+
+	<caption>
+		<cut>liru_Bath_paiAft_ST</cut>
+		<DR>1</DR>
+		<Round>2</Round>
+		<text>凄い勢いだったなぁ…</text>
+		<textSub>Eso fue intenso... </textSub>
+		<type>caption_liru</type>
+		<startTime>29</startTime>
+		<endTime>209</endTime>
+		<order>continue</order>
+	</caption>
+
+	<caption>
+		<cut>liru_Bath_paiAft_ST</cut>
+		<DR>1</DR>
+		<Round>2</Round>
+		<text>そ～んなに気持ちよかった？…</text>
+		<textSub>¿Fue tan bueno para ti? </textSub>
+		<type>caption_liru</type>
+		<startTime>91</startTime>
+		<endTime>271</endTime>
+		<order>continue</order>
+	</caption>
+
+	<caption>
+		<cut>liru_Bath_paiAft_ST</cut>
+		<DR>1</DR>
+		<Round>2</Round>
+		<text>フフンッ</text>
+		<textSub>Je, je.</textSub>
+		<type>caption_liru</type>
+		<startTime>150</startTime>
+		<endTime>330</endTime>
+		<order>continue</order>
+		<Lip>1</Lip>
+	</caption>
+
+	<!-- ===== Round:1 =====  -->
+
+	<caption>
+		<cut>liru_Bath_paiFin_ST</cut>
+		<DR>1</DR>
+		<Round>1</Round>
+		<text>おわッと…ンンッ！</text>
+		<textSub>Ups... guau... </textSub>
+		<type>caption_liru</type>
+		<startTime>30</startTime>
+		<endTime>210</endTime>
+		<order>header</order>
+		<Lip>0.6</Lip>
+		<sound>liru_pai_fin_ST_a01</sound>
+	</caption>
+
+	<caption>
+		<cut>liru_Bath_paiFin_ST</cut>
+		<DR>1</DR>
+		<Round>1</Round>
+		<text>凄い量 出てるぅ</text>
+		<textSub>Está saliendo mucho...</textSub>
+		<type>caption_liru</type>
+		<startTime>51</startTime>
+		<endTime>231</endTime>
+		<order>continue</order>
+		<Lip>0</Lip>
+	</caption>
+
+	<caption>
+		<cut>liru_Bath_paiFin_ST</cut>
+		<DR>1</DR>
+		<Round>1</Round>
+		<text>アンッ…ンッ</text>
+		<textSub>Ahnn... mmm...</textSub>
+		<type>caption_liru</type>
+		<startTime>112</startTime>
+		<endTime>292</endTime>
+		<order>continue</order>
+		<Lip>1</Lip>
+	</caption>
+
+	<caption>
+		<cut>liru_Bath_paiFin_ST</cut>
+		<DR>1</DR>
+		<Round>1</Round>
+		<text>ハァ…ハァ…</text>
+		<textSub>Aaah... aaah...</textSub>
+		<type>caption_liru</type>
+		<startTime>187</startTime>
+		<endTime>200</endTime>
+		<order>continue</order>
+		<loop>999</loop>
+		<Lip>1</Lip>
+		<sound>liru_breathL_LP_a01</sound>
+	</caption>
+
+	<!-- ===== Round:2 =====  -->
+
+	<caption>
+		<cut>liru_Bath_paiFin_ST</cut>
+		<DR>1</DR>
+		<Round>2</Round>
+		<text>ワッ…キャッ…ンンッ…</text>
+		<textSub>Guau... Yeek... mmm... </textSub>
+		<type>caption_liru</type>
+		<startTime>30</startTime>
+		<endTime>210</endTime>
+		<order>header</order>
+		<Lip>0.6</Lip>
+		<sound>liru_pai_fin_ST_a02</sound>
+	</caption>
+
+	<caption>
+		<cut>liru_Bath_paiFin_ST</cut>
+		<DR>1</DR>
+		<Round>2</Round>
+		<text>アンッ…ッハァン</text>
+		<textSub>Ahn... aaaahn...</textSub>
+		<type>caption_liru</type>
+		<startTime>64</startTime>
+		<endTime>244</endTime>
+		<order>continue</order>
+	</caption>
+
+	<caption>
+		<cut>liru_Bath_paiFin_ST</cut>
+		<DR>1</DR>
+		<Round>2</Round>
+		<text>ハァ…ハァ…</text>
+		<textSub>Aaah... aaah...</textSub>
+		<type>caption_liru</type>
+		<startTime>94</startTime>
+		<endTime>274</endTime>
+		<order>continue</order>
+		<Lip>1</Lip>
+	</caption>
+
+	<!-- ===== Round:1 =====  -->
+
+	<caption>
+		<cut>liru_Bath_paiPst1_ST</cut>
+		<DR>1</DR>
+		<Round>1</Round>
+		<text>さっきからおっぱいばっか見て…</text>
+		<textSub>Has estado mirando mis pechos todo el tiempo... </textSub>
+		<type>caption_liru</type>
+		<startTime>10</startTime>
+		<endTime>190</endTime>
+		<order>header</order>
+		<sound>liru_pai_pstA_ST_a01</sound>
+	</caption>
+
+	<caption>
+		<cut>liru_Bath_paiPst1_ST</cut>
+		<DR>1</DR>
+		<Round>1</Round>
+		<text>こうして欲しいんだろ？</text>
+		<textSub>¿Quieres que lo haga así? </textSub>
+		<type>caption_liru</type>
+		<startTime>64</startTime>
+		<endTime>244</endTime>
+		<order>continue</order>
+	</caption>
+
+	<caption>
+		<cut>liru_Bath_paiPst1_ST</cut>
+		<DR>1</DR>
+		<Round>1</Round>
+		<text>ほれほれ～</text>
+		<textSub>Allí...</textSub>
+		<type>caption_liru</type>
+		<startTime>134</startTime>
+		<endTime>314</endTime>
+		<order>continue</order>
+	</caption>
+
+	<caption>
+		<cut>liru_Bath_paiPst1_ST</cut>
+		<DR>1</DR>
+		<Round>1</Round>
+		<text>ンショ…ハァッ…ハァ…ンッ…</text>
+		<textSub>Mmph... aaah... aaah... mmm...</textSub>
+		<type>caption_liru</type>
+		<startTime>180</startTime>
+		<endTime>360</endTime>
+		<order>continue</order>
+		<loop>999</loop>
+		<Lip>0.9</Lip>
+		<sound>liru_pai_pstA_LP_a01</sound>
+	</caption>
+
+	<!-- ===== Round:2 =====  -->
+
+	<caption>
+		<cut>liru_Bath_paiPst1_ST</cut>
+		<DR>1</DR>
+		<Round>2</Round>
+		<text>こういうのって、気持ちいいの？</text>
+		<textSub>¿Se siente bien?</textSub>
+		<type>caption_liru</type>
+		<startTime>20</startTime>
+		<endTime>200</endTime>
+		<order>header</order>
+		<sound>liru_pai_pstA_ST_a02</sound>
+	</caption>
+
+	<caption>
+		<cut>liru_Bath_paiPst1_ST</cut>
+		<DR>1</DR>
+		<Round>2</Round>
+		<text>むにっと！</text>
+		<textSub>Aquí va...</textSub>
+		<type>caption_liru</type>
+		<startTime>90</startTime>
+		<endTime>270</endTime>
+		<order>continue</order>
+	</caption>
+
+	<caption>
+		<cut>liru_Bath_paiPst1_ST</cut>
+		<DR>1</DR>
+		<Round>2</Round>
+		<text>うまく出来たらいいけど</text>
+		<textSub>Espero estar haciéndolo bien... </textSub>
+		<type>caption_liru</type>
+		<startTime>130</startTime>
+		<endTime>310</endTime>
+		<order>continue</order>
+	</caption>
+
+	<caption>
+		<cut>liru_Bath_paiPst1_ST</cut>
+		<DR>1</DR>
+		<Round>2</Round>
+		<text>ンショ…ハァッ…ハァ…ンッ…</text>
+		<textSub>Mmph... aaah... aaah... mmm...</textSub>
+		<type>caption_liru</type>
+		<startTime>200</startTime>
+		<endTime>380</endTime>
+		<order>continue</order>
+		<loop>999</loop>
+		<Lip>1</Lip>
+		<sound>liru_pai_pstA_LP_a01</sound>
+	</caption>
+
+	<!-- ===== Round:1 =====  -->
+
+	<caption>
+		<cut>liru_Bath_paiPst2_ST</cut>
+		<DR>1</DR>
+		<Round>1</Round>
+		<text>エッ…もっと激しく？</text>
+		<textSub>¿Eh? ¿Quieres que lo haga más fuerte?</textSub>
+		<type>caption_liru</type>
+		<startTime>10</startTime>
+		<endTime>190</endTime>
+		<order>header</order>
+		<sound>liru_pai_pstB_ST_a01</sound>
+	</caption>
+
+	<caption>
+		<cut>liru_Bath_paiPst2_ST</cut>
+		<DR>1</DR>
+		<Round>1</Round>
+		<text>こんな感じかな…ッと</text>
+		<textSub>Quieres decir, ¿cómo esto...?</textSub>
+		<type>caption_liru</type>
+		<startTime>73</startTime>
+		<endTime>253</endTime>
+		<order>continue</order>
+	</caption>
+
+	<caption>
+		<cut>liru_Bath_paiPst2_ST</cut>
+		<DR>1</DR>
+		<Round>1</Round>
+		<text>ハァッ…ハッ…ハァッ…ンッ…</text>
+		<textSub>Aaah... aaah... aaah... mmm... </textSub>
+		<type>caption_liru</type>
+		<startTime>145</startTime>
+		<endTime>325</endTime>
+		<order>continue</order>
+		<loop>999</loop>
+		<Lip>1</Lip>
+		<sound>liru_pai_pstB_LP_a01</sound>
+	</caption>
+
+	<!-- ===== Round:2 =====  -->
+
+	<caption>
+		<cut>liru_Bath_paiPst2_ST</cut>
+		<DR>1</DR>
+		<Round>2</Round>
+		<text>あれ…気持ちよくなってきた？</text>
+		<textSub>¿Eh? ¿Se siente bien? </textSub>
+		<type>caption_liru</type>
+		<startTime>10</startTime>
+		<endTime>190</endTime>
+		<order>header</order>
+		<sound>liru_pai_pstB_ST_a02</sound>
+	</caption>
+
+	<caption>
+		<cut>liru_Bath_paiPst2_ST</cut>
+		<DR>1</DR>
+		<Round>2</Round>
+		<text>じゃあもうチョット強くしちゃおう</text>
+		<textSub>De acuerdo, ¡intentaré hacerlo un poco más fuerte entonces!</textSub>
+		<type>caption_liru</type>
+		<startTime>91</startTime>
+		<endTime>271</endTime>
+		<order>continue</order>
+	</caption>
+
+	<caption>
+		<cut>liru_Bath_paiPst2_ST</cut>
+		<DR>1</DR>
+		<Round>2</Round>
+		<text>ハァッ…ハッ…ハァッ…ンッ…</text>
+		<textSub>Aaah... aaah... aaah... mmm... </textSub>
+		<type>caption_liru</type>
+		<startTime>168</startTime>
+		<endTime>348</endTime>
+		<order>continue</order>
+		<loop>999</loop>
+		<Lip>1</Lip>
+		<sound>liru_pai_pstB_LP_a01</sound>
+	</caption>
+
+	<!-- ===== Round:1 =====  -->
+
+	<caption>
+		<cut>liru_Bath_pet_ST</cut>
+		<DR>1</DR>
+		<Round>1</Round>
+		<text>ヒャッ！</text>
+		<textSub>¡Yeek!</textSub>
+		<type>caption_liru</type>
+		<startTime>30</startTime>
+		<endTime>210</endTime>
+		<order>header</order>
+		<Lip>1</Lip>
+		<sound>liru_bath_pet_ST_a01</sound>
+	</caption>
+
+	<caption>
+		<cut>liru_Bath_pet_ST</cut>
+		<DR>1</DR>
+		<Round>1</Round>
+		<text>おやおや…</text>
+		<textSub>Oh, señor cliente...</textSub>
+		<type>caption_liru</type>
+		<startTime>28</startTime>
+		<endTime>208</endTime>
+		<order>continue</order>
+	</caption>
+
+	<caption>
+		<cut>liru_Bath_pet_ST</cut>
+		<DR>1</DR>
+		<Round>1</Round>
+		<text>お客さんもしかして溜まってますね？</text>
+		<textSub>¿Estamos un poco reprimidos hoy?</textSub>
+		<type>caption_liru</type>
+		<startTime>58</startTime>
+		<endTime>238</endTime>
+		<order>continue</order>
+	</caption>
+
+	<!-- ===== Round:2 =====  -->
+
+	<caption>
+		<cut>liru_Bath_pet_ST</cut>
+		<DR>1</DR>
+		<Round>2</Round>
+		<text>ア～ァンッ！</text>
+		<textSub>¡Ahn!</textSub>
+		<type>caption_liru</type>
+		<startTime>30</startTime>
+		<endTime>210</endTime>
+		<order>header</order>
+		<Lip>1</Lip>
+		<sound>liru_bath_pet_ST_a02</sound>
+	</caption>
+
+	<caption>
+		<cut>liru_Bath_pet_ST</cut>
+		<DR>1</DR>
+		<Round>2</Round>
+		<text>あらら～ん？</text>
+		<textSub>Oh, sí... </textSub>
+		<type>caption_liru</type>
+		<startTime>35</startTime>
+		<endTime>215</endTime>
+		<order>continue</order>
+		<Lip>0.02</Lip>
+	</caption>
+
+	<caption>
+		<cut>liru_Bath_pet_ST</cut>
+		<DR>1</DR>
+		<Round>2</Round>
+		<text>あたしの光るつや肌に、もしかして欲情しちゃった？</text>
+		<textSub>¿Te emocionaste con mi brillante piel?</textSub>
+		<type>caption_liru</type>
+		<startTime>70</startTime>
+		<endTime>250</endTime>
+		<order>continue</order>
+		<Lip>0.02</Lip>
+	</caption>
+
+	<!-- ===== Round:1 =====  -->
+
+	<caption>
+		<cut>liru_Bath_rdy_ST</cut>
+		<DR>1</DR>
+		<Round>1</Round>
+		<text>いやぁ～ 風呂はイイねぇ～</text>
+		<textSub>Aaaah... Me encanta tomar un baño...</textSub>
+		<type>caption_liru</type>
+		<startTime>30</startTime>
+		<endTime>210</endTime>
+		<order>header</order>
+		<sound>liru_bath_rdy_ST_a01</sound>
+	</caption>
+
+	<caption>
+		<cut>liru_Bath_rdy_ST</cut>
+		<DR>1</DR>
+		<Round>1</Round>
+		<text>心が洗われるねぇ～</text>
+		<textSub>Limpia el alma...</textSub>
+		<type>caption_liru</type>
+		<startTime>78</startTime>
+		<endTime>258</endTime>
+		<order>continue</order>
+	</caption>
+
+	<!-- ===== Round:2 =====  -->
+
+	<caption>
+		<cut>liru_Bath_rdy_ST</cut>
+		<DR>1</DR>
+		<Round>2</Round>
+		<text>湯加減はど～ぉ？</text>
+		<textSub>¿Cómo está la temperatura?</textSub>
+		<type>caption_liru</type>
+		<startTime>36</startTime>
+		<endTime>216</endTime>
+		<order>header</order>
+		<sound>liru_bath_rdy_ST_a02</sound>
+	</caption>
+
+	<caption>
+		<cut>liru_Bath_rdy_ST</cut>
+		<DR>1</DR>
+		<Round>2</Round>
+		<text>アタシはもぅすこし熱くても大丈夫だけど</text>
+		<textSub>A mí me gusta un poco más caliente...</textSub>
+		<type>caption_liru</type>
+		<startTime>64</startTime>
+		<endTime>244</endTime>
+		<order>continue</order>
+	</caption>
+
+	<!-- ===== Round:1 =====  -->
+
+	<caption>
+		<cut>liru_Bath_sexAft_ST</cut>
+		<DR>1</DR>
+		<Round>1</Round>
+		<text>こんなに出してくれたってことは…</text>
+		<textSub>Teniendo en cuenta lo mucho que te has corrido... </textSub>
+		<type>caption_liru</type>
+		<startTime>15</startTime>
+		<endTime>195</endTime>
+		<order>header</order>
+		<sound>liru_sex_finActND_LP_a01</sound>
+	</caption>
+
+	<caption>
+		<cut>liru_Bath_sexAft_ST</cut>
+		<DR>1</DR>
+		<Round>1</Round>
+		<text>いっぱい感じてくれたって事だよな！</text>
+		<textSub>... seguro que lo has disfrutado mucho. </textSub>
+		<type>caption_liru</type>
+		<startTime>57</startTime>
+		<endTime>237</endTime>
+		<order>continue</order>
+	</caption>
+
+	<caption>
+		<cut>liru_Bath_sexAft_ST</cut>
+		<DR>1</DR>
+		<Round>1</Round>
+		<text>よかったぁ～</text>
+		<textSub>Me alegro...</textSub>
+		<type>caption_liru</type>
+		<startTime>149</startTime>
+		<endTime>329</endTime>
+		<order>continue</order>
+	</caption>
+
+	<!-- ===== Round:2 =====  -->
+
+	<caption>
+		<cut>liru_Bath_sexAft_ST</cut>
+		<DR>1</DR>
+		<Round>2</Round>
+		<text>アタシのテクニックも…</text>
+		<textSub>Apuesto a que mi técnica no es tan mala, ¿verdad? </textSub>
+		<type>caption_liru</type>
+		<startTime>40</startTime>
+		<endTime>220</endTime>
+		<order>header</order>
+		<sound>liru_sex_finActND_LP_a02</sound>
+	</caption>
+
+	<caption>
+		<cut>liru_Bath_sexAft_ST</cut>
+		<DR>1</DR>
+		<Round>2</Round>
+		<text>まんざらじゃないだろッ？</text>
+		<type>caption_liru</type>
+		<startTime>47</startTime>
+		<endTime>227</endTime>
+		<order>continue</order>
+	</caption>
+
+	<caption>
+		<cut>liru_Bath_sexAft_ST</cut>
+		<DR>1</DR>
+		<Round>2</Round>
+		<text>ふふんッ</text>
+		<textSub>Je, je.</textSub>
+		<type>caption_liru</type>
+		<startTime>90</startTime>
+		<endTime>270</endTime>
+		<order>continue</order>
+	</caption>
+
+	<!-- ===== Round:1 =====  -->
+
+	<caption>
+		<cut>liru_Bath_sexFin_ST</cut>
+		<DR>1</DR>
+		<Round>1</Round>
+		<text>ハァ…ハァ…ンァアッ！</text>
+		<textSub>Aaah... aaah... naah... </textSub>
+		<type>caption_liru</type>
+		<startTime>1</startTime>
+		<endTime>181</endTime>
+		<order>header</order>
+		<Lip>1</Lip>
+		<sound>liru_sex_finActND_ST_a01</sound>
+	</caption>
+
+	<caption>
+		<cut>liru_Bath_sexFin_ST</cut>
+		<DR>1</DR>
+		<Round>1</Round>
+		<text>出てるぅ…</text>
+		<textSub>Está saliendo... </textSub>
+		<type>caption_liru</type>
+		<startTime>56</startTime>
+		<endTime>236</endTime>
+		<order>continue</order>
+	</caption>
+
+	<caption>
+		<cut>liru_Bath_sexFin_ST</cut>
+		<DR>1</DR>
+		<Round>1</Round>
+		<text>膣内でおちんちん 暴れてるぅッ</text>
+		<textSub>Tu pene se está volviendo loco dentro de mí... </textSub>
+		<type>caption_liru</type>
+		<startTime>82</startTime>
+		<endTime>262</endTime>
+		<order>continue</order>
+	</caption>
+
+	<caption>
+		<cut>liru_Bath_sexFin_ST</cut>
+		<DR>1</DR>
+		<Round>1</Round>
+		<text>ハァ…ハァ…</text>
+		<textSub>Aaah... aaah...</textSub>
+		<type>caption_liru</type>
+		<startTime>181</startTime>
+		<endTime>361</endTime>
+		<order>continue</order>
+		<loop>999</loop>
+		<Lip>1</Lip>
+		<sound>liru_breathH_LP_a01</sound>
+	</caption>
+
+	<!-- ===== Round:2 =====  -->
+
+	<caption>
+		<cut>liru_Bath_sexFin_ST</cut>
+		<DR>1</DR>
+		<Round>2</Round>
+		<text>ハァハァ…アアッ…アンッ！</text>
+		<textSub>¡Aaah... aaah... aah... ahnnn!</textSub>
+		<type>caption_liru</type>
+		<startTime>1</startTime>
+		<endTime>181</endTime>
+		<order>header</order>
+		<Lip>1</Lip>
+		<sound>liru_sex_finActND_ST_a02</sound>
+	</caption>
+
+	<caption>
+		<cut>liru_Bath_sexFin_ST</cut>
+		<DR>1</DR>
+		<Round>2</Round>
+		<text>アタシの中に…</text>
+		<textSub>Algo caliente... está fluyendo dentro de mí... </textSub>
+		<type>caption_liru</type>
+		<startTime>66</startTime>
+		<endTime>246</endTime>
+		<order>continue</order>
+	</caption>
+
+	<caption>
+		<cut>liru_Bath_sexFin_ST</cut>
+		<DR>1</DR>
+		<Round>2</Round>
+		<text>熱いの…流れ込んでくるぅ…</text>
+		<type>caption_liru</type>
+		<startTime>95</startTime>
+		<endTime>275</endTime>
+		<order>continue</order>
+	</caption>
+
+	<caption>
+		<cut>liru_Bath_sexFin_ST</cut>
+		<DR>1</DR>
+		<Round>2</Round>
+		<text>ハァ…ハァ…</text>
+		<textSub>Aaah... aaah...</textSub>
+		<type>caption_liru</type>
+		<startTime>168</startTime>
+		<endTime>348</endTime>
+		<order>continue</order>
+		<loop>999</loop>
+		<Lip>1</Lip>
+		<sound>liru_breathH_LP_a01</sound>
+	</caption>
+
+	<!-- ===== Round:1 =====  -->
+
+	<caption>
+		<cut>liru_Bath_sexIns_ST</cut>
+		<DR>1</DR>
+		<Round>1</Round>
+		<text>ゆっくり 入れるからな…</text>
+		<textSub>Voy a... meterlo despacio... </textSub>
+		<type>caption_liru</type>
+		<startTime>1</startTime>
+		<endTime>181</endTime>
+		<order>header</order>
+		<sound>liru_sex_insAct_ST_a01</sound>
+	</caption>
+
+	<caption>
+		<cut>liru_Bath_sexIns_ST</cut>
+		<DR>1</DR>
+		<Round>1</Round>
+		<text>ン～ンンッ…ンッ！</text>
+		<textSub>Mmm... ¡Aaaaahn!</textSub>
+		<type>caption_liru</type>
+		<startTime>152</startTime>
+		<endTime>332</endTime>
+		<order>continue</order>
+		<Lip>1</Lip>
+	</caption>
+
+	<caption>
+		<cut>liru_Bath_sexIns_ST</cut>
+		<DR>1</DR>
+		<Round>1</Round>
+		<text>ハァ…ハァ…</text>
+		<textSub>Aaah... aaah...</textSub>
+		<type>caption_liru</type>
+		<startTime>236</startTime>
+		<endTime>416</endTime>
+		<order>continue</order>
+		<Lip>1</Lip>
+	</caption>
+
+	<caption>
+		<cut>liru_Bath_sexIns_ST</cut>
+		<DR>1</DR>
+		<Round>1</Round>
+		<text>いっきに奥まで入っちゃった</text>
+		<textSub>Entró suave como la mantequilla... </textSub>
+		<type>caption_liru</type>
+		<startTime>342</startTime>
+		<endTime>522</endTime>
+		<order>continue</order>
+		<sound>liru_sex_insAct_LP_a01</sound>
+	</caption>
+
+	<caption>
+		<cut>liru_Bath_sexIns_ST</cut>
+		<DR>1</DR>
+		<Round>1</Round>
+		<text>結構 濡れてたみたいッ</text>
+		<textSub>¡Creo que estoy muy mojada...!</textSub>
+		<type>caption_liru</type>
+		<startTime>416</startTime>
+		<endTime>596</endTime>
+		<order>continue</order>
+	</caption>
+
+	<caption>
+		<cut>liru_Bath_sexIns_ST</cut>
+		<DR>1</DR>
+		<Round>1</Round>
+		<text>エヘヘッ</text>
+		<textSub>Je, je.</textSub>
+		<type>caption_liru</type>
+		<startTime>479</startTime>
+		<endTime>659</endTime>
+		<order>continue</order>
+	</caption>
+
+	<!-- ===== Round:2 =====  -->
+
+	<caption>
+		<cut>liru_Bath_sexIns_ST</cut>
+		<DR>1</DR>
+		<Round>2</Round>
+		<text>相変わらず…</text>
+		<textSub>Sigo olvidando... </textSub>
+		<type>caption_liru</type>
+		<startTime>45</startTime>
+		<endTime>225</endTime>
+		<order>header</order>
+		<sound>liru_sex_InsBath_ST_a02</sound>
+	</caption>
+
+	<caption>
+		<cut>liru_Bath_sexIns_ST</cut>
+		<DR>1</DR>
+		<Round>2</Round>
+		<text>太いんだからッ</text>
+		<textSub>... lo grande que es... </textSub>
+		<type>caption_liru</type>
+		<startTime>44</startTime>
+		<endTime>224</endTime>
+		<order>continue</order>
+	</caption>
+
+	<caption>
+		<cut>liru_Bath_sexIns_ST</cut>
+		<DR>1</DR>
+		<Round>2</Round>
+		<text>ンンーッ…アッ…アンッ</text>
+		<textSub>Mmmm... ¡Ahn!</textSub>
+		<type>caption_liru</type>
+		<startTime>103</startTime>
+		<endTime>283</endTime>
+		<order>continue</order>
+		<Lip>1</Lip>
+	</caption>
+
+	<caption>
+		<cut>liru_Bath_sexIns_ST</cut>
+		<DR>1</DR>
+		<Round>2</Round>
+		<text>ハァ…ハァ…</text>
+		<textSub>Aaah... aaah...</textSub>
+		<type>caption_liru</type>
+		<startTime>179</startTime>
+		<endTime>359</endTime>
+		<order>continue</order>
+		<Lip>1</Lip>
+	</caption>
+
+	<caption>
+		<cut>liru_Bath_sexIns_ST</cut>
+		<DR>1</DR>
+		<Round>2</Round>
+		<text>ずいぶんすんなり入る様になったなぁ</text>
+		<textSub>Entró sin más... </textSub>
+		<type>caption_liru</type>
+		<startTime>266</startTime>
+		<endTime>446</endTime>
+		<order>continue</order>
+		<sound>liru_sex_insAct_LP_a02</sound>
+	</caption>
+
+	<caption>
+		<cut>liru_Bath_sexIns_ST</cut>
+		<DR>1</DR>
+		<Round>2</Round>
+		<text>アタシ達って体の相性バッチリ？</text>
+		<textSub>Me pregunto si nuestros cuerpos hacen buena pareja. </textSub>
+		<type>caption_liru</type>
+		<startTime>347</startTime>
+		<endTime>527</endTime>
+		<order>continue</order>
+	</caption>
+
+	<caption>
+		<cut>liru_Bath_sexIns_ST</cut>
+		<DR>1</DR>
+		<Round>2</Round>
+		<text>ウフフッ</text>
+		<textSub>Je, je.</textSub>
+		<type>caption_liru</type>
+		<startTime>436</startTime>
+		<endTime>616</endTime>
+		<order>continue</order>
+		<Lip>1</Lip>
+	</caption>
+
+	<!-- ===== Round:1 =====  -->
+
+	<caption>
+		<cut>liru_Bath_sexPst1_ST</cut>
+		<DR>1</DR>
+		<Round>1</Round>
+		<text>ほ～らッ…力抜いて～</text>
+		<textSub>Vamos... relájate... </textSub>
+		<type>caption_liru</type>
+		<startTime>10</startTime>
+		<endTime>190</endTime>
+		<order>header</order>
+		<sound>liru_sex_pstActA_ST_a01</sound>
+	</caption>
+
+	<caption>
+		<cut>liru_Bath_sexPst1_ST</cut>
+		<DR>1</DR>
+		<Round>1</Round>
+		<text>最初はゆっくり シてあげるからッ</text>
+		<textSub>Tomémoslo con calma la primera vez...</textSub>
+		<type>caption_liru</type>
+		<startTime>101</startTime>
+		<endTime>281</endTime>
+		<order>continue</order>
+	</caption>
+
+	<caption>
+		<cut>liru_Bath_sexPst1_ST</cut>
+		<DR>1</DR>
+		<Round>1</Round>
+		<text>んッ…んッ…んん…んッ…</text>
+		<textSub>Mmm... mmm... mmmmh... mmm... </textSub>
+		<type>caption_liru</type>
+		<startTime>190</startTime>
+		<endTime>370</endTime>
+		<order>continue</order>
+		<loop>999</loop>
+		<Lip>1</Lip>
+		<sound>liru_sex_pstActA_LP_a01</sound>
+	</caption>
+
+	<!-- ===== Round:2 =====  -->
+
+	<caption>
+		<cut>liru_Bath_sexPst1_ST</cut>
+		<DR>1</DR>
+		<Round>2</Round>
+		<text>んっしょっと…</text>
+		<textSub>Umph... </textSub>
+		<type>caption_liru</type>
+		<startTime>10</startTime>
+		<endTime>190</endTime>
+		<order>header</order>
+		<sound>liru_sex_pstActA_ST_a02</sound>
+	</caption>
+
+	<caption>
+		<cut>liru_Bath_sexPst1_ST</cut>
+		<DR>1</DR>
+		<Round>2</Round>
+		<text>こんな感じで 気持ちいい？</text>
+		<textSub>¿Se siente bien?  </textSub>
+		<type>caption_liru</type>
+		<startTime>94</startTime>
+		<endTime>274</endTime>
+		<order>continue</order>
+	</caption>
+
+	<caption>
+		<cut>liru_Bath_sexPst1_ST</cut>
+		<DR>1</DR>
+		<Round>2</Round>
+		<text>ほ～ら ほら～ッ</text>
+		<textSub>Allí, y allí...</textSub>
+		<type>caption_liru</type>
+		<startTime>216</startTime>
+		<endTime>396</endTime>
+		<order>continue</order>
+	</caption>
+
+	<caption>
+		<cut>liru_Bath_sexPst1_ST</cut>
+		<DR>1</DR>
+		<Round>2</Round>
+		<text>んッ…んッ…んん…んッ…</text>
+		<textSub>Mmm... mmm... mmmmh... mmm... </textSub>
+		<type>caption_liru</type>
+		<startTime>275</startTime>
+		<endTime>455</endTime>
+		<order>continue</order>
+		<loop>999</loop>
+		<Lip>1</Lip>
+		<sound>liru_sex_pstActA_LP_a01</sound>
+	</caption>
+
+	<!-- ===== Round:1 =====  -->
+
+	<caption>
+		<cut>liru_Bath_sexPst2_ST</cut>
+		<DR>1</DR>
+		<Round>1</Round>
+		<text>もうちょっと早くしてほしい？</text>
+		<textSub>¿Quieres que vaya un poco más rápido? </textSub>
+		<type>caption_liru</type>
+		<startTime>1</startTime>
+		<endTime>181</endTime>
+		<order>header</order>
+		<sound>liru_sex_pstActB_ST_a01</sound>
+	</caption>
+
+	<caption>
+		<cut>liru_Bath_sexPst2_ST</cut>
+		<DR>1</DR>
+		<Round>1</Round>
+		<text>こんな感じでどぉ？</text>
+		<textSub>¿Qué tal? </textSub>
+		<type>caption_liru</type>
+		<startTime>136</startTime>
+		<endTime>316</endTime>
+		<order>continue</order>
+	</caption>
+
+	<caption>
+		<cut>liru_Bath_sexPst2_ST</cut>
+		<DR>1</DR>
+		<Round>1</Round>
+		<text>ンンッ…ンッショ…</text>
+		<textSub>Mmm... mpph... </textSub>
+		<type>caption_liru</type>
+		<startTime>192</startTime>
+		<endTime>372</endTime>
+		<order>continue</order>
+		<Lip>1</Lip>
+	</caption>
+
+	<caption>
+		<cut>liru_Bath_sexPst2_ST</cut>
+		<DR>1</DR>
+		<Round>1</Round>
+		<text>んッ…んッ…うッ…んんッ…あん…</text>
+		<textSub>Mmm... mmm... ungh... mmm... ahn... </textSub>
+		<type>caption_liru</type>
+		<startTime>320</startTime>
+		<endTime>500</endTime>
+		<order>continue</order>
+		<loop>999</loop>
+		<Lip>1</Lip>
+		<sound>liru_sex_pstActB_LP_a01</sound>
+	</caption>
+
+	<!-- ===== Round:2 =====  -->
+
+	<caption>
+		<cut>liru_Bath_sexPst2_ST</cut>
+		<DR>1</DR>
+		<Round>2</Round>
+		<text>ほらほら～ッ！</text>
+		<textSub>¡Vamos!</textSub>
+		<type>caption_liru</type>
+		<startTime>1</startTime>
+		<endTime>181</endTime>
+		<order>header</order>
+		<sound>liru_sex_pstActB_ST_a02</sound>
+	</caption>
+
+	<caption>
+		<cut>liru_Bath_sexPst2_ST</cut>
+		<DR>1</DR>
+		<Round>2</Round>
+		<text>無理しないで…ンッ</text>
+		<textSub>No te presiones... mmm... </textSub>
+		<type>caption_liru</type>
+		<startTime>74</startTime>
+		<endTime>254</endTime>
+		<order>continue</order>
+	</caption>
+
+	<caption>
+		<cut>liru_Bath_sexPst2_ST</cut>
+		<DR>1</DR>
+		<Round>2</Round>
+		<text>出したくなったら 男らしくドピュッと出しちゃえッ！</text>
+		<textSub>Si quieres correrte, ¡sé un hombre y suéltalo todo!</textSub>
+		<type>caption_liru</type>
+		<startTime>155</startTime>
+		<endTime>335</endTime>
+		<order>continue</order>
+	</caption>
+
+	<caption>
+		<cut>liru_Bath_sexPst2_ST</cut>
+		<DR>1</DR>
+		<Round>2</Round>
+		<text>んッ…んッ…うッ…んんッ…あん…</text>
+		<textSub>Mmm... mmm... ungh... mmm... ahn... </textSub>
+		<type>caption_liru</type>
+		<startTime>270</startTime>
+		<endTime>450</endTime>
+		<order>continue</order>
+		<loop>999</loop>
+		<Lip>1</Lip>
+		<sound>liru_sex_pstActB_LP_a01</sound>
+	</caption>
+
+	<!-- ===== Round:1 =====  -->
+
+	<caption>
+		<cut>liru_Bath_sexPst3_ST</cut>
+		<DR>1</DR>
+		<Round>1</Round>
+		<text>アンッ…ンッ…ンッ</text>
+		<textSub>Ahn... mmm... mmm...</textSub>
+		<type>caption_liru</type>
+		<startTime>0</startTime>
+		<endTime>180</endTime>
+		<order>header</order>
+		<Lip>1</Lip>
+		<sound>liru_sex_pstActC_ST_a01</sound>
+	</caption>
+
+	<caption>
+		<cut>liru_Bath_sexPst3_ST</cut>
+		<DR>1</DR>
+		<Round>1</Round>
+		<text>膣内…気持ちよすぎて</text>
+		<textSub>Se siente demasiado bien por dentro... </textSub>
+		<type>caption_liru</type>
+		<startTime>57</startTime>
+		<endTime>237</endTime>
+		<order>continue</order>
+	</caption>
+
+	<caption>
+		<cut>liru_Bath_sexPst3_ST</cut>
+		<DR>1</DR>
+		<Round>1</Round>
+		<text>止まんないのォ</text>
+		<textSub>No puedo parar... </textSub>
+		<type>caption_liru</type>
+		<startTime>137</startTime>
+		<endTime>317</endTime>
+		<order>continue</order>
+	</caption>
+
+	<caption>
+		<cut>liru_Bath_sexPst3_ST</cut>
+		<DR>1</DR>
+		<Round>1</Round>
+		<text>んッ…やッ…んッ…んんッ…あん…</text>
+		<textSub>Mmm... ooh... mmm... mmm... ahn... </textSub>
+		<type>caption_liru</type>
+		<startTime>182</startTime>
+		<endTime>362</endTime>
+		<order>continue</order>
+		<loop>999</loop>
+		<Lip>1</Lip>
+		<sound>liru_sex_pstActC_LP_a01</sound>
+	</caption>
+
+	<!-- ===== Round:2 =====  -->
+
+	<caption>
+		<cut>liru_Bath_sexPst3_ST</cut>
+		<DR>1</DR>
+		<Round>2</Round>
+		<text>ンッ…ンンッ…ンッ…やだッ</text>
+		<textSub>Mm... mmm... mm... Oh, no...</textSub>
+		<type>caption_liru</type>
+		<startTime>1</startTime>
+		<endTime>181</endTime>
+		<order>header</order>
+		<Lip>1</Lip>
+		<sound>liru_sex_pstActC_ST_a02</sound>
+	</caption>
+
+	<caption>
+		<cut>liru_Bath_sexPst3_ST</cut>
+		<DR>1</DR>
+		<Round>2</Round>
+		<text>どんどん気持ちよくなって来ちゃう</text>
+		<textSub>Cada vez se siente mejor...</textSub>
+		<type>caption_liru</type>
+		<startTime>80</startTime>
+		<endTime>260</endTime>
+		<order>continue</order>
+	</caption>
+
+	<caption>
+		<cut>liru_Bath_sexPst3_ST</cut>
+		<DR>1</DR>
+		<Round>2</Round>
+		<text>ねぇ…そろそろイきそう？</text>
+		<textSub>Oye... ¿ya estás listo para correrte?</textSub>
+		<type>caption_liru</type>
+		<startTime>181</startTime>
+		<endTime>361</endTime>
+		<order>continue</order>
+	</caption>
+
+	<caption>
+		<cut>liru_Bath_sexPst3_ST</cut>
+		<DR>1</DR>
+		<Round>2</Round>
+		<text>んッ…やッ…んッ…んんッ…あん…</text>
+		<textSub>Mmm... ooh... mmm... mmm... ahn... </textSub>
+		<type>caption_liru</type>
+		<startTime>275</startTime>
+		<endTime>455</endTime>
+		<order>continue</order>
+		<loop>999</loop>
+		<Lip>1</Lip>
+		<sound>liru_sex_pstActC_LP_a01</sound>
+	</caption>
+
+	<!-- ===== Round:1 =====  -->
+
+	<caption>
+		<cut>liru_Bath_sexRdy_ST</cut>
+		<DR>1</DR>
+		<Round>1</Round>
+		<text>やっぱバックだよな～ッ！</text>
+		<textSub>Sí, hagámoslo por detrás... </textSub>
+		<type>caption_liru</type>
+		<startTime>0</startTime>
+		<endTime>180</endTime>
+		<order>header</order>
+		<sound>liru_chg_back_a01</sound>
+	</caption>
+
+	<caption>
+		<cut>liru_Bath_sexRdy_ST</cut>
+		<DR>1</DR>
+		<Round>1</Round>
+		<text>えッ…嬉しそう？</text>
+		<textSub>Eh, ¿luzco muy emocionada?</textSub>
+		<type>caption_liru</type>
+		<startTime>76</startTime>
+		<endTime>256</endTime>
+		<order>continue</order>
+	</caption>
+
+	<caption>
+		<cut>liru_Bath_sexRdy_ST</cut>
+		<DR>1</DR>
+		<Round>1</Round>
+		<text>ウフフッ</text>
+		<textSub>Je, je.</textSub>
+		<type>caption_liru</type>
+		<startTime>136</startTime>
+		<endTime>316</endTime>
+		<order>continue</order>
+		<Lip>1</Lip>
+	</caption>
+
+	<!-- ===== Round:2 =====  -->
+
+	<caption>
+		<cut>liru_Bath_sexRdy_ST</cut>
+		<DR>1</DR>
+		<Round>2</Round>
+		<text>後からしたい？</text>
+		<textSub>¿Quieres hacerlo por detrás?</textSub>
+		<type>caption_liru</type>
+		<startTime>0</startTime>
+		<endTime>180</endTime>
+		<order>header</order>
+		<sound>liru_chg_back_a02</sound>
+	</caption>
+
+	<caption>
+		<cut>liru_Bath_sexRdy_ST</cut>
+		<DR>1</DR>
+		<Round>2</Round>
+		<text>よしきたーッ！</text>
+		<textSub>¡Sí, quería esto!</textSub>
+		<type>caption_liru</type>
+		<startTime>51</startTime>
+		<endTime>231</endTime>
+		<order>continue</order>
+	</caption>
+
+	<caption>
+		<cut>liru_Bath_sexRdy_ST</cut>
+		<DR>1</DR>
+		<Round>2</Round>
+		<text>はいッ！ どうぞッ！</text>
+		<textSub>¡Aquí, vamos!</textSub>
+		<type>caption_liru</type>
+		<startTime>113</startTime>
+		<endTime>293</endTime>
+		<order>continue</order>
+	</caption>
+
+	<!-- ===== Round:1 =====  -->
+
+	<caption>
+		<cut>liru_Bath_sexpull_ST</cut>
+		<DR>1</DR>
+		<Round>1</Round>
+		<text>うぁ…まだ膣内 敏感過ぎるッ…</text>
+		<textSub>Guah... ¡Mis entrañas están muy sensibles...!</textSub>
+		<type>caption_liru</type>
+		<startTime>1</startTime>
+		<endTime>181</endTime>
+		<order>header</order>
+		<sound>liru_sex_pullAct_ST_a01</sound>
+	</caption>
+
+	<caption>
+		<cut>liru_Bath_sexpull_ST</cut>
+		<DR>1</DR>
+		<Round>1</Round>
+		<text>ぁあんッ…ンッ…</text>
+		<textSub>Aaahn... ugggh... </textSub>
+		<type>caption_liru</type>
+		<startTime>64</startTime>
+		<endTime>244</endTime>
+		<order>continue</order>
+	</caption>
+
+	<caption>
+		<cut>liru_Bath_sexpull_ST</cut>
+		<DR>1</DR>
+		<Round>1</Round>
+		<text>ハァ…ハァ…</text>
+		<textSub>Aaah... aaah...</textSub>
+		<type>caption_liru</type>
+		<startTime>121</startTime>
+		<endTime>301</endTime>
+		<order>continue</order>
+		<Lip>1</Lip>
+	</caption>
+
+	<!-- ===== Round:2 =====  -->
+
+	<caption>
+		<cut>liru_Bath_sexpull_ST</cut>
+		<DR>1</DR>
+		<Round>2</Round>
+		<text>チョット待って…</text>
+		<textSub>Un momento... </textSub>
+		<type>caption_liru</type>
+		<startTime>1</startTime>
+		<endTime>181</endTime>
+		<order>header</order>
+		<sound>liru_sex_pullAct_ST_a02</sound>
+	</caption>
+
+	<caption>
+		<cut>liru_Bath_sexpull_ST</cut>
+		<DR>1</DR>
+		<Round>2</Round>
+		<text>今抜くからぁ～…っくぅ</text>
+		<textSub>Voy a sacarlo... nggh...</textSub>
+		<type>caption_liru</type>
+		<startTime>34</startTime>
+		<endTime>214</endTime>
+		<order>continue</order>
+	</caption>
+
+	<caption>
+		<cut>liru_Bath_sexpull_ST</cut>
+		<DR>1</DR>
+		<Round>2</Round>
+		<text>ハァ…ハァ…</text>
+		<textSub>Aaah... aaah...</textSub>
+		<type>caption_liru</type>
+		<startTime>106</startTime>
+		<endTime>286</endTime>
+		<order>continue</order>
+		<Lip>1</Lip>
+	</caption>
+
+	<!-- ===== Round:1 =====  -->
+
+	<caption>
+		<cut>liru_Bath_tkk1_ST</cut>
+		<DR>1</DR>
+		<Round>1</Round>
+		<text>さてさて～</text>
+		<textSub>Veamos...</textSub>
+		<type>caption_liru</type>
+		<startTime>25</startTime>
+		<endTime>205</endTime>
+		<order>header</order>
+		<sound>liru_hand_pst_ST_a01</sound>
+	</caption>
+
+	<caption>
+		<cut>liru_Bath_tkk1_ST</cut>
+		<DR>1</DR>
+		<Round>1</Round>
+		<text>手だけで上手く出来るかなぁ？</text>
+		<textSub>Me pregunto si podré arreglármelas solo con la mano.</textSub>
+		<type>caption_liru</type>
+		<startTime>41</startTime>
+		<endTime>221</endTime>
+		<order>continue</order>
+	</caption>
+
+	<caption>
+		<cut>liru_Bath_tkk1_ST</cut>
+		<DR>1</DR>
+		<Round>1</Round>
+		<text>ふふふッ</text>
+		<textSub>Je, je.</textSub>
+		<type>caption_liru</type>
+		<startTime>96</startTime>
+		<endTime>276</endTime>
+		<order>continue</order>
+	</caption>
+
+	<caption>
+		<cut>liru_Bath_tkk1_ST</cut>
+		<DR>1</DR>
+		<Round>1</Round>
+		<text>んっ…んしょっ…んんっ…んっ</text>
+		<textSub>Mmm... umph... mmmh... mmm...</textSub>
+		<type>caption_liru</type>
+		<startTime>139</startTime>
+		<endTime>319</endTime>
+		<order>continue</order>
+		<loop>999</loop>
+		<Lip>1</Lip>
+		<sound>liru_hand_pst_LP_a01</sound>
+	</caption>
+
+	<!-- ===== Round:2 =====  -->
+
+	<caption>
+		<cut>liru_Bath_tkk1_ST</cut>
+		<DR>1</DR>
+		<Round>2</Round>
+		<text>おーおーこんなに立たせちゃって～</text>
+		<textSub>Oooh, mira esa erección...</textSub>
+		<type>caption_liru</type>
+		<startTime>30</startTime>
+		<endTime>210</endTime>
+		<order>header</order>
+		<sound>liru_hand_rdy_LP_a01</sound>
+	</caption>
+
+	<caption>
+		<cut>liru_Bath_tkk1_ST</cut>
+		<DR>1</DR>
+		<Round>2</Round>
+		<text>お客さ～ん 溜まってますねぇ？</text>
+		<textSub>Debe tener mucho deseo reprimido, señor cliente.</textSub>
+		<type>caption_liru</type>
+		<startTime>96</startTime>
+		<endTime>276</endTime>
+		<order>continue</order>
+	</caption>
+
+	<caption>
+		<cut>liru_Bath_tkk1_ST</cut>
+		<DR>1</DR>
+		<Round>2</Round>
+		<text>んっ…んしょっ…んんっ…んっ</text>
+		<textSub>Mmm... umph... mmmh... mmm...</textSub>
+		<type>caption_liru</type>
+		<startTime>204</startTime>
+		<endTime>384</endTime>
+		<order>continue</order>
+		<loop>999</loop>
+		<Lip>1</Lip>
+		<sound>liru_hand_pst_LP_a01</sound>
+	</caption>
+
+	<!-- ===== Round:1 =====  -->
+
+	<caption>
+		<cut>liru_Bath_tkk2_ST</cut>
+		<DR>1</DR>
+		<Round>1</Round>
+		<text>仕事で疲れてても、ここだけはバッキバキだな－！！</text>
+		<textSub>¡¡Guau, incluso cuando estás cansado del trabajo puedes levantarlo así!!</textSub>
+		<type>caption_liru</type>
+		<startTime>1</startTime>
+		<endTime>181</endTime>
+		<order>header</order>
+		<sound>liru_hand_rdy_LP_a02</sound>
+	</caption>
+
+	<caption>
+		<cut>liru_Bath_tkk2_ST</cut>
+		<DR>1</DR>
+		<Round>1</Round>
+		<text>それってやっぱり…アタシの魅力？</text>
+		<textSub>¿Podría ser porque... soy muy atractiva? </textSub>
+		<type>caption_liru</type>
+		<startTime>99</startTime>
+		<endTime>279</endTime>
+		<order>continue</order>
+	</caption>
+
+	<caption>
+		<cut>liru_Bath_tkk2_ST</cut>
+		<DR>1</DR>
+		<Round>1</Round>
+		<text>ふふんっ♪</text>
+		<textSub>Je, je.</textSub>
+		<type>caption_liru</type>
+		<startTime>173</startTime>
+		<endTime>353</endTime>
+		<order>continue</order>
+	</caption>
+
+	<caption>
+		<cut>liru_Bath_tkk2_ST</cut>
+		<DR>1</DR>
+		<Round>1</Round>
+		<text>んっ…んしょっ…んんっ…んっ</text>
+		<textSub>Mmm... umph... mmmh... mmm...</textSub>
+		<type>caption_liru</type>
+		<startTime>215</startTime>
+		<endTime>395</endTime>
+		<order>continue</order>
+		<loop>999</loop>
+		<Lip>1</Lip>
+		<sound>liru_hand_pst_LP_a02</sound>
+	</caption>
+
+	<!-- ===== Round:2 =====  -->
+
+	<caption>
+		<cut>liru_Bath_tkk2_ST</cut>
+		<DR>1</DR>
+		<Round>2</Round>
+		<text>こんな感じでどぉ？</text>
+		<textSub>¿Cómo se siente esto?</textSub>
+		<type>caption_liru</type>
+		<startTime>1</startTime>
+		<endTime>181</endTime>
+		<order>header</order>
+		<sound>liru_hand_pst_ST_a02</sound>
+	</caption>
+
+	<caption>
+		<cut>liru_Bath_tkk2_ST</cut>
+		<DR>1</DR>
+		<Round>2</Round>
+		<text>気持ちいいトコ…教えてねッ</text>
+		<textSub>Dime dónde se siente bien...</textSub>
+		<type>caption_liru</type>
+		<startTime>51</startTime>
+		<endTime>231</endTime>
+		<order>continue</order>
+	</caption>
+
+	<caption>
+		<cut>liru_Bath_tkk2_ST</cut>
+		<DR>1</DR>
+		<Round>2</Round>
+		<text>んっ…んしょっ…んんっ…んっ</text>
+		<textSub>Mmm... umph... mmmh... mmm...</textSub>
+		<type>caption_liru</type>
+		<startTime>140</startTime>
+		<endTime>320</endTime>
+		<order>continue</order>
+		<loop>999</loop>
+		<Lip>1</Lip>
+		<sound>liru_hand_pst_LP_a02</sound>
+	</caption>
+
+
+	<!-- ===================== DR(デレ度):2 =====================  -->
+
+	<!-- ===== Round:1 =====  -->
+
+	<caption>
+		<cut>liru_Bath_fela1_ST</cut>
+		<DR>2</DR>
+		<Round>1</Round>
+		<text>ご主人様ぁ？</text>
+		<textSub>¿Amo? </textSub>
+		<type>caption_liru</type>
+		<startTime>0</startTime>
+		<endTime>180</endTime>
+		<order>header</order>
+		<sound>liru_fela_pstA_ST_b01</sound>
+	</caption>
+
+	<caption>
+		<cut>liru_Bath_fela1_ST</cut>
+		<DR>2</DR>
+		<Round>1</Round>
+		<text>今日はお口でご奉仕させて頂きます！</text>
+		<textSub>¡Hoy déjeme darle placer con mi boca!</textSub>
+		<type>caption_liru</type>
+		<startTime>37</startTime>
+		<endTime>217</endTime>
+		<order>continue</order>
+	</caption>
+
+	<caption>
+		<cut>liru_Bath_fela1_ST</cut>
+		<DR>2</DR>
+		<Round>1</Round>
+		<text>はぁッ…んむッ！</text>
+		<textSub>¡Aaahm!</textSub>
+		<type>caption_liru</type>
+		<startTime>121</startTime>
+		<endTime>301</endTime>
+		<order>continue</order>
+	</caption>
+
+	<caption>
+		<cut>liru_Bath_fela1_ST</cut>
+		<DR>2</DR>
+		<Round>1</Round>
+		<text>んっんっ…ぺろ…れろ…んっ</text>
+		<textSub>Mmmmgh... slrp... slrp... mmm...</textSub>
+		<type>caption_liru</type>
+		<startTime>165</startTime>
+		<endTime>345</endTime>
+		<order>continue</order>
+		<loop>999</loop>
+		<Lip>1</Lip>
+		<sound>liru_fela_pstA_LP_b01</sound>
+	</caption>
+
+	<!-- ===== Round:2 =====  -->
+
+	<caption>
+		<cut>liru_Bath_fela1_ST</cut>
+		<DR>2</DR>
+		<Round>2</Round>
+		<text>最初は苦手だったこの子もぉ…</text>
+		<textSub>Al principio me asustó un poco este pequeño... </textSub>
+		<type>caption_liru</type>
+		<startTime>0</startTime>
+		<endTime>180</endTime>
+		<order>header</order>
+		<sound>liru_fela_pstA_ST_b02</sound>
+	</caption>
+
+	<caption>
+		<cut>liru_Bath_fela1_ST</cut>
+		<DR>2</DR>
+		<Round>2</Round>
+		<text>今じゃ可愛いいもんだねぇ</text>
+		<textSub>¡Pero ahora creo que es lindo!</textSub>
+		<type>caption_liru</type>
+		<startTime>63</startTime>
+		<endTime>243</endTime>
+		<order>continue</order>
+	</caption>
+
+	<caption>
+		<cut>liru_Bath_fela1_ST</cut>
+		<DR>2</DR>
+		<Round>2</Round>
+		<text>は～んむッ！</text>
+		<textSub>¡Aaah!</textSub>
+		<type>caption_liru</type>
+		<startTime>124</startTime>
+		<endTime>304</endTime>
+		<order>continue</order>
+	</caption>
+
+	<caption>
+		<cut>liru_Bath_fela1_ST</cut>
+		<DR>2</DR>
+		<Round>2</Round>
+		<text>んっんっ…ぺろ…れろ…んっ</text>
+		<textSub>Mmmmgh... slrp... slrp... mmm...</textSub>
+		<type>caption_liru</type>
+		<startTime>161</startTime>
+		<endTime>341</endTime>
+		<order>continue</order>
+		<loop>999</loop>
+		<Lip>1</Lip>
+		<sound>liru_fela_pstA_LP_b01</sound>
+	</caption>
+
+	<!-- ===== Round: =====  -->
+
+	<caption>
+		<cut>liru_Bath_fela2_LP</cut>
+		<DR>2</DR>
+		<text>んっんっじゅる</text>
+		<textSub>Mmmm, slrrrp...</textSub>
+		<type>caption_liru</type>
+		<startTime>1</startTime>
+		<endTime>181</endTime>
+		<order>header</order>
+		<loop>999</loop>
+		<sound>liru_fela_pstB_LP_b01</sound>
+	</caption>
+
+	<!-- ===== Round:1 =====  -->
+
+	<caption>
+		<cut>liru_Bath_felaAft_ST</cut>
+		<DR>2</DR>
+		<Round>1</Round>
+		<text>いっぱい出すから…</text>
+		<textSub>Te has corrido mucho...</textSub>
+		<type>caption_liru</type>
+		<startTime>0</startTime>
+		<endTime>180</endTime>
+		<order>header</order>
+		<Lip>0.1</Lip>
+		<sound>liru_fela_fin_LP_b01</sound>
+	</caption>
+
+	<caption>
+		<cut>liru_Bath_felaAft_ST</cut>
+		<DR>2</DR>
+		<Round>1</Round>
+		<text>口で受け止め着れなかったじゃな～い</text>
+		<textSub>Tanto que no me cabía todo en la boca...</textSub>
+		<type>caption_liru</type>
+		<startTime>57</startTime>
+		<endTime>237</endTime>
+		<order>continue</order>
+		<Lip>0.1</Lip>
+	</caption>
+
+	<caption>
+		<cut>liru_Bath_felaAft_ST</cut>
+		<DR>2</DR>
+		<Round>1</Round>
+		<text>うふふッ</text>
+		<textSub>Je, je...</textSub>
+		<type>caption_liru</type>
+		<startTime>120</startTime>
+		<endTime>300</endTime>
+		<order>continue</order>
+		<Lip>0.3</Lip>
+	</caption>
+
+	<!-- ===== Round:2 =====  -->
+
+	<caption>
+		<cut>liru_Bath_felaAft_ST</cut>
+		<DR>2</DR>
+		<Round>2</Round>
+		<text>今日は一段と濃い気がする…</text>
+		<textSub>Realmente hay mucho... </textSub>
+		<type>caption_liru</type>
+		<startTime>25</startTime>
+		<endTime>205</endTime>
+		<order>header</order>
+		<sound>liru_fela_fin_LP_b02</sound>
+	</caption>
+
+	<caption>
+		<cut>liru_Bath_felaAft_ST</cut>
+		<DR>2</DR>
+		<Round>2</Round>
+		<text>いっぱい溜まってたのね</text>
+		<textSub>¡Debes haberlo almacenado a propósito!</textSub>
+		<type>caption_liru</type>
+		<startTime>71</startTime>
+		<endTime>251</endTime>
+		<order>continue</order>
+	</caption>
+
+	<!-- ===== Round: =====  -->
+
+	<caption>
+		<cut>liru_Bath_felaFin_ST</cut>
+		<DR>2</DR>
+		<text>んんっ～～～んむっ…んむっ…</text>
+		<textSub>Mmmmmmm...... mmm... mmm...</textSub>
+		<type>caption_liru</type>
+		<startTime>1</startTime>
+		<endTime>181</endTime>
+		<order>header</order>
+		<sound>liru_fela_fin_ST_b01</sound>
+	</caption>
+
+	<caption>
+		<cut>liru_Bath_felaFin_ST</cut>
+		<DR>2</DR>
+		<text>っぷあぁ！！</text>
+		<textSub>¡¡Puaah!!</textSub>
+		<type>caption_liru</type>
+		<startTime>170</startTime>
+		<endTime>350</endTime>
+		<order>continue</order>
+		<Lip>1</Lip>
+	</caption>
+
+	<caption>
+		<cut>liru_Bath_felaFin_ST</cut>
+		<DR>2</DR>
+		<text>ハァ…ハァ…</text>
+		<textSub>Aaah... aaah...</textSub>
+		<type>caption_liru</type>
+		<startTime>220</startTime>
+		<endTime>400</endTime>
+		<order>continue</order>
+		<loop>999</loop>
+		<Lip>1</Lip>
+		<sound>liru_breathH_LP_b01</sound>
+	</caption>
+
+	<!-- ===== Round:1 =====  -->
+
+	<caption>
+		<cut>liru_Bath_paiAft_ST</cut>
+		<DR>2</DR>
+		<Round>1</Round>
+		<text>うはぁ～ッ！</text>
+		<textSub>Vaya... </textSub>
+		<type>caption_liru</type>
+		<startTime>1</startTime>
+		<endTime>181</endTime>
+		<order>header</order>
+		<Lip>0.6</Lip>
+		<sound>liru_pai_fin_LP_b02</sound>
+	</caption>
+
+	<caption>
+		<cut>liru_Bath_paiAft_ST</cut>
+		<DR>2</DR>
+		<Round>1</Round>
+		<text>顔からおっぱいまで…</text>
+		<textSub>Mi cara y mis pechos... </textSub>
+		<type>caption_liru</type>
+		<startTime>30</startTime>
+		<endTime>210</endTime>
+		<order>continue</order>
+	</caption>
+
+	<caption>
+		<cut>liru_Bath_paiAft_ST</cut>
+		<DR>2</DR>
+		<Round>1</Round>
+		<text>あなたの愛情で いっぱいにされちゃったぁ！</text>
+		<textSub>¡Todos están cubiertos de tu amor!</textSub>
+		<type>caption_liru</type>
+		<startTime>82</startTime>
+		<endTime>262</endTime>
+		<order>continue</order>
+	</caption>
+
+	<!-- ===== Round:2 =====  -->
+
+	<caption>
+		<cut>liru_Bath_paiAft_ST</cut>
+		<DR>2</DR>
+		<Round>2</Round>
+		<text>こんなにいっぱい…</text>
+		<textSub>Hay mucho... </textSub>
+		<type>caption_liru</type>
+		<startTime>20</startTime>
+		<endTime>200</endTime>
+		<order>header</order>
+		<sound>liru_pai_fin_LP_b01</sound>
+	</caption>
+
+	<caption>
+		<cut>liru_Bath_paiAft_ST</cut>
+		<DR>2</DR>
+		<Round>2</Round>
+		<text>上手く出来たって事だよね？</text>
+		<textSub>Esto significa que hice un buen trabajo, ¿no?</textSub>
+		<type>caption_liru</type>
+		<startTime>55</startTime>
+		<endTime>235</endTime>
+		<order>continue</order>
+	</caption>
+
+	<caption>
+		<cut>liru_Bath_paiAft_ST</cut>
+		<DR>2</DR>
+		<Round>2</Round>
+		<text>よかったッ！</text>
+		<textSub>¡Estoy muy aliviada!</textSub>
+		<type>caption_liru</type>
+		<startTime>132</startTime>
+		<endTime>312</endTime>
+		<order>continue</order>
+	</caption>
+
+	<!-- ===== Round:1 =====  -->
+
+	<caption>
+		<cut>liru_Bath_paiFin_ST</cut>
+		<DR>2</DR>
+		<Round>1</Round>
+		<text>やぁ～ん…ンッ…</text>
+		<textSub>Oooh... </textSub>
+		<type>caption_liru</type>
+		<startTime>30</startTime>
+		<endTime>210</endTime>
+		<order>header</order>
+		<sound>liru_pai_fin_ST_b01</sound>
+	</caption>
+
+	<caption>
+		<cut>liru_Bath_paiFin_ST</cut>
+		<DR>2</DR>
+		<Round>1</Round>
+		<text>おっぱいで…受け止めきれないッ…ハァン</text>
+		<textSub>No puedo aguantar todo... en mis pechos... Aaahn...</textSub>
+		<type>caption_liru</type>
+		<startTime>45</startTime>
+		<endTime>225</endTime>
+		<order>continue</order>
+	</caption>
+
+	<caption>
+		<cut>liru_Bath_paiFin_ST</cut>
+		<DR>2</DR>
+		<Round>1</Round>
+		<text>ハァ…ハァ…</text>
+		<textSub>Aaah... aaah...</textSub>
+		<type>caption_liru</type>
+		<startTime>147</startTime>
+		<endTime>327</endTime>
+		<order>continue</order>
+		<Lip>1</Lip>
+	</caption>
+
+	<!-- ===== Round:2 =====  -->
+
+	<caption>
+		<cut>liru_Bath_paiFin_ST</cut>
+		<DR>2</DR>
+		<Round>2</Round>
+		<text>アッ…ンンッ…</text>
+		<textSub>Ahn... mmm...</textSub>
+		<type>caption_liru</type>
+		<startTime>30</startTime>
+		<endTime>210</endTime>
+		<order>header</order>
+		<Lip>1</Lip>
+		<sound>liru_pai_fin_ST_b02</sound>
+	</caption>
+
+	<caption>
+		<cut>liru_Bath_paiFin_ST</cut>
+		<DR>2</DR>
+		<Round>2</Round>
+		<text>体中アナタの匂いで…いっぱいにされちゃぅう…</text>
+		<textSub>Todo mi cuerpo huele a ti ahora... </textSub>
+		<type>caption_liru</type>
+		<startTime>44</startTime>
+		<endTime>224</endTime>
+		<order>continue</order>
+	</caption>
+
+	<caption>
+		<cut>liru_Bath_paiFin_ST</cut>
+		<DR>2</DR>
+		<Round>2</Round>
+		<text>ハァ…ハァ…</text>
+		<textSub>Aaah... aaah...</textSub>
+		<type>caption_liru</type>
+		<startTime>148</startTime>
+		<endTime>328</endTime>
+		<order>continue</order>
+		<Lip>1</Lip>
+	</caption>
+
+	<!-- ===== Round:1 =====  -->
+
+	<caption>
+		<cut>liru_Bath_paiPst1_ST</cut>
+		<DR>2</DR>
+		<Round>1</Round>
+		<text>えっ…おっぱいが良いの？</text>
+		<textSub>¿Eh? ¿Quieres mis pechos?</textSub>
+		<type>caption_liru</type>
+		<startTime>0</startTime>
+		<endTime>180</endTime>
+		<order>header</order>
+		<sound>liru_pai_pstA_ST_b01</sound>
+	</caption>
+
+	<caption>
+		<cut>liru_Bath_paiPst1_ST</cut>
+		<DR>2</DR>
+		<Round>1</Round>
+		<text>仕方ないなぁもう…こ～ぉ？</text>
+		<textSub>Oh, bien. Cielos... ¿Así?</textSub>
+		<type>caption_liru</type>
+		<startTime>81</startTime>
+		<endTime>261</endTime>
+		<order>continue</order>
+	</caption>
+
+	<caption>
+		<cut>liru_Bath_paiPst1_ST</cut>
+		<DR>2</DR>
+		<Round>1</Round>
+		<text>ンッ…ハァ…ンッ…ットォ…ッショ…ンッ</text>
+		<textSub>Mmm... aaah... mmm... umpph... umpph... mmm...</textSub>
+		<type>caption_liru</type>
+		<startTime>180</startTime>
+		<endTime>360</endTime>
+		<order>continue</order>
+		<loop>999</loop>
+		<Lip>1</Lip>
+		<sound>liru_pai_pstA_LP_b01</sound>
+	</caption>
+
+	<!-- ===== Round:2 =====  -->
+
+	<caption>
+		<cut>liru_Bath_paiPst1_ST</cut>
+		<DR>2</DR>
+		<Round>2</Round>
+		<text>ヘヘッ…今日はアタシのおっぱいで…</text>
+		<textSub>Je, je... Hoy voy a hacer que te corras...</textSub>
+		<type>caption_liru</type>
+		<startTime>1</startTime>
+		<endTime>181</endTime>
+		<order>header</order>
+		<sound>liru_pai_pstA_ST_b02</sound>
+	</caption>
+
+	<caption>
+		<cut>liru_Bath_paiPst1_ST</cut>
+		<DR>2</DR>
+		<Round>2</Round>
+		<text>イかせちゃうんだからッ！</text>
+		<textSub>... ¡con mis pechos!</textSub>
+		<type>caption_liru</type>
+		<startTime>82</startTime>
+		<endTime>262</endTime>
+		<order>continue</order>
+	</caption>
+
+	<caption>
+		<cut>liru_Bath_paiPst1_ST</cut>
+		<DR>2</DR>
+		<Round>2</Round>
+		<text>んっしょ…</text>
+		<textSub>Umph...</textSub>
+		<type>caption_liru</type>
+		<startTime>136</startTime>
+		<endTime>316</endTime>
+		<order>continue</order>
+	</caption>
+
+	<caption>
+		<cut>liru_Bath_paiPst1_ST</cut>
+		<DR>2</DR>
+		<Round>2</Round>
+		<text>ンッ…ハァ…ンッ…ットォ…ッショ…ンッ</text>
+		<textSub>Mmm... aaah... mmm... umpph... umpph... mmm...</textSub>
+		<type>caption_liru</type>
+		<startTime>181</startTime>
+		<endTime>361</endTime>
+		<order>continue</order>
+		<loop>999</loop>
+		<Lip>1</Lip>
+		<sound>liru_pai_pstA_LP_b01</sound>
+	</caption>
+
+	<!-- ===== Round:1 =====  -->
+
+	<caption>
+		<cut>liru_Bath_paiPst2_ST</cut>
+		<DR>2</DR>
+		<Round>1</Round>
+		<text>こんな感じで気持ちいいの？</text>
+		<textSub>¿Se siente bien?</textSub>
+		<type>caption_liru</type>
+		<startTime>10</startTime>
+		<endTime>190</endTime>
+		<order>header</order>
+		<sound>liru_pai_pstB_ST_b01</sound>
+	</caption>
+
+	<caption>
+		<cut>liru_Bath_paiPst2_ST</cut>
+		<DR>2</DR>
+		<Round>1</Round>
+		<text>じゃぁ…こんなのはどぉ？</text>
+		<textSub>Entonces... ¿qué tal esto?</textSub>
+		<type>caption_liru</type>
+		<startTime>84</startTime>
+		<endTime>264</endTime>
+		<order>continue</order>
+	</caption>
+
+	<caption>
+		<cut>liru_Bath_paiPst2_ST</cut>
+		<DR>2</DR>
+		<Round>1</Round>
+		<text>ハァッ…ハァ…ンッ…ハァ…ンンッ</text>
+		<textSub>Aaah... aaah... aaah... mmm... </textSub>
+		<type>caption_liru</type>
+		<startTime>159</startTime>
+		<endTime>339</endTime>
+		<order>continue</order>
+		<loop>999</loop>
+		<Lip>1</Lip>
+		<sound>liru_pai_pstB_LP_b01</sound>
+	</caption>
+
+	<!-- ===== Round:2 =====  -->
+
+	<caption>
+		<cut>liru_Bath_paiPst2_ST</cut>
+		<DR>2</DR>
+		<Round>2</Round>
+		<text>あ…もしかして出そう…？</text>
+		<textSub>Oh... ¿Estás a punto de correrte...?</textSub>
+		<type>caption_liru</type>
+		<startTime>10</startTime>
+		<endTime>190</endTime>
+		<order>header</order>
+		<sound>liru_pai_pstB_ST_b02</sound>
+	</caption>
+
+	<caption>
+		<cut>liru_Bath_paiPst2_ST</cut>
+		<DR>2</DR>
+		<Round>2</Round>
+		<text>我慢しないでね！</text>
+		<textSub>¡No te resistas!</textSub>
+		<type>caption_liru</type>
+		<startTime>89</startTime>
+		<endTime>269</endTime>
+		<order>continue</order>
+	</caption>
+
+	<caption>
+		<cut>liru_Bath_paiPst2_ST</cut>
+		<DR>2</DR>
+		<Round>2</Round>
+		<text>ハァッ…ハァ…ンッ…ハァ…ンンッ</text>
+		<textSub>Aaah... aaah... aaah... mmm... </textSub>
+		<type>caption_liru</type>
+		<startTime>145</startTime>
+		<endTime>325</endTime>
+		<order>continue</order>
+		<loop>999</loop>
+		<Lip>1</Lip>
+		<sound>liru_pai_pstB_LP_b01</sound>
+	</caption>
+
+	<!-- ===== Round:1 =====  -->
+
+	<caption>
+		<cut>liru_Bath_pet_ST</cut>
+		<DR>2</DR>
+		<Round>1</Round>
+		<text>アンッ…</text>
+		<textSub>Ahn... </textSub>
+		<type>caption_liru</type>
+		<startTime>31</startTime>
+		<endTime>211</endTime>
+		<order>header</order>
+		<Lip>1</Lip>
+		<sound>liru_bath_pet_ST_b01</sound>
+	</caption>
+
+	<caption>
+		<cut>liru_Bath_pet_ST</cut>
+		<DR>2</DR>
+		<Round>1</Round>
+		<text>もぉ…</text>
+		<textSub>Cielos... </textSub>
+		<type>caption_liru</type>
+		<startTime>30</startTime>
+		<endTime>210</endTime>
+		<order>continue</order>
+		<Lip>0.2</Lip>
+	</caption>
+
+	<caption>
+		<cut>liru_Bath_pet_ST</cut>
+		<DR>2</DR>
+		<Round>1</Round>
+		<text>ベッドに行くまで我慢出来ないのぉ？</text>
+		<textSub>¿No puedes esperar hasta que nos vayamos a la cama?</textSub>
+		<type>caption_liru</type>
+		<startTime>65</startTime>
+		<endTime>245</endTime>
+		<order>continue</order>
+		<Lip>0.1</Lip>
+	</caption>
+
+	<caption>
+		<cut>liru_Bath_pet_ST</cut>
+		<DR>2</DR>
+		<Round>1</Round>
+		<text>仕方ないなぁ…</text>
+		<textSub>Oh, bien...</textSub>
+		<type>caption_liru</type>
+		<startTime>142</startTime>
+		<endTime>322</endTime>
+		<order>continue</order>
+		<Lip>0.2</Lip>
+	</caption>
+
+	<!-- ===== Round:2 =====  -->
+
+	<caption>
+		<cut>liru_Bath_pet_ST</cut>
+		<DR>2</DR>
+		<Round>2</Round>
+		<text>ンンーッ！</text>
+		<textSub>¡Mmm!</textSub>
+		<type>caption_liru</type>
+		<startTime>28</startTime>
+		<endTime>208</endTime>
+		<order>header</order>
+		<Lip>1</Lip>
+		<sound>liru_bath_pet_ST_b02</sound>
+	</caption>
+
+	<caption>
+		<cut>liru_Bath_pet_ST</cut>
+		<DR>2</DR>
+		<Round>2</Round>
+		<text>またそういう事するぅ～</text>
+		<textSub>¡Ya está otra vez!</textSub>
+		<type>caption_liru</type>
+		<startTime>21</startTime>
+		<endTime>201</endTime>
+		<order>continue</order>
+	</caption>
+
+	<caption>
+		<cut>liru_Bath_pet_ST</cut>
+		<DR>2</DR>
+		<Round>2</Round>
+		<text>べつにイイケド…</text>
+		<textSub>Oh, bueno, no me importa... </textSub>
+		<type>caption_liru</type>
+		<startTime>83</startTime>
+		<endTime>263</endTime>
+		<order>continue</order>
+	</caption>
+
+	<caption>
+		<cut>liru_Bath_pet_ST</cut>
+		<DR>2</DR>
+		<Round>2</Round>
+		<text>このまましちゃう？</text>
+		<textSub>¿Lo hacemos aquí...?</textSub>
+		<type>caption_liru</type>
+		<startTime>149</startTime>
+		<endTime>329</endTime>
+		<order>continue</order>
+	</caption>
+
+	<!-- ===== Round:1 =====  -->
+
+	<caption>
+		<cut>liru_Bath_rdy_ST</cut>
+		<DR>2</DR>
+		<Round>1</Round>
+		<text>こうやって大好きな人と入るお風呂って…</text>
+		<textSub>¡Es muy agradable bañarse así con el hombre que amas!</textSub>
+		<type>caption_liru</type>
+		<startTime>42</startTime>
+		<endTime>222</endTime>
+		<order>header</order>
+		<sound>liru_bath_rdy_ST_b01</sound>
+	</caption>
+
+	<caption>
+		<cut>liru_Bath_rdy_ST</cut>
+		<DR>2</DR>
+		<Round>1</Round>
+		<text>いいものよねぇ～</text>
+		<type>caption_liru</type>
+		<startTime>67</startTime>
+		<endTime>247</endTime>
+		<order>continue</order>
+	</caption>
+
+	<!-- ===== Round:2 =====  -->
+
+	<caption>
+		<cut>liru_Bath_rdy_ST</cut>
+		<DR>2</DR>
+		<Round>2</Round>
+		<text>たま～に一人で入ると…</text>
+		<textSub>A veces, cuando me baño sin ti, me siento sola...</textSub>
+		<type>caption_liru</type>
+		<startTime>20</startTime>
+		<endTime>200</endTime>
+		<order>header</order>
+		<sound>liru_bath_rdy_ST_b02</sound>
+	</caption>
+
+	<caption>
+		<cut>liru_Bath_rdy_ST</cut>
+		<DR>2</DR>
+		<Round>2</Round>
+		<text>寂しく感じる様になっちゃった</text>
+		<type>caption_liru</type>
+		<startTime>60</startTime>
+		<endTime>240</endTime>
+		<order>continue</order>
+	</caption>
+
+	<caption>
+		<cut>liru_Bath_rdy_ST</cut>
+		<DR>2</DR>
+		<Round>2</Round>
+		<text>えヘヘ…</text>
+		<textSub>Je, je.</textSub>
+		<type>caption_liru</type>
+		<startTime>125</startTime>
+		<endTime>305</endTime>
+		<order>continue</order>
+	</caption>
+
+	<!-- ===== Round:1 =====  -->
+
+	<caption>
+		<cut>liru_Bath_sexAft_ST</cut>
+		<DR>2</DR>
+		<Round>1</Round>
+		<text>も～ッ…こんなに出しちゃったら…</text>
+		<textSub>Mira cuánto has soltado... </textSub>
+		<type>caption_liru</type>
+		<startTime>1</startTime>
+		<endTime>181</endTime>
+		<order>header</order>
+		<sound>liru_sex_finActND_LP_b01</sound>
+	</caption>
+
+	<caption>
+		<cut>liru_Bath_sexAft_ST</cut>
+		<DR>2</DR>
+		<Round>1</Round>
+		<text>二人の将来のこととか…</text>
+		<textSub>Dime, has pensado seriamente en...</textSub>
+		<type>caption_liru</type>
+		<startTime>89</startTime>
+		<endTime>269</endTime>
+		<order>continue</order>
+	</caption>
+
+	<caption>
+		<cut>liru_Bath_sexAft_ST</cut>
+		<DR>2</DR>
+		<Round>1</Round>
+		<text>ちゃんと考えてるの？</text>
+		<textSub>... ¿nuestro futuro juntos?</textSub>
+		<type>caption_liru</type>
+		<startTime>145</startTime>
+		<endTime>325</endTime>
+		<order>continue</order>
+	</caption>
+
+	<!-- ===== Round:2 =====  -->
+
+	<caption>
+		<cut>liru_Bath_sexAft_ST</cut>
+		<DR>2</DR>
+		<Round>2</Round>
+		<text>や～んッ…量多すぎぃ…</text>
+		<textSub>Aww, es demasiado... </textSub>
+		<type>caption_liru</type>
+		<startTime>15</startTime>
+		<endTime>195</endTime>
+		<order>header</order>
+		<sound>liru_sex_finActND_LP_b02</sound>
+	</caption>
+
+	<caption>
+		<cut>liru_Bath_sexAft_ST</cut>
+		<DR>2</DR>
+		<Round>2</Round>
+		<text>精液…たれて来ちゃうでしょ…</text>
+		<textSub>El semen... se está filtrando... </textSub>
+		<type>caption_liru</type>
+		<startTime>93</startTime>
+		<endTime>273</endTime>
+		<order>continue</order>
+	</caption>
+
+	<caption>
+		<cut>liru_Bath_sexAft_ST</cut>
+		<DR>2</DR>
+		<Round>2</Round>
+		<text>もぉ～</text>
+		<textSub>Cielos...</textSub>
+		<type>caption_liru</type>
+		<startTime>189</startTime>
+		<endTime>369</endTime>
+		<order>continue</order>
+	</caption>
+
+	<!-- ===== Round:1 =====  -->
+
+	<caption>
+		<cut>liru_Bath_sexFin_ST</cut>
+		<DR>2</DR>
+		<Round>1</Round>
+		<text>アッ…アッ…ンァッ…</text>
+		<textSub>Aah... aah... naah...</textSub>
+		<type>caption_liru</type>
+		<startTime>1</startTime>
+		<endTime>181</endTime>
+		<order>header</order>
+		<Lip>1</Lip>
+		<sound>liru_sex_finActND_ST_b01</sound>
+	</caption>
+
+	<caption>
+		<cut>liru_Bath_sexFin_ST</cut>
+		<DR>2</DR>
+		<Round>1</Round>
+		<text>ヒャンッ！ ンッ！</text>
+		<textSub>Hyaaa... mmm... </textSub>
+		<type>caption_liru</type>
+		<startTime>48</startTime>
+		<endTime>228</endTime>
+		<order>continue</order>
+	</caption>
+
+	<caption>
+		<cut>liru_Bath_sexFin_ST</cut>
+		<DR>2</DR>
+		<Round>1</Round>
+		<text>アナタの愛で 膣内 満たされてくぅ</text>
+		<textSub>Tu amor... me llena por dentro... </textSub>
+		<type>caption_liru</type>
+		<startTime>78</startTime>
+		<endTime>258</endTime>
+		<order>continue</order>
+	</caption>
+
+	<caption>
+		<cut>liru_Bath_sexFin_ST</cut>
+		<DR>2</DR>
+		<Round>1</Round>
+		<text>ハァ…ハァ…</text>
+		<textSub>Aaah... aaah...</textSub>
+		<type>caption_liru</type>
+		<startTime>212</startTime>
+		<endTime>392</endTime>
+		<order>continue</order>
+		<loop>999</loop>
+		<Lip>1</Lip>
+		<sound>liru_breathH_LP_b01</sound>
+	</caption>
+
+	<!-- ===== Round:2 =====  -->
+
+	<caption>
+		<cut>liru_Bath_sexFin_ST</cut>
+		<DR>2</DR>
+		<Round>2</Round>
+		<text>ハァ…ハァ…アアッ</text>
+		<textSub>Aaah... aaah... aah...</textSub>
+		<type>caption_liru</type>
+		<startTime>1</startTime>
+		<endTime>181</endTime>
+		<order>header</order>
+		<Lip>1</Lip>
+		<sound>liru_sex_finActND_ST_b02</sound>
+	</caption>
+
+	<caption>
+		<cut>liru_Bath_sexFin_ST</cut>
+		<DR>2</DR>
+		<Round>2</Round>
+		<text>ンンッ…ンッ！</text>
+		<textSub>Mmm... ¡Mmmm!</textSub>
+		<type>caption_liru</type>
+		<startTime>38</startTime>
+		<endTime>218</endTime>
+		<order>continue</order>
+	</caption>
+
+	<caption>
+		<cut>liru_Bath_sexFin_ST</cut>
+		<DR>2</DR>
+		<Round>2</Round>
+		<text>アタシの膣内で いっぱいイッて！</text>
+		<textSub>¡Suelta todo lo que quieras dentro de mí!</textSub>
+		<type>caption_liru</type>
+		<startTime>71</startTime>
+		<endTime>251</endTime>
+		<order>continue</order>
+	</caption>
+
+	<caption>
+		<cut>liru_Bath_sexFin_ST</cut>
+		<DR>2</DR>
+		<Round>2</Round>
+		<text>ハァ…ハァ…</text>
+		<textSub>Aaah... aaah...</textSub>
+		<type>caption_liru</type>
+		<startTime>187</startTime>
+		<endTime>367</endTime>
+		<order>continue</order>
+		<loop>999</loop>
+		<Lip>1</Lip>
+		<sound>liru_breathH_LP_b01</sound>
+	</caption>
+
+	<!-- ===== Round:1 =====  -->
+
+	<caption>
+		<cut>liru_Bath_sexIns_ST</cut>
+		<DR>2</DR>
+		<Round>1</Round>
+		<text>ハァッ…ンッ</text>
+		<textSub>Aaahn... </textSub>
+		<type>caption_liru</type>
+		<startTime>15</startTime>
+		<endTime>195</endTime>
+		<order>header</order>
+		<sound>liru_sex_insAct_ST_b01</sound>
+	</caption>
+
+	<caption>
+		<cut>liru_Bath_sexIns_ST</cut>
+		<DR>2</DR>
+		<Round>1</Round>
+		<text>アタシとアナタの体温が 混じり合ってくぅ</text>
+		<textSub>Mi calor corporal se está mezclando con el tuyo... </textSub>
+		<type>caption_liru</type>
+		<startTime>36</startTime>
+		<endTime>216</endTime>
+		<order>continue</order>
+	</caption>
+
+	<caption>
+		<cut>liru_Bath_sexIns_ST</cut>
+		<DR>2</DR>
+		<Round>1</Round>
+		<text>ンァ～ンッ！</text>
+		<textSub>Naaaahn...</textSub>
+		<type>caption_liru</type>
+		<startTime>152</startTime>
+		<endTime>332</endTime>
+		<order>continue</order>
+		<Lip>1</Lip>
+	</caption>
+
+	<caption>
+		<cut>liru_Bath_sexIns_ST</cut>
+		<DR>2</DR>
+		<Round>1</Round>
+		<text>ハァ…ハァ…ハァ…</text>
+		<textSub>Aaah... aaah... aaah...</textSub>
+		<type>caption_liru</type>
+		<startTime>221</startTime>
+		<endTime>401</endTime>
+		<order>continue</order>
+		<Lip>1</Lip>
+	</caption>
+
+	<caption>
+		<cut>liru_Bath_sexIns_ST</cut>
+		<DR>2</DR>
+		<Round>1</Round>
+		<text>おちんちん温かくて…</text>
+		<textSub>Tu pene está muy caliente... </textSub>
+		<type>caption_liru</type>
+		<startTime>344</startTime>
+		<endTime>524</endTime>
+		<order>continue</order>
+		<sound>liru_sex_insAct_LP_b01</sound>
+	</caption>
+
+	<caption>
+		<cut>liru_Bath_sexIns_ST</cut>
+		<DR>2</DR>
+		<Round>1</Round>
+		<text>ずっとこうしていたいな…</text>
+		<textSub>Quiero quedarme así para siempre... </textSub>
+		<type>caption_liru</type>
+		<startTime>413</startTime>
+		<endTime>593</endTime>
+		<order>continue</order>
+	</caption>
+
+	<!-- ===== Round:2 =====  -->
+
+	<caption>
+		<cut>liru_Bath_sexIns_ST</cut>
+		<DR>2</DR>
+		<Round>2</Round>
+		<text>アンッ…やだ…</text>
+		<textSub>Ahn... Oh, no... </textSub>
+		<type>caption_liru</type>
+		<startTime>1</startTime>
+		<endTime>181</endTime>
+		<order>header</order>
+		<sound>liru_sex_insAct_ST_b02</sound>
+	</caption>
+
+	<caption>
+		<cut>liru_Bath_sexIns_ST</cut>
+		<DR>2</DR>
+		<Round>2</Round>
+		<text>根本まですんなり…入っちゃうッ</text>
+		<textSub>Está completamente dentro... </textSub>
+		<type>caption_liru</type>
+		<startTime>104</startTime>
+		<endTime>284</endTime>
+		<order>continue</order>
+	</caption>
+
+	<caption>
+		<cut>liru_Bath_sexIns_ST</cut>
+		<DR>2</DR>
+		<Round>2</Round>
+		<text>ハァ…ハァ…ハァ…</text>
+		<textSub>Aaah... aaah... aaah...</textSub>
+		<type>caption_liru</type>
+		<startTime>253</startTime>
+		<endTime>433</endTime>
+		<order>continue</order>
+		<Lip>1</Lip>
+	</caption>
+
+	<caption>
+		<cut>liru_Bath_sexIns_ST</cut>
+		<DR>2</DR>
+		<Round>2</Round>
+		<text>お腹の中…アナタで満たされてる</text>
+		<textSub>Estás llenando mi interior al máximo... </textSub>
+		<type>caption_liru</type>
+		<startTime>376</startTime>
+		<endTime>556</endTime>
+		<order>continue</order>
+		<sound>liru_sex_insAct_LP_b02</sound>
+	</caption>
+
+	<caption>
+		<cut>liru_Bath_sexIns_ST</cut>
+		<DR>2</DR>
+		<Round>2</Round>
+		<text>こうしてるときが 一番幸せかも</text>
+		<textSub>Creo que lo que más me gusta es este momento...</textSub>
+		<type>caption_liru</type>
+		<startTime>489</startTime>
+		<endTime>669</endTime>
+		<order>continue</order>
+	</caption>
+
+	<!-- ===== Round:1 =====  -->
+
+	<caption>
+		<cut>liru_Bath_sexPst1_ST</cut>
+		<DR>2</DR>
+		<Round>1</Round>
+		<text>最初はゆっくりするね</text>
+		<textSub>Empecemos despacio... </textSub>
+		<type>caption_liru</type>
+		<startTime>20</startTime>
+		<endTime>200</endTime>
+		<order>header</order>
+		<sound>liru_sex_pstActA_ST_b01</sound>
+	</caption>
+
+	<caption>
+		<cut>liru_Bath_sexPst1_ST</cut>
+		<DR>2</DR>
+		<Round>1</Round>
+		<text>あなたの形…膣内で感じたいの</text>
+		<textSub>... quiero sentir tu hombría dentro de mí... </textSub>
+		<type>caption_liru</type>
+		<startTime>115</startTime>
+		<endTime>295</endTime>
+		<order>continue</order>
+	</caption>
+
+	<caption>
+		<cut>liru_Bath_sexPst1_ST</cut>
+		<DR>2</DR>
+		<Round>1</Round>
+		<text>あ…ん…あん…ん…</text>
+		<textSub>Aah... mmm... ahn... mmm... </textSub>
+		<type>caption_liru</type>
+		<startTime>232</startTime>
+		<endTime>412</endTime>
+		<order>continue</order>
+		<loop>999</loop>
+		<Lip>1</Lip>
+		<sound>liru_sex_pstActA_LP_b01</sound>
+	</caption>
+
+	<!-- ===== Round:2 =====  -->
+
+	<caption>
+		<cut>liru_Bath_sexPst1_ST</cut>
+		<DR>2</DR>
+		<Round>2</Round>
+		<text>じゃぁ アタシの膣内で</text>
+		<textSub>Bien... Te voy a calentar...</textSub>
+		<type>caption_liru</type>
+		<startTime>20</startTime>
+		<endTime>200</endTime>
+		<order>header</order>
+		<sound>liru_sex_pstActA_ST_b02</sound>
+	</caption>
+
+	<caption>
+		<cut>liru_Bath_sexPst1_ST</cut>
+		<DR>2</DR>
+		<Round>2</Round>
+		<text>いっぱい温めてあげるッ!</text>
+		<textSub>... ¡con mis entrañas!</textSub>
+		<type>caption_liru</type>
+		<startTime>105</startTime>
+		<endTime>285</endTime>
+		<order>continue</order>
+	</caption>
+
+	<caption>
+		<cut>liru_Bath_sexPst1_ST</cut>
+		<DR>2</DR>
+		<Round>2</Round>
+		<text>あ…ん…あん…ん…</text>
+		<textSub>Aah... mmm... ahn... mmm... </textSub>
+		<type>caption_liru</type>
+		<startTime>176</startTime>
+		<endTime>356</endTime>
+		<order>continue</order>
+		<loop>999</loop>
+		<Lip>1</Lip>
+		<sound>liru_sex_pstActA_LP_b01</sound>
+	</caption>
+
+	<!-- ===== Round:1 =====  -->
+
+	<caption>
+		<cut>liru_Bath_sexPst2_ST</cut>
+		<DR>2</DR>
+		<Round>1</Round>
+		<text>ンッ…アァンッ</text>
+		<textSub>Mmm... Ahn... </textSub>
+		<type>caption_liru</type>
+		<startTime>1</startTime>
+		<endTime>181</endTime>
+		<order>header</order>
+		<Lip>1</Lip>
+		<sound>liru_sex_pstActB_ST_b01</sound>
+	</caption>
+
+	<caption>
+		<cut>liru_Bath_sexPst2_ST</cut>
+		<DR>2</DR>
+		<Round>1</Round>
+		<text>こうしてると…</text>
+		<textSub>Cuando hacemos esto... realmente me enamoro de tu pene... </textSub>
+		<type>caption_liru</type>
+		<startTime>76</startTime>
+		<endTime>256</endTime>
+		<order>continue</order>
+	</caption>
+
+	<caption>
+		<cut>liru_Bath_sexPst2_ST</cut>
+		<DR>2</DR>
+		<Round>1</Round>
+		<text>おちんちん 愛おしくなって来ちゃうッ</text>
+		<type>caption_liru</type>
+		<startTime>115</startTime>
+		<endTime>295</endTime>
+		<order>continue</order>
+	</caption>
+
+	<caption>
+		<cut>liru_Bath_sexPst2_ST</cut>
+		<DR>2</DR>
+		<Round>1</Round>
+		<text>んんッ…あん…やんッ…ンァ…</text>
+		<textSub>Mmm... ahn... oooh... naah... </textSub>
+		<type>caption_liru</type>
+		<startTime>200</startTime>
+		<endTime>380</endTime>
+		<order>continue</order>
+		<loop>999</loop>
+		<Lip>1</Lip>
+		<sound>liru_sex_pstActB_LP_b01</sound>
+	</caption>
+
+	<!-- ===== Round:2 =====  -->
+
+	<caption>
+		<cut>liru_Bath_sexPst2_ST</cut>
+		<DR>2</DR>
+		<Round>2</Round>
+		<text>ンッ…ンンッ…やだッ</text>
+		<textSub>Mmm... Oh, sí... </textSub>
+		<type>caption_liru</type>
+		<startTime>1</startTime>
+		<endTime>181</endTime>
+		<order>header</order>
+		<sound>liru_sex_pstActB_ST_b02</sound>
+	</caption>
+
+	<caption>
+		<cut>liru_Bath_sexPst2_ST</cut>
+		<DR>2</DR>
+		<Round>2</Round>
+		<text>自然と動き…速くなっちゃってるぅ</text>
+		<textSub>Mis movimientos se hacen cada vez más rápidos por sí solos... ¡Aahn!</textSub>
+		<type>caption_liru</type>
+		<startTime>78</startTime>
+		<endTime>258</endTime>
+		<order>continue</order>
+	</caption>
+
+	<caption>
+		<cut>liru_Bath_sexPst2_ST</cut>
+		<DR>2</DR>
+		<Round>2</Round>
+		<text>んんッ…あん…やんッ…ンァ…</text>
+		<textSub>Mmm... ahn... oooh... naah... </textSub>
+		<type>caption_liru</type>
+		<startTime>178</startTime>
+		<endTime>358</endTime>
+		<order>continue</order>
+		<loop>999</loop>
+		<Lip>1</Lip>
+		<sound>liru_sex_pstActB_LP_b01</sound>
+	</caption>
+
+	<!-- ===== Round:1 =====  -->
+
+	<caption>
+		<cut>liru_Bath_sexPst3_ST</cut>
+		<DR>2</DR>
+		<Round>1</Round>
+		<text>ンッ…ハァッ…ンンッ</text>
+		<textSub>Mmm... aahnnn... mmm...</textSub>
+		<type>caption_liru</type>
+		<startTime>0</startTime>
+		<endTime>180</endTime>
+		<order>header</order>
+		<Lip>1</Lip>
+		<sound>liru_sex_pstActC_ST_b01</sound>
+	</caption>
+
+	<caption>
+		<cut>liru_Bath_sexPst3_ST</cut>
+		<DR>2</DR>
+		<Round>1</Round>
+		<text>ほら…気持ちいい？</text>
+		<textSub>¿Se siente bien? </textSub>
+		<type>caption_liru</type>
+		<startTime>59</startTime>
+		<endTime>239</endTime>
+		<order>continue</order>
+	</caption>
+
+	<caption>
+		<cut>liru_Bath_sexPst3_ST</cut>
+		<DR>2</DR>
+		<Round>1</Round>
+		<text>アナタの好きな時に…イッていいからねッ！</text>
+		<textSub>Córrete cuando quieras... Me gusta que lo hagas.</textSub>
+		<type>caption_liru</type>
+		<startTime>150</startTime>
+		<endTime>330</endTime>
+		<order>continue</order>
+	</caption>
+
+	<caption>
+		<cut>liru_Bath_sexPst3_ST</cut>
+		<DR>2</DR>
+		<Round>1</Round>
+		<text>んんッ…あん…やぁん…</text>
+		<textSub>Mmm... ahn... aah...</textSub>
+		<type>caption_liru</type>
+		<startTime>285</startTime>
+		<endTime>465</endTime>
+		<order>continue</order>
+		<loop>999</loop>
+		<sound>liru_sex_pstActC_LP_b01</sound>
+	</caption>
+
+	<!-- ===== Round:2 =====  -->
+
+	<caption>
+		<cut>liru_Bath_sexPst3_ST</cut>
+		<DR>2</DR>
+		<Round>2</Round>
+		<text>アッ…アッ…ンッ…アッ…</text>
+		<textSub>Aah... aaah... mmm... aah...</textSub>
+		<type>caption_liru</type>
+		<startTime>0</startTime>
+		<endTime>180</endTime>
+		<order>header</order>
+		<Lip>1</Lip>
+		<sound>liru_sex_pstActC_ST_b02</sound>
+	</caption>
+
+	<caption>
+		<cut>liru_Bath_sexPst3_ST</cut>
+		<DR>2</DR>
+		<Round>2</Round>
+		<text>おちんちん良すぎて…</text>
+		<textSub>Tu pene se siente demasiado bien... </textSub>
+		<type>caption_liru</type>
+		<startTime>77</startTime>
+		<endTime>257</endTime>
+		<order>continue</order>
+	</caption>
+
+	<caption>
+		<cut>liru_Bath_sexPst3_ST</cut>
+		<DR>2</DR>
+		<Round>2</Round>
+		<text>どんどん激しくなっちゃうッ！</text>
+		<textSub>... va cada vez más rápido.</textSub>
+		<type>caption_liru</type>
+		<startTime>146</startTime>
+		<endTime>326</endTime>
+		<order>continue</order>
+	</caption>
+
+	<caption>
+		<cut>liru_Bath_sexPst3_ST</cut>
+		<DR>2</DR>
+		<Round>2</Round>
+		<text>んんッ…あん…やぁん…</text>
+		<textSub>Mmm... ahn... aah...</textSub>
+		<type>caption_liru</type>
+		<startTime>277</startTime>
+		<endTime>457</endTime>
+		<order>continue</order>
+		<loop>999</loop>
+		<Lip>1</Lip>
+		<sound>liru_sex_pstActC_LP_b01</sound>
+	</caption>
+
+	<!-- ===== Round:1 =====  -->
+
+	<caption>
+		<cut>liru_Bath_sexRdy_ST</cut>
+		<DR>2</DR>
+		<Round>1</Round>
+		<text>バックがい～い？</text>
+		<textSub>¿Quieres hacerlo por detrás?</textSub>
+		<type>caption_liru</type>
+		<startTime>0</startTime>
+		<endTime>180</endTime>
+		<order>header</order>
+		<sound>liru_chg_backBath_b01</sound>
+	</caption>
+
+	<caption>
+		<cut>liru_Bath_sexRdy_ST</cut>
+		<DR>2</DR>
+		<Round>1</Round>
+		<text>アタシもそろそろ…うしろからして欲しい</text>
+		<textSub>Quiero... que me tomes por detrás también... </textSub>
+		<type>caption_liru</type>
+		<startTime>55</startTime>
+		<endTime>235</endTime>
+		<order>continue</order>
+	</caption>
+
+	<caption>
+		<cut>liru_Bath_sexRdy_ST</cut>
+		<DR>2</DR>
+		<Round>1</Round>
+		<text>はいッ！</text>
+		<textSub>¡Aquí!</textSub>
+		<type>caption_liru</type>
+		<startTime>158</startTime>
+		<endTime>338</endTime>
+		<order>continue</order>
+	</caption>
+
+	<!-- ===== Round:2 =====  -->
+
+	<caption>
+		<cut>liru_Bath_sexRdy_ST</cut>
+		<DR>2</DR>
+		<Round>2</Round>
+		<text>アタシのおしりが恋しくなっちゃった？</text>
+		<textSub>¿Extrañas mi trasero?</textSub>
+		<type>caption_liru</type>
+		<startTime>0</startTime>
+		<endTime>180</endTime>
+		<order>header</order>
+		<sound>liru_chg_back_b02</sound>
+	</caption>
+
+	<caption>
+		<cut>liru_Bath_sexRdy_ST</cut>
+		<DR>2</DR>
+		<Round>2</Round>
+		<text>えへへッ</text>
+		<textSub>Je, je.</textSub>
+		<type>caption_liru</type>
+		<startTime>63</startTime>
+		<endTime>243</endTime>
+		<order>continue</order>
+		<Lip>1</Lip>
+	</caption>
+
+	<caption>
+		<cut>liru_Bath_sexRdy_ST</cut>
+		<DR>2</DR>
+		<Round>2</Round>
+		<text>じゃ いっぱい愛してねッ！</text>
+		<textSub>Pues bien, ¡hazle el amor todo lo que quieras!</textSub>
+		<type>caption_liru</type>
+		<startTime>96</startTime>
+		<endTime>276</endTime>
+		<order>continue</order>
+	</caption>
+
+	<!-- ===== Round:1 =====  -->
+
+	<caption>
+		<cut>liru_Bath_sexpull_ST</cut>
+		<DR>2</DR>
+		<Round>1</Round>
+		<text>アン…おちんちんに…</text>
+		<textSub>Ahn... se está pegando a... </textSub>
+		<type>caption_liru</type>
+		<startTime>1</startTime>
+		<endTime>181</endTime>
+		<order>header</order>
+		<sound>liru_sex_pullAct_ST_b01</sound>
+	</caption>
+
+	<caption>
+		<cut>liru_Bath_sexpull_ST</cut>
+		<DR>2</DR>
+		<Round>1</Round>
+		<text>吸い付いちゃってるぅ…アンッ</text>
+		<textSub>... tu pene... ¡Ahn!</textSub>
+		<type>caption_liru</type>
+		<startTime>43</startTime>
+		<endTime>223</endTime>
+		<order>continue</order>
+	</caption>
+
+	<caption>
+		<cut>liru_Bath_sexpull_ST</cut>
+		<DR>2</DR>
+		<Round>1</Round>
+		<text>ハァ…ハァ…</text>
+		<textSub>Aaah... aaah...</textSub>
+		<type>caption_liru</type>
+		<startTime>166</startTime>
+		<endTime>346</endTime>
+		<order>continue</order>
+		<Lip>1</Lip>
+	</caption>
+
+	<!-- ===== Round:2 =====  -->
+
+	<caption>
+		<cut>liru_Bath_sexpull_ST</cut>
+		<DR>2</DR>
+		<Round>2</Round>
+		<text>ゆっくり抜くからぁ…</text>
+		<textSub>Lo sacaré lentamente... </textSub>
+		<type>caption_liru</type>
+		<startTime>1</startTime>
+		<endTime>181</endTime>
+		<order>header</order>
+		<sound>liru_sex_pullAct_ST_b02</sound>
+	</caption>
+
+	<caption>
+		<cut>liru_Bath_sexpull_ST</cut>
+		<DR>2</DR>
+		<Round>2</Round>
+		<text>ンァッ…ンンッ</text>
+		<textSub>¡Naaah! ¡Mmmm!</textSub>
+		<type>caption_liru</type>
+		<startTime>59</startTime>
+		<endTime>239</endTime>
+		<order>continue</order>
+	</caption>
+
+	<caption>
+		<cut>liru_Bath_sexpull_ST</cut>
+		<DR>2</DR>
+		<Round>2</Round>
+		<text>ハァ…ハァ…</text>
+		<textSub>Aaah... aaah...</textSub>
+		<type>caption_liru</type>
+		<startTime>126</startTime>
+		<endTime>306</endTime>
+		<order>continue</order>
+		<Lip>1</Lip>
+	</caption>
+
+	<!-- ===== Round:1 =====  -->
+
+	<caption>
+		<cut>liru_Bath_tkk1_ST</cut>
+		<DR>2</DR>
+		<Round>1</Round>
+		<text>さぁッ！</text>
+		<textSub>¡Bien!</textSub>
+		<type>caption_liru</type>
+		<startTime>25</startTime>
+		<endTime>205</endTime>
+		<order>header</order>
+		<sound>liru_hand_rdy_LP_b01</sound>
+	</caption>
+
+	<caption>
+		<cut>liru_Bath_tkk1_ST</cut>
+		<DR>2</DR>
+		<Round>1</Round>
+		<text>まずはリラックスして…</text>
+		<textSub>Solo relájate... </textSub>
+		<type>caption_liru</type>
+		<startTime>28</startTime>
+		<endTime>208</endTime>
+		<order>continue</order>
+	</caption>
+
+	<caption>
+		<cut>liru_Bath_tkk1_ST</cut>
+		<DR>2</DR>
+		<Round>1</Round>
+		<text>アタシにまかせてね！</text>
+		<textSub>¡Y déjame todo a mí!</textSub>
+		<type>caption_liru</type>
+		<startTime>78</startTime>
+		<endTime>258</endTime>
+		<order>continue</order>
+	</caption>
+
+	<caption>
+		<cut>liru_Bath_tkk1_ST</cut>
+		<DR>2</DR>
+		<Round>1</Round>
+		<text>んっ…んっ…んっ…ン…</text>
+		<textSub>Mmm... mmm... mmm... mm...</textSub>
+		<type>caption_liru</type>
+		<startTime>140</startTime>
+		<endTime>320</endTime>
+		<order>continue</order>
+		<loop>999</loop>
+		<Lip>1</Lip>
+		<sound>liru_hand_pst_LP_b02</sound>
+	</caption>
+
+	<!-- ===== Round:2 =====  -->
+
+	<caption>
+		<cut>liru_Bath_tkk1_ST</cut>
+		<DR>2</DR>
+		<Round>2</Round>
+		<text>さて…</text>
+		<textSub>Primero... </textSub>
+		<type>caption_liru</type>
+		<startTime>25</startTime>
+		<endTime>205</endTime>
+		<order>header</order>
+		<sound>liru_hand_rdy_LP_b02</sound>
+	</caption>
+
+	<caption>
+		<cut>liru_Bath_tkk1_ST</cut>
+		<DR>2</DR>
+		<Round>2</Round>
+		<text>まずはアタシがおちんちん</text>
+		<textSub>¡Voy a hacer que tu pene sea un poco más grande!</textSub>
+		<type>caption_liru</type>
+		<startTime>30</startTime>
+		<endTime>210</endTime>
+		<order>continue</order>
+	</caption>
+
+	<caption>
+		<cut>liru_Bath_tkk1_ST</cut>
+		<DR>2</DR>
+		<Round>2</Round>
+		<text>おっきくしてあげるッ！</text>
+		<type>caption_liru</type>
+		<startTime>83</startTime>
+		<endTime>263</endTime>
+		<order>continue</order>
+	</caption>
+
+	<caption>
+		<cut>liru_Bath_tkk1_ST</cut>
+		<DR>2</DR>
+		<Round>2</Round>
+		<text>んっ…んっ…んっ…ン…</text>
+		<textSub>Mmm... mmm... mmm... mm...</textSub>
+		<type>caption_liru</type>
+		<startTime>140</startTime>
+		<endTime>320</endTime>
+		<order>continue</order>
+		<loop>999</loop>
+		<Lip>1</Lip>
+		<sound>liru_hand_pst_LP_b02</sound>
+	</caption>
+
+	<!-- ===== Round:1 =====  -->
+
+	<caption>
+		<cut>liru_Bath_tkk2_ST</cut>
+		<DR>2</DR>
+		<Round>1</Round>
+		<text>おちんちん温かい…</text>
+		<textSub>Tu pene está muy caliente... </textSub>
+		<type>caption_liru</type>
+		<startTime>1</startTime>
+		<endTime>181</endTime>
+		<order>header</order>
+		<sound>liru_hand_pst_ST_b01</sound>
+	</caption>
+
+	<caption>
+		<cut>liru_Bath_tkk2_ST</cut>
+		<DR>2</DR>
+		<Round>1</Round>
+		<text>これがいつも自分に入ってるって考えると…</text>
+		<textSub>Es increíble cuando me detengo para darme cuenta de que cabe dentro de mí...</textSub>
+		<type>caption_liru</type>
+		<startTime>72</startTime>
+		<endTime>252</endTime>
+		<order>continue</order>
+	</caption>
+
+	<caption>
+		<cut>liru_Bath_tkk2_ST</cut>
+		<DR>2</DR>
+		<Round>1</Round>
+		<text>結構すごいよね</text>
+		<type>caption_liru</type>
+		<startTime>156</startTime>
+		<endTime>336</endTime>
+		<order>continue</order>
+	</caption>
+
+	<caption>
+		<cut>liru_Bath_tkk2_ST</cut>
+		<DR>2</DR>
+		<Round>1</Round>
+		<text>んっ…んっ…んっ…ン…</text>
+		<textSub>Mmm... mmm... mmm... mm...</textSub>
+		<type>caption_liru</type>
+		<startTime>220</startTime>
+		<endTime>400</endTime>
+		<order>continue</order>
+		<loop>999</loop>
+		<Lip>1</Lip>
+		<sound>liru_hand_pst_LP_b02</sound>
+	</caption>
+
+	<!-- ===== Round:2 =====  -->
+
+	<caption>
+		<cut>liru_Bath_tkk2_ST</cut>
+		<DR>2</DR>
+		<Round>2</Round>
+		<text>あぁ…手の中でどんどん固くなってきてる…</text>
+		<textSub>Aaah... Cada vez se pone más duro en mi mano...</textSub>
+		<type>caption_liru</type>
+		<startTime>1</startTime>
+		<endTime>181</endTime>
+		<order>header</order>
+		<sound>liru_hand_pst_ST_b02</sound>
+	</caption>
+
+	<caption>
+		<cut>liru_Bath_tkk2_ST</cut>
+		<DR>2</DR>
+		<Round>2</Round>
+		<text>気持ちよくなってくれてるの？</text>
+		<textSub>¿Se siente bien?</textSub>
+		<type>caption_liru</type>
+		<startTime>118</startTime>
+		<endTime>298</endTime>
+		<order>continue</order>
+	</caption>
+
+	<caption>
+		<cut>liru_Bath_tkk2_ST</cut>
+		<DR>2</DR>
+		<Round>2</Round>
+		<text>嬉しい…</text>
+		<textSub>Me alegro mucho...</textSub>
+		<type>caption_liru</type>
+		<startTime>188</startTime>
+		<endTime>368</endTime>
+		<order>continue</order>
+	</caption>
+
+	<caption>
+		<cut>liru_Bath_tkk2_ST</cut>
+		<DR>2</DR>
+		<Round>2</Round>
+		<text>んっ…んっ…んっ…ン…</text>
+		<textSub>Mmm... mmm... mmm... mm...</textSub>
+		<type>caption_liru</type>
+		<startTime>240</startTime>
+		<endTime>420</endTime>
+		<order>continue</order>
+		<loop>999</loop>
+		<Lip>1</Lip>
+		<sound>liru_hand_pst_LP_b02</sound>
+	</caption>
+
+
+	<!-- ===================== DR(デレ度):3 =====================  -->
+
+	<!-- ===== Round:1 =====  -->
+
+	<caption>
+		<cut>liru_Bath_fela1_ST</cut>
+		<DR>3</DR>
+		<Round>1</Round>
+		<text>舐めて欲しい～ッ？</text>
+		<textSub>¿Quieres que te lo chupe?</textSub>
+		<type>caption_liru</type>
+		<startTime>0</startTime>
+		<endTime>180</endTime>
+		<order>header</order>
+		<sound>liru_fela_pstA_ST_c01</sound>
+	</caption>
+
+	<caption>
+		<cut>liru_Bath_fela1_ST</cut>
+		<DR>3</DR>
+		<Round>1</Round>
+		<text>しょ～がないな～！</text>
+		<textSub>¡Oh, muy bien entonces!</textSub>
+		<type>caption_liru</type>
+		<startTime>54</startTime>
+		<endTime>234</endTime>
+		<order>continue</order>
+	</caption>
+
+	<caption>
+		<cut>liru_Bath_fela1_ST</cut>
+		<DR>3</DR>
+		<Round>1</Round>
+		<text>は～んむッ…ンッ…</text>
+		<textSub>Aaaahm... mmm...</textSub>
+		<type>caption_liru</type>
+		<startTime>121</startTime>
+		<endTime>301</endTime>
+		<order>continue</order>
+	</caption>
+
+	<caption>
+		<cut>liru_Bath_fela1_ST</cut>
+		<DR>3</DR>
+		<Round>1</Round>
+		<text>んっんっ…ぺろ…れろ…んっ</text>
+		<textSub>Mmmmgh... slrp... slrp... mmm...</textSub>
+		<type>caption_liru</type>
+		<startTime>168</startTime>
+		<endTime>348</endTime>
+		<order>continue</order>
+		<loop>999</loop>
+		<Lip>1</Lip>
+		<sound>liru_fela_pstA_LP_c01</sound>
+	</caption>
+
+	<!-- ===== Round:2 =====  -->
+
+	<caption>
+		<cut>liru_Bath_fela1_ST</cut>
+		<DR>3</DR>
+		<Round>2</Round>
+		<text>よく見るとコレって…</text>
+		<textSub>Cuando lo miro bien...</textSub>
+		<type>caption_liru</type>
+		<startTime>1</startTime>
+		<endTime>181</endTime>
+		<order>header</order>
+		<sound>liru_fela_pstA_ST_c02</sound>
+	</caption>
+
+	<caption>
+		<cut>liru_Bath_fela1_ST</cut>
+		<DR>3</DR>
+		<Round>2</Round>
+		<text>結構おいしそーだよなぁ？</text>
+		<textSub>... luce bastante sabroso, ¿no?</textSub>
+		<type>caption_liru</type>
+		<startTime>57</startTime>
+		<endTime>237</endTime>
+		<order>continue</order>
+	</caption>
+
+	<caption>
+		<cut>liru_Bath_fela1_ST</cut>
+		<DR>3</DR>
+		<Round>2</Round>
+		<text>あ～むッ…ンンッ！</text>
+		<textSub>Aaaahm... ¡Mmmm!</textSub>
+		<type>caption_liru</type>
+		<startTime>120</startTime>
+		<endTime>300</endTime>
+		<order>continue</order>
+	</caption>
+
+	<caption>
+		<cut>liru_Bath_fela1_ST</cut>
+		<DR>3</DR>
+		<Round>2</Round>
+		<text>んっんっ…ぺろ…れろ…んっ</text>
+		<textSub>Mmmmgh... slrp... slrp... mmm...</textSub>
+		<type>caption_liru</type>
+		<startTime>180</startTime>
+		<endTime>360</endTime>
+		<order>continue</order>
+		<loop>999</loop>
+		<Lip>1</Lip>
+		<sound>liru_fela_pstA_LP_c01</sound>
+	</caption>
+
+	<!-- ===== Round: =====  -->
+
+	<caption>
+		<cut>liru_Bath_fela2_LP</cut>
+		<DR>3</DR>
+		<text>んっんっじゅる</text>
+		<textSub>Mmmm, slrrrp...</textSub>
+		<type>caption_liru</type>
+		<startTime>1</startTime>
+		<endTime>181</endTime>
+		<order>header</order>
+		<loop>999</loop>
+		<sound>liru_fela_pstB_LP_c01</sound>
+	</caption>
+
+	<!-- ===== Round:1 =====  -->
+
+	<caption>
+		<cut>liru_Bath_felaAft_ST</cut>
+		<DR>3</DR>
+		<Round>1</Round>
+		<text>あぁ～ん 精液おいしぃ</text>
+		<textSub>Aaahn... El semen sabe muy bien...</textSub>
+		<type>caption_liru</type>
+		<startTime>3</startTime>
+		<endTime>183</endTime>
+		<order>header</order>
+		<sound>liru_fela_fin_LP_c01</sound>
+	</caption>
+
+	<caption>
+		<cut>liru_Bath_felaAft_ST</cut>
+		<DR>3</DR>
+		<Round>1</Round>
+		<text>ねぇねぇ…</text>
+		<textSub>Oye... </textSub>
+		<type>caption_liru</type>
+		<startTime>108</startTime>
+		<endTime>288</endTime>
+		<order>continue</order>
+	</caption>
+
+	<caption>
+		<cut>liru_Bath_felaAft_ST</cut>
+		<DR>3</DR>
+		<Round>1</Round>
+		<text>次は下のお口にも出して欲しいナッ！</text>
+		<textSub>¡Quiero que te corras en mi otra boca de una vez!</textSub>
+		<type>caption_liru</type>
+		<startTime>145</startTime>
+		<endTime>325</endTime>
+		<order>continue</order>
+	</caption>
+
+	<!-- ===== Round:2 =====  -->
+
+	<caption>
+		<cut>liru_Bath_felaAft_ST</cut>
+		<DR>3</DR>
+		<Round>2</Round>
+		<text>あれ…何でだろう…</text>
+		<textSub>Uuh... Me pregunto por qué... </textSub>
+		<type>caption_liru</type>
+		<startTime>20</startTime>
+		<endTime>200</endTime>
+		<order>header</order>
+		<sound>liru_fela_fin_LP_c02</sound>
+	</caption>
+
+	<caption>
+		<cut>liru_Bath_felaAft_ST</cut>
+		<DR>3</DR>
+		<Round>2</Round>
+		<text>いつもは苦いのに…今日は美味しく感じちゃう</text>
+		<textSub>Suele ser amargo, pero... hoy sabe bien...</textSub>
+		<type>caption_liru</type>
+		<startTime>87</startTime>
+		<endTime>267</endTime>
+		<order>continue</order>
+	</caption>
+
+	<!-- ===== Round: =====  -->
+
+	<caption>
+		<cut>liru_Bath_felaFin_ST</cut>
+		<DR>3</DR>
+		<text>んん～～んん～～んん～</text>
+		<textSub>Mmmm..... mmm..... mmm.....</textSub>
+		<type>caption_liru</type>
+		<startTime>1</startTime>
+		<endTime>181</endTime>
+		<order>header</order>
+		<sound>liru_fela_fin_ST_c01</sound>
+	</caption>
+
+	<caption>
+		<cut>liru_Bath_felaFin_ST</cut>
+		<DR>3</DR>
+		<text>っぷはぁっ…</text>
+		<textSub>¡¡Puaah!!</textSub>
+		<type>caption_liru</type>
+		<startTime>169</startTime>
+		<endTime>349</endTime>
+		<order>continue</order>
+		<Lip>1</Lip>
+	</caption>
+
+	<caption>
+		<cut>liru_Bath_felaFin_ST</cut>
+		<DR>3</DR>
+		<text>ハァ…ハァ…</text>
+		<textSub>Aaah... aaah...</textSub>
+		<type>caption_liru</type>
+		<startTime>220</startTime>
+		<endTime>400</endTime>
+		<order>continue</order>
+		<loop>999</loop>
+		<Lip>1</Lip>
+		<sound>liru_breathH_LP_c01</sound>
+	</caption>
+
+	<!-- ===== Round:1 =====  -->
+
+	<caption>
+		<cut>liru_Bath_paiAft_ST</cut>
+		<DR>3</DR>
+		<Round>1</Round>
+		<text>こんなに出しちゃって…</text>
+		<textSub>Hay mucho... </textSub>
+		<type>caption_liru</type>
+		<startTime>20</startTime>
+		<endTime>200</endTime>
+		<order>header</order>
+		<sound>liru_pai_fin_LP_c01</sound>
+	</caption>
+
+	<caption>
+		<cut>liru_Bath_paiAft_ST</cut>
+		<DR>3</DR>
+		<Round>1</Round>
+		<text>中出しする分…無くなったりしないだろうなッ！</text>
+		<textSub>¡Más vale que esto no te quite la cantidad de lo que sacarás dentro de mí!</textSub>
+		<type>caption_liru</type>
+		<startTime>64</startTime>
+		<endTime>244</endTime>
+		<order>continue</order>
+	</caption>
+
+	<!-- ===== Round:2 =====  -->
+
+	<caption>
+		<cut>liru_Bath_paiAft_ST</cut>
+		<DR>3</DR>
+		<Round>2</Round>
+		<text>気持ちよくなってくれた？</text>
+		<textSub>¿Lo disfrutaste?</textSub>
+		<type>caption_liru</type>
+		<startTime>20</startTime>
+		<endTime>200</endTime>
+		<order>header</order>
+		<sound>liru_pai_fin_LP_c02</sound>
+	</caption>
+
+	<caption>
+		<cut>liru_Bath_paiAft_ST</cut>
+		<DR>3</DR>
+		<Round>2</Round>
+		<text>アタシもその分…気持ちよくしてくんないと…</text>
+		<textSub>En ese caso, ¡tienes que hacerme sentir igual de bien!</textSub>
+		<type>caption_liru</type>
+		<startTime>75</startTime>
+		<endTime>255</endTime>
+		<order>continue</order>
+	</caption>
+
+	<caption>
+		<cut>liru_Bath_paiAft_ST</cut>
+		<DR>3</DR>
+		<Round>2</Round>
+		<text>ダメだゾ！</text>
+		<type>caption_liru</type>
+		<startTime>170</startTime>
+		<endTime>350</endTime>
+		<order>continue</order>
+	</caption>
+
+	<!-- ===== Round:1 =====  -->
+
+	<caption>
+		<cut>liru_Bath_paiFin_ST</cut>
+		<DR>3</DR>
+		<Round>1</Round>
+		<text>ハァンッ…ンンッ！</text>
+		<textSub>Aaahn... mmm...</textSub>
+		<type>caption_liru</type>
+		<startTime>30</startTime>
+		<endTime>210</endTime>
+		<order>header</order>
+		<Lip>1</Lip>
+		<sound>liru_pai_fin_ST_c01</sound>
+	</caption>
+
+	<caption>
+		<cut>liru_Bath_paiFin_ST</cut>
+		<DR>3</DR>
+		<Round>1</Round>
+		<text>エッチな汁…いっぱいかかってるぅ…</text>
+		<textSub>Mucho jugo travieso... sobre mí...</textSub>
+		<type>caption_liru</type>
+		<startTime>52</startTime>
+		<endTime>232</endTime>
+		<order>continue</order>
+	</caption>
+
+	<caption>
+		<cut>liru_Bath_paiFin_ST</cut>
+		<DR>3</DR>
+		<Round>1</Round>
+		<text>ハァ…ハァ…</text>
+		<textSub>Aaah... aaah...</textSub>
+		<type>caption_liru</type>
+		<startTime>155</startTime>
+		<endTime>335</endTime>
+		<order>continue</order>
+		<Lip>1</Lip>
+	</caption>
+
+	<!-- ===== Round:2 =====  -->
+
+	<caption>
+		<cut>liru_Bath_paiFin_ST</cut>
+		<DR>3</DR>
+		<Round>2</Round>
+		<text>ンンーッ…アァッ…</text>
+		<textSub>Mmm... ahn...</textSub>
+		<type>caption_liru</type>
+		<startTime>30</startTime>
+		<endTime>210</endTime>
+		<order>header</order>
+		<Lip>1</Lip>
+		<sound>liru_pai_fin_ST_c02</sound>
+	</caption>
+
+	<caption>
+		<cut>liru_Bath_paiFin_ST</cut>
+		<DR>3</DR>
+		<Round>2</Round>
+		<text>アタシのおっぱいで…いっぱいイってーッ！</text>
+		<textSub>¡Córrete sobre mis pechos!</textSub>
+		<type>caption_liru</type>
+		<startTime>43</startTime>
+		<endTime>223</endTime>
+		<order>continue</order>
+	</caption>
+
+	<caption>
+		<cut>liru_Bath_paiFin_ST</cut>
+		<DR>3</DR>
+		<Round>2</Round>
+		<text>ハァ…ハァ…</text>
+		<textSub>Aaah... aaah...</textSub>
+		<type>caption_liru</type>
+		<startTime>136</startTime>
+		<endTime>316</endTime>
+		<order>continue</order>
+		<Lip>1</Lip>
+	</caption>
+
+	<!-- ===== Round:1 =====  -->
+
+	<caption>
+		<cut>liru_Bath_paiPst1_ST</cut>
+		<DR>3</DR>
+		<Round>1</Round>
+		<text>アタシの魅惑のおっぱいで…</text>
+		<textSub>Voy a mostrarte el paraíso...</textSub>
+		<type>caption_liru</type>
+		<startTime>1</startTime>
+		<endTime>181</endTime>
+		<order>header</order>
+		<sound>liru_pai_pstA_ST_c01</sound>
+	</caption>
+
+	<caption>
+		<cut>liru_Bath_paiPst1_ST</cut>
+		<DR>3</DR>
+		<Round>1</Round>
+		<text>極楽浄土へ誘ってしんぜよぉ～！ ハァッ！！</text>
+		<textSub>¡¡Con mis pechos!! ¡¡Aaah!!</textSub>
+		<type>caption_liru</type>
+		<startTime>57</startTime>
+		<endTime>237</endTime>
+		<order>continue</order>
+	</caption>
+
+	<caption>
+		<cut>liru_Bath_paiPst1_ST</cut>
+		<DR>3</DR>
+		<Round>1</Round>
+		<text>ハァッ…ンンッ…ンッ…ハァッ…ンッ…</text>
+		<textSub>Aaah... mmmm... mmm... aaah... mmm...</textSub>
+		<type>caption_liru</type>
+		<startTime>165</startTime>
+		<endTime>345</endTime>
+		<order>continue</order>
+		<loop>999</loop>
+		<Lip>1</Lip>
+		<sound>liru_pai_pstA_LP_c01</sound>
+	</caption>
+
+	<!-- ===== Round:2 =====  -->
+
+	<caption>
+		<cut>liru_Bath_paiPst1_ST</cut>
+		<DR>3</DR>
+		<Round>2</Round>
+		<text>パイズリは男のロマンってか～？</text>
+		<textSub>Una masturbación con los pechos es lo que todos los hombres quieren, ¿verdad?</textSub>
+		<type>caption_liru</type>
+		<startTime>0</startTime>
+		<endTime>180</endTime>
+		<order>header</order>
+		<sound>liru_pai_pstA_ST_c02</sound>
+	</caption>
+
+	<caption>
+		<cut>liru_Bath_paiPst1_ST</cut>
+		<DR>3</DR>
+		<Round>2</Round>
+		<text>よーし いっちょ揉んでやっかーッ！</text>
+		<textSub>Bueno, ¡no queda de otra!</textSub>
+		<type>caption_liru</type>
+		<startTime>75</startTime>
+		<endTime>255</endTime>
+		<order>continue</order>
+	</caption>
+
+	<caption>
+		<cut>liru_Bath_paiPst1_ST</cut>
+		<DR>3</DR>
+		<Round>2</Round>
+		<text>ハァッ…ンンッ…ンッ…ハァッ…ンッ…</text>
+		<textSub>Aaah... mmmm... mmm... aaah... mmm...</textSub>
+		<type>caption_liru</type>
+		<startTime>165</startTime>
+		<endTime>345</endTime>
+		<order>continue</order>
+		<loop>999</loop>
+		<Lip>1</Lip>
+		<sound>liru_pai_pstA_LP_c01</sound>
+	</caption>
+
+	<!-- ===== Round:1 =====  -->
+
+	<caption>
+		<cut>liru_Bath_paiPst2_ST</cut>
+		<DR>3</DR>
+		<Round>1</Round>
+		<text>ンッ…おちんちん…どんどん熱くなってるぅ…</text>
+		<textSub>Oh... tu pene... se está poniendo muy caliente... </textSub>
+		<type>caption_liru</type>
+		<startTime>10</startTime>
+		<endTime>190</endTime>
+		<order>header</order>
+		<sound>liru_pai_pstB_ST_c01</sound>
+	</caption>
+
+	<caption>
+		<cut>liru_Bath_paiPst2_ST</cut>
+		<DR>3</DR>
+		<Round>1</Round>
+		<text>それならこっちも～</text>
+		<textSub>Entonces, ¡es hora de la acción!</textSub>
+		<type>caption_liru</type>
+		<startTime>127</startTime>
+		<endTime>307</endTime>
+		<order>continue</order>
+	</caption>
+
+	<caption>
+		<cut>liru_Bath_paiPst2_ST</cut>
+		<DR>3</DR>
+		<Round>1</Round>
+		<text>ハァッ…ンッ…ハァン…ハァッ…ンッ…</text>
+		<textSub>Aaah... aaah... aaah... mmm... </textSub>
+		<type>caption_liru</type>
+		<startTime>190</startTime>
+		<endTime>370</endTime>
+		<order>continue</order>
+		<loop>999</loop>
+		<Lip>1</Lip>
+		<sound>liru_pai_pstB_LP_c01</sound>
+	</caption>
+
+	<!-- ===== Round:2 =====  -->
+
+	<caption>
+		<cut>liru_Bath_paiPst2_ST</cut>
+		<DR>3</DR>
+		<Round>2</Round>
+		<text>はぁ…おちんちんの熱で…</text>
+		<textSub>Aaah... mis pechos se están derritiendo...</textSub>
+		<type>caption_liru</type>
+		<startTime>10</startTime>
+		<endTime>190</endTime>
+		<order>header</order>
+		<sound>liru_pai_pstB_ST_c02</sound>
+	</caption>
+
+	<caption>
+		<cut>liru_Bath_paiPst2_ST</cut>
+		<DR>3</DR>
+		<Round>2</Round>
+		<text>おっぱい溶けちゃうよぉ…</text>
+		<textSub>... porque tu pene está muy caliente...</textSub>
+		<type>caption_liru</type>
+		<startTime>76</startTime>
+		<endTime>256</endTime>
+		<order>continue</order>
+	</caption>
+
+	<caption>
+		<cut>liru_Bath_paiPst2_ST</cut>
+		<DR>3</DR>
+		<Round>2</Round>
+		<text>ハァッ…ンッ…ハァン…ハァッ…ンッ…</text>
+		<textSub>Aaah... aaah... aaah... mmm... </textSub>
+		<type>caption_liru</type>
+		<startTime>143</startTime>
+		<endTime>323</endTime>
+		<order>continue</order>
+		<loop>999</loop>
+		<Lip>1</Lip>
+		<sound>liru_pai_pstB_LP_c01</sound>
+	</caption>
+
+	<!-- ===== Round:1 =====  -->
+
+	<caption>
+		<cut>liru_Bath_pet_ST</cut>
+		<DR>3</DR>
+		<Round>1</Round>
+		<text>オォッ！</text>
+		<textSub>¡Oh!</textSub>
+		<type>caption_liru</type>
+		<startTime>30</startTime>
+		<endTime>210</endTime>
+		<order>header</order>
+		<Lip>1</Lip>
+		<sound>liru_bath_pet_ST_c01</sound>
+	</caption>
+
+	<caption>
+		<cut>liru_Bath_pet_ST</cut>
+		<DR>3</DR>
+		<Round>1</Round>
+		<text>そうきたかぁ…</text>
+		<textSub>Ya veo... </textSub>
+		<type>caption_liru</type>
+		<startTime>28</startTime>
+		<endTime>208</endTime>
+		<order>continue</order>
+	</caption>
+
+	<caption>
+		<cut>liru_Bath_pet_ST</cut>
+		<DR>3</DR>
+		<Round>1</Round>
+		<text>ならばコチラにも応戦の意志有り！</text>
+		<textSub>Bueno, ¡tengo algunas ideas propias!</textSub>
+		<type>caption_liru</type>
+		<startTime>73</startTime>
+		<endTime>253</endTime>
+		<order>continue</order>
+	</caption>
+
+	<caption>
+		<cut>liru_Bath_pet_ST</cut>
+		<DR>3</DR>
+		<Round>1</Round>
+		<text>かかって来るが良いッ！</text>
+		<textSub>¡Toma, ten un poco de esto!</textSub>
+		<type>caption_liru</type>
+		<startTime>145</startTime>
+		<endTime>325</endTime>
+		<order>continue</order>
+	</caption>
+
+	<!-- ===== Round:2 =====  -->
+
+	<caption>
+		<cut>liru_Bath_pet_ST</cut>
+		<DR>3</DR>
+		<Round>2</Round>
+		<text>キャッ！</text>
+		<textSub>¡Uf!</textSub>
+		<type>caption_liru</type>
+		<startTime>30</startTime>
+		<endTime>210</endTime>
+		<order>header</order>
+		<Lip>1</Lip>
+		<sound>liru_bath_pet_ST_c02</sound>
+	</caption>
+
+	<caption>
+		<cut>liru_Bath_pet_ST</cut>
+		<DR>3</DR>
+		<Round>2</Round>
+		<text>ん～もぉ！</text>
+		<textSub>Cielos...</textSub>
+		<type>caption_liru</type>
+		<startTime>22</startTime>
+		<endTime>202</endTime>
+		<order>continue</order>
+	</caption>
+
+	<caption>
+		<cut>liru_Bath_pet_ST</cut>
+		<DR>3</DR>
+		<Round>2</Round>
+		<text>さてはさっきから…エッチな事考えてたでしょ！</text>
+		<textSub>¡Apuesto a que has estado pensando cosas sucias todo este tiempo!</textSub>
+		<type>caption_liru</type>
+		<startTime>55</startTime>
+		<endTime>235</endTime>
+		<order>continue</order>
+	</caption>
+
+	<caption>
+		<cut>liru_Bath_pet_ST</cut>
+		<DR>3</DR>
+		<Round>2</Round>
+		<text>まぁ…アタシもなんだけどねッ！</text>
+		<textSub>Bueno, en realidad yo también.</textSub>
+		<type>caption_liru</type>
+		<startTime>160</startTime>
+		<endTime>340</endTime>
+		<order>continue</order>
+	</caption>
+
+	<!-- ===== Round:1 =====  -->
+
+	<caption>
+		<cut>liru_Bath_rdy_ST</cut>
+		<DR>3</DR>
+		<Round>1</Round>
+		<text>う～んッ</text>
+		<textSub>Ummmgh... </textSub>
+		<type>caption_liru</type>
+		<startTime>40</startTime>
+		<endTime>220</endTime>
+		<order>header</order>
+		<sound>liru_bath_rdy_ST_c01</sound>
+	</caption>
+
+	<caption>
+		<cut>liru_Bath_rdy_ST</cut>
+		<DR>3</DR>
+		<Round>1</Round>
+		<text>やっぱり一日の終わりは…</text>
+		<textSub>¡Tomar un baño al final del día le hace a uno bien!</textSub>
+		<type>caption_liru</type>
+		<startTime>40</startTime>
+		<endTime>220</endTime>
+		<order>continue</order>
+	</caption>
+
+	<caption>
+		<cut>liru_Bath_rdy_ST</cut>
+		<DR>3</DR>
+		<Round>1</Round>
+		<text>お風呂でマッタリだね～ッ！</text>
+		<type>caption_liru</type>
+		<startTime>81</startTime>
+		<endTime>261</endTime>
+		<order>continue</order>
+	</caption>
+
+	<!-- ===== Round:2 =====  -->
+
+	<caption>
+		<cut>liru_Bath_rdy_ST</cut>
+		<DR>3</DR>
+		<Round>2</Round>
+		<text>なんだかこうして一緒に入ると…</text>
+		<textSub>Cuando nos bañamos juntos así...</textSub>
+		<type>caption_liru</type>
+		<startTime>35</startTime>
+		<endTime>215</endTime>
+		<order>header</order>
+		<sound>liru_bath_rdy_ST_c02</sound>
+	</caption>
+
+	<caption>
+		<cut>liru_Bath_rdy_ST</cut>
+		<DR>3</DR>
+		<Round>2</Round>
+		<text>アタシたち…新婚夫婦みたいだねッ！</text>
+		<textSub>¡Es como si estuviéramos recién casados!</textSub>
+		<type>caption_liru</type>
+		<startTime>56</startTime>
+		<endTime>236</endTime>
+		<order>continue</order>
+	</caption>
+
+	<caption>
+		<cut>liru_Bath_rdy_ST</cut>
+		<DR>3</DR>
+		<Round>2</Round>
+		<text>な～んてッ！</text>
+		<textSub>Es una broma.</textSub>
+		<type>caption_liru</type>
+		<startTime>146</startTime>
+		<endTime>326</endTime>
+		<order>continue</order>
+	</caption>
+
+	<!-- ===== Round:1 =====  -->
+
+	<caption>
+		<cut>liru_Bath_sexAft_ST</cut>
+		<DR>3</DR>
+		<Round>1</Round>
+		<text>はぁ～ん…コレコレ…</text>
+		<textSub>Aaaah... esto es... </textSub>
+		<type>caption_liru</type>
+		<startTime>15</startTime>
+		<endTime>195</endTime>
+		<order>header</order>
+		<sound>liru_sex_finActND_LP_c01</sound>
+	</caption>
+
+	<caption>
+		<cut>liru_Bath_sexAft_ST</cut>
+		<DR>3</DR>
+		<Round>1</Round>
+		<text>この中出しが子宮にしみるっていうかぁ…</text>
+		<textSub>Esta sensación de tener el útero lleno de semen... </textSub>
+		<type>caption_liru</type>
+		<startTime>82</startTime>
+		<endTime>262</endTime>
+		<order>continue</order>
+	</caption>
+
+	<caption>
+		<cut>liru_Bath_sexAft_ST</cut>
+		<DR>3</DR>
+		<Round>1</Round>
+		<text>ねぇねぇ…まだ出せそう？</text>
+		<textSub>Oye, ¿crees que puedes correrte un poco más?</textSub>
+		<type>caption_liru</type>
+		<startTime>237</startTime>
+		<endTime>417</endTime>
+		<order>continue</order>
+	</caption>
+
+	<!-- ===== Round:2 =====  -->
+
+	<caption>
+		<cut>liru_Bath_sexAft_ST</cut>
+		<DR>3</DR>
+		<Round>2</Round>
+		<text>中に出されると…</text>
+		<textSub>Cuando te corres dentro de mí... </textSub>
+		<type>caption_liru</type>
+		<startTime>18</startTime>
+		<endTime>198</endTime>
+		<order>header</order>
+		<sound>liru_sex_finActND_LP_c02</sound>
+	</caption>
+
+	<caption>
+		<cut>liru_Bath_sexAft_ST</cut>
+		<DR>3</DR>
+		<Round>2</Round>
+		<text>頭がホワ～ッてなって…</text>
+		<textSub>... mi mente se vuelve borrosa... </textSub>
+		<type>caption_liru</type>
+		<startTime>70</startTime>
+		<endTime>250</endTime>
+		<order>continue</order>
+	</caption>
+
+	<caption>
+		<cut>liru_Bath_sexAft_ST</cut>
+		<DR>3</DR>
+		<Round>2</Round>
+		<text>うーんと…うーんと…</text>
+		<textSub>Uhmm, uhmm, en fin... </textSub>
+		<type>caption_liru</type>
+		<startTime>142</startTime>
+		<endTime>322</endTime>
+		<order>continue</order>
+	</caption>
+
+	<caption>
+		<cut>liru_Bath_sexAft_ST</cut>
+		<DR>3</DR>
+		<Round>2</Round>
+		<text>とにかく今はぁ…ギュってして欲しいかもッ</text>
+		<textSub>Quiero que me abraces ahora mismo...</textSub>
+		<type>caption_liru</type>
+		<startTime>262</startTime>
+		<endTime>442</endTime>
+		<order>continue</order>
+	</caption>
+
+	<!-- ===== Round:1 =====  -->
+
+	<caption>
+		<cut>liru_Bath_sexFin_ST</cut>
+		<DR>3</DR>
+		<Round>1</Round>
+		<text>ハァハァ…はぁんッ…きたぁッ！</text>
+		<textSub>Aaahn... ¡Ahí está!</textSub>
+		<type>caption_liru</type>
+		<startTime>1</startTime>
+		<endTime>181</endTime>
+		<order>header</order>
+		<sound>liru_sex_finActND_ST_c01</sound>
+	</caption>
+
+	<caption>
+		<cut>liru_Bath_sexFin_ST</cut>
+		<DR>3</DR>
+		<Round>1</Round>
+		<text>おちんちん汁 どんどん出してぇーッ！</text>
+		<textSub>El jugo de tu pene... ¡Dámelo! </textSub>
+		<type>caption_liru</type>
+		<startTime>85</startTime>
+		<endTime>265</endTime>
+		<order>continue</order>
+	</caption>
+
+	<caption>
+		<cut>liru_Bath_sexFin_ST</cut>
+		<DR>3</DR>
+		<Round>1</Round>
+		<text>ハァ…ハァ…</text>
+		<textSub>Aaah... aaah...</textSub>
+		<type>caption_liru</type>
+		<startTime>212</startTime>
+		<endTime>392</endTime>
+		<order>continue</order>
+		<loop>999</loop>
+		<Lip>1</Lip>
+		<sound>liru_breathH_LP_c01</sound>
+	</caption>
+
+	<!-- ===== Round:2 =====  -->
+
+	<caption>
+		<cut>liru_Bath_sexFin_ST</cut>
+		<DR>3</DR>
+		<Round>2</Round>
+		<text>ハァ…ハァ…ハァ</text>
+		<textSub>Aaah... aaah... aaah...</textSub>
+		<type>caption_liru</type>
+		<startTime>5</startTime>
+		<endTime>185</endTime>
+		<order>header</order>
+		<Lip>1</Lip>
+		<sound>liru_sex_finActND_ST_c02</sound>
+	</caption>
+
+	<caption>
+		<cut>liru_Bath_sexFin_ST</cut>
+		<DR>3</DR>
+		<Round>2</Round>
+		<text>ハァンッ…出てるゥ…</text>
+		<textSub>Aahnn... Está saliendo... </textSub>
+		<type>caption_liru</type>
+		<startTime>38</startTime>
+		<endTime>218</endTime>
+		<order>continue</order>
+	</caption>
+
+	<caption>
+		<cut>liru_Bath_sexFin_ST</cut>
+		<DR>3</DR>
+		<Round>2</Round>
+		<text>エッチな汁…アタシの中にぃ…アァンッ！</text>
+		<textSub>Tu jugo lascivo... está dentro de mí... ¡Aaahn!</textSub>
+		<type>caption_liru</type>
+		<startTime>77</startTime>
+		<endTime>257</endTime>
+		<order>continue</order>
+	</caption>
+
+	<caption>
+		<cut>liru_Bath_sexFin_ST</cut>
+		<DR>3</DR>
+		<Round>2</Round>
+		<text>ハァ…ハァ…</text>
+		<textSub>Aaah... aaah...</textSub>
+		<type>caption_liru</type>
+		<startTime>186</startTime>
+		<endTime>366</endTime>
+		<order>continue</order>
+		<loop>999</loop>
+		<Lip>1</Lip>
+		<sound>liru_breathH_LP_c01</sound>
+	</caption>
+
+	<!-- ===== Round:1 =====  -->
+
+	<caption>
+		<cut>liru_Bath_sexIns_ST</cut>
+		<DR>3</DR>
+		<Round>1</Round>
+		<text>ずっと入れたくて…</text>
+		<textSub>Me muero por tenerlo dentro de mí... </textSub>
+		<type>caption_liru</type>
+		<startTime>10</startTime>
+		<endTime>190</endTime>
+		<order>header</order>
+		<sound>liru_sex_insAct_ST_c01</sound>
+	</caption>
+
+	<caption>
+		<cut>liru_Bath_sexIns_ST</cut>
+		<DR>3</DR>
+		<Round>1</Round>
+		<text>仕方なかったんだからッ！</text>
+		<type>caption_liru</type>
+		<startTime>60</startTime>
+		<endTime>240</endTime>
+		<order>continue</order>
+	</caption>
+
+	<caption>
+		<cut>liru_Bath_sexIns_ST</cut>
+		<DR>3</DR>
+		<Round>1</Round>
+		<text>ンーッ…アン</text>
+		<textSub>Naaahn...</textSub>
+		<type>caption_liru</type>
+		<startTime>150</startTime>
+		<endTime>330</endTime>
+		<order>continue</order>
+		<Lip>1</Lip>
+	</caption>
+
+	<caption>
+		<cut>liru_Bath_sexIns_ST</cut>
+		<DR>3</DR>
+		<Round>1</Round>
+		<text>ハァ…ハァ…</text>
+		<textSub>Aaah... aaah...</textSub>
+		<type>caption_liru</type>
+		<startTime>211</startTime>
+		<endTime>391</endTime>
+		<order>continue</order>
+		<Lip>1</Lip>
+	</caption>
+
+	<caption>
+		<cut>liru_Bath_sexIns_ST</cut>
+		<DR>3</DR>
+		<Round>1</Round>
+		<text>はぁん…今日のちんぽ凄いぃ</text>
+		<textSub>Aaahn... Tu pene está genial hoy...</textSub>
+		<type>caption_liru</type>
+		<startTime>320</startTime>
+		<endTime>500</endTime>
+		<order>continue</order>
+		<sound>liru_sex_insAct_LP_c01</sound>
+	</caption>
+
+	<caption>
+		<cut>liru_Bath_sexIns_ST</cut>
+		<DR>3</DR>
+		<Round>1</Round>
+		<text>いつもより感じちゃうッ</text>
+		<textSub>Estoy más emocionada de lo normal... </textSub>
+		<type>caption_liru</type>
+		<startTime>412</startTime>
+		<endTime>592</endTime>
+		<order>continue</order>
+	</caption>
+
+	<!-- ===== Round:2 =====  -->
+
+	<caption>
+		<cut>liru_Bath_sexIns_ST</cut>
+		<DR>3</DR>
+		<Round>2</Round>
+		<text>ねェ…ちゃんと見てる？</text>
+		<textSub>Oye... ¿estás mirando? </textSub>
+		<type>caption_liru</type>
+		<startTime>20</startTime>
+		<endTime>200</endTime>
+		<order>header</order>
+		<sound>liru_sex_insAct_ST_c02</sound>
+	</caption>
+
+	<caption>
+		<cut>liru_Bath_sexIns_ST</cut>
+		<DR>3</DR>
+		<Round>2</Round>
+		<text>入っていくとこ…</text>
+		<textSub>¿Estás viendo cómo entra?</textSub>
+		<type>caption_liru</type>
+		<startTime>89</startTime>
+		<endTime>269</endTime>
+		<order>continue</order>
+	</caption>
+
+	<caption>
+		<cut>liru_Bath_sexIns_ST</cut>
+		<DR>3</DR>
+		<Round>2</Round>
+		<text>ん…んーッ…アッ…アンッ</text>
+		<textSub>Mmmmh... ¡Ahn!</textSub>
+		<type>caption_liru</type>
+		<startTime>150</startTime>
+		<endTime>330</endTime>
+		<order>continue</order>
+		<Lip>1</Lip>
+	</caption>
+
+	<caption>
+		<cut>liru_Bath_sexIns_ST</cut>
+		<DR>3</DR>
+		<Round>2</Round>
+		<text>ハァ…ハァ…ハァ…</text>
+		<textSub>Aaah... aaah... aaah...</textSub>
+		<type>caption_liru</type>
+		<startTime>239</startTime>
+		<endTime>419</endTime>
+		<order>continue</order>
+		<Lip>1</Lip>
+	</caption>
+
+	<caption>
+		<cut>liru_Bath_sexIns_ST</cut>
+		<DR>3</DR>
+		<Round>2</Round>
+		<text>ほらほら…</text>
+		<textSub>Mira... </textSub>
+		<type>caption_liru</type>
+		<startTime>363</startTime>
+		<endTime>543</endTime>
+		<order>continue</order>
+		<sound>liru_sex_insAct_LP_c02</sound>
+	</caption>
+
+	<caption>
+		<cut>liru_Bath_sexIns_ST</cut>
+		<DR>3</DR>
+		<Round>2</Round>
+		<text>一気に全部入っちゃったぁ…</text>
+		<textSub>Entró hasta el fondo...</textSub>
+		<type>caption_liru</type>
+		<startTime>400</startTime>
+		<endTime>580</endTime>
+		<order>continue</order>
+	</caption>
+
+	<caption>
+		<cut>liru_Bath_sexIns_ST</cut>
+		<DR>3</DR>
+		<Round>2</Round>
+		<text>ねぇねぇ…エロい？</text>
+		<textSub>¿No crees que esto es sexy?</textSub>
+		<type>caption_liru</type>
+		<startTime>475</startTime>
+		<endTime>655</endTime>
+		<order>continue</order>
+	</caption>
+
+	<!-- ===== Round:1 =====  -->
+
+	<caption>
+		<cut>liru_Bath_sexPst1_ST</cut>
+		<DR>3</DR>
+		<Round>1</Round>
+		<text>ンッ…あぁん…</text>
+		<textSub>Mmm... aahn... </textSub>
+		<type>caption_liru</type>
+		<startTime>20</startTime>
+		<endTime>200</endTime>
+		<order>header</order>
+		<Lip>1</Lip>
+		<sound>liru_sex_pstActA_ST_c01</sound>
+	</caption>
+
+	<caption>
+		<cut>liru_Bath_sexPst1_ST</cut>
+		<DR>3</DR>
+		<Round>1</Round>
+		<text>ゆっくりすると…</text>
+		<textSub>Cuando lo hacemos lentamente... </textSub>
+		<type>caption_liru</type>
+		<startTime>65</startTime>
+		<endTime>245</endTime>
+		<order>continue</order>
+	</caption>
+
+	<caption>
+		<cut>liru_Bath_sexPst1_ST</cut>
+		<DR>3</DR>
+		<Round>1</Round>
+		<text>膣壁がおちんちんに…吸い付いちゃうよぉ</text>
+		<textSub>... siento que me aprieto alrededor de tu pene... </textSub>
+		<type>caption_liru</type>
+		<startTime>118</startTime>
+		<endTime>298</endTime>
+		<order>continue</order>
+	</caption>
+
+	<caption>
+		<cut>liru_Bath_sexPst1_ST</cut>
+		<DR>3</DR>
+		<Round>1</Round>
+		<text>んっ…ンーッ…んぁ…ンッ…</text>
+		<textSub>Mmm... mmmgh... mhmmm... </textSub>
+		<type>caption_liru</type>
+		<startTime>234</startTime>
+		<endTime>414</endTime>
+		<order>continue</order>
+		<loop>999</loop>
+		<Lip>1</Lip>
+		<sound>liru_sex_pstActA_LP_c01</sound>
+	</caption>
+
+	<!-- ===== Round:2 =====  -->
+
+	<caption>
+		<cut>liru_Bath_sexPst1_ST</cut>
+		<DR>3</DR>
+		<Round>2</Round>
+		<text>はぁ…はぁ…</text>
+		<textSub>Aaah... aaah...</textSub>
+		<type>caption_liru</type>
+		<startTime>19</startTime>
+		<endTime>199</endTime>
+		<order>header</order>
+		<Lip>1</Lip>
+		<sound>liru_sex_pstActA_ST_c02</sound>
+	</caption>
+
+	<caption>
+		<cut>liru_Bath_sexPst1_ST</cut>
+		<DR>3</DR>
+		<Round>2</Round>
+		<text>入れる度愛液…溢れて来ちゃってるぅ</text>
+		<textSub>Cada vez que entras en mí, mi jugo de amor sale a borbotones... </textSub>
+		<type>caption_liru</type>
+		<startTime>60</startTime>
+		<endTime>240</endTime>
+		<order>continue</order>
+	</caption>
+
+	<caption>
+		<cut>liru_Bath_sexPst1_ST</cut>
+		<DR>3</DR>
+		<Round>2</Round>
+		<text>んっ…ンーッ…んぁ…ンッ…</text>
+		<textSub>Mmm... mmmgh... mhmmm... </textSub>
+		<type>caption_liru</type>
+		<startTime>179</startTime>
+		<endTime>359</endTime>
+		<order>continue</order>
+		<loop>999</loop>
+		<Lip>1</Lip>
+		<sound>liru_sex_pstActA_LP_c01</sound>
+	</caption>
+
+	<!-- ===== Round:1 =====  -->
+
+	<caption>
+		<cut>liru_Bath_sexPst2_ST</cut>
+		<DR>3</DR>
+		<Round>1</Round>
+		<text>こんな感じで 気持ちいい？</text>
+		<textSub>¿Se siente bien así? </textSub>
+		<type>caption_liru</type>
+		<startTime>1</startTime>
+		<endTime>181</endTime>
+		<order>header</order>
+		<sound>liru_sex_pstActB_ST_c01</sound>
+	</caption>
+
+	<caption>
+		<cut>liru_Bath_sexPst2_ST</cut>
+		<DR>3</DR>
+		<Round>1</Round>
+		<text>ンンッ…アァンッ</text>
+		<textSub>Mmm... ¡Ups! </textSub>
+		<type>caption_liru</type>
+		<startTime>128</startTime>
+		<endTime>308</endTime>
+		<order>continue</order>
+		<Lip>1</Lip>
+	</caption>
+
+	<caption>
+		<cut>liru_Bath_sexPst2_ST</cut>
+		<DR>3</DR>
+		<Round>1</Round>
+		<text>お～ッと まだ出しちゃダメだからねッ！</text>
+		<textSub>No puedes correrte todavía...</textSub>
+		<type>caption_liru</type>
+		<startTime>168</startTime>
+		<endTime>348</endTime>
+		<order>continue</order>
+	</caption>
+
+	<caption>
+		<cut>liru_Bath_sexPst2_ST</cut>
+		<DR>3</DR>
+		<Round>1</Round>
+		<text>んっ…ンンッ…あん…ャアン…</text>
+		<textSub>Mmm... mmm... ahn... oooh... </textSub>
+		<type>caption_liru</type>
+		<startTime>259</startTime>
+		<endTime>439</endTime>
+		<order>continue</order>
+		<loop>999</loop>
+		<Lip>1</Lip>
+		<sound>liru_sex_pstActB_LP_c01</sound>
+	</caption>
+
+	<!-- ===== Round:2 =====  -->
+
+	<caption>
+		<cut>liru_Bath_sexPst2_ST</cut>
+		<DR>3</DR>
+		<Round>2</Round>
+		<text>じゃっ…少し激しくするねッ</text>
+		<textSub>Mmm... Bien... voy a acelerar un poco... </textSub>
+		<type>caption_liru</type>
+		<startTime>1</startTime>
+		<endTime>181</endTime>
+		<order>header</order>
+		<sound>liru_sex_pstActB_ST_c02</sound>
+	</caption>
+
+	<caption>
+		<cut>liru_Bath_sexPst2_ST</cut>
+		<DR>3</DR>
+		<Round>2</Round>
+		<text>ンッ…アッ…ンンァアンッ</text>
+		<textSub>Mmm... aah... aaaahn...</textSub>
+		<type>caption_liru</type>
+		<startTime>132</startTime>
+		<endTime>312</endTime>
+		<order>continue</order>
+		<Lip>1</Lip>
+	</caption>
+
+	<caption>
+		<cut>liru_Bath_sexPst2_ST</cut>
+		<DR>3</DR>
+		<Round>2</Round>
+		<text>おちんちんいい…いいよォ…</text>
+		<textSub>Me encanta tu pene... Es muy genial... </textSub>
+		<type>caption_liru</type>
+		<startTime>180</startTime>
+		<endTime>360</endTime>
+		<order>continue</order>
+	</caption>
+
+	<caption>
+		<cut>liru_Bath_sexPst2_ST</cut>
+		<DR>3</DR>
+		<Round>2</Round>
+		<text>んっ…ンンッ…あん…ャアン…</text>
+		<textSub>Mmm... mmm... ahn... oooh... </textSub>
+		<type>caption_liru</type>
+		<startTime>282</startTime>
+		<endTime>462</endTime>
+		<order>continue</order>
+		<loop>999</loop>
+		<Lip>1</Lip>
+		<sound>liru_sex_pstActB_LP_c01</sound>
+	</caption>
+
+	<!-- ===== Round:1 =====  -->
+
+	<caption>
+		<cut>liru_Bath_sexPst3_ST</cut>
+		<DR>3</DR>
+		<Round>1</Round>
+		<text>アンッ…ンッ…ンッ</text>
+		<textSub>Ahn... mmm... </textSub>
+		<type>caption_liru</type>
+		<startTime>0</startTime>
+		<endTime>180</endTime>
+		<order>header</order>
+		<Lip>1</Lip>
+		<sound>liru_sex_pstActC_ST_c01</sound>
+	</caption>
+
+	<caption>
+		<cut>liru_Bath_sexPst3_ST</cut>
+		<DR>3</DR>
+		<Round>1</Round>
+		<text>ゴリゴリ当たって 気持ちいい</text>
+		<textSub>Me está golpeando por dentro, se siente muy bien... </textSub>
+		<type>caption_liru</type>
+		<startTime>60</startTime>
+		<endTime>240</endTime>
+		<order>continue</order>
+	</caption>
+
+	<caption>
+		<cut>liru_Bath_sexPst3_ST</cut>
+		<DR>3</DR>
+		<Round>1</Round>
+		<text>腰 勝手に動いちゃうぅ</text>
+		<textSub>Mis caderas se mueven solas... </textSub>
+		<type>caption_liru</type>
+		<startTime>170</startTime>
+		<endTime>350</endTime>
+		<order>continue</order>
+	</caption>
+
+	<caption>
+		<cut>liru_Bath_sexPst3_ST</cut>
+		<DR>3</DR>
+		<Round>1</Round>
+		<text>ンッ…ひゃっ…んんっ…やぁ…アンッ…</text>
+		<textSub>Mmm... ooooh... mmmh... ooh... ahn... mmm...</textSub>
+		<type>caption_liru</type>
+		<startTime>275</startTime>
+		<endTime>455</endTime>
+		<order>continue</order>
+		<loop>999</loop>
+		<Lip>1</Lip>
+		<sound>liru_sex_pstActC_LP_c01</sound>
+	</caption>
+
+	<!-- ===== Round:2 =====  -->
+
+	<caption>
+		<cut>liru_Bath_sexPst3_ST</cut>
+		<DR>3</DR>
+		<Round>2</Round>
+		<text>はぁん…ハァハァ…チンポ凄いッ</text>
+		<textSub>Aaahn... aaah... aaah... Tu pene es asombroso... </textSub>
+		<type>caption_liru</type>
+		<startTime>0</startTime>
+		<endTime>180</endTime>
+		<order>header</order>
+		<sound>liru_sex_pstActC_ST_c02</sound>
+	</caption>
+
+	<caption>
+		<cut>liru_Bath_sexPst3_ST</cut>
+		<DR>3</DR>
+		<Round>2</Round>
+		<text>ずっと…ずっと入れてたいのッ！</text>
+		<textSub>¡Quiero tenerlo dentro de mí para siempre!</textSub>
+		<type>caption_liru</type>
+		<startTime>127</startTime>
+		<endTime>307</endTime>
+		<order>continue</order>
+	</caption>
+
+	<caption>
+		<cut>liru_Bath_sexPst3_ST</cut>
+		<DR>3</DR>
+		<Round>2</Round>
+		<text>ンッ…ひゃっ…んんっ…やぁ…アンッ…</text>
+		<textSub>Mmm... ooooh... mmmh... ooh... ahn... mmm...</textSub>
+		<type>caption_liru</type>
+		<startTime>210</startTime>
+		<endTime>390</endTime>
+		<order>continue</order>
+		<loop>999</loop>
+		<Lip>1</Lip>
+		<sound>liru_sex_pstActC_LP_c01</sound>
+	</caption>
+
+	<!-- ===== Round:1 =====  -->
+
+	<caption>
+		<cut>liru_Bath_sexRdy_ST</cut>
+		<DR>3</DR>
+		<Round>1</Round>
+		<text>ほ～らッ！</text>
+		<textSub>Mira... </textSub>
+		<type>caption_liru</type>
+		<startTime>0</startTime>
+		<endTime>180</endTime>
+		<order>header</order>
+		<sound>liru_sex_back_rdy_LP_c02</sound>
+	</caption>
+
+	<caption>
+		<cut>liru_Bath_sexRdy_ST</cut>
+		<DR>3</DR>
+		<Round>1</Round>
+		<text>魅力的なお尻が目の前にあるぞ～</text>
+		<textSub>Mi fabuloso trasero está justo delante de ti... </textSub>
+		<type>caption_liru</type>
+		<startTime>45</startTime>
+		<endTime>225</endTime>
+		<order>continue</order>
+	</caption>
+
+	<caption>
+		<cut>liru_Bath_sexRdy_ST</cut>
+		<DR>3</DR>
+		<Round>1</Round>
+		<text>入れて良いのは…</text>
+		<textSub>Y el único que puede penetrarlo eres...</textSub>
+		<type>caption_liru</type>
+		<startTime>115</startTime>
+		<endTime>295</endTime>
+		<order>continue</order>
+	</caption>
+
+	<caption>
+		<cut>liru_Bath_sexRdy_ST</cut>
+		<DR>3</DR>
+		<Round>1</Round>
+		<text>ア・ナ・タ・だ・け なんだから！</text>
+		<textSub>¡T-Ú! Así que, ¡hazlo!</textSub>
+		<type>caption_liru</type>
+		<startTime>155</startTime>
+		<endTime>335</endTime>
+		<order>continue</order>
+	</caption>
+
+	<!-- ===== Round:2 =====  -->
+
+	<caption>
+		<cut>liru_Bath_sexRdy_ST</cut>
+		<DR>3</DR>
+		<Round>2</Round>
+		<text>この姿勢じゃないと</text>
+		<textSub>No es divertido si no lo hacemos en esta posición... </textSub>
+		<type>caption_liru</type>
+		<startTime>0</startTime>
+		<endTime>180</endTime>
+		<order>header</order>
+		<sound>liru_chg_back_c02</sound>
+	</caption>
+
+	<caption>
+		<cut>liru_Bath_sexRdy_ST</cut>
+		<DR>3</DR>
+		<Round>2</Round>
+		<text>やっぱりダメなんだよねぇ～</text>
+		<type>caption_liru</type>
+		<startTime>48</startTime>
+		<endTime>228</endTime>
+		<order>continue</order>
+	</caption>
+
+	<caption>
+		<cut>liru_Bath_sexRdy_ST</cut>
+		<DR>3</DR>
+		<Round>2</Round>
+		<text>ほらッ！</text>
+		<textSub>¡Vamos!</textSub>
+		<type>caption_liru</type>
+		<startTime>116</startTime>
+		<endTime>296</endTime>
+		<order>continue</order>
+	</caption>
+
+	<!-- ===== Round:1 =====  -->
+
+	<caption>
+		<cut>liru_Bath_sexpull_ST</cut>
+		<DR>3</DR>
+		<Round>1</Round>
+		<text>うぁあ…膣内すごい敏感になってるぅぅ…</text>
+		<textSub>Uaaah... Soy increíblemente sensible por dentro... </textSub>
+		<type>caption_liru</type>
+		<startTime>1</startTime>
+		<endTime>181</endTime>
+		<order>header</order>
+		<sound>liru_sex_pullAct_ST_c01</sound>
+	</caption>
+
+	<caption>
+		<cut>liru_Bath_sexpull_ST</cut>
+		<DR>3</DR>
+		<Round>1</Round>
+		<text>んぁあん…はぁん…</text>
+		<textSub>Ungggh... aahnn...</textSub>
+		<type>caption_liru</type>
+		<startTime>86</startTime>
+		<endTime>266</endTime>
+		<order>continue</order>
+	</caption>
+
+	<caption>
+		<cut>liru_Bath_sexpull_ST</cut>
+		<DR>3</DR>
+		<Round>1</Round>
+		<text>ハァ…ハァ…</text>
+		<textSub>Aaah... aaah...</textSub>
+		<type>caption_liru</type>
+		<startTime>154</startTime>
+		<endTime>334</endTime>
+		<order>continue</order>
+		<Lip>1</Lip>
+	</caption>
+
+	<!-- ===== Round:2 =====  -->
+
+	<caption>
+		<cut>liru_Bath_sexpull_ST</cut>
+		<DR>3</DR>
+		<Round>2</Round>
+		<text>この…出された後に抜く時がまた</text>
+		<textSub>Me gusta la sensación de sacarlo justo después de que te corriste... </textSub>
+		<type>caption_liru</type>
+		<startTime>1</startTime>
+		<endTime>181</endTime>
+		<order>header</order>
+		<sound>liru_sex_pullAct_ST_c02</sound>
+	</caption>
+
+	<caption>
+		<cut>liru_Bath_sexpull_ST</cut>
+		<DR>3</DR>
+		<Round>2</Round>
+		<text>あぁ～ん…んッ…</text>
+		<textSub>Aahn... mmm... mm...</textSub>
+		<type>caption_liru</type>
+		<startTime>80</startTime>
+		<endTime>260</endTime>
+		<order>continue</order>
+	</caption>
+
+	<caption>
+		<cut>liru_Bath_sexpull_ST</cut>
+		<DR>3</DR>
+		<Round>2</Round>
+		<text>ハァ…ハァ…</text>
+		<textSub>Aaah... aaah...</textSub>
+		<type>caption_liru</type>
+		<startTime>139</startTime>
+		<endTime>319</endTime>
+		<order>continue</order>
+		<Lip>1</Lip>
+	</caption>
+
+	<!-- ===== Round:1 =====  -->
+
+	<caption>
+		<cut>liru_Bath_tkk1_ST</cut>
+		<DR>3</DR>
+		<Round>1</Round>
+		<text>はぁ～ん…今日も凄い固い…</text>
+		<textSub>Aaaahn... Hoy estás muy duro de nuevo... </textSub>
+		<type>caption_liru</type>
+		<startTime>40</startTime>
+		<endTime>220</endTime>
+		<order>header</order>
+		<sound>liru_hand_rdy_LP_c01</sound>
+	</caption>
+
+	<caption>
+		<cut>liru_Bath_tkk1_ST</cut>
+		<DR>3</DR>
+		<Round>1</Round>
+		<text>入れたら気持ちいいだろうなぁ…コレ</text>
+		<textSub>Apuesto a que se sentirá tan bien cuando entre... </textSub>
+		<type>caption_liru</type>
+		<startTime>100</startTime>
+		<endTime>280</endTime>
+		<order>continue</order>
+	</caption>
+
+	<caption>
+		<cut>liru_Bath_tkk1_ST</cut>
+		<DR>3</DR>
+		<Round>1</Round>
+		<text>えッ…まだ…ダメ？</text>
+		<textSub>¿Eh? ¿Aún no?</textSub>
+		<type>caption_liru</type>
+		<startTime>203</startTime>
+		<endTime>383</endTime>
+		<order>continue</order>
+	</caption>
+
+	<caption>
+		<cut>liru_Bath_tkk1_ST</cut>
+		<DR>3</DR>
+		<Round>1</Round>
+		<text>んっ…んっ…んんっ…</text>
+		<textSub>Mmm... mm... mmm...</textSub>
+		<type>caption_liru</type>
+		<startTime>285</startTime>
+		<endTime>465</endTime>
+		<order>continue</order>
+		<loop>999</loop>
+		<Lip>1</Lip>
+		<sound>liru_hand_pst_LP_c02</sound>
+	</caption>
+
+	<!-- ===== Round:2 =====  -->
+
+	<caption>
+		<cut>liru_Bath_tkk1_ST</cut>
+		<DR>3</DR>
+		<Round>2</Round>
+		<text>だんだん…太くて固くなってきた…</text>
+		<textSub>Cada vez está más grande y más duro...</textSub>
+		<type>caption_liru</type>
+		<startTime>25</startTime>
+		<endTime>205</endTime>
+		<order>header</order>
+		<sound>liru_hand_rdy_LP_c02</sound>
+	</caption>
+
+	<caption>
+		<cut>liru_Bath_tkk1_ST</cut>
+		<DR>3</DR>
+		<Round>2</Round>
+		<text>出したくなって来ちゃった？</text>
+		<textSub>¿Quieres correrte?</textSub>
+		<type>caption_liru</type>
+		<startTime>98</startTime>
+		<endTime>278</endTime>
+		<order>continue</order>
+	</caption>
+
+	<caption>
+		<cut>liru_Bath_tkk1_ST</cut>
+		<DR>3</DR>
+		<Round>2</Round>
+		<text>もう少し我慢してね？</text>
+		<textSub>Aguanta un poco más, ¿sí?</textSub>
+		<type>caption_liru</type>
+		<startTime>173</startTime>
+		<endTime>353</endTime>
+		<order>continue</order>
+	</caption>
+
+	<caption>
+		<cut>liru_Bath_tkk1_ST</cut>
+		<DR>3</DR>
+		<Round>2</Round>
+		<text>んっ…んっ…んんっ…</text>
+		<textSub>Mmm... mm... mmm...</textSub>
+		<type>caption_liru</type>
+		<startTime>258</startTime>
+		<endTime>438</endTime>
+		<order>continue</order>
+		<loop>999</loop>
+		<Lip>1</Lip>
+		<sound>liru_hand_pst_LP_c02</sound>
+	</caption>
+
+	<!-- ===== Round:1 =====  -->
+
+	<caption>
+		<cut>liru_Bath_tkk2_ST</cut>
+		<DR>3</DR>
+		<Round>1</Round>
+		<text>ほれほれ～</text>
+		<textSub>Vamos...</textSub>
+		<type>caption_liru</type>
+		<startTime>1</startTime>
+		<endTime>181</endTime>
+		<order>header</order>
+		<sound>liru_hand_pst_ST_c01</sound>
+	</caption>
+
+	<caption>
+		<cut>liru_Bath_tkk2_ST</cut>
+		<DR>3</DR>
+		<Round>1</Round>
+		<text>まずはサクッと一発出して楽になってごらんッ？</text>
+		<textSub>Empecemos con una eyaculación para que te relajes, ¿de acuerdo?</textSub>
+		<type>caption_liru</type>
+		<startTime>40</startTime>
+		<endTime>220</endTime>
+		<order>continue</order>
+	</caption>
+
+	<caption>
+		<cut>liru_Bath_tkk2_ST</cut>
+		<DR>3</DR>
+		<Round>1</Round>
+		<text>んっ…んっ…んんっ…</text>
+		<textSub>Mmm... mm... mmm...</textSub>
+		<type>caption_liru</type>
+		<startTime>140</startTime>
+		<endTime>320</endTime>
+		<order>continue</order>
+		<loop>999</loop>
+		<Lip>1</Lip>
+		<sound>liru_hand_pst_LP_c02</sound>
+	</caption>
+
+	<!-- ===== Round:2 =====  -->
+
+	<caption>
+		<cut>liru_Bath_tkk2_ST</cut>
+		<DR>3</DR>
+		<Round>2</Round>
+		<text>ほ～ら…この辺でしょ？</text>
+		<textSub>Es por aquí, ¿verdad?</textSub>
+		<type>caption_liru</type>
+		<startTime>1</startTime>
+		<endTime>181</endTime>
+		<order>header</order>
+		<sound>liru_hand_pst_ST_c02</sound>
+	</caption>
+
+	<caption>
+		<cut>liru_Bath_tkk2_ST</cut>
+		<DR>3</DR>
+		<Round>2</Round>
+		<text>気持ちいいトコ…表情でバレバレなんだからぁ</text>
+		<textSub>Este es el lugar donde disfrutas más... ¡Puedo decirlo por la mirada en tu cara!</textSub>
+		<type>caption_liru</type>
+		<startTime>86</startTime>
+		<endTime>266</endTime>
+		<order>continue</order>
+	</caption>
+
+	<caption>
+		<cut>liru_Bath_tkk2_ST</cut>
+		<DR>3</DR>
+		<Round>2</Round>
+		<text>んっ…んっ…んんっ…</text>
+		<textSub>Mmm... mm... mmm...</textSub>
+		<type>caption_liru</type>
+		<startTime>200</startTime>
+		<endTime>380</endTime>
+		<order>continue</order>
+		<loop>999</loop>
+		<Lip>1</Lip>
+		<sound>liru_hand_pst_LP_c02</sound>
+	</caption>
+
+</data>

@@ -1,0 +1,124 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+
+<!-- 【朝ご飯】  -->
+
+	<cut>
+		<Name>liru_Breakfast_bf1_ST</Name>
+		<note>どうだった？スタート</note>
+		<start>0</start>
+		<span>100</span>
+		<loop>0</loop>
+	</cut>
+
+	<cut>
+		<Name>liru_Breakfast_bf1_LP</Name>
+		<note>どうだった？ループ</note>
+		<start>100</start>
+		<span>50</span>
+		<loop>4</loop>
+		<btn>
+			<ID>back</ID>
+			<Text>戻る</Text>
+			<Jmp>-1</Jmp>
+		</btn>
+		<btn>
+			<ID>go1</ID>
+			<Text>エッ…？</Text>
+			<TextSub>¡¿Eeh..?!</TextSub>
+			<Jmp>1</Jmp>
+		</btn>
+	</cut>
+
+	<cut>
+		<Name>liru_Breakfast_bf2_ST</Name>
+		<note>感想だよ！スタート</note>
+		<start>150</start>
+		<span>90</span>
+		<loop>0</loop>
+	</cut>
+
+	<cut>
+		<Name>liru_Breakfast_bf2_LP</Name>
+		<note>感想だよ！ループ</note>
+		<start>240</start>
+		<span>50</span>
+		<loop>3</loop>
+		<btn>
+			<ID>back</ID>
+			<Text>戻る</Text>
+			<Jmp>-3</Jmp>
+		</btn>
+		<btn>
+			<ID>go1</ID>
+			<Text>朝から油とニンニク…_お…美味しかったです</Text>
+			<TextSub>Aceitoso y con ajo..._¿Estaba rico?</TextSub>
+			<Jmp>1</Jmp>
+		</btn>
+	</cut>
+
+	<cut>
+		<Name>liru_Breakfast_bf3_ST</Name>
+		<note>そうかそうかスタート</note>
+		<start>290</start>
+		<span>90</span>
+		<loop>0</loop>
+	</cut>
+
+	<cut>
+		<Name>liru_Breakfast_bf3_LP</Name>
+		<note>そうかそうかループ</note>
+		<start>380</start>
+		<span>50</span>
+		<loop>3</loop>
+		<btn>
+			<ID>back</ID>
+			<Text>戻る</Text>
+			<Jmp>-3</Jmp>
+		</btn>
+		<btn>
+			<ID>go1</ID>
+			<Text>うっ…えっと…_よろしくお願いします</Text>
+			<TextSub>Bien, gracias...</TextSub>
+			<Jmp>1</Jmp>
+		</btn>
+	</cut>
+
+	<cut>
+		<Name>liru_Breakfast_bf4_ST</Name>
+		<note>まっかせてよ！スタート</note>
+		<start>430</start>
+		<span>60</span>
+		<loop>0</loop>
+	</cut>
+
+	<cut>
+		<Name>liru_Breakfast_bf4_LP</Name>
+		<note>まっかせてよ！ループ</note>
+		<start>490</start>
+		<span>50</span>
+		<loop>10</loop>
+		<btn>
+			<ID>back</ID>
+			<Text>戻る</Text>
+			<Jmp>-3</Jmp>
+		</btn>
+		<btn>
+			<ID>go1</ID>
+			<Text>ひゅーッ！やっぱり_狼少女は最高だぜ！</Text>
+			<TextSub>¡Guah! ¡Las chicas_lobo son las mejores!</TextSub>
+			<Jmp>1</Jmp>
+			<GetKey>breakfast</GetKey>
+		</btn>
+	</cut>
+
+	<cut>
+		<Name>liru_Breakfast_Next_LP</Name>
+		<note>タイトルへ遷移</note>
+		<start>490</start>
+		<span>50</span>
+		<loop>0</loop>
+		<NextScene>op</NextScene>
+	</cut>
+
+</data>

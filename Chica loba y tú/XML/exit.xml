@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<XmlProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Main>
+  	<Title>
+  		<Name>終了メニュー</Name>
+  	</Title>
+  	<Button>
+	  	<Exit>終了</Exit>
+	  	<Title>玄関へ</Title>
+	  	<Cancel>閉じる</Cancel>
+	</Button>
+  </Main>
+  <Sub>
+  	<Title>
+  		<Name>Exit Menu</Name>
+  	</Title>
+  	<Button>
+	  	<Exit>Exit</Exit>
+	  	<Title>Go Title</Title>
+	  	<Cancel>Cancel</Cancel>
+	</Button>
+  </Sub>  
+</XmlProject>

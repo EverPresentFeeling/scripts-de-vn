@@ -1,0 +1,236 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+
+<!-- 【朝ご飯】  -->
+
+	<cut>
+		<Name>liru_Cook_cook1_ST</Name>
+		<note>おはよう スタート</note>
+		<start>0</start>
+		<span>200</span>
+		<loop>0</loop>
+		<GetKey>cook</GetKey>
+	</cut>
+
+	<cut>
+		<Name>liru_Cook_cook1_LP</Name>
+		<note>おはようループ</note>
+		<start>200</start>
+		<span>40</span>
+		<loop>3</loop>
+		<btn>
+			<ID>back</ID>
+			<Text>戻る</Text>
+			<Jmp>-1</Jmp>
+		</btn>
+		<btn>
+			<ID>go1</ID>
+			<Text>おはよう…って_なにしてるの？</Text>
+			<TextSub>Buenos días... ¿Qué haces?</TextSub>
+			<Jmp>1</Jmp>
+		</btn>
+	</cut>
+
+	<cut>
+		<Name>liru_Cook_cook2_ST</Name>
+		<note>手料理だよスタート</note>
+		<start>240</start>
+		<span>140</span>
+		<loop>0</loop>
+	</cut>
+
+	<cut>
+		<Name>liru_Cook_cook2_LP</Name>
+		<note>手料理だよループ</note>
+		<start>380</start>
+		<span>30</span>
+		<loop>8</loop>
+		<btn>
+			<ID>back</ID>
+			<Text>戻る</Text>
+			<Jmp>-3</Jmp>
+		</btn>
+		<btn>
+			<ID>go1</ID>
+			<Text>手作り朝ご飯かぁ！_で…その格好は？</Text>
+			<TextSub>¡Ya veo! ¿Qué haces con esa ropa?</TextSub>
+			<Jmp>1</Jmp>
+		</btn>
+	</cut>
+
+	<cut>
+		<Name>liru_Cook_cook3_ST</Name>
+		<note>裸エプロンだよスタート</note>
+		<start>410</start>
+		<span>180</span>
+		<loop>0</loop>
+		<GetKey>henn</GetKey>
+	</cut>
+
+	<cut>
+		<Name>liru_Cook_cook3_LP</Name>
+		<note>裸エプロンだよループ</note>
+		<start>590</start>
+		<span>40</span>
+		<loop>3</loop>
+		<btn>
+			<ID>back</ID>
+			<Text>戻る</Text>
+			<Jmp>-3</Jmp>
+		</btn>
+		<btn>
+			<ID>go1</ID>
+			<Text>似合うというか_なんというか…その…</Text>
+			<TextSub>Aah... S-Sí, no está nada mal...</TextSub>
+			<Jmp>1</Jmp>
+		</btn>
+	</cut>
+
+	<cut>
+		<Name>liru_Cook_cook4_ST</Name>
+		<note>裸エプロンだよスタート</note>
+		<start>630</start>
+		<span>150</span>
+		<loop>0</loop>
+	</cut>
+
+	<cut>
+		<Name>liru_Cook_cook4_LP</Name>
+		<note>裸エプロンだよループ</note>
+		<start>780</start>
+		<span>40</span>
+		<loop>3</loop>
+		<btn>
+			<ID>back</ID>
+			<Text>戻る</Text>
+			<Jmp>-3</Jmp>
+		</btn>
+		<btn>
+			<ID>go1</ID>
+			<Text>発情しちゃった！</Text>
+			<TextSub>¡Estoy caliente!</TextSub>
+			<Jmp>1</Jmp>
+		</btn>
+	</cut>
+
+	<cut>
+		<Name>liru_Cook_fuck1_ST</Name>
+		<note>挿入スタート</note>
+		<start>820</start>
+		<span>250</span>
+		<loop>0</loop>
+	</cut>
+
+	<cut>
+		<Name>liru_Cook_fuck1_LP</Name>
+		<note>挿入ループ</note>
+		<start>1070</start>
+		<span>30</span>
+		<loop>30</loop>
+		<btn>
+			<ID>back</ID>
+			<Text>戻る</Text>
+			<Jmp>-3</Jmp>
+		</btn>
+		<btn>
+			<ID>go1</ID>
+			<Text>お料理するリル_かわいいよ！</Text>
+			<TextSub>¡Luces hermosa cuando cocinas, Liru!</TextSub>
+			<Jmp>1</Jmp>
+		</btn>
+	</cut>
+
+	<cut>
+		<Name>liru_Cook_fuck2_ST</Name>
+		<note>加速スタート</note>
+		<start>1100</start>
+		<span>40</span>
+		<loop>0</loop>
+	</cut>
+
+	<cut>
+		<Name>liru_Cook_fuck2_LP</Name>
+		<note>加速ループ</note>
+		<start>1140</start>
+		<span>20</span>
+		<loop>50</loop>
+		<btn>
+			<ID>back</ID>
+			<Text>戻る</Text>
+			<Jmp>-3</Jmp>
+		</btn>
+		<btn>
+			<ID>go1</ID>
+			<Text>もうだめだ…リル！_膣内に出すぞ！</Text>
+			<TextSub>Liru... ¡me correré!</TextSub>
+			<Jmp>1</Jmp>
+		</btn>
+	</cut>
+
+	<cut>
+		<Name>liru_Cook_fin_ST</Name>
+		<note>フィニッシュスタート</note>
+		<start>1160</start>
+		<span>170</span>
+		<loop>0</loop>
+	</cut>
+
+	<cut>
+		<Name>liru_Cook_fin_LP</Name>
+		<note>フィニッシュループ</note>
+		<start>1330</start>
+		<span>40</span>
+		<loop>10</loop>
+		<btn>
+			<ID>back</ID>
+			<Text>戻る</Text>
+			<Jmp>-3</Jmp>
+		</btn>
+		<btn>
+			<ID>go1</ID>
+			<Text>はぁはぁ…_いつもより沢山出た</Text>
+			<TextSub>Aaah... aaah... Me he corrido mucho.</TextSub>
+			<Jmp>1</Jmp>
+		</btn>
+	</cut>
+
+	<cut>
+		<Name>liru_Cook_aft_ST</Name>
+		<note>抜きスタート</note>
+		<start>1370</start>
+		<span>200</span>
+		<loop>0</loop>
+	</cut>
+
+	<cut>
+		<Name>liru_Cook_aft_LP</Name>
+		<note>抜きループ → 朝ご飯へ遷移</note>
+		<start>1570</start>
+		<span>40</span>
+		<loop>5</loop>
+		<btn>
+			<ID>back</ID>
+			<Text>戻る</Text>
+			<Jmp>-3</Jmp>
+		</btn>
+		<btn>
+			<ID>go1</ID>
+			<Text>リル愛してるよ…_ところでご飯まだ？</Text>
+			<TextSub>Te quiero, Liru..._¿Está listo el desayuno?</TextSub>
+			<Jmp>1</Jmp>
+			<GetKey>cookSex</GetKey>
+			<x>1030</x>
+			<y>420</y>
+		</btn>
+	</cut>
+
+	<cut>
+		<Name>liru_Cook_Next_LP</Name>
+		<note>朝ご飯へ遷移</note>
+		<start>1570</start>
+		<span>40</span>
+		<loop>0</loop>
+		<NextScene>breakfast</NextScene>
+	</cut>
+
+</data>

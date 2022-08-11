@@ -1,0 +1,794 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+
+<!-- 【ベッドでエッチ】  -->
+
+	<cut>
+		<Name>liru_Bed_rdyM_ST</Name>
+		<note>ベッドシーン導入 スタート</note>
+		<start>0</start>
+		<span>160</span>
+		<loop>0</loop>
+	</cut>
+
+	<cut>
+		<Name>liru_Bed_rdyM_LP</Name>
+		<note>ベッドシーン導入 ループ</note>
+		<start>160</start>
+		<span>40</span>
+		<loop>3</loop>
+		<btn>
+			<ID>back</ID>
+			<Text>戻る</Text>
+			<Jmp>-1</Jmp>
+		</btn>
+		<btn>
+			<ID>go3</ID>
+			<Text>今日はリルを_上に乗せたい！</Text>
+			<TextSub>¡Quiero que me montes, Liru!</TextSub>
+			<NextCut>liru_Bed_rdyR_ST</NextCut>
+			<ReqKey>dinner3</ReqKey>
+		</btn>
+		<btn>
+			<ID>go2</ID>
+			<Text>ワンワンポーズで_いっぱいしよう！</Text>
+			<TextSub>¡Quiero hacértelo por detrás!</TextSub>
+			<NextCut>liru_Bed_rdyB_ST</NextCut>
+			<ReqKey>dinner2</ReqKey>
+		</btn>
+		<btn>
+			<ID>go1</ID>
+			<Text>早く入れたい…_ごろんってして？</Text>
+			<TextSub>¡Te lo voy a meter! ¡Acuéstate!</TextSub>
+			<Jmp>1</Jmp>
+		</btn>
+	</cut>
+
+	<cut>
+		<Name>liru_Bed_insM_ST</Name>
+		<note>正常位 挿入 スタート</note>
+		<start>200</start>
+		<span>290</span>
+		<loop>0</loop>
+	</cut>
+
+	<cut>
+		<Name>liru_Bed_insM_LP</Name>
+		<note>正常位 挿入 ループ</note>
+		<start>490</start>
+		<span>40</span>
+		<loop>10</loop>
+		<btn>
+			<ID>back</ID>
+			<Text>戻る</Text>
+			<Jmp>-3</Jmp>
+		</btn>
+		<btn>
+			<ID>go1</ID>
+			<Text>ピストンするよ</Text>
+			<TextSub>¡Voy a empujar!</TextSub>
+			<Jmp>1</Jmp>
+		</btn>
+	</cut>
+
+	<cut>
+		<Name>liru_Bed_pst1M_ST</Name>
+		<note>正常位 ピストン1 スタート</note>
+		<start>530</start>
+		<span>40</span>
+		<loop>0</loop>
+	</cut>
+
+	<cut>
+		<Name>liru_Bed_pst1M_LP</Name>
+		<note>正常位 ピストン1 ループ</note>
+		<start>570</start>
+		<span>30</span>
+		<loop>25</loop>
+		<btn>
+			<ID>back</ID>
+			<Text>戻る</Text>
+			<Jmp>-3</Jmp>
+		</btn>
+		<btn>
+			<ID>go1</ID>
+			<Text>一緒にいっぱい_気持ちよくなろう</Text>
+			<TextSub>¡Vamos a sentirnos bien los dos juntos!</TextSub>
+			<Jmp>1</Jmp>
+		</btn>
+	</cut>
+
+	<cut>
+		<Name>liru_Bed_pst2M_ST</Name>
+		<note>正常位 ピストン2 スタート</note>
+		<start>600</start>
+		<span>25</span>
+		<loop>0</loop>
+	</cut>
+
+	<cut>
+		<Name>liru_Bed_pst2M_LP</Name>
+		<note>正常位 ピストン2 ループ</note>
+		<start>625</start>
+		<span>15</span>
+		<loop>40</loop>
+		<btn>
+			<ID>back</ID>
+			<Text>戻る</Text>
+			<Jmp>-3</Jmp>
+		</btn>
+		<btn>
+			<ID>go1</ID>
+			<Text>リルの中凄い…_エッチ過ぎるよ！</Text>
+			<TextSub>Esto se siente muy_bien... ¡Eres la mejor, Liru!</TextSub>
+			<Jmp>1</Jmp>
+		</btn>
+	</cut>
+
+	<cut>
+		<Name>liru_Bed_pst3M_ST</Name>
+		<note>正常位 ピストン3 スタート</note>
+		<start>640</start>
+		<span>20</span>
+		<loop>0</loop>
+	</cut>
+
+	<cut>
+		<Name>liru_Bed_pst3M_LP</Name>
+		<note>正常位 ピストン3 ループ</note>
+		<start>660</start>
+		<span>10</span>
+		<loop>60</loop>
+		<btn>
+			<ID>back</ID>
+			<Text>戻る</Text>
+			<Jmp>-3</Jmp>
+		</btn>
+		<btn>
+			<ID>go1</ID>
+			<Text>もう限界！_膣内に出すッ！</Text>
+			<TextSub>¡Estoy en mi límite!_¡Me voy a correr dentro!</TextSub>
+			<Jmp>1</Jmp>
+		</btn>
+		<btn>
+			<ID>go2</ID>
+			<Text>リルの体に_マーキングするぞー！</Text>
+			<TextSub>¡Te voy a marcar, Liru!</TextSub>
+			<NextCut>liru_Bed_bkkM_ST</NextCut>
+		</btn>
+	</cut>
+
+	<cut>
+		<Name>liru_Bed_finM_ST</Name>
+		<note>正常位 中出し スタート</note>
+		<start>670</start>
+		<span>180</span>
+		<loop>0</loop>
+	</cut>
+
+	<cut>
+		<Name>liru_Bed_finM_LP</Name>
+		<note>正常位 中出し ループ</note>
+		<start>850</start>
+		<span>40</span>
+		<loop>8</loop>
+		<btn>
+			<ID>back</ID>
+			<Text>戻る</Text>
+			<Jmp>-3</Jmp>
+		</btn>
+		<btn>
+			<ID>go1</ID>
+			<Text>いっぱい出た…</Text>
+			<TextSub>Me he corrido mucho...</TextSub>
+			<Jmp>1</Jmp>
+			<GetDR>1</GetDR>
+			<GetKey>bed</GetKey>
+		</btn>
+	</cut>
+
+	<cut>
+		<Name>liru_Bed_pullM_ST</Name>
+		<note>正常位 ちんぽ抜き スタート</note>
+		<start>890</start>
+		<span>160</span>
+		<loop>0</loop>
+	</cut>
+
+	<cut>
+		<Name>liru_Bed_pullM_LP</Name>
+		<note>正常位 ちんぽ抜き ループ</note>
+		<start>1050</start>
+		<span>40</span>
+		<loop>10</loop>
+		<Jmp>1</Jmp>
+	</cut>
+
+	<cut>
+		<Name>liru_Bed_aftNdM_ST</Name>
+		<note>正常位 中出し事後 スタート</note>
+		<start>1090</start>
+		<span>100</span>
+		<loop>0</loop>
+	</cut>
+
+	<cut>
+		<Name>liru_Bed_aftNdM_LP</Name>
+		<note>正常位 中出し事後 ループ</note>
+		<start>1190</start>
+		<span>40</span>
+		<loop>10</loop>
+		<btn>
+			<ID>back</ID>
+			<Text>戻る</Text>
+			<Jmp>-3</Jmp>
+		</btn>
+		<btn>
+			<ID>go1</ID>
+			<Text>おかげで今夜も_良い夢が見られそうだ</Text>
+			<TextSub>Tendré grandes sueños esta noche...</TextSub>
+			<Jmp>1</Jmp>
+		</btn>
+	</cut>
+
+	<cut>
+		<Name>liru_Bed_msnNdOp_LP</Name>
+		<note>→OP</note>
+		<start>1190</start>
+		<span>40</span>
+		<loop>1</loop>
+		<NextScene>op</NextScene>
+	</cut>
+
+	<cut>
+		<Name>liru_Bed_BlankMsn_LP</Name>
+		<note>Blank</note>
+		<start>1230</start>
+		<span>10</span>
+		<loop>0</loop>
+	</cut>
+
+	<cut>
+		<Name>liru_Bed_bkkM_ST</Name>
+		<note>正常位 ブッカケ スタート</note>
+		<start>1240</start>
+		<span>190</span>
+		<loop>0</loop>
+	</cut>
+
+	<cut>
+		<Name>liru_Bed_bkkM_LP</Name>
+		<note>正常位 ブッカケ ループ</note>
+		<start>1430</start>
+		<span>40</span>
+		<loop>8</loop>
+		<btn>
+			<ID>back</ID>
+			<Text>戻る</Text>
+			<NextCut>liru_Bed_pst3M_LP</NextCut>
+		</btn>
+		<btn>
+			<ID>go1</ID>
+			<Text>さすがにもう_弾切れだよリル…</Text>
+			<TextSub>Mis bolas están_vacías, Liru...</TextSub>
+			<Jmp>1</Jmp>
+			<GetDR>1</GetDR>
+			<GetKey>bed</GetKey>
+		</btn>
+	</cut>
+
+	<cut>
+		<Name>liru_Bed_aftM_ST</Name>
+		<note>正常位 ブッカケ事後 スタート</note>
+		<start>1470</start>
+		<span>180</span>
+		<loop>0</loop>
+	</cut>
+
+	<cut>
+		<Name>liru_Bed_aftM_LP</Name>
+		<note>正常位 ブッカケ事後 ループ</note>
+		<start>1650</start>
+		<span>40</span>
+		<loop>10</loop>
+		<btn>
+			<ID>back</ID>
+			<Text>戻る</Text>
+			<Jmp>-3</Jmp>
+		</btn>
+		<btn>
+			<ID>go1</ID>
+			<Text>よかったよリル_一緒に寝ようね</Text>
+			<TextSub>Vamos a dormir_juntos, Liru.</TextSub>
+			<NextScene>op</NextScene>
+		</btn>
+	</cut>
+
+	<cut>
+		<Name>liru_Bed_msnBkOp_LP</Name>
+		<note>→OP</note>
+		<start>1650</start>
+		<span>40</span>
+		<loop>1</loop>
+	</cut>
+
+	<cut>
+		<Name>liru_Bed_rdyB_ST</Name>
+		<note>バック導入スタート</note>
+		<start>1690</start>
+		<span>160</span>
+		<loop>0</loop>
+	</cut>
+
+	<cut>
+		<Name>liru_Bed_rdyB_LP</Name>
+		<note>バック導入ループ</note>
+		<start>1850</start>
+		<span>40</span>
+		<loop>4</loop>
+		<btn>
+			<ID>back</ID>
+			<Text>戻る</Text>
+			<NextCut>liru_Bed_rdyM_LP</NextCut>
+		</btn>
+		<btn>
+			<ID>go1</ID>
+			<Text>リルのお尻を_眺めながら挿入！</Text>
+			<TextSub>¡Lo voy a insertar_mirando tu trasero!</TextSub>
+			<Jmp>1</Jmp>
+		</btn>
+	</cut>
+
+	<cut>
+		<Name>liru_Bed_insB_ST</Name>
+		<note>バック挿入スタート</note>
+		<start>1890</start>
+		<span>250</span>
+		<loop>0</loop>
+	</cut>
+
+	<cut>
+		<Name>liru_Bed_insB_LP</Name>
+		<note>バック挿入ループ</note>
+		<start>2140</start>
+		<span>40</span>
+		<loop>10</loop>
+		<btn>
+			<ID>back</ID>
+			<Text>戻る</Text>
+			<Jmp>-3</Jmp>
+		</btn>
+		<btn>
+			<ID>go1</ID>
+			<Text>はぁ…リルのお尻！_かわいいよお尻！</Text>
+			<TextSub>¡Ah... tu trasero es muy bonito!</TextSub>
+			<Jmp>1</Jmp>
+		</btn>
+	</cut>
+
+	<cut>
+		<Name>liru_Bed_pst1B_ST</Name>
+		<note>ｚ</note>
+		<start>2180</start>
+		<span>30</span>
+		<loop>0</loop>
+	</cut>
+
+	<cut>
+		<Name>liru_Bed_pst1B_LP</Name>
+		<note>バック ピストン1 ループ</note>
+		<start>2210</start>
+		<span>30</span>
+		<loop>25</loop>
+		<btn>
+			<ID>back</ID>
+			<Text>戻る</Text>
+			<Jmp>-3</Jmp>
+		</btn>
+		<btn>
+			<ID>go1</ID>
+			<Text>少し激しくするぞ！</Text>
+			<TextSub>¡Voy a acelerar un poco!</TextSub>
+			<Jmp>1</Jmp>
+		</btn>
+	</cut>
+
+	<cut>
+		<Name>liru_Bed_pst2B_ST</Name>
+		<note>バック ピストン2 スタート</note>
+		<start>2240</start>
+		<span>20</span>
+		<loop>0</loop>
+	</cut>
+
+	<cut>
+		<Name>liru_Bed_pst2B_LP</Name>
+		<note>バック ピストン2 ループ</note>
+		<start>2260</start>
+		<span>15</span>
+		<loop>40</loop>
+		<btn>
+			<ID>back</ID>
+			<Text>戻る</Text>
+			<Jmp>-3</Jmp>
+		</btn>
+		<btn>
+			<ID>go1</ID>
+			<Text>止まらないよリル！</Text>
+			<TextSub>¡No puedo parar, Liru!</TextSub>
+			<Jmp>1</Jmp>
+		</btn>
+	</cut>
+
+	<cut>
+		<Name>liru_Bed_pst3B_ST</Name>
+		<note>バック ピストン3 スタート</note>
+		<start>2275</start>
+		<span>15</span>
+		<loop>0</loop>
+	</cut>
+
+	<cut>
+		<Name>liru_Bed_pst3B_LP</Name>
+		<note>バック ピストン3 ループ</note>
+		<start>2290</start>
+		<span>10</span>
+		<loop>60</loop>
+		<btn>
+			<ID>back</ID>
+			<Text>戻る</Text>
+			<Jmp>-3</Jmp>
+		</btn>
+		<btn>
+			<ID>go1</ID>
+			<Text>よし、このまま_中に出すぞ！</Text>
+			<TextSub>¡Me voy a correr dentro!</TextSub>
+			<Jmp>1</Jmp>
+		</btn>
+		<btn>
+			<ID>go2</ID>
+			<Text>リルにいっぱい_精子かけたい！</Text>
+			<TextSub>¡Quiero bañarte con mi semen!</TextSub>
+			<NextCut>liru_Bed_bkkB_ST</NextCut>
+		</btn>
+	</cut>
+
+	<cut>
+		<Name>liru_Bed_finB_ST</Name>
+		<note>バック 中出し スタート</note>
+		<start>2300</start>
+		<span>170</span>
+		<loop>0</loop>
+	</cut>
+
+	<cut>
+		<Name>liru_Bed_finB_LP</Name>
+		<note>バック 中出し ループ</note>
+		<start>2470</start>
+		<span>40</span>
+		<loop>8</loop>
+		<btn>
+			<ID>back</ID>
+			<Text>戻る</Text>
+			<Jmp>-3</Jmp>
+		</btn>
+		<btn>
+			<ID>go1</ID>
+			<Text>リルの膣内まだ_ビクビクしてる…</Text>
+			<TextSub>Sigues retorciéndote_por dentro...</TextSub>
+			<Jmp>1</Jmp>
+		</btn>
+	</cut>
+
+	<cut>
+		<Name>liru_Bed_pullB_ST</Name>
+		<note>バック チンコ抜き スタート</note>
+		<start>2510</start>
+		<span>320</span>
+		<loop>0</loop>
+	</cut>
+
+	<cut>
+		<Name>liru_Bed_pullB_LP</Name>
+		<note>バック チンコ抜き ループ</note>
+		<start>2830</start>
+		<span>40</span>
+		<loop>10</loop>
+		<btn>
+			<ID>back</ID>
+			<Text>戻る</Text>
+			<Jmp>-3</Jmp>
+		</btn>
+		<btn>
+			<ID>go1</ID>
+			<Text>好きだよリル！</Text>
+			<TextSub>Liru, ¡te amo!</TextSub>
+			<Jmp>1</Jmp>
+			<GetDR>1</GetDR>
+			<GetKey>bedBack</GetKey>
+		</btn>
+	</cut>
+
+	<cut>
+		<Name>liru_Bed_backNdOp_LP</Name>
+		<note>→OP</note>
+		<start>2830</start>
+		<span>40</span>
+		<loop>1</loop>
+		<NextScene>op</NextScene>
+	</cut>
+
+	<cut>
+		<Name>liru_Bed_BlankBack_LP</Name>
+		<note>ブランク</note>
+		<start>2870</start>
+		<span>10</span>
+		<loop>0</loop>
+	</cut>
+
+	<cut>
+		<Name>liru_Bed_bkkB_ST</Name>
+		<note>バック ブッカケ スタート</note>
+		<start>2880</start>
+		<span>200</span>
+		<loop>0</loop>
+	</cut>
+
+	<cut>
+		<Name>liru_Bed_bkkB_LP</Name>
+		<note>バック ブッカケ ループ</note>
+		<start>3080</start>
+		<span>40</span>
+		<loop>8</loop>
+		<btn>
+			<ID>back</ID>
+			<Text>戻る</Text>
+			<NextCut>liru_Bed_pst3B_LP</NextCut>
+		</btn>
+		<btn>
+			<ID>go1</ID>
+			<Text>出し尽くしました…</Text>
+			<TextSub>No me queda nada...</TextSub>
+			<Jmp>1</Jmp>
+		</btn>
+	</cut>
+
+	<cut>
+		<Name>liru_Bed_aftB_ST</Name>
+		<note>バック ブッカケ事後 スタート</note>
+		<start>3120</start>
+		<span>150</span>
+		<loop>0</loop>
+	</cut>
+
+	<cut>
+		<Name>liru_Bed_aftB_LP</Name>
+		<note>バック ブッカケ事後 ループ</note>
+		<start>3270</start>
+		<span>40</span>
+		<loop>10</loop>
+		<btn>
+			<ID>back</ID>
+			<Text>戻る</Text>
+			<Jmp>-3</Jmp>
+		</btn>
+		<btn>
+			<ID>go1</ID>
+			<Text>ふぅ…お陰で今夜も_良い夢が見られそうだ</Text>
+			<TextSub>Creo que esta noche_tendré un bonito sueño.</TextSub>
+			<Jmp>1</Jmp>
+			<GetDR>1</GetDR>
+			<GetKey>bedBack</GetKey>
+		</btn>
+	</cut>
+
+	<cut>
+		<Name>liru_Bed_backBkOp_LP</Name>
+		<note>→OP</note>
+		<start>3270</start>
+		<span>40</span>
+		<loop>1</loop>
+		<NextScene>op</NextScene>
+	</cut>
+
+	<cut>
+		<Name>liru_Bed_rdyR_ST</Name>
+		<note>騎乗位 導入 スタート</note>
+		<start>3310</start>
+		<span>170</span>
+		<loop>0</loop>
+	</cut>
+
+	<cut>
+		<Name>liru_Bed_rdyR_LP</Name>
+		<note>騎乗位 導入 ループ</note>
+		<start>3480</start>
+		<span>40</span>
+		<loop>3</loop>
+		<btn>
+			<ID>back</ID>
+			<Text>戻る</Text>
+			<NextCut>liru_Bed_rdyM_LP</NextCut>
+		</btn>
+		<btn>
+			<ID>go1</ID>
+			<Text>もう我慢出来ない_入れてください！</Text>
+			<TextSub>¡No puedo esperar! ¡Mételo!</TextSub>
+			<Jmp>1</Jmp>
+		</btn>
+	</cut>
+
+	<cut>
+		<Name>liru_Bed_insR_ST</Name>
+		<note>騎乗位 挿入 スタート</note>
+		<start>3520</start>
+		<span>260</span>
+		<loop>0</loop>
+	</cut>
+
+	<cut>
+		<Name>liru_Bed_insR_LP</Name>
+		<note>騎乗位 挿入 ループ</note>
+		<start>3780</start>
+		<span>40</span>
+		<loop>10</loop>
+		<btn>
+			<ID>back</ID>
+			<Text>戻る</Text>
+			<Jmp>-3</Jmp>
+		</btn>
+		<btn>
+			<ID>go1</ID>
+			<Text>まったくこんなに_エッチな体しやがって…</Text>
+			<TextSub>Vaya... ¡Tienes un_cuerpo muy travieso!</TextSub>
+			<Jmp>1</Jmp>
+		</btn>
+	</cut>
+
+	<cut>
+		<Name>liru_Bed_pst1R_ST</Name>
+		<note>騎乗位 ピストン1 スタート</note>
+		<start>3820</start>
+		<span>50</span>
+		<loop>0</loop>
+	</cut>
+
+	<cut>
+		<Name>liru_Bed_pst1R_LP</Name>
+		<note>騎乗位 ピストン1 ループ</note>
+		<start>3870</start>
+		<span>30</span>
+		<loop>25</loop>
+		<btn>
+			<ID>back</ID>
+			<Text>戻る</Text>
+			<Jmp>-3</Jmp>
+		</btn>
+		<btn>
+			<ID>go1</ID>
+			<Text>リルの膣内じっくり_味わえてるよ…</Text>
+			<TextSub>Saborearé la sensación_de tus entrañas...</TextSub>
+			<Jmp>1</Jmp>
+		</btn>
+	</cut>
+
+	<cut>
+		<Name>liru_Bed_pst2R_ST</Name>
+		<note>騎乗位 ピストン2 スタート</note>
+		<start>3900</start>
+		<span>40</span>
+		<loop>0</loop>
+	</cut>
+
+	<cut>
+		<Name>liru_Bed_pst2R_LP</Name>
+		<note>騎乗位 ピストン2 ループ</note>
+		<start>3940</start>
+		<span>15</span>
+		<loop>40</loop>
+		<btn>
+			<ID>back</ID>
+			<Text>戻る</Text>
+			<Jmp>-3</Jmp>
+		</btn>
+		<btn>
+			<ID>go1</ID>
+			<Text>て、天国が…_天国が見えるぅ！</Text>
+			<TextSub>¡Me siento como en el cielo!</TextSub>
+			<Jmp>1</Jmp>
+		</btn>
+	</cut>
+
+	<cut>
+		<Name>liru_Bed_pst3R_ST</Name>
+		<note>騎乗位 ピストン3 スタート</note>
+		<start>3955</start>
+		<span>25</span>
+		<loop>0</loop>
+	</cut>
+
+	<cut>
+		<Name>liru_Bed_pst3R_LP</Name>
+		<note>騎乗位 ピストン3 ループ</note>
+		<start>3980</start>
+		<span>10</span>
+		<loop>60</loop>
+		<btn>
+			<ID>back</ID>
+			<Text>戻る</Text>
+			<Jmp>-3</Jmp>
+		</btn>
+		<btn>
+			<ID>go1</ID>
+			<Text>ふぉおおおお！_リルぅううう！！</Text>
+			<TextSub>¡Ooooooooh! ¡¡Liruuuuuu!!</TextSub>
+			<Jmp>1</Jmp>
+		</btn>
+	</cut>
+
+	<cut>
+		<Name>liru_Bed_finR_ST</Name>
+		<note>騎乗位 中出し スタート</note>
+		<start>3990</start>
+		<span>170</span>
+		<loop>0</loop>
+	</cut>
+
+	<cut>
+		<Name>liru_Bed_finR_LP</Name>
+		<note>騎乗位 中出し ループ</note>
+		<start>4160</start>
+		<span>40</span>
+		<loop>8</loop>
+		<btn>
+			<ID>back</ID>
+			<Text>戻る</Text>
+			<Jmp>-3</Jmp>
+		</btn>
+		<btn>
+			<ID>go1</ID>
+			<Text>射精直後で…_まだ敏感過ぎるぅ</Text>
+			<TextSub>Me acabo de correr..._¡estoy sensible!</TextSub>
+			<Jmp>1</Jmp>
+			<GetDR>1</GetDR>
+			<GetKey>bedRide</GetKey>
+		</btn>
+	</cut>
+
+	<cut>
+		<Name>liru_Bed_pullR_ST</Name>
+		<note>騎乗位 チンコ抜き スタート</note>
+		<start>4200</start>
+		<span>310</span>
+		<loop>0</loop>
+	</cut>
+
+	<cut>
+		<Name>liru_Bed_pullR_LP</Name>
+		<note>騎乗位 チンコ抜き ループ</note>
+		<start>4510</start>
+		<span>40</span>
+		<loop>10</loop>
+		<btn>
+			<ID>back</ID>
+			<Text>戻る</Text>
+			<Jmp>-3</Jmp>
+		</btn>
+		<btn>
+			<ID>go1</ID>
+			<Text>おかげで明日も_頑張れそうだぜッ！</Text>
+			<TextSub>¡Creo que hoy puedo darlo todo!</TextSub>
+			<Jmp>1</Jmp>
+		</btn>
+	</cut>
+
+	<cut>
+		<Name>liru_Bed_rideNdOp_LP</Name>
+		<note>→OP</note>
+		<start>4510</start>
+		<span>40</span>
+		<loop>1</loop>
+		<NextScene>op</NextScene>
+	</cut>
+
+</data>

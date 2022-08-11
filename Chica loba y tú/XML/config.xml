@@ -1,0 +1,155 @@
+<?xml version="1.0"?>
+<XmlProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <Main>
+        <Producer>
+            <Name>製作</Name>
+        </Producer>
+        <VoiceActor>
+            <Name>狼少女リルの声</Name>
+        </VoiceActor>
+        <SoundMaterial>
+            <Name>BGM・効果音素材</Name>
+        </SoundMaterial>
+        <Visual>
+            <Name>映像設定</Name>
+            <Screen>
+                <Name>フルスクリーン</Name>
+                <Tooltip>ウィンドウモード、フルスクリーンモードの切替を行います</Tooltip>
+            </Screen>
+            <Auto>
+                <Name>オート再生</Name>
+                <Tooltip>オート再生のオン・オフを設定します&#xD;オンの場合複数の選択肢は&#xD;ランダムで選択されます</Tooltip>
+            </Auto>
+            <Smooth>
+                <Name>スムージング</Name>
+                <Tooltip>フルスクリーン時のスムージングを設定します&#xD;設定を変更すると一度ウィンドウモードに切り替わります</Tooltip>
+            </Smooth>
+            <Caption>
+                <Name>字幕</Name>
+                <Tooltip>字幕の表示・非表示を設定します</Tooltip>
+            </Caption>
+        </Visual>
+        <Sound>
+            <Name>サウンド設定</Name>
+            <VolumeVoice>
+                <Name>ボイス</Name>
+                <Tooltip>ボイスの音量を設定します</Tooltip>
+            </VolumeVoice>
+            <VolumeSfx>
+                <Name>効果音</Name>
+                <Tooltip>効果音の音量を設定します</Tooltip>
+            </VolumeSfx>
+            <VolumeBgm>
+                <Name>音楽</Name>
+                <Tooltip>音楽の音量を設定します</Tooltip>
+            </VolumeBgm>
+            <VolumeEnv>
+                <Name>環境音</Name>
+                <Tooltip>環境音（鳥・虫・水の音等）の音量を設定します</Tooltip>
+            </VolumeEnv>
+            <Shout>
+                <Name>シャウト！</Name>
+                <Tooltip>マイクを使った操作のオン・オフ及び感度を設定します&#xD;感度はリルの表情の変化で確認できます&#xD;プレイ中はボタンが震えるまでマイクに話しかけて下さい</Tooltip>
+            </Shout>
+            <ShoutError>
+                <Name>シャウト！(利用不可)</Name>
+                <Tooltip>シャウト！機能を使うには&#xD;1. PCにマイクを接続する&#xD;2. 右クリック→設定を開く&#xD;3. プライバシー設定からマイク使用を許可&#xD;を行った上でこのボタンをチェックしてください</Tooltip>
+            </ShoutError>
+        </Sound>
+        <Language>
+            <Name>言語 Langage</Name>
+            <LanguageMain>
+                <Name>日本語</Name>
+                <Tooltip>インターフェースおよび字幕の言語を日本語に設定します</Tooltip>
+            </LanguageMain>
+            <LanguageSub>
+                <Name>English</Name>
+                <Tooltip>インターフェースおよび字幕の言語を英語に設定します</Tooltip>
+            </LanguageSub>
+            <LanguageBilingual>
+                <Name>字幕バイリンガル</Name>
+                <Tooltip>日本語と英語の字幕を同時に表示します&#xD;ボタンのテキストには対応していません</Tooltip>
+            </LanguageBilingual>
+        </Language>
+        <Reset>
+            <Name>プレイデータの初期化</Name>
+            <Tooltip>設定とセーブデータを全て初期化します</Tooltip>
+        </Reset>
+    </Main>
+    <Sub>
+        <Producer>
+            <Name>Autor</Name>
+        </Producer>
+        <VoiceActor>
+            <Name>Voz de chica loba</Name>
+        </VoiceActor>
+        <SoundMaterial>
+            <Name>Material de sonido</Name>
+        </SoundMaterial>
+        <Visual>
+            <Name>Opción de gráficos</Name>
+            <Caption>
+                <Name>Subtítulos</Name>
+                <Tooltip>Activa o desactiva el subtítulo.</Tooltip>
+            </Caption>
+            <Screen>
+                <Name>Pantalla Comp.</Name>
+                <Tooltip>Alterna la ventana y pantalla completa.</Tooltip>
+            </Screen>
+            <Smooth>
+                <Name>Suavizado</Name>
+                <Tooltip>Configurar el suavizado a pantalla completa.&#xD;Una vez que cambie la configuración para cambiar al modo de ventana.</Tooltip>
+            </Smooth>
+            <Auto>
+                <Name>Rep. automática</Name>
+                <Tooltip>Genera la reproducción automática.&#xD;Si está habilitado, la opción múltiple se seleccionará al azar.</Tooltip>
+            </Auto>
+        </Visual>
+        <Sound>
+            <Name>Opciones de sonido</Name>
+            <VolumeVoice>
+                <Name>Voz</Name>
+                <Tooltip>Ajuste de volumen de voz.</Tooltip>
+            </VolumeVoice>
+            <VolumeSfx>
+                <Name>SE</Name>
+                <Tooltip>Ajuste de volumen de los efectos de sonido.</Tooltip>
+            </VolumeSfx>
+            <VolumeBgm>
+                <Name>BGM</Name>
+                <Tooltip>Ajuste de volumen del bgm.</Tooltip>
+            </VolumeBgm>
+            <VolumeEnv>
+                <Name>Entorno</Name>
+                <Tooltip>Ajuste de volumen de los sonidos ambientales.&#xD;(ej. trinidos de pájaros, canto de grillos, gotas de agua).</Tooltip>
+            </VolumeEnv>
+            <Shout>
+                <Name>Gritos</Name>
+                <Tooltip>Configuración de uso de micrófono y sensibilidad.&#xD;Si desea probar la sensibilidad, hable con el micrófono para cambiar la cara de la chica.&#xD;Por favor, preste atención a los botones de vibración en lugar de a la cara de la chica durante el juego.&#xD;</Tooltip>
+            </Shout>
+            <ShoutError>
+                <Name>Gritos(No disponible)</Name>
+                <Tooltip>Si se usa gritos. &#xD;1. Conectar el micrófono&#xD;2. Abra la configuración con el clic derecho.&#xD;3. Permitiré el uso del micrófono en la sección de privacidad.</Tooltip>
+            </ShoutError>
+        </Sound>
+        <Language>
+            <Name>Idioma</Name>
+            <LanguageMain>
+                <Name>日本語</Name>
+                <Tooltip>Cambia la interfaz y lo subtitula al Japonés.</Tooltip>
+            </LanguageMain>
+            <LanguageSub>
+                <Name>Cast.</Name>
+                <Tooltip>Cambia la interfaz y lo subtitula al Castellano.</Tooltip>
+            </LanguageSub>
+            <LanguageBilingual>
+                <Name>Doble subtítulo</Name>
+                <Tooltip>Reproduce los subtítulos.&#xD;No corresponde al texto del botón.</Tooltip>
+            </LanguageBilingual>
+        </Language>
+        <Reset>
+            <Name>Ajustes de fábrica</Name>
+            <Tooltip>Reiniciar la data.</Tooltip>
+        </Reset>
+    </Sub>
+</XmlProject>

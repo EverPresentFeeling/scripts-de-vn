@@ -1,0 +1,609 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+
+<!-- 【晩ご飯 ギョウザ】  -->
+
+	<cut>
+		<Name>liru_Dinner_din1_ST</Name>
+		<note>ギョウザです！スタート</note>
+		<DR>1</DR>
+		<start>0</start>
+		<span>100</span>
+		<loop>0</loop>
+		<LostKey>tmpDinner</LostKey>
+	</cut>
+
+	<cut>
+		<Name>liru_Dinner_din1_LP</Name>
+		<note>ギョウザです！ループ</note>
+		<DR>1</DR>
+		<start>100</start>
+		<span>50</span>
+		<loop>3</loop>
+		<btn>
+			<ID>back</ID>
+			<Text>戻る</Text>
+			<Jmp>-1</Jmp>
+			<DR>1</DR>
+		</btn>
+		<btn>
+			<ID>go1</ID>
+			<Text>まさかコレ全部_リルが作ったの！？</Text>
+			<TextSub>¡¿Hiciste esto tú misma?!</TextSub>
+			<Jmp>1</Jmp>
+			<DR>1</DR>
+		</btn>
+	</cut>
+
+	<cut>
+		<Name>liru_Dinner_din2_ST</Name>
+		<note>手作り？チルドスタート</note>
+		<DR>1</DR>
+		<start>150</start>
+		<span>80</span>
+		<loop>0</loop>
+	</cut>
+
+	<cut>
+		<Name>liru_Dinner_din2_LP</Name>
+		<note>手作り？チルドループ</note>
+		<DR>1</DR>
+		<start>230</start>
+		<span>50</span>
+		<loop>3</loop>
+		<btn>
+			<ID>back</ID>
+			<Text>戻る</Text>
+			<Jmp>-3</Jmp>
+			<DR>1</DR>
+		</btn>
+		<btn>
+			<ID>go1</ID>
+			<Text>なるほど…_そういう奴ね</Text>
+			<TextSub>Oh... Así que eso es.</TextSub>
+			<Jmp>1</Jmp>
+			<DR>1</DR>
+		</btn>
+	</cut>
+
+	<cut>
+		<Name>liru_Dinner_din3_ST</Name>
+		<note>いただきますスタート</note>
+		<DR>1</DR>
+		<start>280</start>
+		<span>180</span>
+		<loop>0</loop>
+	</cut>
+
+	<cut>
+		<Name>liru_Dinner_din3_LP</Name>
+		<note>いただきますループ</note>
+		<DR>1</DR>
+		<start>460</start>
+		<span>50</span>
+		<loop>3</loop>
+		<btn>
+			<ID>back</ID>
+			<Text>戻る</Text>
+			<Jmp>-3</Jmp>
+			<DR>1</DR>
+		</btn>
+		<btn>
+			<ID>go1</ID>
+			<Text>フツーの味だなぁ…</Text>
+			<TextSub>Sabe... bastante genérico...</TextSub>
+			<Jmp>1</Jmp>
+			<DR>1</DR>
+		</btn>
+	</cut>
+
+	<cut>
+		<Name>liru_Dinner_din4_ST</Name>
+		<note>普通の味だねスタート</note>
+		<DR>1</DR>
+		<start>510</start>
+		<span>220</span>
+		<loop>0</loop>
+	</cut>
+
+	<cut>
+		<Name>liru_Dinner_din4_LP</Name>
+		<note>普通の味だねループ</note>
+		<DR>1</DR>
+		<start>730</start>
+		<span>50</span>
+		<loop>3</loop>
+		<btn>
+			<ID>back</ID>
+			<Text>戻る</Text>
+			<Jmp>-3</Jmp>
+			<DR>1</DR>
+		</btn>
+		<btn>
+			<ID>go1</ID>
+			<Text>ちゃんと野菜も_食べなさーい</Text>
+			<TextSub>¡Come tus verduras!</TextSub>
+			<Jmp>1</Jmp>
+			<DR>1</DR>
+			<GetKey>dinner1</GetKey>
+		</btn>
+	</cut>
+
+	<cut>
+		<Name>liru_Dinner_din5_ST</Name>
+		<note>野菜とかスタート</note>
+		<DR>1</DR>
+		<start>780</start>
+		<span>70</span>
+		<loop>0</loop>
+	</cut>
+
+	<cut>
+		<Name>liru_Dinner_din5_LP</Name>
+		<note>野菜とかループ</note>
+		<DR>1</DR>
+		<start>850</start>
+		<span>50</span>
+		<loop>3</loop>
+		<btn>
+			<ID>back</ID>
+			<Text>戻る</Text>
+			<Jmp>-3</Jmp>
+			<DR>1</DR>
+		</btn>
+		<btn>
+			<ID>go1</ID>
+			<Text>よしお風呂で_イチャイチャしよう</Text>
+			<TextSub>¡Vamos a divertirnos en el baño!</TextSub>
+			<Jmp>1</Jmp>
+			<DR>1</DR>
+			<ReqKey>tmpBath</ReqKey>
+		</btn>
+		<btn>
+			<ID>go2</ID>
+			<Text>そろそろリルと_ベッド☆イン</Text>
+			<TextSub>¡La hora de acostarse con Liru!</TextSub>
+			<Jmp>2</Jmp>
+			<DR>1</DR>
+		</btn>
+	</cut>
+
+	<cut>
+		<Name>liru_Dinner_dinBath_LP</Name>
+		<note>お風呂へ遷移</note>
+		<DR>1</DR>
+		<start>850</start>
+		<span>50</span>
+		<loop>0</loop>
+		<NextScene>Bath</NextScene>
+	</cut>
+
+	<cut>
+		<Name>liru_Dinner_dinBed_LP</Name>
+		<note>ベッドへ遷移</note>
+		<DR>1</DR>
+		<start>850</start>
+		<span>50</span>
+		<loop>0</loop>
+		<NextScene>Bed</NextScene>
+	</cut>
+
+	<cut>
+		<Name>liru_Dinner_din1_ST</Name>
+		<note>トンカツもぐもぐスタート</note>
+		<DR>2</DR>
+		<start>0</start>
+		<span>140</span>
+		<loop>0</loop>
+		<LostKey>tmpDinner</LostKey>
+	</cut>
+
+	<cut>
+		<Name>liru_Dinner_din1_LP</Name>
+		<note>トンカツもぐもぐループ</note>
+		<DR>2</DR>
+		<start>140</start>
+		<span>50</span>
+		<loop>3</loop>
+		<btn>
+			<ID>back</ID>
+			<Text>戻る</Text>
+			<Jmp>-1</Jmp>
+			<DR>2</DR>
+		</btn>
+		<btn>
+			<ID>go1</ID>
+			<Text>それを早く食べたくて_そわそわしてたのか…</Text>
+			<TextSub>Parecías... con ganas de comer...</TextSub>
+			<Jmp>1</Jmp>
+			<DR>2</DR>
+		</btn>
+	</cut>
+
+	<cut>
+		<Name>liru_Dinner_din2_ST</Name>
+		<note>肉屋のおじさん至高の一品スタート</note>
+		<DR>2</DR>
+		<start>190</start>
+		<span>120</span>
+		<loop>0</loop>
+	</cut>
+
+	<cut>
+		<Name>liru_Dinner_din2_LP</Name>
+		<note>肉屋のおじさん至高の一品ループ</note>
+		<DR>2</DR>
+		<start>310</start>
+		<span>50</span>
+		<loop>3</loop>
+		<btn>
+			<ID>back</ID>
+			<Text>戻る</Text>
+			<Jmp>-3</Jmp>
+			<DR>2</DR>
+		</btn>
+		<btn>
+			<ID>go1</ID>
+			<Text>肉屋のおじさん…_いったい何者なんだ</Text>
+			<TextSub>El carnicero... ¿Quién es?</TextSub>
+			<Jmp>1</Jmp>
+			<DR>2</DR>
+		</btn>
+	</cut>
+
+	<cut>
+		<Name>liru_Dinner_din3_ST</Name>
+		<note>食べないの？スタート</note>
+		<DR>2</DR>
+		<start>360</start>
+		<span>140</span>
+		<loop>0</loop>
+	</cut>
+
+	<cut>
+		<Name>liru_Dinner_din3_LP</Name>
+		<note>食べないの？ループ</note>
+		<DR>2</DR>
+		<start>500</start>
+		<span>50</span>
+		<loop>3</loop>
+		<btn>
+			<ID>back</ID>
+			<Text>戻る</Text>
+			<Jmp>-3</Jmp>
+			<DR>2</DR>
+		</btn>
+		<btn>
+			<ID>go1</ID>
+			<Text>ちゃんと食べますよ？</Text>
+			<TextSub>¡¡Me pertenece!!</TextSub>
+			<Jmp>1</Jmp>
+			<DR>2</DR>
+		</btn>
+	</cut>
+
+	<cut>
+		<Name>liru_Dinner_din4_ST</Name>
+		<note>あたしにくれスタート</note>
+		<DR>2</DR>
+		<start>550</start>
+		<span>60</span>
+		<loop>0</loop>
+	</cut>
+
+	<cut>
+		<Name>liru_Dinner_din4_LP</Name>
+		<note>あたしにくれループ</note>
+		<DR>2</DR>
+		<start>610</start>
+		<span>50</span>
+		<loop>3</loop>
+		<btn>
+			<ID>back</ID>
+			<Text>戻る</Text>
+			<Jmp>-3</Jmp>
+			<DR>2</DR>
+		</btn>
+		<btn>
+			<ID>go1</ID>
+			<Text>ダメでーす_死守します！</Text>
+			<TextSub>¡No quiero dártela!</TextSub>
+			<Jmp>1</Jmp>
+			<DR>2</DR>
+			<GetKey>dinner2</GetKey>
+		</btn>
+	</cut>
+
+	<cut>
+		<Name>liru_Dinner_din5_ST</Name>
+		<note>言ってみただけスタート</note>
+		<DR>2</DR>
+		<start>660</start>
+		<span>50</span>
+		<loop>0</loop>
+	</cut>
+
+	<cut>
+		<Name>liru_Dinner_din5_LP</Name>
+		<note>言ってみただけループ</note>
+		<DR>2</DR>
+		<start>710</start>
+		<span>50</span>
+		<loop>3</loop>
+		<btn>
+			<ID>back</ID>
+			<Text>戻る</Text>
+			<Jmp>-3</Jmp>
+			<DR>2</DR>
+		</btn>
+		<btn>
+			<ID>go1</ID>
+			<Text>ならば風呂で俺のを_食べさせてやろう</Text>
+			<TextSub>¡Te daré de comer mi pene en el baño!</TextSub>
+			<Jmp>1</Jmp>
+			<DR>2</DR>
+			<ReqKey>tmpBath</ReqKey>
+		</btn>
+		<btn>
+			<ID>go2</ID>
+			<Text>そんなことより_ベッド☆イン</Text>
+			<TextSub>Mejor aún, ¡vamos a la cama!</TextSub>
+			<Jmp>2</Jmp>
+			<DR>2</DR>
+		</btn>
+	</cut>
+
+	<cut>
+		<Name>liru_Dinner_dinBath_LP</Name>
+		<note>お風呂へ遷移</note>
+		<DR>2</DR>
+		<start>710</start>
+		<span>50</span>
+		<loop>0</loop>
+		<NextScene>Bath</NextScene>
+	</cut>
+
+	<cut>
+		<Name>liru_Dinner_dinBed_LP</Name>
+		<note>ベッドへ遷移</note>
+		<DR>2</DR>
+		<start>710</start>
+		<span>50</span>
+		<loop>0</loop>
+		<NextScene>Bed</NextScene>
+	</cut>
+
+	<cut>
+		<Name>liru_Dinner_din1_ST</Name>
+		<note>松阪牛だー！スタート</note>
+		<DR>3</DR>
+		<start>0</start>
+		<span>110</span>
+		<loop>0</loop>
+		<LostKey>tmpDinner</LostKey>
+	</cut>
+
+	<cut>
+		<Name>liru_Dinner_din1_LP</Name>
+		<note>松阪牛だー！ループ</note>
+		<DR>3</DR>
+		<start>110</start>
+		<span>50</span>
+		<loop>3</loop>
+		<btn>
+			<ID>back</ID>
+			<Text>戻る</Text>
+			<Jmp>-1</Jmp>
+			<DR>3</DR>
+		</btn>
+		<btn>
+			<ID>go1</ID>
+			<Text>給料日なので_奮発してみました</Text>
+			<TextSub>Es día de pago, así que he derrochado.</TextSub>
+			<Jmp>1</Jmp>
+			<DR>3</DR>
+		</btn>
+	</cut>
+
+	<cut>
+		<Name>liru_Dinner_din2_ST</Name>
+		<note>毎日でもいいよスタート</note>
+		<DR>3</DR>
+		<start>160</start>
+		<span>40</span>
+		<loop>0</loop>
+	</cut>
+
+	<cut>
+		<Name>liru_Dinner_din2_LP</Name>
+		<note>毎日でもいいよループ</note>
+		<DR>3</DR>
+		<start>200</start>
+		<span>50</span>
+		<loop>3</loop>
+		<btn>
+			<ID>back</ID>
+			<Text>戻る</Text>
+			<Jmp>-3</Jmp>
+			<DR>3</DR>
+		</btn>
+		<btn>
+			<ID>go1</ID>
+			<Text>やめてください_死んでしまいます</Text>
+			<TextSub>¡No puedo permitirme eso!</TextSub>
+			<Jmp>1</Jmp>
+			<DR>3</DR>
+		</btn>
+	</cut>
+
+	<cut>
+		<Name>liru_Dinner_din3_ST</Name>
+		<note>頂きます！スタート</note>
+		<DR>3</DR>
+		<start>250</start>
+		<span>360</span>
+		<loop>0</loop>
+	</cut>
+
+	<cut>
+		<Name>liru_Dinner_din3_LP</Name>
+		<note>頂きます！ループ</note>
+		<DR>3</DR>
+		<start>610</start>
+		<span>50</span>
+		<loop>3</loop>
+		<btn>
+			<ID>back</ID>
+			<Text>戻る</Text>
+			<Jmp>-3</Jmp>
+			<DR>3</DR>
+		</btn>
+		<btn>
+			<ID>go1</ID>
+			<Text>たまには手料理も_食べたいなぁ…なんて</Text>
+			<TextSub>Me gustaría comer tu comida...</TextSub>
+			<Jmp>1</Jmp>
+			<DR>3</DR>
+		</btn>
+	</cut>
+
+	<cut>
+		<Name>liru_Dinner_din4_ST</Name>
+		<note>アタシが料理？スタート</note>
+		<DR>3</DR>
+		<start>660</start>
+		<span>130</span>
+		<loop>0</loop>
+	</cut>
+
+	<cut>
+		<Name>liru_Dinner_din4_LP</Name>
+		<note>アタシが料理？ループ</note>
+		<DR>3</DR>
+		<start>790</start>
+		<span>50</span>
+		<loop>3</loop>
+		<btn>
+			<ID>back</ID>
+			<Text>戻る</Text>
+			<Jmp>-3</Jmp>
+			<DR>3</DR>
+		</btn>
+		<btn>
+			<ID>go1</ID>
+			<Text>なんで～？</Text>
+			<TextSub>¿Por qué no?</TextSub>
+			<Jmp>1</Jmp>
+			<DR>3</DR>
+		</btn>
+	</cut>
+
+	<cut>
+		<Name>liru_Dinner_din5_ST</Name>
+		<note>柄じゃ無いでしょ？スタート</note>
+		<DR>3</DR>
+		<start>840</start>
+		<span>100</span>
+		<loop>0</loop>
+	</cut>
+
+	<cut>
+		<Name>liru_Dinner_din5_LP</Name>
+		<note>殻じゃ無いでしょループ</note>
+		<DR>3</DR>
+		<start>940</start>
+		<span>50</span>
+		<loop>3</loop>
+		<btn>
+			<ID>back</ID>
+			<Text>戻る</Text>
+			<Jmp>-3</Jmp>
+			<DR>3</DR>
+		</btn>
+		<btn>
+			<ID>go1</ID>
+			<Text>えーッ_そ、そうかなぁ…</Text>
+			<TextSub>Supongo que... no.</TextSub>
+			<Jmp>1</Jmp>
+			<DR>3</DR>
+			<GetKey>dinner3</GetKey>
+		</btn>
+	</cut>
+
+	<cut>
+		<Name>liru_Dinner_din6_ST</Name>
+		<note>あははスタート</note>
+		<DR>3</DR>
+		<start>990</start>
+		<span>170</span>
+		<loop>0</loop>
+	</cut>
+
+	<cut>
+		<Name>liru_Dinner_din6_LP</Name>
+		<note>あははループ</note>
+		<DR>3</DR>
+		<start>1160</start>
+		<span>50</span>
+		<loop>3</loop>
+		<btn>
+			<ID>back</ID>
+			<Text>戻る</Text>
+			<Jmp>-3</Jmp>
+			<DR>3</DR>
+		</btn>
+		<btn>
+			<ID>go1</ID>
+			<Text>肉臭いぞリル_俺が洗ってやろう</Text>
+			<TextSub>¡¡Lavaré tu cuerpo!!</TextSub>
+			<Jmp>1</Jmp>
+			<DR>3</DR>
+			<ReqKey>tmpBath</ReqKey>
+		</btn>
+		<btn>
+			<ID>go2</ID>
+			<Text>食べ終わったら_ベッド☆イン</Text>
+			<TextSub>¡Hora de ir a la cama después de la comida!</TextSub>
+			<Jmp>2</Jmp>
+			<DR>3</DR>
+		</btn>
+		<btn>
+			<ID>go3</ID>
+			<Text>今日は疲れたから_早めに寝ます</Text>
+			<TextSub>Estoy muy cansado, dormiré temprano...</TextSub>
+			<Jmp>3</Jmp>
+			<DR>3</DR>
+		</btn>
+	</cut>
+
+	<cut>
+		<Name>liru_Dinner_dinBath_LP</Name>
+		<note>お風呂へ遷移</note>
+		<DR>3</DR>
+		<start>1160</start>
+		<span>50</span>
+		<loop>0</loop>
+		<NextScene>Bath</NextScene>
+	</cut>
+
+	<cut>
+		<Name>liru_Dinner_dinBed_LP</Name>
+		<note>ベッドへ遷移</note>
+		<DR>3</DR>
+		<start>1160</start>
+		<span>50</span>
+		<loop>0</loop>
+		<NextScene>Bed</NextScene>
+	</cut>
+
+	<cut>
+		<Name>liru_Dinner_dinCook_LP</Name>
+		<note>お料理へ遷移</note>
+		<DR>3</DR>
+		<start>1160</start>
+		<span>50</span>
+		<loop>0</loop>
+		<NextScene>Cook</NextScene>
+	</cut>
+
+</data>
