@@ -1,0 +1,25 @@
+[_tb_system_call storage=system/_template.ks]
+
+[live2d_new  model_id="01fujikitatid"  breath="true"  lip_time="100"  ]
+[live2d_fadeout  time="1000"  wait="false"  ]
+[bg  time="1000"  method="fadeInUp"  storage="fugikibg/fjkbg040.jpg"  ]
+[wait  time="2000"  ]
+[live2d_show  name="01fujikitatid"  x="0.02"  y="-0.2"  scale="1.4"  ]
+[live2d_motion  name="01fujikitatid"  mtn="Idles1"  no="0"  ]
+[live2d_fadein  time="3000"  wait="true"  ]
+[live2d_motion  name="01fujikitatid"  mtn="Idles1"  no="0"  ]
+[tb_show_message_window  ]
+[tb_start_text mode=1 ]
+「わたしはフジキ。皆からはフジキドウと呼ばれてる。君とは同期なのだが覚えていてくれてるかな？」[p]
+君は首を振る。[p]
+[_tb_end_text]
+
+[tb_start_text mode=1 ]
+「ふ。なら覚えておいてくれ。以後お見知りおきを、だ」[p]
+「君のことはまあ以前から存じているよ。友人たちがたまに噂しててね」[p]
+[_tb_end_text]
+
+[tb_start_text mode=1 ]
+「君のことはまあ以前から存じているよ。友人たちがたまに噂しててね」[p]
+[_tb_end_text]
+
